@@ -163,6 +163,13 @@ main{padding-bottom:96px}
 .frow>*{flex:1;min-width:150px;border:0;border-radius:12px;padding:11px 12px;font-weight:800;font-size:15px;cursor:pointer;text-align:center;text-decoration:none}
 .frow .comm{flex-basis:100%;background:var(--gold);color:#3b2a00;font-size:16px}
 .frow .share{background:var(--wa);color:#fff}
+.fab{position:fixed;z-index:20;bottom:calc(14px + env(safe-area-inset-bottom,0px));inset-inline-start:max(14px,env(safe-area-inset-left,0px));border:0;border-radius:999px;padding:11px 16px;background:var(--gold);color:#3b2a00;font-size:15px;font-weight:800;box-shadow:0 6px 20px rgba(43,45,110,.3);cursor:pointer}
+.sheetbg{position:fixed;inset:0;z-index:40;background:rgba(20,18,40,.45)}
+.sheet{position:fixed;z-index:41;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);width:min(440px,calc(100% - 24px));background:var(--surface);border:3px solid var(--gold);border-radius:22px;padding:18px 16px 14px;display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;box-shadow:0 12px 40px rgba(0,0,0,.3)}
+.sheet .big{font-size:22px;font-weight:900;color:var(--navy)}
+.sheet .score{font-size:34px;font-weight:900;color:var(--pink);line-height:1.1}
+.sheet .score small{font-size:17px;color:var(--muted)}
+.sheet .x{position:absolute;top:8px;inset-inline-end:10px;border:0;background:none;font-size:20px;color:var(--muted);cursor:pointer;padding:6px}
 .cnote{font-size:14px;font-weight:700;color:var(--ok-ink);min-height:1.2em}
 .frow button{background:var(--navy);color:var(--surface)}
 .plus,.bit{position:fixed;z-index:30;pointer-events:none;transform:translate(-50%,-50%)}
@@ -220,7 +227,8 @@ const UI = {
       tiers:[[.9,"🏆 גאוני הפרשה!","מושלם – אפשר להעביר שיעור על הפרשה 😎"],[.7,"🌟 כוכבי השולחן!","כמעט הכול נכון – כל הכבוד!"],[.4,"😎 בדרך הנכונה!","עוד קצת ואתם שם 💪"],[0,"🐣 אפרוחים מתוקים!","בשבוע הבא אנחנו טורפים את החידון 😄"]],
       share:"📲 לשתף את התוצאה בווטסאפ", again:"🔄 לשחק שוב",
       comm:"🏆 לשתף את הניקוד בקהילה", copied:"📋 הטקסט הועתק – הדביקו בקבוצה ושלחו!",
-      shareText:(s,m,p)=>`🎲 צברתי ${s}/${m} נקודות בחידון פרשת ${p}! מי מנצח אותי? 😎👇`},
+      fab:"🏆 שיתוף", myScore:"🏆 הניקוד שלי", close:"סגירה",
+      shareText:(s,m,p,a,t)=>a<t ? `🎲 כבר צברתי ${s} נקודות בחידון פרשת ${p} (${a}/${t} שאלות)! מי מנצח אותי? 😎👇` : `🎲 צברתי ${s}/${m} נקודות בחידון פרשת ${p}! מי מנצח אותי? 😎👇`},
   fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
       show:"Voir la réponse", hide:"Cacher la réponse", all:"Voir toutes les réponses", none:"Cacher toutes les réponses",
       letters:["a.","b.","c."], archive:"📚 Archives des quiz", latest:"Cette semaine", empty:"Les quiz des semaines précédentes apparaîtront ici.",
@@ -236,7 +244,8 @@ const UI = {
       tiers:[[.9,"🏆 Génies de la paracha !","Parfait – vous pourriez donner le cours vous-mêmes 😎"],[.7,"🌟 Stars de la table !","Presque tout juste – bravo !"],[.4,"😎 Sur la bonne voie !","Encore un petit effort et c'est gagné 💪"],[0,"🐣 Petits poussins !","La semaine prochaine, on dévore le quiz 😄"]],
       share:"📲 Partager le score sur WhatsApp", again:"🔄 Rejouer",
       comm:"🏆 Partager mon score dans la communauté", copied:"📋 Texte copié – collez-le dans le groupe et envoyez !",
-      shareText:(s,m,p)=>`🎲 J'ai fait ${s}/${m} points au quiz de la paracha ${p} ! Qui fait mieux ? 😎👇`}
+      fab:"🏆 Partager", myScore:"🏆 Mon score", close:"Fermer",
+      shareText:(s,m,p,a,t)=>a<t ? `🎲 J'ai déjà ${s} points au quiz de la paracha ${p} (${a}/${t} questions) ! Qui fait mieux ? 😎👇` : `🎲 J'ai fait ${s}/${m} points au quiz de la paracha ${p} ! Qui fait mieux ? 😎👇`}
 };
 const app = document.getElementById("app");
 const store = { get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}} };
@@ -319,7 +328,7 @@ async function render(){
   const rb = el("button",{type:"button"}, u.reset);
   rb.onclick = ()=>{ if(confirm(u.resetq)){ store.set(gkey(meta.slug),"{}"); render(); } };
   tools.append(rb); app.append(tools);
-  const refresh = ()=>updateChip(game, total);
+  const refresh = ()=>updateChip(game, total, maxPts, t.parasha, meta.slug);
   refresh();
 
   t.levels.forEach((L,li)=>{
@@ -404,8 +413,43 @@ const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
 const chip = el("button",{type:"button",class:"chip","aria-live":"polite"});
 chip.hidden = true;
 document.body.append(chip);
-function updateChip(game, total){
+// share button next to the score: shows once something is answered, opens a sheet with the share buttons
+const fab = el("button",{type:"button",class:"fab"});
+fab.hidden = true;
+document.body.append(fab);
+function openSheet(score, maxPts, answered, total, parasha, slug){
+  const u = UI[lang];
+  const back = el("div",{class:"sheetbg"});
+  const box = el("div",{class:"sheet",role:"dialog","aria-modal":"true","aria-label":u.myScore},
+    `<div class="big">${u.myScore}</div><div class="score">⭐ ${score} <small>· ${answered}/${total}</small></div>`);
+  const close = el("button",{type:"button",class:"x","aria-label":u.close}, "✕");
+  const shut = ()=>{ back.remove(); box.remove(); document.removeEventListener("keydown", esc); fab.focus(); };
+  const esc = e=>{ if(e.key==="Escape") shut(); };
+  close.onclick = back.onclick = shut;
+  document.addEventListener("keydown", esc);
+  const row = el("div",{class:"frow"}), [cm, sh, note] = shareBits(score, maxPts, answered, total, parasha, slug);
+  row.append(cm, sh); box.append(close, row, note);
+  document.body.append(back, box); cm.focus();
+}
+function shareBits(score, maxPts, answered, total, parasha, slug){
+  const u = UI[lang];
+  const share = `${u.shareText(score, maxPts, parasha, answered, total)} ${PUBLIC_URL}?ref=score#${slug}-${lang}`;
+  const sh = el("a",{class:"share",href:"https://wa.me/?text="+encodeURIComponent(share),target:"_blank",rel:"noopener"}, u.share);
+  sh.onclick = ()=>{ try{ window.goatcounter?.count?.({path:`share-score-${slug}-${lang}`, title:"Share score", event:true}); }catch(e){} };
+  // a link can't drop text into a group, so copy the message and open the scores group to paste it
+  const note = el("div",{class:"cnote","aria-live":"polite"});
+  const cm = el("a",{class:"comm",href:SCORES_URL,target:"_blank",rel:"noopener"}, u.comm);
+  cm.onclick = ()=>{
+    try{ navigator.clipboard?.writeText(share).then(()=>{ note.textContent = u.copied; }, ()=>{}); }catch(e){}
+    try{ window.goatcounter?.count?.({path:`share-community-${slug}-${lang}`, title:"Share score in community", event:true}); }catch(e){}
+  };
+  return [cm, sh, note];
+}
+function updateChip(game, total, maxPts, parasha, slug){
   const ks = Object.keys(game), score = ks.reduce((s,k)=>s+(game[k].ok?qPts(+k):0),0);
+  fab.hidden = !ks.length;
+  fab.textContent = UI[lang].fab;
+  fab.onclick = ()=>openSheet(score, maxPts, ks.length, total, parasha, slug);
   chip.hidden = false;
   chip.innerHTML = `⭐ <b>${score}</b> <small>${ks.length}/${total}</small>`;
   chip.setAttribute("aria-label", `${score} ${UI[lang].ptsName} · ${ks.length}/${total}`);
@@ -434,20 +478,11 @@ function toast(msg){
 function finalCard(d, t, game, maxPts, slug){
   const u = UI[lang], score = Object.keys(game).reduce((s,k)=>s+(game[k].ok?qPts(+k):0),0), pct = score/maxPts;
   const [title, line] = u.tiers.find(x=>pct >= x[0]).slice(1);
-  const share = `${u.shareText(score, maxPts, t.parasha)} ${PUBLIC_URL}?ref=score#${slug}-${lang}`;
+  const n = Object.keys(game).length;
   const c = el("section",{class:"final"}, `<div class="big">${title}</div><div class="score">${score} <small>/ ${maxPts}</small></div><p>${line}</p>`);
-  const row = el("div",{class:"frow"});
-  const sh = el("a",{class:"share",href:"https://wa.me/?text="+encodeURIComponent(share),target:"_blank",rel:"noopener"}, u.share);
-  sh.onclick = ()=>{ try{ window.goatcounter?.count?.({path:`share-score-${slug}-${lang}`, title:"Share score", event:true}); }catch(e){} };
+  const row = el("div",{class:"frow"}), [cm, sh, note] = shareBits(score, maxPts, n, n, t.parasha, slug);
   const ag = el("button",{type:"button"}, u.again);
   ag.onclick = ()=>{ store.set(gkey(slug),"{}"); render().then(()=>window.scrollTo({top:0})); };
-  // a link can't drop text into a group, so copy the message and open the scores group to paste it
-  const note = el("div",{class:"cnote","aria-live":"polite"});
-  const cm = el("a",{class:"comm",href:SCORES_URL,target:"_blank",rel:"noopener"}, u.comm);
-  cm.onclick = ()=>{
-    try{ navigator.clipboard?.writeText(share).then(()=>{ note.textContent = u.copied; }, ()=>{}); }catch(e){}
-    try{ window.goatcounter?.count?.({path:`share-community-${slug}-${lang}`, title:"Share score in community", event:true}); }catch(e){}
-  };
   row.append(cm, sh, ag); c.append(row, note);
   return c;
 }
