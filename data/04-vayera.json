@@ -1,0 +1,795 @@
+{
+ "series": 4,
+ "slug": "vayera",
+ "date": "2026-10-31",
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "וירא",
+  "kicker": "חידון לשולחן השבת",
+  "title": "אוהל <em>פתוח</em> לכולם!",
+  "emoji": "⛺ 👼 ☀️ 🍰 🧂 🔥 🏔️ 🐏 📯 ⭐",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – וכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות של הגדולים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח ראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 · 5 נקודות לכל תשובה"
+   }
+  ],
+  "questions": [
+   {
+    "q": "איזו מצווה אהב אברהם אבינו הכי הרבה?",
+    "opts": [
+     "הכנסת אורחים",
+     "לישון צהריים 😴",
+     "לספור גמלים 🐪"
+    ],
+    "a": "הכנסת אורחים",
+    "x": "הוא האכיל, השקה, ולימד את האורחים לברך את ה'."
+   },
+   {
+    "q": "כמה \"אנשים\" הגיעו לאוהל של אברהם?",
+    "opts": [
+     "2",
+     "3",
+     "100"
+    ],
+    "a": "3 – והם בכלל היו מלאכים! 👼",
+    "x": "ה' ראה כמה אברהם מצטער שאין אורחים – ושלח לו שלושה מלאכים בדמות אנשים."
+   },
+   {
+    "q": "למה לאוהל של אברהם היה פתח לכל צד?",
+    "opts": [
+     "כדי שיהיה רוח קרירה",
+     "כדי שאורחים לא יצטרכו להסתובב ולחפש את הכניסה",
+     "כי אברהם שכח איפה הדלת 🤭"
+    ],
+    "a": "כדי שאורחים ייכנסו מיד",
+    "x": "מכל כיוון שבאו – מצאו פתח פתוח."
+   },
+   {
+    "q": "מה בישר המלאך לאברהם ולשרה?",
+    "opts": null,
+    "a": "שבעוד שנה ייוולד להם בן",
+    "x": "בדיוק בפסח הבא!"
+   },
+   {
+    "q": "מה עשתה שרה כששמעה את הבשורה מתוך האוהל?",
+    "opts": [
+     "צחקה",
+     "בכתה",
+     "שרה שיר 🎤"
+    ],
+    "a": "צחקה",
+    "x": "היא אמרה בלבה: איך ייתכן? אנחנו כל כך זקנים!"
+   },
+   {
+    "q": "איך קראו לבן שנולד לאברהם ולשרה?",
+    "opts": null,
+    "a": "<he>יִצְחָק</he>",
+    "x": "על שם הצחוק והשמחה הגדולה. 😄"
+   },
+   {
+    "q": "איזו עיר רעה הפך ה'?",
+    "opts": [
+     "סדום",
+     "ירושלים",
+     "חברון"
+    ],
+    "a": "סדום",
+    "x": "יחד עם עמורה, אדמה וצבויים."
+   },
+   {
+    "q": "למה הפכה אשת לוט כשהסתכלה אחורה? 🧂",
+    "opts": [
+     "לפסל של שוקולד 🍫",
+     "לנציב מלח",
+     "לעמוד של אבן"
+    ],
+    "a": "<he>לִנְצִיב מֶלַח</he>",
+    "x": "המלאכים אמרו לא להביט אחורה – והיא לא הקשיבה."
+   },
+   {
+    "q": "חידה – מי אני? הקרניים שלי הסתבכו בעצים, ואברהם הקריב אותי במקום יצחק. 🐏",
+    "opts": null,
+    "a": "<he>הָאַיִל</he>",
+    "x": "והוא היה מוכן לזה כבר מששת ימי בראשית!"
+   },
+   {
+    "q": "מה תוקעים בראש השנה כדי להזכיר את עקדת יצחק? 📯",
+    "opts": null,
+    "a": "שופר מקרן של איל",
+    "x": "כדי להזכיר את האיל שנשחט במקום יצחק – ובזכות זה ה' מרחם עלינו."
+   },
+   {
+    "q": "למה ה' הוציא באותו יום שמש חזקה במיוחד ☀️?",
+    "opts": [
+     "כדי שייבשו כביסה",
+     "כדי שאורחים לא יבואו ואברהם ינוח אחרי ברית המילה",
+     "כדי לעשות בריכה 🏊"
+    ],
+    "a": "כדי שאברהם ינוח",
+    "x": "זה היה היום השלישי למילה, ואם היו באים אורחים אברהם היה טורח בשבילם."
+   },
+   {
+    "q": "את מי שלח אברהם החוצה לחפש אורחים?",
+    "opts": null,
+    "a": "את אליעזר עבדו",
+    "x": "אליעזר לא מצא אף אחד – אז אברהם יצא לחפש בעצמו, באמצע החום!"
+   },
+   {
+    "q": "מה ביקש אברהם מהאורחים לרחוץ לפני שנכנסו – ולמה? 🦶",
+    "opts": null,
+    "a": "את הרגליים",
+    "x": "כי הערבים השתחוו לאבק שעל רגליהם, ואברהם לא רצה עבודה זרה באוהל שלו."
+   },
+   {
+    "q": "אברהם אמר \"מעט מים\" ו\"פת לחם\" – ומה הוא הגיש בסוף?",
+    "opts": null,
+    "a": "עוגות מצות, לשון בקר בחרדל לכל אחד, חמאה וחלב",
+    "x": "צדיקים אומרים מעט ועושים הרבה! 🍽️"
+   },
+   {
+    "q": "שלושה מלאכים – שלוש שליחויות! מי מהם בא לבשר על לידת יצחק?",
+    "opts": [
+     "מִיכָאֵל",
+     "גַּבְרִיאֵל",
+     "רְפָאֵל"
+    ],
+    "a": "מיכאל",
+    "x": "רפאל בא לרפא את אברהם ולהציל את לוט, וגבריאל בא להפוך את סדום."
+   },
+   {
+    "q": "כמה ערים היו באזור סדום?",
+    "opts": [
+     "3",
+     "5",
+     "12"
+    ],
+    "a": "5 ערים",
+    "x": "סדום, עמורה, אדמה, צבויים וצוער (בלע)."
+   },
+   {
+    "q": "מה היה החוק בסדום לגבי עניים?",
+    "opts": null,
+    "a": "אסור היה לתת להם אוכל",
+    "x": "כל אחד נתן לעני מטבע עם השם שלו – אבל אף אחד לא מכר לו לחם... רשעים! 😠"
+   },
+   {
+    "q": "מה עשו המלאכים לאנשי סדום שהקיפו את הבית של לוט?",
+    "opts": [
+     "נתנו להם עוגיות 🍪",
+     "היכו אותם בסנוורים – והם לא מצאו את הדלת",
+     "הזמינו אותם להיכנס"
+    ],
+    "a": "<he>סַנְוֵרִים</he>",
+    "x": "הם נעשו עיוורים וחיפשו את הדלת – ולא מצאו."
+   },
+   {
+    "q": "לאיזו עיר קטנה ביקש לוט לברוח?",
+    "opts": [
+     "צוֹעַר",
+     "מצרים",
+     "חרן"
+    ],
+    "a": "צוער",
+    "x": "\"<he>וְהִוא מִצְעָר</he>\" – עיר קטנה עם מעט אנשים, ובזכות לוט היא ניצלה."
+   },
+   {
+    "q": "לאיזה מקום עבר אברהם אחרי שסדום נהפכה?",
+    "opts": null,
+    "a": "לִגְרָר בארץ פלשתים",
+    "x": "כי לא עברו יותר אנשים באזור – ולא היו לו אורחים!"
+   },
+   {
+    "q": "אברהם התפלל על סדום. מאיזה מספר צדיקים הוא התחיל – ובאיזה מספר עצר?",
+    "opts": null,
+    "a": "התחיל ב־50 ועצר ב־10",
+    "x": "50 ← 45 ← 40 ← 30 ← 20 ← 10. אבל לא היו בסדום אפילו עשרה צדיקים."
+   },
+   {
+    "q": "אברהם אמר: \"<he>וְאָנֹכִי עָפָר וָאֵפֶר</he>\". למה דווקא עפר ואפר?",
+    "opts": null,
+    "a": "עפר – מהמלחמה, ואפר – מכבשן האש 🔥",
+    "x": "בלי ההצלה של ה' הוא היה קבור באדמה (עפר) אחרי מלחמת המלכים, או שרוף (אפר) בכבשן של נמרוד."
+   },
+   {
+    "q": "חידה – מי אני? אני בת של לוט. הסתרתי אוכל בכד המים ונתתי לעני בסתר – אבל אנשי סדום גילו... 🏺",
+    "opts": null,
+    "a": "<he>פְּלוֹטִית</he>",
+    "x": "הצעקה שלה עלתה עד כיסא הכבוד – \"<he>הַכְּצַעֲקָתָהּ הַבָּאָה אֵלַי</he>\"."
+   },
+   {
+    "q": "מה ירד על סדום מהשמים?",
+    "opts": [
+     "שלג ❄️",
+     "קודם גשם – ואחר כך גפרית ואש",
+     "צפרדעים 🐸"
+    ],
+    "a": "גפרית ואש",
+    "x": "ה' חיכה שיחזרו בתשובה, ולכן התחיל בגשם. כשלא חזרו – הגשם הפך לגפרית ואש."
+   },
+   {
+    "q": "למה אשת לוט נענשה דווקא במלח?",
+    "opts": null,
+    "a": "מידה כנגד מידה 🧂",
+    "x": "היא הלכה לשכנים לבקש מלח \"בשביל האורחים\" – וכך הלשינה שיש אורחים בבית."
+   },
+   {
+    "q": "למה המלאכים הגיעו לסדום רק בערב?",
+    "opts": null,
+    "a": "כי הלכו לאט בכוונה",
+    "x": "הם היו מלאכי רחמים וקיוו שאולי בינתיים תפילת אברהם תבטל את הגזירה."
+   },
+   {
+    "q": "איזה מלך לקח את שרה בגרר?",
+    "opts": [
+     "אֲבִימֶלֶךְ",
+     "פרעה",
+     "נמרוד"
+    ],
+    "a": "אבימלך",
+    "x": "ה' בא אליו בחלום ואמר לו להחזיר אותה מיד."
+   },
+   {
+    "q": "מה קרה בבית של אבימלך כל הזמן ששרה הייתה שם?",
+    "opts": null,
+    "a": "אף אחד לא יכול היה ללדת",
+    "x": "ואפילו התרנגולות הפסיקו להטיל ביצים! 🐔"
+   },
+   {
+    "q": "איך נרפא אבימלך בסוף?",
+    "opts": null,
+    "a": "אברהם התפלל עליו",
+    "x": "ומכאן למדו: מי שמתפלל על חברו כשהוא צריך את אותו דבר – נענה ראשון. ובאמת, מיד אחר כך נפקדה שרה!"
+   },
+   {
+    "q": "מי היה התינוק הראשון שנימול בגיל שמונה ימים?",
+    "opts": [
+     "יצחק",
+     "ישמעאל",
+     "אברהם"
+    ],
+    "a": "יצחק",
+    "x": "אברהם נימול בגיל 99 וישמעאל בגיל 13 – יצחק היה הראשון בגיל 8 ימים."
+   },
+   {
+    "q": "ליצני הדור אמרו שיצחק הוא בכלל בן של אבימלך. מה עשה ה' כדי לסתום להם את הפה?",
+    "opts": null,
+    "a": "יצחק נראה בדיוק כמו אברהם!",
+    "x": "פרצוף של אבא – ואי אפשר לטעות. 👴👦"
+   },
+   {
+    "q": "נשים לא האמינו ששרה ילדה בגיל 90. איך היא הוכיחה להן?",
+    "opts": null,
+    "a": "היא הניקה את התינוקות שלהן",
+    "x": "ולפי המדרש – כל התינוקות שינקו ממנה התגיירו כשגדלו!"
+   },
+   {
+    "q": "מתי עשה אברהם משתה גדול – ומי הגיע?",
+    "opts": null,
+    "a": "ביום שנגמל יצחק (בגיל שנתיים)",
+    "x": "הגיעו גדולי הדור: שם בן נח, עבר ואבימלך."
+   },
+   {
+    "q": "למה ביקשה שרה לגרש את ישמעאל?",
+    "opts": null,
+    "a": "כי ה\"משחקים\" שלו היו מסוכנים",
+    "x": "הוא שיחק במשחקים של רשעים, אמר שהוא יירש הכל כי הוא הבכור – ואפילו ירה חיצים לעבר יצחק \"כאילו בצחוק\". 🏹"
+   },
+   {
+    "q": "ישמעאל צמא במדבר והמים נגמרו. מה קרה אז?",
+    "opts": null,
+    "a": "ה' שמע את תפילת ישמעאל ופקח את עיני הגר – והיא ראתה באר מים",
+    "x": "מכאן למדו: תפילת החולה על עצמו, מתוך לב נשבר, מתקבלת קודם. 💧"
+   },
+   {
+    "q": "למה שם אברהם שבע כבשות בצד כשכרת ברית עם אבימלך?",
+    "opts": null,
+    "a": "לעדות שהוא חפר את הבאר",
+    "x": "רועי אבימלך גזלו ממנו את הבאר – והכבשות הוכיחו שהיא שלו."
+   },
+   {
+    "q": "למה נקרא המקום \"<he>בְּאֵר שָׁבַע</he>\"?",
+    "opts": null,
+    "a": "על שם השבועה – ועל שם שבע הכבשות",
+    "x": "\"שבע\" מלשון \"שבועה\" – כי שם נשבעו אברהם ואבימלך."
+   },
+   {
+    "q": "כשהאורחים בבאר שבע רצו להודות לאברהם על האוכל, מה הוא אמר להם?",
+    "opts": null,
+    "a": "\"לא לי אתם צריכים לברך – אלא לה'!\"",
+    "x": "כך לימד אותם לברך, ופרסם את שם ה' בכל העולם. 🙏"
+   },
+   {
+    "q": "בכמה ניסיונות ניסה ה' את אברהם – ומה היה הקשה מכולם?",
+    "opts": null,
+    "a": "10 ניסיונות – והקשה ביותר: עקדת יצחק",
+    "x": "הניסיון העשירי והאחרון."
+   },
+   {
+    "q": "ה' אמר: \"<he>קַח נָא אֶת בִּנְךָ</he>\" – ואברהם ענה: \"יש לי שני בנים\". ה' אמר: \"<he>אֶת יְחִידְךָ</he>\". מה ענה אברהם?",
+    "opts": null,
+    "a": "\"זה יחיד לאמו וזה יחיד לאמו\"",
+    "x": "אז ה' אמר \"<he>אֲשֶׁר אָהַבְתָּ</he>\" – \"את שניהם אני אוהב!\" – ורק בסוף: \"<he>אֶת יִצְחָק</he>\"."
+   },
+   {
+    "q": "השטן ניסה פעמיים לעצור את אברהם בדרך להר. איך?",
+    "opts": null,
+    "a": "קודם כזקן שמשכנע – ואחר כך כנהר גדול 🌊",
+    "x": "אברהם ויצחק נכנסו למים עד הצוואר, אברהם התפלל – והנהר נהיה יבשה."
+   },
+   {
+    "q": "איך ידע אברהם על איזה הר ה' מתכוון?",
+    "opts": null,
+    "a": "הוא ראה ענן קשור על ההר ☁️",
+    "x": "סימן לגילוי שכינה – אחרי שלושה ימי הליכה."
+   },
+   {
+    "q": "יצחק שאל: \"<he>וְאַיֵּה הַשֶּׂה לְעֹלָה</he>?\". מה ענה אברהם – ומה הרמז בתשובה?",
+    "opts": null,
+    "a": "\"<he>אֱ-לֹהִים יִרְאֶה לּוֹ הַשֶּׂה לְעֹלָה בְּנִי</he>\"",
+    "x": "רמז: אולי אתה, בני, תהיה השה."
+   },
+   {
+    "q": "יצחק היה בן 37 – חזק וגדול. למה הוא עצמו ביקש שיקשרו אותו?",
+    "opts": null,
+    "a": "שלא יזוז מפחד ויפסול את הקרבן",
+    "x": "הוא פחד שמהצער יבעט באבא בטעות – ויעבור על כיבוד אב, וגם יעשה מום בקרבן. לכן: \"עֲקֹד אותי כמו שה\"."
+   },
+   {
+    "q": "מה קרה לעיניים של יצחק כשהיה עקוד על המזבח?",
+    "opts": null,
+    "a": "דמעות המלאכים נפלו לעיניו",
+    "x": "השמים נפתחו, המלאכים ראו את יצחק עקוד ובכו – והדמעות פגעו בראייה שלו. 😢"
+   },
+   {
+    "q": "איך נוצר השם \"<he>יְרוּשָׁלַיִם</he>\"?",
+    "opts": null,
+    "a": "\"<he>יִרְאֶה</he>\" + \"<he>שָׁלֵם</he>\"",
+    "x": "מלכי צדק קרא למקום \"שלם\", אברהם קרא לו \"ה' יראה\" – וה' חיבר את שני השמות: ירושלים! 🏙️"
+   },
+   {
+    "q": "המלאך קרא: \"<he>אַל תִּשְׁלַח יָדְךָ אֶל הַנַּעַר</he>\". מה ביקש אברהם – ומה ענה המלאך?",
+    "opts": null,
+    "a": "\"תן לי להוציא ממנו לפחות כמה טיפות דם\"",
+    "x": "והמלאך אמר: \"<he>וְאַל תַּעַשׂ לוֹ מְאוּמָה</he>\" – כל הניסיון היה רק כדי לבחון ולפרסם כמה אברהם נאמן לה'."
+   },
+   {
+    "q": "\"<he>עֵקֶב אֲשֶׁר שָׁמַעְתָּ בְּקֹלִי</he>\" – המילה \"עקב\" בגימטריה = 172. אברהם חי 175 שנה. מה אפשר ללמוד מזה?",
+    "opts": null,
+    "a": "שאברהם הכיר את ה' כבר בגיל 3!",
+    "x": "175 − 172 = 3 – כל השנים האלה הוא שמע בקול ה'. 🌟"
+   },
+   {
+    "q": "🧮 חידת חשבון: אברהם היה בן 100 כשנולד יצחק. בעקדה יצחק היה בן 37. ישמעאל גדול מיצחק ב־14 שנה. בן כמה היה אברהם בעקדה? ובונוס: בן כמה היה ישמעאל?",
+    "opts": null,
+    "a": "אברהם בן 137 · ישמעאל בן 51",
+    "x": "100 + 37 = 137, ו־37 + 14 = 51. בדיקה: אברהם חזר לחברון בגיל 125, והעקדה הייתה 12 שנה אחר כך – יוצא שוב 137 ✔️"
+   },
+   {
+    "q": "💎 שאלת הזהב: בדרך להר כתוב \"<he>וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו</he>\". רגע... ברור שהלכו ביחד! הרי הם הלכו באותה דרך. אז למה התורה טורחת לכתוב את זה?",
+    "opts": null,
+    "a": "כי \"יחדיו\" זה לא רק באותה דרך – זה באותו לב!",
+    "x": "יצחק חשב שהולכים להקריב שה, ולכן הלך בשמחה. אבל אברהם ידע את האמת – שהוא הולך להקריב את הבן האהוב שלו – ובכל זאת הלך באותה שמחה ובאותו רצון בדיוק כמו יצחק. מבחוץ אי אפשר היה לראות שום הבדל ביניהם: אבא ובן, צעד ליד צעד, עם אותו חיוך. זה הגודל של אברהם – לעשות את רצון ה' בשמחה שלמה, גם כשהלב יודע כמה זה קשה. ❤️"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️"
+ },
+ "fr": {
+  "parasha": "Vayéra",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "Une tente <em>ouverte</em> à tous !",
+  "emoji": "⛺ 👼 ☀️ 🍰 🧂 🔥 🏔️ 🐏 📯 ⭐",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans · 5 points par réponse"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quelle mitsva Avraham Avinou aimait-il le plus ?",
+    "opts": [
+     "L'hospitalité (hakhnassat or'him)",
+     "La sieste 😴",
+     "Compter les chameaux 🐪"
+    ],
+    "a": "L'hospitalité",
+    "x": "il nourrissait les invités, leur donnait à boire, et leur apprenait à bénir Hachem."
+   },
+   {
+    "q": "Combien d'« hommes » sont arrivés à la tente d'Avraham ?",
+    "opts": [
+     "2",
+     "3",
+     "100"
+    ],
+    "a": "3 – et c'étaient en fait des anges ! 👼",
+    "x": "Hachem a vu combien Avraham souffrait de ne pas avoir d'invités – et lui a envoyé trois anges sous l'apparence d'hommes."
+   },
+   {
+    "q": "Pourquoi la tente d'Avraham avait-elle une ouverture de chaque côté ?",
+    "opts": [
+     "Pour avoir un courant d'air frais",
+     "Pour que les invités n'aient pas à faire le tour pour chercher l'entrée",
+     "Parce qu'Avraham avait oublié où était la porte 🤭"
+    ],
+    "a": "Pour que les invités entrent tout de suite",
+    "x": "de quelque direction qu'ils viennent, ils trouvaient une ouverture."
+   },
+   {
+    "q": "Quelle nouvelle l'ange a-t-il annoncée à Avraham et à Sarah ?",
+    "opts": null,
+    "a": "Que dans un an, un fils leur naîtrait",
+    "x": "exactement au prochain Pessa'h !"
+   },
+   {
+    "q": "Qu'a fait Sarah en entendant la nouvelle depuis la tente ?",
+    "opts": [
+     "Elle a ri",
+     "Elle a pleuré",
+     "Elle a chanté une chanson 🎤"
+    ],
+    "a": "Elle a ri",
+    "x": "elle s'est dit en elle-même : comment est-ce possible ? Nous sommes si vieux !"
+   },
+   {
+    "q": "Comment s'appelait le fils né à Avraham et à Sarah ?",
+    "opts": null,
+    "a": "Its'hak (<he>יִצְחָק</he>)",
+    "x": "à cause du rire (tsé'hok) et de la grande joie. 😄"
+   },
+   {
+    "q": "Quelle ville méchante Hachem a-t-il renversée ?",
+    "opts": [
+     "Sodome",
+     "Jérusalem",
+     "'Hévron"
+    ],
+    "a": "Sodome",
+    "x": "avec Amora (Gomorrhe), Adma et Tsévoïm."
+   },
+   {
+    "q": "En quoi s'est transformée la femme de Loth quand elle a regardé en arrière ? 🧂",
+    "opts": [
+     "En statue de chocolat 🍫",
+     "En statue de sel",
+     "En colonne de pierre"
+    ],
+    "a": "En statue de sel (<he>נְצִיב מֶלַח</he>) <src>(בראשית יט, כו)</src>",
+    "x": "les anges avaient dit de ne pas regarder en arrière – et elle n'a pas écouté."
+   },
+   {
+    "q": "Devinette – qui suis-je ? Mes cornes se sont prises dans les branches, et Avraham m'a offert en sacrifice à la place d'Its'hak. 🐏",
+    "opts": null,
+    "a": "Le bélier (<he>הָאַיִל</he>)",
+    "x": "et il était prêt pour cela depuis les six jours de la Création !"
+   },
+   {
+    "q": "Dans quoi sonne-t-on à Roch Hachana pour rappeler la ligature d'Its'hak (Akédat Its'hak) ? 📯",
+    "opts": null,
+    "a": "Un chofar en corne de bélier",
+    "x": "pour rappeler le bélier sacrifié à la place d'Its'hak – et grâce à cela, Hachem nous prend en pitié."
+   },
+   {
+    "q": "Pourquoi Hachem a-t-il fait sortir ce jour-là un soleil particulièrement fort ☀️ ?",
+    "opts": [
+     "Pour faire sécher le linge",
+     "Pour que les invités ne viennent pas et qu'Avraham se repose après la brit mila",
+     "Pour faire une piscine 🏊"
+    ],
+    "a": "Pour qu'Avraham se repose",
+    "x": "c'était le troisième jour après la mila, et si des invités étaient venus, Avraham se serait donné de la peine pour eux."
+   },
+   {
+    "q": "Qui Avraham a-t-il envoyé dehors pour chercher des invités ?",
+    "opts": null,
+    "a": "Eliézer, son serviteur",
+    "x": "Eliézer n'a trouvé personne – alors Avraham est sorti chercher lui-même, en pleine chaleur !"
+   },
+   {
+    "q": "Qu'Avraham a-t-il demandé aux invités de laver avant d'entrer – et pourquoi ? 🦶",
+    "opts": null,
+    "a": "Les pieds",
+    "x": "car les Arabes se prosternaient devant la poussière de leurs pieds, et Avraham ne voulait pas d'idolâtrie dans sa tente."
+   },
+   {
+    "q": "Avraham a dit « <he>מְעַט מַיִם</he> » <tr>(un peu d'eau)</tr> et « <he>פַּת לֶחֶם</he> » <tr>(un morceau de pain)</tr> <src>(בראשית יח, ד–ה)</src> – et qu'a-t-il servi finalement ?",
+    "opts": null,
+    "a": "Des galettes de matsa, une langue de bœuf à la moutarde pour chacun, du beurre et du lait",
+    "x": "les justes promettent peu et font beaucoup ! 🍽️"
+   },
+   {
+    "q": "Trois anges – trois missions ! Lequel est venu annoncer la naissance d'Its'hak ?",
+    "opts": [
+     "Mikhaël",
+     "Gavriel",
+     "Rephaël"
+    ],
+    "a": "Mikhaël",
+    "x": "Rephaël est venu guérir Avraham et sauver Loth, et Gavriel est venu renverser Sodome."
+   },
+   {
+    "q": "Combien de villes y avait-il dans la région de Sodome ?",
+    "opts": [
+     "3",
+     "5",
+     "12"
+    ],
+    "a": "5 villes",
+    "x": "Sodome, Amora, Adma, Tsévoïm et Tsoar (Béla)."
+   },
+   {
+    "q": "Quelle était la loi à Sodome concernant les pauvres ?",
+    "opts": null,
+    "a": "Il était interdit de leur donner à manger",
+    "x": "chacun donnait au pauvre une pièce gravée à son nom – mais personne ne lui vendait de pain… Des méchants ! 😠"
+   },
+   {
+    "q": "Qu'ont fait les anges aux gens de Sodome qui encerclaient la maison de Loth ?",
+    "opts": [
+     "Ils leur ont donné des biscuits 🍪",
+     "Ils les ont frappés d'aveuglement – et ils ne trouvaient plus la porte",
+     "Ils les ont invités à entrer"
+    ],
+    "a": "L'aveuglement (<he>סַנְוֵרִים</he>) <src>(בראשית יט, יא)</src>",
+    "x": "ils sont devenus aveugles et cherchaient la porte – sans la trouver."
+   },
+   {
+    "q": "Dans quelle petite ville Loth a-t-il demandé à s'enfuir ?",
+    "opts": [
+     "Tsoar",
+     "L'Égypte",
+     "'Haran"
+    ],
+    "a": "Tsoar",
+    "x": "« <he>וְהִוא מִצְעָר</he> » <src>(בראשית יט, כ)</src> <tr>(« elle est petite »)</tr> – une petite ville avec peu d'habitants, et grâce à Loth elle a été sauvée."
+   },
+   {
+    "q": "Où Avraham est-il parti après le renversement de Sodome ?",
+    "opts": null,
+    "a": "À Guérar, au pays des Philistins",
+    "x": "parce que plus personne ne passait dans la région – et il n'avait plus d'invités !"
+   },
+   {
+    "q": "Avraham a prié pour Sodome. Par quel nombre de justes a-t-il commencé – et à quel nombre s'est-il arrêté ?",
+    "opts": null,
+    "a": "Il a commencé à 50 et s'est arrêté à 10",
+    "x": "50 → 45 → 40 → 30 → 20 → 10. Mais il n'y avait même pas dix justes à Sodome."
+   },
+   {
+    "q": "Avraham a dit : « <he>וְאָנֹכִי עָפָר וָאֵפֶר</he> » <src>(בראשית יח, כז)</src> <tr>– « et moi, je ne suis que poussière et cendre »</tr>. Pourquoi justement poussière et cendre ?",
+    "opts": null,
+    "a": "Poussière – de la guerre, et cendre – de la fournaise 🔥",
+    "x": "sans le sauvetage d'Hachem, il aurait été enterré dans la terre (poussière) après la guerre des rois, ou brûlé (cendre) dans la fournaise de Nimrod."
+   },
+   {
+    "q": "Devinette – qui suis-je ? Je suis une fille de Loth. J'ai caché de la nourriture dans la cruche d'eau et je l'ai donnée en secret à un pauvre – mais les gens de Sodome l'ont découvert… 🏺",
+    "opts": null,
+    "a": "Plotit (<he>פְּלוֹטִית</he>)",
+    "x": "son cri est monté jusqu'au Trône céleste – « <he>הַכְּצַעֲקָתָהּ הַבָּאָה אֵלַי</he> » <src>(בראשית יח, כא)</src> <tr>(« selon son cri qui est venu jusqu'à Moi »)</tr>."
+   },
+   {
+    "q": "Qu'est-ce qui est tombé du ciel sur Sodome ?",
+    "opts": [
+     "De la neige ❄️",
+     "D'abord de la pluie – puis du soufre et du feu",
+     "Des grenouilles 🐸"
+    ],
+    "a": "Du soufre et du feu",
+    "x": "Hachem attendait qu'ils fassent techouva, c'est pourquoi Il a commencé par de la pluie. Comme ils ne sont pas revenus – la pluie s'est changée en soufre et en feu."
+   },
+   {
+    "q": "Pourquoi la femme de Loth a-t-elle été punie justement par le sel ?",
+    "opts": null,
+    "a": "Mesure pour mesure 🧂",
+    "x": "elle est allée chez les voisins demander du sel « pour les invités » – et a ainsi révélé qu'il y avait des invités à la maison."
+   },
+   {
+    "q": "Pourquoi les anges ne sont-ils arrivés à Sodome que le soir ?",
+    "opts": null,
+    "a": "Parce qu'ils marchaient lentement exprès",
+    "x": "c'étaient des anges de miséricorde, et ils espéraient qu'entre-temps, la prière d'Avraham annulerait le décret."
+   },
+   {
+    "q": "Quel roi a pris Sarah à Guérar ?",
+    "opts": [
+     "Avimélekh",
+     "Pharaon",
+     "Nimrod"
+    ],
+    "a": "Avimélekh",
+    "x": "Hachem lui est apparu en rêve et lui a dit de la rendre immédiatement."
+   },
+   {
+    "q": "Que s'est-il passé dans la maison d'Avimélekh pendant tout le temps où Sarah y était ?",
+    "opts": null,
+    "a": "Personne ne pouvait plus enfanter",
+    "x": "et même les poules ont arrêté de pondre des œufs ! 🐔"
+   },
+   {
+    "q": "Comment Avimélekh a-t-il finalement été guéri ?",
+    "opts": null,
+    "a": "Avraham a prié pour lui",
+    "x": "on en apprend : celui qui prie pour son ami alors qu'il a lui-même besoin de la même chose est exaucé en premier. Et en effet, juste après, Sarah a été exaucée !"
+   },
+   {
+    "q": "Qui a été le premier bébé circoncis à l'âge de huit jours ?",
+    "opts": [
+     "Its'hak",
+     "Yichmaël",
+     "Avraham"
+    ],
+    "a": "Its'hak",
+    "x": "Avraham a été circoncis à 99 ans et Yichmaël à 13 ans – Its'hak a été le premier à l'âge de 8 jours."
+   },
+   {
+    "q": "Les moqueurs de la génération disaient qu'Its'hak était en fait le fils d'Avimélekh. Qu'a fait Hachem pour leur fermer la bouche ?",
+    "opts": null,
+    "a": "Its'hak ressemblait exactement à Avraham !",
+    "x": "le visage de son père – impossible de se tromper. 👴👦"
+   },
+   {
+    "q": "Des femmes ne croyaient pas que Sarah avait accouché à 90 ans. Comment le leur a-t-elle prouvé ?",
+    "opts": null,
+    "a": "Elle a allaité leurs bébés",
+    "x": "et selon le Midrash, tous les bébés qui ont été allaités par elle se sont convertis en grandissant !"
+   },
+   {
+    "q": "Quand Avraham a-t-il fait un grand festin – et qui est venu ?",
+    "opts": null,
+    "a": "Le jour où Its'hak a été sevré (à deux ans)",
+    "x": "les grands de la génération sont venus : Chem fils de Noa'h, Éver et Avimélekh."
+   },
+   {
+    "q": "Pourquoi Sarah a-t-elle demandé de renvoyer Yichmaël ?",
+    "opts": null,
+    "a": "Parce que ses « jeux » étaient dangereux",
+    "x": "il jouait aux jeux des méchants, disait qu'il hériterait de tout car il était l'aîné – et il tirait même des flèches vers Its'hak « pour rire ». 🏹"
+   },
+   {
+    "q": "Yichmaël avait soif dans le désert et l'eau était épuisée. Que s'est-il passé alors ?",
+    "opts": null,
+    "a": "Hachem a entendu la prière de Yichmaël et a ouvert les yeux de Hagar – et elle a vu un puits d'eau",
+    "x": "on en apprend : la prière du malade pour lui-même, venant d'un cœur brisé, est acceptée en premier. 💧"
+   },
+   {
+    "q": "Pourquoi Avraham a-t-il mis sept brebis à part en concluant une alliance avec Avimélekh ?",
+    "opts": null,
+    "a": "En témoignage qu'il avait creusé le puits",
+    "x": "les bergers d'Avimélekh lui avaient volé le puits – et les brebis ont prouvé qu'il était à lui."
+   },
+   {
+    "q": "Pourquoi l'endroit s'appelle-t-il « <he>בְּאֵר שָׁבַע</he> » <tr>(Béer-Chéva)</tr> <src>(בראשית כא, לא)</src> ?",
+    "opts": null,
+    "a": "À cause du serment – et des sept brebis",
+    "x": "« chéva » (<he>שֶׁבַע</he>, sept) vient de « chevou'a » (<he>שְׁבוּעָה</he>, serment) – car c'est là qu'Avraham et Avimélekh ont prêté serment."
+   },
+   {
+    "q": "Quand les invités à Béer-Chéva voulaient remercier Avraham pour le repas, que leur répondait-il ?",
+    "opts": null,
+    "a": "« Ce n'est pas moi que vous devez bénir – mais Hachem ! »",
+    "x": "ainsi il leur apprenait à bénir, et il a fait connaître le Nom d'Hachem dans le monde entier. 🙏"
+   },
+   {
+    "q": "Par combien d'épreuves Hachem a-t-il éprouvé Avraham – et quelle fut la plus difficile ?",
+    "opts": null,
+    "a": "10 épreuves – et la plus difficile : la Akéda (ligature) d'Its'hak",
+    "x": "la dixième et dernière épreuve."
+   },
+   {
+    "q": "Hachem a dit : « <he>קַח נָא אֶת בִּנְךָ</he> » <tr>(prends donc ton fils)</tr> – et Avraham a répondu : « J'ai deux fils ». Hachem a dit : « <he>אֶת יְחִידְךָ</he> » <tr>(ton unique)</tr> <src>(בראשית כב, ב)</src>. Qu'a répondu Avraham ?",
+    "opts": null,
+    "a": "« Celui-ci est unique pour sa mère, et celui-là est unique pour sa mère »",
+    "x": "alors Hachem a dit « <he>אֲשֶׁר אָהַבְתָּ</he> » <tr>(que tu aimes)</tr> – « Je les aime tous les deux ! » – et seulement à la fin : « <he>אֶת יִצְחָק</he> » <src>(בראשית כב, ב)</src>."
+   },
+   {
+    "q": "Le Satan a essayé deux fois d'arrêter Avraham sur le chemin de la montagne. Comment ?",
+    "opts": null,
+    "a": "D'abord en vieillard qui essaie de le convaincre – puis en grand fleuve 🌊",
+    "x": "Avraham et Its'hak sont entrés dans l'eau jusqu'au cou, Avraham a prié – et le fleuve est devenu terre sèche."
+   },
+   {
+    "q": "Comment Avraham a-t-il su de quelle montagne Hachem parlait ?",
+    "opts": null,
+    "a": "Il a vu une nuée attachée sur la montagne ☁️",
+    "x": "signe de la Présence divine – après trois jours de marche."
+   },
+   {
+    "q": "Its'hak a demandé : « <he>וְאַיֵּה הַשֶּׂה לְעֹלָה</he> » <src>(בראשית כב, ז)</src> <tr>– « mais où est l'agneau pour l'holocauste ? »</tr>. Qu'a répondu Avraham – et quelle est l'allusion dans sa réponse ?",
+    "opts": null,
+    "a": "« <he>אֱ-לֹהִים יִרְאֶה לּוֹ הַשֶּׂה לְעֹלָה בְּנִי</he> » <src>(בראשית כב, ח)</src>",
+    "x": "<tr>« D. se pourvoira de l'agneau pour l'holocauste, mon fils »</tr> – allusion : peut-être que toi, mon fils, tu seras l'agneau."
+   },
+   {
+    "q": "Its'hak avait 37 ans – fort et grand. Pourquoi a-t-il lui-même demandé qu'on l'attache ?",
+    "opts": null,
+    "a": "Pour ne pas bouger de peur et rendre le sacrifice invalide",
+    "x": "il avait peur, sous l'effet de la douleur, de donner un coup de pied à son père par mégarde – et de transgresser le respect dû au père, et aussi de causer un défaut au sacrifice. D'où : « Attache-moi comme un agneau »."
+   },
+   {
+    "q": "Qu'est-il arrivé aux yeux d'Its'hak quand il était attaché sur l'autel ?",
+    "opts": null,
+    "a": "Les larmes des anges sont tombées dans ses yeux",
+    "x": "les cieux se sont ouverts, les anges ont vu Its'hak attaché et ont pleuré – et les larmes ont affaibli sa vue. 😢"
+   },
+   {
+    "q": "Comment est né le nom « <he>יְרוּשָׁלַיִם</he> » <tr>(Yerouchalayim – Jérusalem)</tr> ?",
+    "opts": null,
+    "a": "« <he>יִרְאֶה</he> » + « <he>שָׁלֵם</he> »",
+    "x": "Malki-Tsédek avait appelé l'endroit « Chalem », Avraham l'a appelé « <he>ה' יִרְאֶה</he> » <src>(בראשית כב, יד)</src> – et Hachem a réuni les deux noms : Yerouchalayim ! 🏙️"
+   },
+   {
+    "q": "L'ange a crié : « <he>אַל תִּשְׁלַח יָדְךָ אֶל הַנַּעַר</he> » <src>(בראשית כב, יב)</src> <tr>– « n'étends pas ta main sur le garçon »</tr>. Qu'a demandé Avraham – et qu'a répondu l'ange ?",
+    "opts": null,
+    "a": "« Laisse-moi au moins en faire sortir quelques gouttes de sang »",
+    "x": "et l'ange a dit : « <he>וְאַל תַּעַשׂ לוֹ מְאוּמָה</he> » <src>(בראשית כב, יב)</src> <tr>(« et ne lui fais rien »)</tr> – toute l'épreuve n'avait pour but que d'éprouver Avraham et de faire connaître à quel point il était fidèle à Hachem."
+   },
+   {
+    "q": "« <he>עֵקֶב אֲשֶׁר שָׁמַעְתָּ בְּקֹלִי</he> » <src>(בראשית כב, יח)</src> <tr>– « parce que tu as écouté Ma voix »</tr> – le mot « <he>עֵקֶב</he> » vaut 172 en guématria. Avraham a vécu 175 ans. Que peut-on en apprendre ?",
+    "opts": null,
+    "a": "Qu'Avraham a reconnu Hachem dès l'âge de 3 ans !",
+    "x": "175 − 172 = 3 – toutes ces années-là, il a écouté la voix d'Hachem. 🌟"
+   },
+   {
+    "q": "🧮 Énigme de calcul : Avraham avait 100 ans à la naissance d'Its'hak. À la Akéda, Its'hak avait 37 ans. Yichmaël avait 14 ans de plus qu'Its'hak. Quel âge avait Avraham à la Akéda ? Et en bonus : quel âge avait Yichmaël ?",
+    "opts": null,
+    "a": "Avraham avait 137 ans · Yichmaël avait 51 ans",
+    "x": "100 + 37 = 137, et 37 + 14 = 51. Vérification : Avraham est revenu à 'Hévron à 125 ans, et la Akéda a eu lieu 12 ans plus tard – on retrouve bien 137 ✔️"
+   },
+   {
+    "q": "💎 Question en or : sur le chemin de la montagne, il est écrit « <he>וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו</he> » <src>(בראשית כב, ו)</src> <tr>– « et ils marchèrent tous deux ensemble »</tr>. Attendez… évidemment qu'ils marchaient ensemble ! Ils suivaient le même chemin. Alors pourquoi la Torah prend-elle la peine de l'écrire ?",
+    "opts": null,
+    "a": "Parce que « ensemble » (<he>יַחְדָּו</he>), ce n'est pas seulement le même chemin – c'est le même cœur !",
+    "x": "Its'hak pensait qu'ils allaient offrir un agneau, et il marchait donc avec joie. Mais Avraham connaissait la vérité – qu'il allait offrir son fils bien-aimé – et pourtant il marchait avec la même joie et la même volonté, exactement comme Its'hak. De l'extérieur, on ne pouvait voir aucune différence entre eux : un père et son fils, pas à pas, avec le même sourire. C'est là la grandeur d'Avraham – accomplir la volonté d'Hachem dans une joie complète, même quand le cœur sait combien c'est difficile. ❤️"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️"
+ }
+}

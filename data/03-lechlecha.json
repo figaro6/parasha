@@ -1,0 +1,827 @@
+{
+ "series": 3,
+ "slug": "lechlecha",
+ "date": "2026-10-24",
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "לך לך",
+  "kicker": "חידון לשולחן השבת",
+  "title": "יוצאים <em>לדרך</em> עם אברם!",
+  "emoji": "🐪 🏜️ ⭐ 🌟 ⚔️ 👑 🍞 🍷 🔥 🕊️",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – וכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות של הגדולים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח ראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 · 5 נקודות לכל תשובה"
+   }
+  ],
+  "questions": [
+   {
+    "q": "מה אמר ה' לאברם בתחילת הפרשה?",
+    "opts": [
+     "<he>לֵךְ לְךָ</he> – צא מהארץ שלך ומבית אבא",
+     "בנה תיבה גדולה",
+     "שב בבית ואל תזוז 🛋️"
+    ],
+    "a": "<he>לֵךְ לְךָ מֵאַרְצְךָ</he>",
+    "x": "\"<he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he>\"."
+   },
+   {
+    "q": "איך קראו לאשתו של אברם?",
+    "opts": null,
+    "a": "<he>שָׂרַי</he>",
+    "x": "ובסוף הפרשה ה' משנה את שמה ל<he>שָׂרָה</he>."
+   },
+   {
+    "q": "מי זה לוט?",
+    "opts": [
+     "הבן של אברם",
+     "האחיין של אברם – הבן של אחיו <he>הָרָן</he>",
+     "השכן מסדום"
+    ],
+    "a": "האחיין של אברם",
+    "x": "לוט היה בנו של הרן, אחיו של אברם, והצטרף אליו לכל המסעות."
+   },
+   {
+    "q": "לאיזו ארץ הלך אברם?",
+    "opts": [
+     "ארץ כנען (ארץ ישראל)",
+     "ארץ מצרים",
+     "ארץ הממתקים 🍭"
+    ],
+    "a": "ארץ כנען",
+    "x": "היא ארץ ישראל – אז קראו לה 'כנען' כי בני כנען כבשו אותה."
+   },
+   {
+    "q": "בן כמה היה אברם כשיצא לדרך?",
+    "opts": [
+     "7",
+     "75",
+     "750"
+    ],
+    "a": "75 שנה",
+    "x": "וזה רק ההתחלה של המסע!"
+   },
+   {
+    "q": "למה ירד אברם למצרים?",
+    "opts": null,
+    "a": "כי היה רעב בארץ כנען",
+    "x": "במצרים היה אוכל – ואברם לא התלונן אפילו פעם אחת."
+   },
+   {
+    "q": "איזה מלך לקח את שרי לארמון שלו?",
+    "opts": [
+     "פרעה מלך מצרים",
+     "נמרוד",
+     "מלך סדום"
+    ],
+    "a": "פרעה",
+    "x": "וה' הביא עליו נגעים גדולים עד שהחזיר אותה."
+   },
+   {
+    "q": "ה' אמר לאברם: \"<he>הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר...</he>\" – מה הוא ביקש ממנו לספור? ✨",
+    "opts": null,
+    "a": "את הכוכבים",
+    "x": "\"<he>כֹּה יִהְיֶה זַרְעֶךָ</he>\" – כמו שאי אפשר לספור את הכוכבים, כך לא יהיה אפשר לספור את הצאצאים של אברם."
+   },
+   {
+    "q": "חידה – מי אני? הייתי בת של מלך, אבא שלי אמר שעדיף להיות שפחה בבית צדיק – והפכתי לשפחה של שרי. 🏺",
+    "opts": null,
+    "a": "<he>הָגָר</he>",
+    "x": "בתו של פרעה, שהייתה לשפחה של שרי."
+   },
+   {
+    "q": "איך קראו לבן שנולד להגר?",
+    "opts": [
+     "יצחק",
+     "ישמעאל",
+     "יוסף"
+    ],
+    "a": "ישמעאל",
+    "x": "המלאך אמר: \"<he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he>\" – ה' שמע את תפילתך."
+   },
+   {
+    "q": "ה' אמר לאברם ללכת \"<he>אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he>\" – בלי להגיד איזו! למה?",
+    "opts": [
+     "כי ה' עוד לא החליט",
+     "כדי שאברם ירצה מאוד לדעת – וכך הארץ תהיה חביבה עליו",
+     "כי זה היה סוד מפרעה 🤫"
+    ],
+    "a": "כדי לחבב עליו את הארץ",
+    "x": "כשמחכים ומסקרנים – אוהבים יותר את מה שמקבלים בסוף."
+   },
+   {
+    "q": "מה בנה אברם כמעט בכל מקום שהגיע אליו, כדי להודות לה'?",
+    "opts": null,
+    "a": "<he>מִזְבֵּחַ</he>",
+    "x": "בשכם, ליד בית אל ובחברון – ושם גם קרא לאנשים להאמין בה'."
+   },
+   {
+    "q": "איפה החביא אברם את שרי כשנכנסו למצרים?",
+    "opts": [
+     "בתוך תיבה",
+     "בתוך שק של תפוחי אדמה 🥔",
+     "מתחת לגמל 🐪"
+    ],
+    "a": "בתוך תיבה",
+    "x": "אבל המוכסים ביקשו לפתוח אותה כדי לגבות מכס – וראו את שרי."
+   },
+   {
+    "q": "מה ביקש אברם משרי להגיד למצרים?",
+    "opts": null,
+    "a": "שהיא אחותו",
+    "x": "הוא פחד שיהרגו אותו כדי לקחת אותה."
+   },
+   {
+    "q": "מה קרה בארמון של פרעה כשלקח את שרי?",
+    "opts": null,
+    "a": "ה' הביא על פרעה וביתו נגעים גדולים",
+    "x": "מלאך עמד שם, ושרי אמרה לו \"<he>הַךְ!</he>\" – והוא היכה. אפילו הקירות והעמודים לקו! 💥"
+   },
+   {
+    "q": "למה רבו הרועים של לוט עם הרועים של אברם?",
+    "opts": [
+     "על מי ישיר בקול רם 🎤",
+     "כי רועי לוט רעו בשדות של אנשים אחרים – גזל!",
+     "על מי יקבל את הגמל הכי גבוה"
+    ],
+    "a": "רועי לוט גזלו",
+    "x": "הם האכילו את הבהמות בשדות של אחרים, ורועי אברם הוכיחו אותם."
+   },
+   {
+    "q": "מה שמו רועי אברם על הפה של הבהמות כשעברו ליד שדות של אחרים?",
+    "opts": null,
+    "a": "<he>זְמָם</he> – מחסום",
+    "x": "כדי שהבהמות לא יאכלו אפילו עלה אחד שלא שלהם."
+   },
+   {
+    "q": "איזו עיר בחר לוט לגור בה?",
+    "opts": [
+     "סדום",
+     "ירושלים",
+     "חברון"
+    ],
+    "a": "סדום",
+    "x": "כי הייתה מלאה מים ועצים כמו גן עדן – אבל אנשיה היו רעים מאוד."
+   },
+   {
+    "q": "ה' הבטיח לאברם: \"<he>וְשַׂמְתִּי אֶת זַרְעֲךָ כַּ...</he>\" – כמו מה?",
+    "opts": [
+     "כעפר הארץ",
+     "כגרגרי אורז 🍚",
+     "כדגים בים"
+    ],
+    "a": "<he>כַּעֲפַר הָאָרֶץ</he>",
+    "x": "כמו שאי אפשר לספור את העפר – אי אפשר יהיה לספור את עם ישראל."
+   },
+   {
+    "q": "באיזו עיר התיישב אברם בסוף פרק י\"ג, באלוני ממרא?",
+    "opts": null,
+    "a": "<he>חֶבְרוֹן</he>",
+    "x": "וגם שם בנה מזבח וקרא לאנשים לעבוד את ה'."
+   },
+   {
+    "q": "כמה מלכים נלחמו נגד כמה מלכים? ⚔️",
+    "opts": null,
+    "a": "4 מלכים נגד 5 מלכים",
+    "x": "ארבעת המלכים החזקים נגד חמשת המלכים של כיכר הירדן."
+   },
+   {
+    "q": "מי היה הראש של ארבעת המלכים?",
+    "opts": [
+     "<he>כְּדָרְלָעֹמֶר</he> מלך עילם",
+     "פרעה",
+     "עוג"
+    ],
+    "a": "כדרלעומר",
+    "x": "חמשת המלכים היו משועבדים לו 12 שנה, ואז מרדו בו."
+   },
+   {
+    "q": "<he>אַמְרָפֶל</he> מלך <he>שִׁנְעָר</he> – מי הוא באמת, ולמה קראו לו כך?",
+    "opts": null,
+    "a": "נמרוד!",
+    "x": "\"<he>אָמַר פּוּל</he>\" – הוא אמר לאברם ליפול (פּוּל) לתוך כבשן האש. 🔥"
+   },
+   {
+    "q": "מלך סדום נקרא \"<he>בֶּרַע</he>\". למה השם הזה מתאים לו?",
+    "opts": null,
+    "a": "<he>בְּ' רַע</he> – רע לשמים ורע לבריות",
+    "x": "הוא חיפש בכוונה לעשות רע לה' ולאנשים – ועוד התגאה בזה."
+   },
+   {
+    "q": "לאן נפלו מלך סדום ומלך עמורה כשברחו מהמלחמה?",
+    "opts": [
+     "לים",
+     "לבורות של טיט 🕳️",
+     "לתוך מערה עם דוב"
+    ],
+    "a": "לבורות טיט",
+    "x": "ומלך סדום יצא משם בנס – כדי שכולם יאמינו גם בנס של אברם בכבשן האש."
+   },
+   {
+    "q": "חידה – מי אני? אני ענק, ברחתי מהמלחמה ורצתי לספר לאברם שלוט נשבה. אבל הכוונה שלי לא הייתה טובה בכלל... 🦶",
+    "opts": null,
+    "a": "עוֹג – \"<he>הַפָּלִיט</he>\"",
+    "x": "הוא קיווה שאברם ייהרג במלחמה, ואז יוכל להתחתן עם שרי."
+   },
+   {
+    "q": "כמה אנשים לקח אברם איתו למלחמה, לפי הפסוק?",
+    "opts": [
+     "3",
+     "318",
+     "1,000"
+    ],
+    "a": "318 – \"<he>חֲנִיכָיו יְלִידֵי בֵיתוֹ</he>\"",
+    "x": "ולפי חז\"ל – רק אליעזר נשאר איתו, ו\"אליעזר\" בגימטריה = 318!"
+   },
+   {
+    "q": "מי נשארו מאחור לשמור על הכלים והחפצים?",
+    "opts": null,
+    "a": "<he>עָנֵר, אֶשְׁכֹּל וּמַמְרֵא</he>",
+    "x": "החברים של אברם – ולכן גם הם קיבלו חלק מהשלל."
+   },
+   {
+    "q": "מה זרקו אברם ואליעזר על המלכים – ומה קרה לזה באוויר?",
+    "opts": null,
+    "a": "עפר – שהפך לחצים וחרבות! 🏹",
+    "x": "נס גדול, וכך ניצחו שני אנשים ארבעה מלכים חזקים."
+   },
+   {
+    "q": "עד לאיזה מקום רדף אברם אחרי המלכים?",
+    "opts": [
+     "עד דן",
+     "עד מצרים",
+     "עד הירח 🌙"
+    ],
+    "a": "עד דן",
+    "x": "בצפון הארץ – מרחק של כמה ימי הליכה. בלילה התחלקו לקבוצות ובאו מכמה כיוונים."
+   },
+   {
+    "q": "מי יצא לקראת אברם עם לחם ויין אחרי הניצחון – ומי הוא היה באמת? 🍞🍷",
+    "opts": null,
+    "a": "<he>מַלְכִּי צֶדֶק</he> – הוא <he>שֵׁם בֶּן נֹחַ</he>",
+    "x": "מלך <he>שָׁלֵם</he> (ירושלים) וכהן לא-ל עליון, שבירך את אברם."
+   },
+   {
+    "q": "מה נתן אברם למלכי צדק?",
+    "opts": null,
+    "a": "<he>מַעֲשֵׂר</he> – עשירית מכל השלל",
+    "x": "כי הוא היה כהן שמקריב קרבנות לה'."
+   },
+   {
+    "q": "מלך סדום אמר: \"<he>תֶּן לִי הַנֶּפֶשׁ וְהָרְכֻשׁ קַח לָךְ</he>\". מה ענה אברם?",
+    "opts": null,
+    "a": "\"<he>אִם מִחוּט וְעַד שְׂרוֹךְ נַעַל</he>\" – לא אקח כלום!",
+    "x": "כדי שמלך סדום לא יגיד 'אני העשרתי את אברם' – רק ה' מעשיר אותו."
+   },
+   {
+    "q": "בזכות שאברם אמר \"מחוט ועד שרוך נעל\" – בשתי מצוות זכו בניו. מה הן?",
+    "opts": null,
+    "a": "חוט של תכלת ורצועה של תפילין",
+    "x": "החוט – בציצית, והשרוך – ברצועות התפילין."
+   },
+   {
+    "q": "ממה פחד אברם אחרי כל הניסים במלחמה?",
+    "opts": null,
+    "a": "שאולי \"השתמש\" בכל הזכויות שלו",
+    "x": "או שייענש על שהרג אנשים. ה' אמר לו: \"<he>אַל תִּירָא... שְׂכָרְךָ הַרְבֵּה מְאֹד</he>\"."
+   },
+   {
+    "q": "בברית בין הבתרים אברם חתך את הבהמות לשניים – אבל משהו אחד הוא לא חתך. מה, ולמה?",
+    "opts": null,
+    "a": "את הציפורים 🕊️",
+    "x": "הבהמות רומזות לאומות העולם שיאבדו, והציפורים לעם ישראל – שלעולם לא יאבד!"
+   },
+   {
+    "q": "איזו ציפור ניסתה לנחות על הבשר, ומה עשה אברם?",
+    "opts": [
+     "<he>עַיִט</he> – ואברם הבריח אותו",
+     "תוכי – ואברם לימד אותו לדבר 🦜",
+     "יונה – ואברם האכיל אותה"
+    ],
+    "a": "<he>עַיִט</he>",
+    "x": "\"<he>וַיַּשֵּׁב אֹתָם אַבְרָם</he>\" – רמז לדוד המלך שיילחם באומות, אבל הגאולה השלמה רק עם המשיח."
+   },
+   {
+    "q": "כמה שנים אמר ה' לאברם שבניו יהיו \"<he>גֵּרִים בְּאֶרֶץ לֹא לָהֶם</he>\"?",
+    "opts": [
+     "40",
+     "400",
+     "4,000"
+    ],
+    "a": "400 שנה",
+    "x": "הספירה מתחילה מלידת יצחק – ומתוכן רק 210 שנה במצרים, ובסוף \"<he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he>\"."
+   },
+   {
+    "q": "מה עבר בין הבתרים בחושך הגדול? 🔥",
+    "opts": null,
+    "a": "<he>תַּנּוּר עָשָׁן וְלַפִּיד אֵשׁ</he>",
+    "x": "שלוחי השכינה – וכך כרת ה' ברית עם אברם על ארץ ישראל."
+   },
+   {
+    "q": "למה כמעט כל האמהות שלנו היו עקרות בהתחלה?",
+    "opts": null,
+    "a": "כי ה' מתאווה לתפילתן של הצדקניות",
+    "x": "ה' אוהב לשמוע אותן מתפללות."
+   },
+   {
+    "q": "כמה שנים חיכו אברם ושרי בארץ כנען בלי ילדים, עד ששרי נתנה לאברם את הגר?",
+    "opts": null,
+    "a": "10 שנים",
+    "x": "שרי קיוותה שבזכות זה ה' ישמע גם את התפילות שלה."
+   },
+   {
+    "q": "כמה מלאכים פגשו את הגר במדבר? ומה אמר לה האחרון?",
+    "opts": null,
+    "a": "ארבעה מלאכים",
+    "x": "הרביעי בישר: \"<he>הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן... וְקָרָאת שְׁמוֹ יִשְׁמָעֵאל</he>\"."
+   },
+   {
+    "q": "הגר התפלאה שראתה מלאכים גם באמצע המדבר. איך קראו לבאר שבמקום?",
+    "opts": null,
+    "a": "<he>בְּאֵר לַחַי רֹאִי</he>",
+    "x": "באר שנראה עליה מלאך חי וקיים. ולה' קראה הגר \"<he>אֵ-ל רֳאִי</he>\" – שרואה הכל."
+   },
+   {
+    "q": "בן כמה היה אברם כשנולד ישמעאל?",
+    "opts": [
+     "75",
+     "86",
+     "99"
+    ],
+    "a": "86 שנה",
+    "x": "\"<he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he>\"."
+   },
+   {
+    "q": "ה' שינה את השם \"<he>אַבְרָם</he>\" ל\"<he>אַבְרָהָם</he>\". מה מיוחד במספר של השם החדש?",
+    "opts": null,
+    "a": "אברהם בגימטריה = 248 (רמ\"ח)",
+    "x": "כמו 248 האיברים – בברית המילה אברהם נעשה שלם בכל איבריו. וגם: \"<he>אַב הֲמוֹן גּוֹיִם</he>\"."
+   },
+   {
+    "q": "מה ההבדל בין השם \"<he>שָׂרַי</he>\" לשם \"<he>שָׂרָה</he>\"?",
+    "opts": null,
+    "a": "<he>שָׂרַי</he> = השָׂרָה שלי, <he>שָׂרָה</he> = השָׂרָה של כולם 👑",
+    "x": "מעכשיו היא כמו נסיכה של כל העולם."
+   },
+   {
+    "q": "השם <he>יִצְחָק</he> הוא ראשי תיבות! מה מסתתר בכל אות: י – צ – ח – ק?",
+    "opts": null,
+    "a": "י – 10 ניסיונות · צ – 90 שנות שרה · ח – 8 ימים · ק – 100 שנות אברהם",
+    "x": "ועל שם הצחוק והשמחה שיהיו בבית כשייוולד. 😄"
+   },
+   {
+    "q": "למה אברהם עשה את ברית המילה דווקא באמצע היום, ולא בחושך הלילה?",
+    "opts": null,
+    "a": "כדי להראות שהוא לא מפחד שיצחקו עליו",
+    "x": "\"<he>בְּעֶצֶם הַיּוֹם הַזֶּה</he>\" – מקיימים את מצוות ה' בגאווה ובאור יום! ☀️"
+   },
+   {
+    "q": "🧮 חידת חשבון: אברם יצא מחרן בגיל 75. ישמעאל נולד כשאברם היה בן 86, וברית המילה הייתה כשאברהם היה בן 99. בן כמה היה ישמעאל בברית? ובונוס: כמה שנים עברו מהיציאה מחרן ועד הברית?",
+    "opts": null,
+    "a": "ישמעאל בן 13 · עברו 24 שנים",
+    "x": "99 − 86 = 13 (בדיוק כמו בפסוק: \"<he>בֶּן שְׁלֹשׁ עֶשְׂרֵה שָׁנָה</he>\"), ו־99 − 75 = 24."
+   },
+   {
+    "q": "💎 שאלת הזהב: \"<he>וַיִּקְחוּ אֶת לוֹט וְאֶת רְכֻשׁוֹ בֶּן אֲחִי אַבְרָם וַיֵּלֵכוּ</he>\" (י\"ד, י\"ב). רגע... למה הפסוק לא כותב לפי הסדר: \"את לוט בן אחי אברם – ואת רכושו\"? למה \"ואת רכושו\" נדחף באמצע?",
+    "opts": null,
+    "a": "כי בעיני ארבעת המלכים – לוט עצמו היה \"רכוש\"!",
+    "x": "לוט היה דומה מאוד לאברם (חז\"ל אומרים שפניהם היו דומים כמו של אחים). בשביל כדרלעומר, לוט לא היה סתם עוד שבוי – הוא היה 'גביע ניצחון' שאפשר להציג לכולם ולהגיד: \"הנה, אברם הפסיד במלחמה, ואין אלוקים שיעזור לו!\". לכן הפסוק מצמיד את לוט לרכוש, ורק אחר כך מוסיף \"<he>בֶּן אֲחִי אַבְרָם</he>\" – כי כל הסיבה לקחת אותו הייתה הקשר שלו לאברם. אבל הם טעו בגדול: אברם יצא, ניצח, והחזיר את הכל. 💪"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️"
+ },
+ "fr": {
+  "parasha": "Lekh Lekha",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "En <em>route</em> avec Avram !",
+  "emoji": "🐪 🏜️ ⭐ 🌟 ⚔️ 👑 🍞 🍷 🔥 🕊️",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans · 5 points par réponse"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qu'a dit Hachem à Avram au début de la paracha ?",
+    "opts": [
+     "« <he>לֵךְ לְךָ</he> » – quitte ton pays et la maison de ton père",
+     "Construis une grande arche",
+     "Reste à la maison et ne bouge pas 🛋️"
+    ],
+    "a": "« <he>לֵךְ לְךָ מֵאַרְצְךָ</he> »",
+    "x": "« <he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he> » <src>(בראשית יב, א)</src> <tr>(« va pour toi, quitte ton pays, ton lieu natal et la maison de ton père, vers le pays que Je te montrerai »)</tr>."
+   },
+   {
+    "q": "Comment s'appelait la femme d'Avram ?",
+    "opts": null,
+    "a": "Saraï (<he>שָׂרַי</he>)",
+    "x": "et à la fin de la paracha, Hachem change son nom en Sarah (<he>שָׂרָה</he>)."
+   },
+   {
+    "q": "Qui est Loth ?",
+    "opts": [
+     "Le fils d'Avram",
+     "Le neveu d'Avram – le fils de son frère Haran",
+     "Le voisin de Sodome"
+    ],
+    "a": "Le neveu d'Avram",
+    "x": "Loth était le fils de Haran, le frère d'Avram, et l'a accompagné dans tous ses voyages."
+   },
+   {
+    "q": "Dans quel pays Avram est-il allé ?",
+    "opts": [
+     "Le pays de Kena'an (la terre d'Israël)",
+     "Le pays d'Égypte",
+     "Le pays des bonbons 🍭"
+    ],
+    "a": "Le pays de Kena'an",
+    "x": "c'est la terre d'Israël – on l'appelait alors « Kena'an » parce que les enfants de Kena'an l'avaient conquise."
+   },
+   {
+    "q": "Quel âge avait Avram quand il s'est mis en route ?",
+    "opts": [
+     "7",
+     "75",
+     "750"
+    ],
+    "a": "75 ans",
+    "x": "et ce n'est que le début du voyage !"
+   },
+   {
+    "q": "Pourquoi Avram est-il descendu en Égypte ?",
+    "opts": null,
+    "a": "Parce qu'il y avait une famine au pays de Kena'an",
+    "x": "en Égypte il y avait à manger – et Avram ne s'est pas plaint une seule fois."
+   },
+   {
+    "q": "Quel roi a pris Saraï dans son palais ?",
+    "opts": [
+     "Pharaon, roi d'Égypte",
+     "Nimrod",
+     "Le roi de Sodome"
+    ],
+    "a": "Pharaon",
+    "x": "et Hachem l'a frappé de grandes plaies jusqu'à ce qu'il la rende."
+   },
+   {
+    "q": "Hachem a dit à Avram : « <he>הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר...</he> » <src>(בראשית טו, ה)</src> <tr>(« regarde donc vers le ciel et compte… »)</tr> – qu'est-ce qu'Il lui a demandé de compter ? ✨",
+    "opts": null,
+    "a": "Les étoiles",
+    "x": "« <he>כֹּה יִהְיֶה זַרְעֶךָ</he> » <src>(בראשית טו, ה)</src> <tr>(« ainsi sera ta descendance »)</tr> – comme on ne peut pas compter les étoiles, on ne pourra pas compter les descendants d'Avram."
+   },
+   {
+    "q": "Devinette – qui suis-je ? J'étais la fille d'un roi, mon père a dit qu'il valait mieux être servante dans la maison d'un juste – et je suis devenue la servante de Saraï. 🏺",
+    "opts": null,
+    "a": "Hagar (<he>הָגָר</he>)",
+    "x": "la fille de Pharaon, devenue la servante de Saraï."
+   },
+   {
+    "q": "Comment s'appelait le fils né à Hagar ?",
+    "opts": [
+     "Its'hak",
+     "Yichmaël",
+     "Yossef"
+    ],
+    "a": "Yichmaël",
+    "x": "l'ange a dit : « <he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he> » <src>(בראשית טז, יא)</src> <tr>(« car Hachem a entendu ta détresse »)</tr> – Hachem a entendu ta prière."
+   },
+   {
+    "q": "Hachem a dit à Avram d'aller « <he>אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he> » <src>(בראשית יב, א)</src> <tr>(« vers le pays que Je te montrerai »)</tr> – sans dire lequel ! Pourquoi ?",
+    "opts": [
+     "Parce qu'Hachem n'avait pas encore décidé",
+     "Pour qu'Avram ait très envie de savoir – et qu'ainsi le pays lui soit cher",
+     "Parce que c'était un secret pour Pharaon 🤫"
+    ],
+    "a": "Pour lui rendre le pays cher",
+    "x": "quand on attend et qu'on est curieux – on aime davantage ce qu'on reçoit à la fin."
+   },
+   {
+    "q": "Qu'Avram construisait-il presque partout où il arrivait, pour remercier Hachem ?",
+    "opts": null,
+    "a": "Un autel (<he>מִזְבֵּחַ</he>)",
+    "x": "à Chekhem, près de Beth-El et à 'Hévron – et là, il appelait aussi les gens à croire en Hachem."
+   },
+   {
+    "q": "Où Avram a-t-il caché Saraï en entrant en Égypte ?",
+    "opts": [
+     "Dans un coffre",
+     "Dans un sac de pommes de terre 🥔",
+     "Sous un chameau 🐪"
+    ],
+    "a": "Dans un coffre",
+    "x": "mais les douaniers ont demandé de l'ouvrir pour percevoir la taxe – et ont vu Saraï."
+   },
+   {
+    "q": "Qu'Avram a-t-il demandé à Saraï de dire aux Égyptiens ?",
+    "opts": null,
+    "a": "Qu'elle était sa sœur",
+    "x": "il avait peur qu'on le tue pour la prendre."
+   },
+   {
+    "q": "Que s'est-il passé dans le palais de Pharaon quand il a pris Saraï ?",
+    "opts": null,
+    "a": "Hachem a frappé Pharaon et sa maison de grandes plaies",
+    "x": "un ange se tenait là, Saraï lui disait « <he>הַךְ!</he> » <tr>(frappe !)</tr> – et il frappait. Même les murs et les colonnes ont été frappés ! 💥"
+   },
+   {
+    "q": "Pourquoi les bergers de Loth se sont-ils disputés avec les bergers d'Avram ?",
+    "opts": [
+     "Pour savoir qui chanterait le plus fort 🎤",
+     "Parce que les bergers de Loth faisaient paître dans les champs des autres – du vol !",
+     "Pour savoir qui aurait le chameau le plus grand"
+    ],
+    "a": "Les bergers de Loth volaient",
+    "x": "ils faisaient manger les bêtes dans les champs des autres, et les bergers d'Avram leur faisaient des reproches."
+   },
+   {
+    "q": "Que mettaient les bergers d'Avram sur la bouche des bêtes quand ils passaient près des champs des autres ?",
+    "opts": null,
+    "a": "Une muselière (<he>זְמָם</he>)",
+    "x": "pour que les bêtes ne mangent même pas une seule feuille qui ne leur appartient pas."
+   },
+   {
+    "q": "Dans quelle ville Loth a-t-il choisi d'habiter ?",
+    "opts": [
+     "Sodome",
+     "Jérusalem",
+     "'Hévron"
+    ],
+    "a": "Sodome",
+    "x": "parce qu'elle était pleine d'eau et d'arbres comme le Gan Éden – mais ses habitants étaient très méchants."
+   },
+   {
+    "q": "Hachem a promis à Avram : « <he>וְשַׂמְתִּי אֶת זַרְעֲךָ כַּ...</he> » <src>(בראשית יג, טז)</src> <tr>(« Je rendrai ta descendance comme… »)</tr> – comme quoi ?",
+    "opts": [
+     "Comme la poussière de la terre",
+     "Comme des grains de riz 🍚",
+     "Comme les poissons de la mer"
+    ],
+    "a": "« <he>כַּעֲפַר הָאָרֶץ</he> » <tr>(comme la poussière de la terre)</tr>",
+    "x": "comme on ne peut pas compter la poussière – on ne pourra pas compter le peuple d'Israël."
+   },
+   {
+    "q": "Dans quelle ville Avram s'est-il installé à la fin du chapitre 13, aux chênes de Mamré ?",
+    "opts": null,
+    "a": "'Hévron (<he>חֶבְרוֹן</he>)",
+    "x": "et là aussi, il a construit un autel et appelé les gens à servir Hachem."
+   },
+   {
+    "q": "Combien de rois ont combattu contre combien de rois ? ⚔️",
+    "opts": null,
+    "a": "4 rois contre 5 rois",
+    "x": "les quatre rois puissants contre les cinq rois de la plaine du Jourdain."
+   },
+   {
+    "q": "Qui était le chef des quatre rois ?",
+    "opts": [
+     "Kedorlaomer (<he>כְּדָרְלָעֹמֶר</he>), roi d'Élam",
+     "Pharaon",
+     "Og"
+    ],
+    "a": "Kedorlaomer",
+    "x": "les cinq rois lui ont été asservis 12 ans, puis se sont révoltés contre lui."
+   },
+   {
+    "q": "« <he>אַמְרָפֶל מֶלֶךְ שִׁנְעָר</he> » <tr>(Amraphel, roi de Chinear)</tr> <src>(בראשית יד, א)</src> – qui est-il vraiment, et pourquoi l'appelait-on ainsi ?",
+    "opts": null,
+    "a": "Nimrod !",
+    "x": "« <he>אָמַר פּוּל</he> » <tr>(« il a dit : tombe ! »)</tr> – il avait dit à Avram de tomber (poul) dans la fournaise. 🔥"
+   },
+   {
+    "q": "Le roi de Sodome s'appelait « <he>בֶּרַע</he> » <tr>(Béra)</tr> <src>(בראשית יד, ב)</src>. Pourquoi ce nom lui convient-il ?",
+    "opts": null,
+    "a": "<he>בְּ' רַע</he> – méchant envers le Ciel et méchant envers les créatures",
+    "x": "il cherchait exprès à faire du mal à Hachem et aux gens – et en plus, il s'en vantait."
+   },
+   {
+    "q": "Où sont tombés le roi de Sodome et le roi d'Amora en fuyant la guerre ?",
+    "opts": [
+     "Dans la mer",
+     "Dans des fosses de boue 🕳️",
+     "Dans une grotte avec un ours"
+    ],
+    "a": "Dans les fosses de boue",
+    "x": "et le roi de Sodome en est sorti par miracle – pour que tout le monde croie aussi au miracle d'Avram dans la fournaise."
+   },
+   {
+    "q": "Devinette – qui suis-je ? Je suis un géant, je me suis enfui de la guerre et j'ai couru dire à Avram que Loth avait été capturé. Mais mon intention n'était pas bonne du tout… 🦶",
+    "opts": null,
+    "a": "Og – « <he>הַפָּלִיט</he> » <src>(בראשית יד, יג)</src> <tr>(le fugitif)</tr>",
+    "x": "il espérait qu'Avram serait tué à la guerre, pour pouvoir ensuite épouser Saraï."
+   },
+   {
+    "q": "Combien d'hommes Avram a-t-il emmenés avec lui à la guerre, selon le verset ?",
+    "opts": [
+     "3",
+     "318",
+     "1 000"
+    ],
+    "a": "318 – « <he>חֲנִיכָיו יְלִידֵי בֵיתוֹ</he> » <src>(בראשית יד, יד)</src> <tr>(« ses serviteurs, nés dans sa maison »)</tr>",
+    "x": "et selon nos Sages – seul Eliézer est resté avec lui, et « Eliézer » vaut 318 en guématria !"
+   },
+   {
+    "q": "Qui est resté à l'arrière pour garder les bagages et les affaires ?",
+    "opts": null,
+    "a": "Aner, Echkol et Mamré (<he>עָנֵר, אֶשְׁכֹּל וּמַמְרֵא</he>)",
+    "x": "les amis d'Avram – c'est pourquoi eux aussi ont reçu une part du butin."
+   },
+   {
+    "q": "Qu'ont lancé Avram et Eliézer sur les rois – et qu'est-ce que c'est devenu en l'air ?",
+    "opts": null,
+    "a": "De la poussière – qui s'est transformée en flèches et en épées ! 🏹",
+    "x": "un grand miracle, et c'est ainsi que deux hommes ont vaincu quatre rois puissants."
+   },
+   {
+    "q": "Jusqu'où Avram a-t-il poursuivi les rois ?",
+    "opts": [
+     "Jusqu'à Dan",
+     "Jusqu'en Égypte",
+     "Jusqu'à la lune 🌙"
+    ],
+    "a": "Jusqu'à Dan",
+    "x": "au nord du pays – à plusieurs jours de marche. La nuit, ils se sont divisés en groupes et sont arrivés de plusieurs directions."
+   },
+   {
+    "q": "Qui est sorti à la rencontre d'Avram avec du pain et du vin après la victoire – et qui était-il vraiment ? 🍞🍷",
+    "opts": null,
+    "a": "Malki-Tsédek – c'est Chem, fils de Noa'h (<he>מַלְכִּי צֶדֶק – שֵׁם בֶּן נֹחַ</he>)",
+    "x": "roi de Chalem (Jérusalem) et prêtre du D. Très-Haut, qui a béni Avram."
+   },
+   {
+    "q": "Qu'Avram a-t-il donné à Malki-Tsédek ?",
+    "opts": null,
+    "a": "La dîme (<he>מַעֲשֵׂר</he>) – un dixième de tout le butin",
+    "x": "parce qu'il était un prêtre qui offrait des sacrifices à Hachem."
+   },
+   {
+    "q": "Le roi de Sodome a dit : « <he>תֶּן לִי הַנֶּפֶשׁ וְהָרְכֻשׁ קַח לָךְ</he> » <src>(בראשית יד, כא)</src> <tr>(« donne-moi les personnes, et prends les biens pour toi »)</tr>. Qu'a répondu Avram ?",
+    "opts": null,
+    "a": "« <he>אִם מִחוּט וְעַד שְׂרוֹךְ נַעַל</he> » <src>(בראשית יד, כג)</src> – je ne prendrai rien !",
+    "x": "pour que le roi de Sodome ne dise pas « c'est moi qui ai enrichi Avram » – seul Hachem l'enrichit."
+   },
+   {
+    "q": "Parce qu'Avram a dit « <he>מִחוּט וְעַד שְׂרוֹךְ נַעַל</he> » <tr>(« d'un fil jusqu'à une lanière de sandale »)</tr> – ses descendants ont mérité deux mitsvot. Lesquelles ?",
+    "opts": null,
+    "a": "Le fil de tekhélet et la lanière des téfilines",
+    "x": "le fil – dans les tsitsit, et la lanière – dans les courroies des téfilines."
+   },
+   {
+    "q": "De quoi Avram a-t-il eu peur après tous les miracles de la guerre ?",
+    "opts": null,
+    "a": "D'avoir peut-être « utilisé » tous ses mérites",
+    "x": "ou d'être puni pour avoir tué des gens. Hachem lui a dit : « <he>אַל תִּירָא... שְׂכָרְךָ הַרְבֵּה מְאֹד</he> » <src>(בראשית טו, א)</src> <tr>(« ne crains pas… ta récompense est très grande »)</tr>."
+   },
+   {
+    "q": "Lors de l'alliance entre les morceaux (brit bein habetarim), Avram a coupé les animaux en deux – mais il n'a pas coupé une chose. Laquelle, et pourquoi ?",
+    "opts": null,
+    "a": "Les oiseaux 🕊️",
+    "x": "les bêtes font allusion aux nations du monde qui disparaîtront, et les oiseaux au peuple d'Israël – qui ne disparaîtra jamais !"
+   },
+   {
+    "q": "Quel oiseau a essayé de se poser sur la viande, et qu'a fait Avram ?",
+    "opts": [
+     "Un rapace (<he>עַיִט</he>) – et Avram l'a chassé",
+     "Un perroquet – et Avram lui a appris à parler 🦜",
+     "Une colombe – et Avram l'a nourrie"
+    ],
+    "a": "Un rapace (<he>עַיִט</he>)",
+    "x": "« <he>וַיַּשֵּׁב אֹתָם אַבְרָם</he> » <src>(בראשית טו, יא)</src> <tr>(« Avram les chassa »)</tr> – allusion au roi David qui combattra les nations, mais la délivrance complète ne viendra qu'avec le Machia'h."
+   },
+   {
+    "q": "Pendant combien d'années Hachem a-t-il dit à Avram que ses descendants seraient « <he>גֵּרִים בְּאֶרֶץ לֹא לָהֶם</he> » <src>(בראשית טו, יג)</src> <tr>(« étrangers dans un pays qui n'est pas le leur »)</tr> ?",
+    "opts": [
+     "40",
+     "400",
+     "4 000"
+    ],
+    "a": "400 ans",
+    "x": "le compte commence à la naissance d'Its'hak – dont seulement 210 ans en Égypte, et à la fin « <he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he> » <src>(בראשית טו, יד)</src> <tr>(« ils sortiront avec de grandes richesses »)</tr>."
+   },
+   {
+    "q": "Qu'est-ce qui est passé entre les morceaux dans la grande obscurité ? 🔥",
+    "opts": null,
+    "a": "« <he>תַּנּוּר עָשָׁן וְלַפִּיד אֵשׁ</he> » <src>(בראשית טו, יז)</src> <tr>(« un four fumant et une torche de feu »)</tr>",
+    "x": "des envoyés de la Chekhina – et ainsi Hachem a conclu une alliance avec Avram sur la terre d'Israël."
+   },
+   {
+    "q": "Pourquoi presque toutes nos Mères (les Matriarches) étaient-elles stériles au début ?",
+    "opts": null,
+    "a": "Parce qu'Hachem désire la prière des femmes justes",
+    "x": "Hachem aime les entendre prier."
+   },
+   {
+    "q": "Combien d'années Avram et Saraï ont-ils attendu en terre de Kena'an sans enfants, avant que Saraï donne Hagar à Avram ?",
+    "opts": null,
+    "a": "10 ans",
+    "x": "Saraï espérait que grâce à cela, Hachem écouterait aussi ses prières à elle."
+   },
+   {
+    "q": "Combien d'anges ont rencontré Hagar dans le désert ? Et qu'est-ce que le dernier lui a dit ?",
+    "opts": null,
+    "a": "Quatre anges",
+    "x": "le quatrième a annoncé : « <he>הִנָּךְ הָרָה וְיֹלַדְתְּ בֵּן... וְקָרָאת שְׁמוֹ יִשְׁמָעֵאל</he> » <src>(בראשית טז, יא)</src> <tr>(« tu es enceinte et tu enfanteras un fils… tu l'appelleras Yichmaël »)</tr>."
+   },
+   {
+    "q": "Hagar s'étonnait d'avoir vu des anges même au milieu du désert. Comment a-t-on appelé le puits de cet endroit ?",
+    "opts": null,
+    "a": "« <he>בְּאֵר לַחַי רֹאִי</he> » <src>(בראשית טז, יד)</src> <tr>(Béer La'haï Roï)</tr>",
+    "x": "un puits où l'on a vu un ange vivant et présent. Et Hagar a appelé Hachem « <he>אֵ-ל רֳאִי</he> » <tr>(D. qui voit)</tr> – qui voit tout."
+   },
+   {
+    "q": "Quel âge avait Avram à la naissance de Yichmaël ?",
+    "opts": [
+     "75",
+     "86",
+     "99"
+    ],
+    "a": "86 ans",
+    "x": "« <he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he> » <src>(בראשית טז, טז)</src> <tr>(« quatre-vingts ans et six ans »)</tr>."
+   },
+   {
+    "q": "Hachem a changé le nom « <he>אַבְרָם</he> » en « <he>אַבְרָהָם</he> » <src>(בראשית יז, ה)</src>. Qu'a de spécial le nombre (la guématria) du nouveau nom ?",
+    "opts": null,
+    "a": "Avraham vaut 248 en guématria (רמ\"ח)",
+    "x": "comme les 248 membres – par la brit mila, Avraham est devenu complet dans tous ses membres. Et aussi : « <he>אַב הֲמוֹן גּוֹיִם</he> » <src>(בראשית יז, ה)</src> <tr>(« père d'une multitude de nations »)</tr>."
+   },
+   {
+    "q": "Quelle est la différence entre le nom « <he>שָׂרַי</he> » et le nom « <he>שָׂרָה</he> » <src>(בראשית יז, טו)</src> ?",
+    "opts": null,
+    "a": "<he>שָׂרַי</he> = ma princesse, <he>שָׂרָה</he> = la princesse de tous 👑",
+    "x": "désormais, elle est comme une princesse du monde entier."
+   },
+   {
+    "q": "Le nom <he>יִצְחָק</he> (Its'hak) est un acronyme ! Que cache chaque lettre : <he>י – צ – ח – ק</he> ?",
+    "opts": null,
+    "a": "<he>י</he> – 10 épreuves · <he>צ</he> – les 90 ans de Sarah · <he>ח</he> – 8 jours · <he>ק</he> – les 100 ans d'Avraham",
+    "x": "et à cause du rire (tsé'hok) et de la joie qu'il y aura à la maison quand il naîtra. 😄"
+   },
+   {
+    "q": "Pourquoi Avraham a-t-il fait la brit mila justement en plein jour, et pas dans l'obscurité de la nuit ?",
+    "opts": null,
+    "a": "Pour montrer qu'il n'avait pas peur qu'on se moque de lui",
+    "x": "« <he>בְּעֶצֶם הַיּוֹם הַזֶּה</he> » <src>(בראשית יז, כו)</src> <tr>(« en ce jour même »)</tr> – on accomplit les mitsvot d'Hachem avec fierté et en plein jour ! ☀️"
+   },
+   {
+    "q": "🧮 Énigme de calcul : Avram est sorti de 'Haran à 75 ans. Yichmaël est né quand Avram avait 86 ans, et la brit mila a eu lieu quand Avraham avait 99 ans. Quel âge avait Yichmaël à la brit ? Et en bonus : combien d'années se sont écoulées entre la sortie de 'Haran et la brit ?",
+    "opts": null,
+    "a": "Yichmaël avait 13 ans · 24 ans se sont écoulés",
+    "x": "99 − 86 = 13 (exactement comme dans le verset : « <he>בֶּן שְׁלֹשׁ עֶשְׂרֵה שָׁנָה</he> » <src>(בראשית יז, כה)</src> <tr>(« âgé de treize ans »)</tr>), et 99 − 75 = 24."
+   },
+   {
+    "q": "💎 Question en or : « <he>וַיִּקְחוּ אֶת לוֹט וְאֶת רְכֻשׁוֹ בֶּן אֲחִי אַבְרָם וַיֵּלֵכוּ</he> » <src>(בראשית יד, יב)</src> <tr>– « ils prirent Loth et ses biens, le fils du frère d'Avram, et s'en allèrent »</tr>. Attendez… pourquoi le verset n'écrit-il pas dans l'ordre : « Loth, le fils du frère d'Avram – et ses biens » ? Pourquoi « et ses biens » est-il glissé au milieu ?",
+    "opts": null,
+    "a": "Parce qu'aux yeux des quatre rois – Loth lui-même était un « bien » !",
+    "x": "Loth ressemblait beaucoup à Avram (nos Sages disent que leurs visages se ressemblaient comme ceux de deux frères). Pour Kedorlaomer, Loth n'était pas un simple prisonnier de plus – c'était un « trophée de victoire » qu'on pouvait montrer à tous en disant : « Voilà, Avram a perdu la guerre, et il n'y a pas de D. pour l'aider ! ». C'est pourquoi le verset colle Loth aux biens, et n'ajoute qu'ensuite « <he>בֶּן אֲחִי אַבְרָם</he> » <tr>(le fils du frère d'Avram)</tr> – car toute la raison de le prendre était son lien avec Avram. Mais ils se sont lourdement trompés : Avram est sorti, a gagné, et a tout ramené. 💪"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️"
+ }
+}

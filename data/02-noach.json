@@ -1,0 +1,771 @@
+{
+ "series": 2,
+ "slug": "noach",
+ "date": "2026-10-17",
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "נח",
+  "kicker": "חידון לשולחן השבת",
+  "title": "מסע <em>התיבה</em> הגדול!",
+  "emoji": "🌧️ 🚢 🐘 🦒 🦁 🕊️ 🌿 🌈",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – ולכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות מהשלבים הגבוהים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח הראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 ומעלה · 5 נקודות לכל תשובה"
+   }
+  ],
+  "questions": [
+   {
+    "q": "מה ציווה ה' את נח לבנות?",
+    "opts": [
+     "תיבה גדולה",
+     "מגדל גבוה",
+     "ארמון זהב 🏰"
+    ],
+    "a": "תיבה גדולה",
+    "x": "\"עשה לך תבת עצי גופר\"."
+   },
+   {
+    "q": "חידה – מי אני? אני ציפור לבנה, והבאתי לנח עלה של זית בפה 🕊️",
+    "opts": null,
+    "a": "היונה",
+    "x": ""
+   },
+   {
+    "q": "כמה ימים ירד הגשם של המבול?",
+    "opts": [
+     "7 ימים",
+     "40 יום ו־40 לילה",
+     "100 ימים"
+    ],
+    "a": "40 יום ו־40 לילה",
+    "x": "\"ויהי הגשם על הארץ ארבעים יום וארבעים לילה\"."
+   },
+   {
+    "q": "איך קראו לשלושת הבנים של נח?",
+    "opts": null,
+    "a": "שם, חם ויפת",
+    "x": ""
+   },
+   {
+    "q": "מה שם ה' בענן, כסימן שלא יהיה עוד מבול? 🌈",
+    "opts": null,
+    "a": "קשת",
+    "x": "כשרואים קשת בענן – נזכרים בהבטחה של ה'."
+   },
+   {
+    "q": "איך נכנסו בעלי החיים לתיבה?",
+    "opts": [
+     "בזוגות – זכר ונקבה",
+     "כל אחד לבד",
+     "ברכבת 🚂"
+    ],
+    "a": "בזוגות – זכר ונקבה",
+    "x": ""
+   },
+   {
+    "q": "על איזה הר נחה התיבה?",
+    "opts": null,
+    "a": "על הרי אררט",
+    "x": ""
+   },
+   {
+    "q": "איך התורה מתארת את נח?",
+    "opts": [
+     "איש צדיק תמים",
+     "איש עצלן",
+     "איש ליצן 🤡"
+    ],
+    "a": "איש צדיק תמים",
+    "x": "נח עבד את ה' בתמימות, ולא למד ממעשי הרשעים סביבו."
+   },
+   {
+    "q": "מה בנו האנשים בבבל, כדי להגיע עד השמיים?",
+    "opts": null,
+    "a": "מגדל – \"מגדל בבל\"",
+    "x": ""
+   },
+   {
+    "q": "איזו ציפור שלח נח ראשונה מהתיבה?",
+    "opts": [
+     "עורב",
+     "תוכי 🦜",
+     "יונה"
+    ],
+    "a": "העורב",
+    "x": "רק אחריו שלח את היונה."
+   },
+   {
+    "q": "מאיזה עץ ציווה ה' לבנות את התיבה?",
+    "opts": null,
+    "a": "מעצי גופר",
+    "x": "עץ חזק מאוד ממין עצי הארז."
+   },
+   {
+    "q": "במה מרח נח את התיבה מבפנים ומבחוץ, כדי שהמים לא ייכנסו?",
+    "opts": [
+     "זפת (\"כופר\")",
+     "שוקולד 🍫",
+     "דבק נייר"
+    ],
+    "a": "בזפת – \"וכפרת אותה... בכופר\"",
+    "x": ""
+   },
+   {
+    "q": "כמה קומות היו בתיבה, ומי גר בכל קומה?",
+    "opts": null,
+    "a": "שלוש: עליונה – לאנשים, אמצעית – לבעלי החיים, תחתונה – לזבל 💩",
+    "x": ""
+   },
+   {
+    "q": "כמה שנים בנה נח את התיבה?",
+    "opts": [
+     "שנה אחת",
+     "120 שנה",
+     "1,000 שנה"
+    ],
+    "a": "120 שנה",
+    "x": ""
+   },
+   {
+    "q": "כמה פעמים שלח נח את היונה, ומה קרה בכל פעם?",
+    "opts": null,
+    "a": "3 פעמים: חזרה בלי כלום, חזרה עם עלה זית, ובפעם השלישית לא חזרה",
+    "x": "כשלא חזרה – נח הבין שהארץ כבר יבשה."
+   },
+   {
+    "q": "כמה אנשים נכנסו לתיבה?",
+    "opts": [
+     "2",
+     "8",
+     "100"
+    ],
+    "a": "8 אנשים",
+    "x": "נח ואשתו, שלושת בניו ושלוש נשותיהם."
+   },
+   {
+    "q": "מה נטע נח אחרי שיצא מהתיבה? 🍇",
+    "opts": null,
+    "a": "כרם – גפנים",
+    "x": ""
+   },
+   {
+    "q": "למה נקרא המקום \"<he>בָּבֶל</he>\"?",
+    "opts": null,
+    "a": "כי שם <he>בִּלְבֵּל</he> ה' את השפה של כולם",
+    "x": ""
+   },
+   {
+    "q": "מה קרה פתאום לבוני המגדל, שבגללו הפסיקו לבנות?",
+    "opts": null,
+    "a": "כל אחד התחיל לדבר בשפה אחרת, והם לא הבינו זה את זה",
+    "x": "אחד ביקש לבנה – וחברו הביא לו טיט! 😄"
+   },
+   {
+    "q": "מה התיר ה' לאכול לראשונה אחרי המבול – שאדם הראשון לא אכל?",
+    "opts": null,
+    "a": "בשר של בעלי חיים",
+    "x": "עד אז אכלו רק צמחים."
+   },
+   {
+    "q": "מבעלי החיים הטהורים – כמה זוגות הכניס נח? ומהטמאים?",
+    "opts": null,
+    "a": "מהטהורים – שבעה זוגות, מהטמאים – זוג אחד",
+    "x": "את הטהורים יוכל להקריב לקרבן אחרי המבול."
+   },
+   {
+    "q": "לתיבה היה \"<he>צֹהַר</he>\". מה זה?",
+    "opts": null,
+    "a": "חלון – או אבן טובה שמאירה בתוך התיבה 💎",
+    "x": "יש בזה שני פירושים."
+   },
+   {
+    "q": "למה בנה נח את התיבה במשך זמן כל כך ארוך?",
+    "opts": null,
+    "a": "כדי שאנשים יראו, ישאלו מה הוא עושה – ויחזרו בתשובה",
+    "x": "נח גם נטע קודם עצים, ורק כשגדלו כרת אותם."
+   },
+   {
+    "q": "חוץ ממי שהיה בתיבה – מי עוד ניצל מהמבול?",
+    "opts": null,
+    "a": "הדגים, הרְאֵם (חיה ענקית שנקשרה לתיבה) ועוֹג",
+    "x": ""
+   },
+   {
+    "q": "איזו חיה נשכה את נח, כשאיחר להביא לה אוכל? 🦁",
+    "opts": null,
+    "a": "האריה",
+    "x": "מאז נזהר נח מאוד לא לאחר לאף חיה."
+   },
+   {
+    "q": "נח לא ידע מה אוכלת הזיקית. איך גילה?",
+    "opts": null,
+    "a": "תולעת נפלה מרימון רקוב – והזיקית מיד אכלה אותה",
+    "x": "מאז הביא נח לזיקית תולעים."
+   },
+   {
+    "q": "\"עוף החול\" לא ביקש אוכל כדי לא להטריח את נח. איך בירך אותו נח?",
+    "opts": null,
+    "a": "שלא ימות לעולם",
+    "x": ""
+   },
+   {
+    "q": "מה עשה העורב שנח שלח מהתיבה?",
+    "opts": null,
+    "a": "עף הלוך ושוב מסביב לתיבה, עד שיבשו המים",
+    "x": ""
+   },
+   {
+    "q": "למה הביאה היונה דווקא עלה של זית, שהוא מר?",
+    "opts": null,
+    "a": "לרמוז: עדיף אוכל מר כמו זית מה', מאשר מתוק כמו דבש מבני אדם",
+    "x": ""
+   },
+   {
+    "q": "כמה זמן היו נח ומשפחתו בתוך התיבה?",
+    "opts": [
+     "חודש",
+     "40 יום",
+     "שנה ועשרה ימים"
+    ],
+    "a": "שנה ועשרה ימים",
+    "x": ""
+   },
+   {
+    "q": "רש\"י מביא שלוש סיבות למה קוראים למבול \"מבול\". תנו אחת!",
+    "opts": null,
+    "a": "<he>שֶׁבִּלָּה</he> (הרס) הכל · <he>שֶׁבִּלְבֵּל</he> את הכל · שהוביל את הכל למקום נמוך",
+    "x": ""
+   },
+   {
+    "q": "שם ויפת כיבדו את אביהם נח מאוד. מה עשו?",
+    "opts": null,
+    "a": "לקחו בגד, הלכו אחורה וכיסו את אביהם בכבוד",
+    "x": "על מצוות כיבוד אב קיבלו שכר גדול."
+   },
+   {
+    "q": "מה הבטיח ה' לנח אחרי המבול?",
+    "opts": null,
+    "a": "שלא יביא עוד מבול – וש\"זרע וקציר, קור וחום, קיץ וחורף, יום ולילה לא ישבתו\"",
+    "x": ""
+   },
+   {
+    "q": "מה עשה נח מיד כשיצא מהתיבה?",
+    "opts": null,
+    "a": "בנה מזבח והקריב קרבנות להודות לה'",
+    "x": ""
+   },
+   {
+    "q": "דור הפלגה מרדו בה' – ובכל זאת נענשו פחות מדור המבול. למה?",
+    "opts": null,
+    "a": "כי הם היו מאוחדים ואהבו זה את זה, ובדור המבול היו גזל ומריבות",
+    "x": "מכאן לומדים כמה חשוב השלום! ☮️"
+   },
+   {
+    "q": "מי היה המלך הרשע שהיה \"גיבור ציד\" ועמד בראש בוני המגדל?",
+    "opts": null,
+    "a": "נמרוד",
+    "x": ""
+   },
+   {
+    "q": "כמה עמים (אומות) יצאו מבני נח?",
+    "opts": [
+     "12",
+     "70",
+     "100"
+    ],
+    "a": "70 אומות",
+    "x": "מיפת 14, מחם 30, משם 26."
+   },
+   {
+    "q": "ה' חיכה עוד שבעה ימים לפני שהתחיל המבול. למה?",
+    "opts": null,
+    "a": "ימי אבל על מתושלח הצדיק, שנפטר באותו זמן",
+    "x": ""
+   },
+   {
+    "q": "מה עשה אברם הקטן עם הפסלים בחנות של אביו תרח? 🔨",
+    "opts": null,
+    "a": "שבר את כולם, והשאיר את הפטיש ביד הפסל הגדול",
+    "x": "ואז אמר לתרח: הפסל הגדול שבר את כולם! 😄"
+   },
+   {
+    "q": "איש בן 50 בא לקנות פסל מאברם. מה אמר לו אברם?",
+    "opts": null,
+    "a": "\"אוי לך! אתה בן חמישים ומשתחווה לפסל שנעשה היום?!\"",
+    "x": "האיש התבייש והלך."
+   },
+   {
+    "q": "מה היו מידות התיבה באמות – אורך, רוחב וגובה?",
+    "opts": null,
+    "a": "אורך 300 אמה, רוחב 50 אמה, גובה 30 אמה",
+    "x": "בערך 150 מטר אורך!"
+   },
+   {
+    "q": "באיזה תאריך התחיל המבול?",
+    "opts": null,
+    "a": "בי\"ז בחשוון",
+    "x": "\"בחודש השני בשבעה עשר יום לחודש\"."
+   },
+   {
+    "q": "כמה אמות עלו המים מעל ההר הכי גבוה בעולם?",
+    "opts": null,
+    "a": "15 אמה",
+    "x": ""
+   },
+   {
+    "q": "כשמסתכלים על הקשת בענן – לאן פונים הקצוות שלה, ומה זה מרמז?",
+    "opts": null,
+    "a": "הקצוות פונים כלפי מטה – סימן שלא יירו \"חיצים\" מהשמיים, כמו לוחם שמוריד את הקשת לשלום",
+    "x": ""
+   },
+   {
+    "q": "מי נקרא \"אבי כל בני עבר\"?",
+    "opts": null,
+    "a": "<he>שֵׁם</he> בן נח",
+    "x": ""
+   },
+   {
+    "q": "כמה דורות היו מנח ועד אברם?",
+    "opts": [
+     "5",
+     "10",
+     "20"
+    ],
+    "a": "עשרה דורות",
+    "x": "נח, שם, ארפכשד, שלח, עבר, פלג, רעו, שרוג, נחור, תרח – ואברם."
+   },
+   {
+    "q": "נמרוד זרק את אברם לכבשן האש. מה קרה?",
+    "opts": null,
+    "a": "ה' עשה נס, ואברם יצא בריא ושלם בלי שום פגע",
+    "x": "כולם ראו מי באמת השולט על העולם."
+   },
+   {
+    "q": "למה אברם נקרא \"אברם העברי\"?",
+    "opts": null,
+    "a": "כי כל העולם עמד ב\"עבר\" אחד (עבודה זרה), ואברם לבד בעבר השני – מאמין בה'",
+    "x": ""
+   },
+   {
+    "q": "בן כמה היה אברם כשהתחיל לחקור מי ברא את העולם, ומה חשב בהתחלה?",
+    "opts": null,
+    "a": "בן 3. קודם חשב שהשמש, אחר כך שהירח – ובסוף הבין שיש בורא אחד",
+    "x": ""
+   },
+   {
+    "q": "🧮 חידת האלופים: נח היה בן 600 כשהתחיל המבול, וחי אחריו עוד 350 שנה. בן כמה היה כשנפטר?",
+    "opts": null,
+    "a": "950 שנה",
+    "x": "600 + 350 = 950. כשנח נפטר, אברהם כבר היה בן 58!"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️"
+ },
+ "fr": {
+  "parasha": "Noa'h",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "La grande aventure de l'<em>arche</em> !",
+  "emoji": "🌧️ 🚢 🐘 🦒 🦁 🕊️ 🌿 🌈",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans et plus · 5 points par réponse"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qu'est-ce qu'Hachem a ordonné à Noa'h de construire ?",
+    "opts": [
+     "Une grande arche",
+     "Une haute tour",
+     "Un palais en or 🏰"
+    ],
+    "a": "Une grande arche",
+    "x": "« <he>עֲשֵׂה לְךָ תֵּבַת עֲצֵי גֹפֶר</he> » <src>(בראשית ו, יד)</src> <tr>(« fais-toi une arche en bois de gofer »)</tr>."
+   },
+   {
+    "q": "Devinette – qui suis-je ? Je suis un oiseau blanc, et j'ai rapporté à Noa'h une feuille d'olivier dans mon bec 🕊️",
+    "opts": null,
+    "a": "La colombe",
+    "x": ""
+   },
+   {
+    "q": "Combien de jours a duré la pluie du déluge ?",
+    "opts": [
+     "7 jours",
+     "40 jours et 40 nuits",
+     "100 jours"
+    ],
+    "a": "40 jours et 40 nuits",
+    "x": "« <he>וַיְהִי הַגֶּשֶׁם עַל הָאָרֶץ אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה</he> » <src>(בראשית ז, יב)</src> <tr>(« la pluie tomba sur la terre quarante jours et quarante nuits »)</tr>."
+   },
+   {
+    "q": "Comment s'appelaient les trois fils de Noa'h ?",
+    "opts": null,
+    "a": "Chem, 'Ham et Yéfeth",
+    "x": ""
+   },
+   {
+    "q": "Qu'est-ce qu'Hachem a placé dans la nuée, en signe qu'il n'y aurait plus de déluge ? 🌈",
+    "opts": null,
+    "a": "Un arc-en-ciel (kéchet)",
+    "x": "quand on voit l'arc-en-ciel dans la nuée – on se souvient de la promesse d'Hachem."
+   },
+   {
+    "q": "Comment les animaux sont-ils entrés dans l'arche ?",
+    "opts": [
+     "Par couples – un mâle et une femelle",
+     "Chacun tout seul",
+     "En train 🚂"
+    ],
+    "a": "Par couples – un mâle et une femelle",
+    "x": ""
+   },
+   {
+    "q": "Sur quelle montagne l'arche s'est-elle posée ?",
+    "opts": null,
+    "a": "Sur les monts Ararat",
+    "x": ""
+   },
+   {
+    "q": "Comment la Torah décrit-elle Noa'h ?",
+    "opts": [
+     "Un homme juste et intègre",
+     "Un homme paresseux",
+     "Un homme farceur 🤡"
+    ],
+    "a": "Un homme juste et intègre – « <he>אִישׁ צַדִּיק תָּמִים</he> » <src>(בראשית ו, ט)</src>",
+    "x": "Noa'h servait Hachem avec intégrité, et n'apprenait pas des actes des méchants autour de lui."
+   },
+   {
+    "q": "Qu'ont construit les gens à Bavel pour arriver jusqu'au ciel ?",
+    "opts": null,
+    "a": "Une tour – « la tour de Bavel »",
+    "x": ""
+   },
+   {
+    "q": "Quel oiseau Noa'h a-t-il envoyé en premier hors de l'arche ?",
+    "opts": [
+     "Le corbeau",
+     "Le perroquet 🦜",
+     "La colombe"
+    ],
+    "a": "Le corbeau",
+    "x": "ce n'est qu'après lui qu'il a envoyé la colombe."
+   },
+   {
+    "q": "Avec quel bois Hachem a-t-il ordonné de construire l'arche ?",
+    "opts": null,
+    "a": "En bois de gofer",
+    "x": "un bois très solide, de la famille des cèdres."
+   },
+   {
+    "q": "Avec quoi Noa'h a-t-il enduit l'arche dedans et dehors, pour que l'eau n'entre pas ?",
+    "opts": [
+     "Du goudron (« kofer »)",
+     "Du chocolat 🍫",
+     "De la colle à papier"
+    ],
+    "a": "Avec du goudron – « <he>וְכָפַרְתָּ אֹתָהּ... בַּכֹּפֶר</he> » <src>(בראשית ו, יד)</src> <tr>(« enduis-la… de goudron »)</tr>",
+    "x": ""
+   },
+   {
+    "q": "Combien d'étages avait l'arche, et qui habitait à chaque étage ?",
+    "opts": null,
+    "a": "Trois : en haut – les hommes, au milieu – les animaux, en bas – les déchets 💩",
+    "x": ""
+   },
+   {
+    "q": "Pendant combien d'années Noa'h a-t-il construit l'arche ?",
+    "opts": [
+     "Un an",
+     "120 ans",
+     "1 000 ans"
+    ],
+    "a": "120 ans",
+    "x": ""
+   },
+   {
+    "q": "Combien de fois Noa'h a-t-il envoyé la colombe, et que s'est-il passé à chaque fois ?",
+    "opts": null,
+    "a": "3 fois : elle est revenue sans rien, elle est revenue avec une feuille d'olivier, et la troisième fois elle n'est pas revenue",
+    "x": "quand elle n'est pas revenue – Noa'h a compris que la terre était déjà sèche."
+   },
+   {
+    "q": "Combien de personnes sont entrées dans l'arche ?",
+    "opts": [
+     "2",
+     "8",
+     "100"
+    ],
+    "a": "8 personnes",
+    "x": "Noa'h et sa femme, ses trois fils et leurs trois femmes."
+   },
+   {
+    "q": "Qu'a planté Noa'h après être sorti de l'arche ? 🍇",
+    "opts": null,
+    "a": "Une vigne – des ceps de vigne",
+    "x": ""
+   },
+   {
+    "q": "Pourquoi l'endroit s'appelle-t-il « <he>בָּבֶל</he> » <tr>(Bavel – Babel)</tr> <src>(בראשית יא, ט)</src> ?",
+    "opts": null,
+    "a": "Parce que là, Hachem a mélangé (<he>בִּלְבֵּל</he>) la langue de tous",
+    "x": ""
+   },
+   {
+    "q": "Que s'est-il passé tout à coup pour les bâtisseurs de la tour, qui les a fait arrêter de construire ?",
+    "opts": null,
+    "a": "Chacun s'est mis à parler une langue différente, et ils ne se comprenaient plus",
+    "x": "l'un demandait une brique – et son ami lui apportait de la boue ! 😄"
+   },
+   {
+    "q": "Qu'Hachem a-t-il permis de manger pour la première fois après le déluge – ce qu'Adam Harichon ne mangeait pas ?",
+    "opts": null,
+    "a": "La viande des animaux",
+    "x": "jusque-là, on ne mangeait que des végétaux."
+   },
+   {
+    "q": "Parmi les animaux purs – combien de couples Noa'h a-t-il fait entrer ? Et parmi les impurs ?",
+    "opts": null,
+    "a": "Des purs – sept couples, des impurs – un seul couple",
+    "x": "les purs, il pourrait les offrir en sacrifice après le déluge."
+   },
+   {
+    "q": "L'arche avait un « <he>צֹהַר</he> » <tr>(tsohar)</tr> <src>(בראשית ו, טז)</src>. Qu'est-ce que c'est ?",
+    "opts": null,
+    "a": "Une fenêtre – ou une pierre précieuse qui éclairait l'intérieur de l'arche 💎",
+    "x": "il y a là deux explications."
+   },
+   {
+    "q": "Pourquoi Noa'h a-t-il construit l'arche pendant si longtemps ?",
+    "opts": null,
+    "a": "Pour que les gens le voient, demandent ce qu'il fait – et fassent techouva",
+    "x": "Noa'h a même d'abord planté des arbres, et ne les a coupés que quand ils avaient grandi."
+   },
+   {
+    "q": "À part ceux qui étaient dans l'arche – qui d'autre a été sauvé du déluge ?",
+    "opts": null,
+    "a": "Les poissons, le reèm (un animal géant attaché à l'arche) et Og",
+    "x": ""
+   },
+   {
+    "q": "Quel animal a mordu Noa'h, quand il a tardé à lui apporter à manger ? 🦁",
+    "opts": null,
+    "a": "Le lion",
+    "x": "depuis, Noa'h a fait très attention à ne plus être en retard pour aucun animal."
+   },
+   {
+    "q": "Noa'h ne savait pas ce que mangeait le caméléon. Comment l'a-t-il découvert ?",
+    "opts": null,
+    "a": "Un ver est tombé d'une grenade pourrie – et le caméléon l'a tout de suite mangé",
+    "x": "depuis, Noa'h apportait des vers au caméléon."
+   },
+   {
+    "q": "L'oiseau « 'Hol » (le phénix) ne demandait pas à manger pour ne pas déranger Noa'h. Quelle bénédiction Noa'h lui a-t-il donnée ?",
+    "opts": null,
+    "a": "Qu'il ne meure jamais",
+    "x": ""
+   },
+   {
+    "q": "Qu'a fait le corbeau que Noa'h a envoyé hors de l'arche ?",
+    "opts": null,
+    "a": "Il volait en allant et venant autour de l'arche, jusqu'à ce que l'eau sèche",
+    "x": ""
+   },
+   {
+    "q": "Pourquoi la colombe a-t-elle rapporté justement une feuille d'olivier, qui est amère ?",
+    "opts": null,
+    "a": "Pour faire comprendre : mieux vaut une nourriture amère comme l'olive venant d'Hachem, qu'une nourriture douce comme le miel venant des hommes",
+    "x": ""
+   },
+   {
+    "q": "Combien de temps Noa'h et sa famille sont-ils restés dans l'arche ?",
+    "opts": [
+     "Un mois",
+     "40 jours",
+     "Un an et dix jours"
+    ],
+    "a": "Un an et dix jours",
+    "x": ""
+   },
+   {
+    "q": "Rachi donne trois raisons pour lesquelles le déluge s'appelle « mabboul » (<he>מַבּוּל</he>). Donnez-en une !",
+    "opts": null,
+    "a": "Parce qu'il a tout détruit (<he>שֶׁבִּלָּה</he>) · tout mélangé (<he>שֶׁבִּלְבֵּל</he>) · tout emporté vers le bas (<he>שֶׁהוֹבִיל</he>)",
+    "x": ""
+   },
+   {
+    "q": "Chem et Yéfeth ont beaucoup honoré leur père Noa'h. Qu'ont-ils fait ?",
+    "opts": null,
+    "a": "Ils ont pris un vêtement, ont marché à reculons et ont couvert leur père avec respect",
+    "x": "pour la mitsva du respect des parents, ils ont reçu une grande récompense."
+   },
+   {
+    "q": "Qu'Hachem a-t-il promis à Noa'h après le déluge ?",
+    "opts": null,
+    "a": "Qu'il n'amènerait plus de déluge – et que « <he>זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלַיְלָה לֹא יִשְׁבֹּתוּ</he> » <src>(בראשית ח, כב)</src>",
+    "x": "<tr>« semailles et moisson, froid et chaleur, été et hiver, jour et nuit ne cesseront plus »</tr>"
+   },
+   {
+    "q": "Qu'a fait Noa'h dès qu'il est sorti de l'arche ?",
+    "opts": null,
+    "a": "Il a construit un autel et offert des sacrifices pour remercier Hachem",
+    "x": ""
+   },
+   {
+    "q": "La génération de la Tour (dor haflaga) s'est révoltée contre Hachem – et pourtant elle a été moins punie que la génération du déluge. Pourquoi ?",
+    "opts": null,
+    "a": "Parce qu'ils étaient unis et s'aimaient les uns les autres, alors que dans la génération du déluge il y avait vol et disputes",
+    "x": "on en apprend combien la paix est importante ! ☮️"
+   },
+   {
+    "q": "Qui était le roi méchant, « <he>גִּבֹּר צַיִד</he> » <tr>(vaillant chasseur)</tr> <src>(בראשית י, ט)</src>, qui dirigeait les bâtisseurs de la tour ?",
+    "opts": null,
+    "a": "Nimrod",
+    "x": ""
+   },
+   {
+    "q": "Combien de peuples (nations) sont issus des fils de Noa'h ?",
+    "opts": [
+     "12",
+     "70",
+     "100"
+    ],
+    "a": "70 nations",
+    "x": "de Yéfeth 14, de 'Ham 30, de Chem 26."
+   },
+   {
+    "q": "Hachem a encore attendu sept jours avant que le déluge commence. Pourquoi ?",
+    "opts": null,
+    "a": "Des jours de deuil pour Mathouchéla'h le juste, qui est mort à ce moment-là",
+    "x": ""
+   },
+   {
+    "q": "Qu'a fait le petit Avram avec les idoles dans la boutique de son père Téra'h ? 🔨",
+    "opts": null,
+    "a": "Il les a toutes cassées, et a laissé le marteau dans la main de la grande idole",
+    "x": "puis il a dit à Téra'h : c'est la grande idole qui les a toutes cassées ! 😄"
+   },
+   {
+    "q": "Un homme de 50 ans est venu acheter une idole à Avram. Que lui a dit Avram ?",
+    "opts": null,
+    "a": "« Malheur à toi ! Tu as cinquante ans et tu te prosternes devant une idole fabriquée aujourd'hui ?! »",
+    "x": "l'homme a eu honte et est parti."
+   },
+   {
+    "q": "Quelles étaient les dimensions de l'arche en coudées – longueur, largeur et hauteur ?",
+    "opts": null,
+    "a": "300 coudées de long, 50 coudées de large, 30 coudées de haut",
+    "x": "environ 150 mètres de long !"
+   },
+   {
+    "q": "À quelle date le déluge a-t-il commencé ?",
+    "opts": null,
+    "a": "Le 17 'Hechvan",
+    "x": "« <he>בַּחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ</he> » <src>(בראשית ז, יא)</src> <tr>(« au deuxième mois, le dix-septième jour du mois »)</tr>."
+   },
+   {
+    "q": "De combien de coudées l'eau est-elle montée au-dessus de la plus haute montagne du monde ?",
+    "opts": null,
+    "a": "15 coudées",
+    "x": ""
+   },
+   {
+    "q": "Quand on regarde l'arc-en-ciel – vers où sont tournées ses extrémités, et qu'est-ce que cela laisse entendre ?",
+    "opts": null,
+    "a": "Les extrémités sont tournées vers le bas – signe qu'on ne tirera pas de « flèches » du ciel, comme un guerrier qui baisse son arc en signe de paix",
+    "x": ""
+   },
+   {
+    "q": "Qui est appelé « <he>אֲבִי כָּל בְּנֵי עֵבֶר</he> » <tr>(le père de tous les enfants d'Éver)</tr> <src>(בראשית י, כא)</src> ?",
+    "opts": null,
+    "a": "Chem, fils de Noa'h (<he>שֵׁם בֶּן נֹחַ</he>)",
+    "x": ""
+   },
+   {
+    "q": "Combien de générations y a-t-il eu de Noa'h jusqu'à Avram ?",
+    "opts": [
+     "5",
+     "10",
+     "20"
+    ],
+    "a": "Dix générations",
+    "x": "Noa'h, Chem, Arpakhchad, Chéla'h, Éver, Péleg, Réou, Seroug, Na'hor, Téra'h – et Avram."
+   },
+   {
+    "q": "Nimrod a jeté Avram dans la fournaise. Que s'est-il passé ?",
+    "opts": null,
+    "a": "Hachem a fait un miracle, et Avram est sorti sain et sauf, sans aucune blessure",
+    "x": "tout le monde a vu qui dirige vraiment le monde."
+   },
+   {
+    "q": "Pourquoi Avram est-il appelé « <he>אַבְרָם הָעִבְרִי</he> » <tr>(Avram l'Hébreu)</tr> <src>(בראשית יד, יג)</src> ?",
+    "opts": null,
+    "a": "Parce que le monde entier se tenait d'un seul côté (« ever ») – l'idolâtrie –, et Avram tout seul de l'autre côté – croyant en Hachem",
+    "x": ""
+   },
+   {
+    "q": "Quel âge avait Avram quand il a commencé à chercher qui a créé le monde, et que pensait-il au début ?",
+    "opts": null,
+    "a": "3 ans. Au début, il a pensé que c'était le soleil, ensuite la lune – et à la fin, il a compris qu'il y a un seul Créateur",
+    "x": ""
+   },
+   {
+    "q": "🧮 Énigme des champions : Noa'h avait 600 ans quand le déluge a commencé, et il a vécu encore 350 ans après. Quel âge avait-il à sa mort ?",
+    "opts": null,
+    "a": "950 ans",
+    "x": "600 + 350 = 950. Quand Noa'h est mort, Avraham avait déjà 58 ans !"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️"
+ }
+}

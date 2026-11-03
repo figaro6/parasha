@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>OuriMad Weekly Parasha</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&family=Frank+Ruhl+Libre:wght@500;700&display=swap">
+<style>
+/* Layout: one narrow reading column (phone first) — sticky brand bar, hero card, level bands with tap-to-reveal answers, archive at the bottom */
+:root{
+  --bg:#fbf8f4; --surface:#ffffff; --ink:#2b2d42; --muted:#6b6f80; --navy:#2b2d6e; --pink:#e0457b; --gold:#f2c14e; --gold-soft:#fff7df; --line:#e6e3ee;
+  --hero-a:#fff3e3; --hero-b:#f3ecfb; --src:#8a6d1f;
+  --l1:#2fa865; --l2:#2a92cf; --l3:#e8901a; --l4:#8c5fd0; --l5:#d9467a;
+  --f-ui:"Rubik","Segoe UI",Arial,sans-serif; --f-verse:"Frank Ruhl Libre","David","Times New Roman",serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#17162a; --surface:#221f38; --ink:#ecebf5; --muted:#a7a6bd; --navy:#c9c6ff; --pink:#ff7aa6; --gold:#e6b947; --gold-soft:#3a3222; --line:#35325a;
+  --hero-a:#2b2440; --hero-b:#2a2147; --src:#e2c37a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#17162a; --surface:#221f38; --ink:#ecebf5; --muted:#a7a6bd; --navy:#c9c6ff; --pink:#ff7aa6; --gold:#e6b947; --gold-soft:#3a3222; --line:#35325a;
+  --hero-a:#2b2440; --hero-b:#2a2147; --src:#e2c37a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-ui);font-size:17px;line-height:1.5;-webkit-text-size-adjust:100%}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+.wrap{max-width:680px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--pink);outline-offset:2px;border-radius:6px}
+
+/* top bar */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:3px solid transparent;border-image:linear-gradient(90deg,var(--l5),var(--l4),var(--l3),var(--l2),var(--l1)) 1}
+.bar .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:8px}
+.brand{display:flex;align-items:center;gap:8px;min-width:0}
+.logo{width:34px;height:34px;flex:none;border-radius:9px;background:linear-gradient(135deg,#3b2a7a,#6a3fb5);display:grid;place-items:center;font-size:18px}
+.bn{font-weight:800;font-size:17px;line-height:1}.bn b{color:var(--navy)}.bn i{font-style:normal;color:var(--pink)}
+.tag{display:inline-block;background:var(--gold);color:#3b2a00;font-size:9px;font-weight:800;border-radius:5px;padding:1px 6px;margin-top:3px;letter-spacing:.06em}
+.lang{display:flex;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px;flex:none}
+.lang button{border:0;background:none;padding:6px 12px;border-radius:999px;font-weight:700;font-size:14px;cursor:pointer;color:var(--muted)}
+.lang button[aria-pressed="true"]{background:var(--navy);color:var(--surface)}
+
+main{display:flex;flex-direction:column;gap:14px;padding-block:16px 40px}
+
+/* hero */
+.hero{border:2px dashed var(--gold);border-radius:20px;background:linear-gradient(135deg,var(--hero-a),var(--hero-b));text-align:center;padding:18px 14px 16px;display:flex;flex-direction:column;gap:6px;align-items:center}
+.series{display:inline-flex;gap:6px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px 12px;font-size:13px;font-weight:700;color:var(--muted)}
+.series b{color:var(--pink)}
+.kicker{font-weight:700;color:var(--navy);font-size:15px}
+h1{margin:0;font-size:clamp(30px,8.5vw,44px);line-height:1.1;font-weight:900;color:var(--navy);text-wrap:balance}
+h1 em{font-style:normal;color:var(--pink)}
+.emo{font-size:22px;letter-spacing:4px;line-height:1.4}
+.sub{color:var(--muted);font-size:15px}
+.oldnote{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--gold-soft);border:1px solid var(--gold);border-radius:14px;padding:10px 14px;font-size:15px}
+.oldnote button{border:0;background:var(--navy);color:var(--surface);border-radius:999px;padding:6px 14px;font-weight:700;cursor:pointer}
+
+/* download */
+.dl{display:none;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px 16px}
+body.can-dl .dl{display:flex}
+.dl h2{margin:0;font-size:17px;color:var(--navy)}
+.dl p{margin:0;font-size:14px;color:var(--muted)}
+.dlrow{display:flex;gap:8px;flex-wrap:wrap}
+.dlrow>*{flex:1;min-width:130px;border:0;border-radius:12px;padding:10px 12px;font-weight:800;font-size:15px;cursor:pointer;background:var(--navy);color:var(--surface);text-align:center;text-decoration:none}
+.dlrow>*+*{background:var(--pink)}
+.dlrow button:disabled{opacity:.6;cursor:progress}
+.dlmsg{font-size:14px;color:var(--muted);min-height:1.2em}
+
+/* how to play */
+.how{background:var(--surface);border:2px solid var(--gold);border-radius:18px;padding:12px 16px}
+.how summary{font-weight:800;color:var(--pink);font-size:17px;cursor:pointer}
+.how ul{margin:8px 0 0;padding-inline-start:20px;display:flex;flex-direction:column;gap:4px;font-size:15.5px}
+
+/* level nav + tools */
+.nav{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.nav button{border:0;border-radius:12px;color:#fff;font-weight:800;font-size:13px;padding:7px 2px;cursor:pointer;line-height:1.2}
+.nav small{display:block;font-weight:600;font-size:11px;opacity:.95}
+.tools{display:flex;justify-content:flex-end}
+.tools button{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 14px;font-weight:700;font-size:14px;cursor:pointer;color:var(--navy)}
+
+/* levels */
+.level{display:flex;flex-direction:column;gap:8px;scroll-margin-top:72px}
+.lhead{display:flex;align-items:center;gap:12px;color:#fff;border-radius:18px;padding:12px 16px;background:var(--lc)}
+.lico{width:40px;height:40px;flex:none;border-radius:50%;background:rgba(255,255,255,.28);display:grid;place-items:center;font-size:20px}
+.lname{font-size:20px;font-weight:800;line-height:1.2}
+.lage{font-size:13px;opacity:.95}
+.stars{margin-inline-start:auto;font-size:13px;white-space:nowrap}
+
+.q{background:color-mix(in srgb,var(--lc) 11%,var(--surface));border-radius:16px;padding:12px 14px;display:flex;gap:12px}
+.q.gold{background:linear-gradient(135deg,var(--gold-soft),color-mix(in srgb,var(--l5) 12%,var(--surface)));border:2px solid var(--gold)}
+.num{flex:none;width:30px;height:30px;border-radius:50%;background:var(--lc);color:#fff;font-weight:800;font-size:14px;display:grid;place-items:center}
+.qb{min-width:0;flex:1;display:flex;flex-direction:column;gap:8px}
+.qt{font-weight:600;font-size:17px;line-height:1.5}
+.opts{display:flex;flex-wrap:wrap;gap:6px}
+.opts span{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px 11px;font-size:15px}
+.opts b{color:var(--lc)}
+.reveal{align-self:flex-start;border:1.5px solid var(--lc);background:var(--surface);color:var(--ink);border-radius:999px;padding:5px 14px;font-weight:700;font-size:14px;cursor:pointer}
+.reveal[aria-expanded="true"]{background:var(--lc);color:#fff}
+.ans{background:var(--surface);border-radius:12px;padding:10px 12px;border-inline-start:4px solid var(--lc);font-size:15.5px;line-height:1.55}
+.ans b{display:block;color:var(--ink);font-size:16px}
+.ans .x{color:var(--muted)}
+
+.he{font-family:var(--f-verse);font-weight:700;font-size:1.14em;color:var(--navy);unicode-bidi:isolate}
+.src{font-family:var(--f-verse);font-weight:500;font-size:.86em;color:var(--src);unicode-bidi:isolate;white-space:nowrap}
+.gloss{font-style:italic;color:var(--muted);font-weight:500}
+
+.bye{text-align:center;font-size:24px;font-weight:900;color:var(--pink);padding-block:6px}
+
+/* archive */
+.archive{display:flex;flex-direction:column;gap:10px;border-top:2px dashed var(--line);padding-top:18px;margin-top:6px}
+.archive h2{margin:0;font-size:20px;color:var(--navy)}
+.alist{display:flex;flex-direction:column;gap:8px}
+.acard{display:flex;align-items:center;gap:12px;width:100%;text-align:start;border:1px solid var(--line);background:var(--surface);border-radius:14px;padding:10px 14px;cursor:pointer}
+.acard .no{flex:none;width:40px;height:40px;border-radius:12px;background:var(--navy);color:var(--surface);font-weight:800;display:grid;place-items:center;font-variant-numeric:tabular-nums}
+.acard .t{font-weight:700;font-size:16px}.acard .d{font-size:13px;color:var(--muted)}
+.acard.cur{border-color:var(--pink)}
+.acard .pill{margin-inline-start:auto;font-size:12px;font-weight:700;color:var(--pink);white-space:nowrap}
+.empty{color:var(--muted);font-size:15px;background:var(--surface);border:1px dashed var(--line);border-radius:14px;padding:12px 14px}
+.load{color:var(--muted);text-align:center;padding:40px 0}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+@media (max-width:420px){.nav button{font-size:12px}.lname{font-size:18px}.emo{font-size:19px;letter-spacing:2px}}
+</style>
+
+<header class="bar"><div class="wrap">
+  <div class="brand"><div class="logo" aria-hidden="true">📜</div><div><div class="bn"><b>Ouri</b><i>Mad</i></div><span class="tag">WEEKLY_PARASHA</span></div></div>
+  <div class="lang" role="group" aria-label="Language / שפה">
+    <button id="btn-he" type="button" data-l="he">עברית</button>
+    <button id="btn-fr" type="button" data-l="fr">Français</button>
+  </div>
+</div></header>
+
+<main class="wrap" id="app"><div class="load">טוען… · Chargement…</div></main>
+
+<script>
+const LV = [
+  {c:"var(--l1)", i:"🌱"}, {c:"var(--l2)", i:"🔍"}, {c:"var(--l3)", i:"🕵️"}, {c:"var(--l4)", i:"🧠"}, {c:"var(--l5)", i:"🏆"}
+];
+const UI = {
+  he:{dir:"rtl", series:"חידון מס׳", parasha:"פרשת", how:"🎲 איך משחקים?", lvl:"שלב", pts:n=>n+" נק׳",
+      show:"הצגת התשובה", hide:"הסתרת התשובה", all:"הצגת כל התשובות", none:"הסתרת כל התשובות",
+      letters:["א.","ב.","ג."], archive:"📚 ארכיון החידונים", latest:"השבוע", empty:"החידונים של השבועות הקודמים יופיעו כאן.",
+      old:"זהו חידון מהארכיון.", back:"לחידון של השבוע", err:"לא הצלחנו לטעון את החידון. נסו לרענן את העמוד.", date:"he-IL",
+      dl:"📥 הורדת החידון ל־PDF", dlp:"4 עמודים, מוכן להדפסה – בחרו שפה:", saving:"מכינים את הקובץ…", saved:"הקובץ נשמר ✓",
+      declined:"ההורדה בוטלה.", dlfail:"ההורדה לא הצליחה. נסו שוב בעוד רגע.", dlext:"הכפתורים יפתחו את האתר הציבורי בלשונית חדשה – שם ההורדה מיידית:"},
+  fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
+      show:"Voir la réponse", hide:"Cacher la réponse", all:"Voir toutes les réponses", none:"Cacher toutes les réponses",
+      letters:["a.","b.","c."], archive:"📚 Archives des quiz", latest:"Cette semaine", empty:"Les quiz des semaines précédentes apparaîtront ici.",
+      old:"Ceci est un quiz des archives.", back:"Revenir au quiz de la semaine", err:"Le quiz n'a pas pu être chargé. Essayez de rafraîchir la page.", date:"fr-FR",
+      dl:"📥 Télécharger le quiz en PDF", dlp:"4 pages, prêt à imprimer – choisissez la langue :", saving:"Préparation du fichier…", saved:"Fichier enregistré ✓",
+      declined:"Téléchargement annulé.", dlfail:"Le téléchargement n'a pas abouti. Réessayez dans un instant.", dlext:"Les boutons ouvrent le site public dans un nouvel onglet – le téléchargement s'y fait directement :"}
+};
+const app = document.getElementById("app");
+const store = { get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}} };
+let manifest = null, cache = {}, lang = store.get("lang") || "he", slug = null, allOpen = false;
+
+// hash tokens: "vayera", "fr", "he", "vayera-fr"
+function readHash(){
+  const h = location.hash.replace(/^#/,"");
+  if(!h) return false;
+  const m = h.match(/^(?:([a-z0-9_]+?))?(?:-?(he|fr))?$/);
+  if(!m) return false;
+  if(m[1] && m[1]!=="he" && m[1]!=="fr") slug = m[1];
+  if(m[2]) lang = m[2]; else if(m[1]==="he"||m[1]==="fr") lang = m[1];
+  return true;
+}
+readHash();
+window.addEventListener("hashchange", ()=>{ if(readHash() && manifest) render().then(()=>window.scrollTo({top:0})); });
+
+function rich(s){
+  return String(s)
+    .replaceAll("<he>",'<span class="he" dir="rtl" lang="he">').replaceAll("</he>","</span>")
+    .replaceAll("<src>",'<span class="src" dir="rtl" lang="he">').replaceAll("</src>","</span>")
+    .replaceAll("<tr>",'<span class="gloss">').replaceAll("</tr>","</span>");
+}
+function el(tag, attrs, html){ const e=document.createElement(tag); for(const k in (attrs||{})) e.setAttribute(k, attrs[k]); if(html!=null) e.innerHTML=html; return e; }
+function fmtDate(d){ try{ return new Date(d+"T12:00:00").toLocaleDateString(UI[lang].date,{day:"numeric",month:"long",year:"numeric"}) }catch(e){ return d } }
+
+async function getIssue(s){
+  if(cache[s]) return cache[s];
+  const meta = manifest.issues.find(i=>i.slug===s);
+  const r = await fetch(meta.file); if(!r.ok) throw new Error(r.status);
+  return cache[s] = await r.json();
+}
+
+function setLangUI(){
+  const u = UI[lang];
+  document.documentElement.lang = lang; document.documentElement.dir = u.dir;
+  for(const b of document.querySelectorAll(".lang button")) b.setAttribute("aria-pressed", b.dataset.l===lang ? "true" : "false");
+}
+
+async function render(){
+  setLangUI();
+  const u = UI[lang];
+  const issues = [...manifest.issues].sort((a,b)=>b.series-a.series);
+  const latest = issues[0];
+  const meta = issues.find(i=>i.slug===slug) || latest;
+  let d;
+  try { d = await getIssue(meta.slug); } catch(e){ app.innerHTML = `<div class="empty">${u.err}</div>`; return; }
+  const t = d[lang];
+  app.innerHTML = "";
+
+  if(meta.slug !== latest.slug){
+    const n = el("div",{class:"oldnote"}, `<span>${u.old}</span>`);
+    const b = el("button",{type:"button"}, u.back); b.onclick = ()=>go(null); n.append(b); app.append(n);
+  }
+
+  app.append(el("section",{class:"hero"},
+    `<span class="series">${u.series} <b>${d.series}</b> · ${fmtDate(d.date)}</span>
+     <div class="kicker">${t.kicker} · ${u.parasha} ${t.parasha} · ${lang==="he"?d.year_he:d.year}</div>
+     <h1>${t.title}</h1><div class="emo" aria-hidden="true">${t.emoji}</div><div class="sub">${t.sub}</div>`));
+
+  if(meta.pdf){ const dl = el("section",{class:"dl",id:"dl","aria-labelledby":"dl-title"}); app.append(dl); fillDl(meta); }
+
+  app.append(el("details",{class:"how", open:""}, `<summary>${u.how}</summary><ul>${t.how.map(x=>`<li>${x}</li>`).join("")}</ul>`));
+
+  const nav = el("nav",{class:"nav","aria-label":u.lvl});
+  t.levels.forEach((L,i)=>{
+    const b = el("button",{type:"button",style:`background:${LV[i].c}`}, `${LV[i].i} ${u.lvl} ${i+1}<small>${u.pts(i+1)}</small>`);
+    b.onclick = ()=>document.getElementById("lvl"+(i+1)).scrollIntoView({block:"start"});
+    nav.append(b);
+  });
+  app.append(nav);
+
+  const tools = el("div",{class:"tools"}); const tb = el("button",{type:"button",id:"toggle-all"}, allOpen?u.none:u.all);
+  tools.append(tb); app.append(tools);
+
+  const reveals = [];
+  t.levels.forEach((L,li)=>{
+    const sec = el("section",{class:"level",id:"lvl"+(li+1),style:`--lc:${LV[li].c}`});
+    sec.append(el("div",{class:"lhead"}, `<div class="lico" aria-hidden="true">${LV[li].i}</div><div><div class="lname">${u.lvl} ${li+1} · ${L.name}</div><div class="lage">${L.age}</div></div><div class="stars" aria-hidden="true">${"⭐".repeat(li+1)}</div>`));
+    t.questions.slice(li*10, li*10+10).forEach((Q,k)=>{
+      const n = li*10+k+1;
+      const card = el("article",{class:"q"+(n===50?" gold":"")});
+      const body = el("div",{class:"qb"}, `<div class="qt">${rich(Q.q)}</div>` + (Q.opts?`<div class="opts">${Q.opts.map((o,j)=>`<span><b>${u.letters[j]}</b> ${rich(o)}</span>`).join("")}</div>`:""));
+      const btn = el("button",{type:"button",class:"reveal","aria-expanded":"false","aria-controls":"a"+n}, u.show);
+      const ans = el("div",{class:"ans",id:"a"+n}, `<b>${rich(Q.a)}</b><span class="x">${rich(Q.x)}</span>`);
+      ans.hidden = true;
+      const set = open=>{ ans.hidden = !open; btn.setAttribute("aria-expanded", open); btn.textContent = open?u.hide:u.show; };
+      btn.onclick = ()=>set(ans.hidden);
+      reveals.push(set); if(allOpen) set(true);
+      body.append(btn, ans);
+      card.append(el("div",{class:"num","aria-hidden":"true"}, n), body);
+      sec.append(card);
+    });
+    app.append(sec);
+  });
+  tb.onclick = ()=>{ allOpen=!allOpen; reveals.forEach(f=>f(allOpen)); tb.textContent = allOpen?u.none:u.all; };
+
+  app.append(el("div",{class:"bye"}, t.bye));
+
+  const arc = el("section",{class:"archive"}, `<h2>${u.archive}</h2>`);
+  const list = el("div",{class:"alist"});
+  const past = issues.filter(i=>i.slug!==latest.slug);
+  if(!past.length) list.append(el("div",{class:"empty"}, u.empty));
+  for(const i of [latest, ...past]){
+    if(i===latest && !past.length) continue;
+    const c = el("button",{type:"button",class:"acard"+(i.slug===meta.slug?" cur":"")},
+      `<span class="no">${i.series}</span><span><span class="t">${u.parasha} ${i[lang]}</span><br><span class="d">${fmtDate(i.date)}</span></span>${i.slug===latest.slug?`<span class="pill">${u.latest}</span>`:""}`);
+    c.onclick = ()=>go(i.slug===latest.slug?null:i.slug);
+    list.append(c);
+  }
+  arc.append(list); app.append(arc);
+}
+
+// PDF downloads, three ways:
+//  "link" – the public site (GitHub Pages): plain download links
+//  "save" – inside Claude with the save prompt available
+//  "ext"  – inside Claude without it (signed-out visitor): open the public site, where the link works
+const PUBLIC_URL = "https://figaro6.github.io/parasha/";
+let downloads = null, dlMode = window.claude?.use ? null : "link", dlMeta = null;
+function setDlMode(m){ dlMode = m; document.body.classList.toggle("can-dl", !!m); if(dlMeta) fillDl(dlMeta); }
+setDlMode(dlMode);
+window.claude?.use?.("downloads").then(ns=>{ downloads = ns; setDlMode(ns ? "save" : (PUBLIC_URL ? "ext" : null)); })
+  .catch(()=>setDlMode(PUBLIC_URL ? "ext" : null));
+function fillDl(meta){
+  dlMeta = meta;
+  const box = document.getElementById("dl"); if(!box) return;
+  const u = UI[lang];
+  box.innerHTML = `<h2 id="dl-title">${u.dl}</h2><p>${dlMode==="ext" ? u.dlext : u.dlp}</p>`;
+  const row = el("div",{class:"dlrow"}), msg = el("div",{class:"dlmsg","aria-live":"polite"});
+  for(const [l, label] of [["he","PDF עברית"],["fr","PDF Français"]]){
+    if(!meta.pdf[l]) continue;
+    let b;
+    if(dlMode==="save"){ b = el("button",{type:"button",id:"dl-"+l,lang:l}, label); b.onclick = ()=>savePdf(meta, l, b, msg); }
+    else if(dlMode==="ext"){ b = el("a",{id:"dl-"+l,lang:l,href:`${PUBLIC_URL}#${meta.slug}-${l}`,target:"_blank",rel:"noopener"}, label); }
+    else { b = el("a",{id:"dl-"+l,lang:l,href:meta.pdf[l],download:meta.pdf[l].split("/").pop()}, label); }
+    row.append(b);
+  }
+  box.append(row, msg);
+}
+async function savePdf(meta, l, btn, msg){
+  const u = UI[lang];
+  if(!downloads) return;
+  btn.disabled = true; msg.textContent = u.saving;
+  try{
+    const r = await fetch(meta.pdf[l]); if(!r.ok) throw {code:"fetch"};
+    const blob = await r.blob();
+    await downloads.save({filename: meta.pdf[l].split("/").pop(), data: blob});
+    msg.textContent = u.saved;
+  }catch(e){
+    if(e && ["unavailable","not_granted","capability_disabled","capability_removed"].includes(e.code)){ document.body.classList.remove("can-dl"); }
+    msg.textContent = e && e.code==="declined" ? u.declined : u.dlfail;
+  }finally{ btn.disabled = false; }
+}
+
+function go(s){ slug = s; render().then(()=>window.scrollTo({top:0})); }
+for(const b of document.querySelectorAll(".lang button")) b.onclick = ()=>{ lang=b.dataset.l; store.set("lang",lang); render(); };
+
+fetch("data/manifest.json").then(r=>r.json()).then(m=>{ manifest=m; render(); })
+  .catch(()=>{ app.innerHTML = `<div class="empty">${UI[lang].err}</div>`; });
+</script>
+
+</body>
+</html>

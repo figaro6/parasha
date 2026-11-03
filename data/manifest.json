@@ -1,0 +1,40 @@
+{
+ "issues": [
+  {
+   "series": 4,
+   "slug": "vayera",
+   "date": "2026-10-31",
+   "he": "וירא",
+   "fr": "Vayéra",
+   "file": "data/04-vayera.json",
+   "pdf": {
+    "he": "pdf/quiz-04-vayera-he.pdf",
+    "fr": "pdf/quiz-04-vayera-fr.pdf"
+   }
+  },
+  {
+   "series": 3,
+   "slug": "lechlecha",
+   "date": "2026-10-24",
+   "he": "לך לך",
+   "fr": "Lekh Lekha",
+   "file": "data/03-lechlecha.json",
+   "pdf": {
+    "he": "pdf/quiz-03-lechlecha-he.pdf",
+    "fr": "pdf/quiz-03-lechlecha-fr.pdf"
+   }
+  },
+  {
+   "series": 2,
+   "slug": "noach",
+   "date": "2026-10-17",
+   "he": "נח",
+   "fr": "Noa'h",
+   "file": "data/02-noach.json",
+   "pdf": {
+    "he": "pdf/quiz-02-noach-he.pdf",
+    "fr": "pdf/quiz-02-noach-fr.pdf"
+   }
+  }
+ ]
+}
