@@ -67,6 +67,14 @@ body.can-dl .dl{display:flex}
 .dlrow button:disabled{opacity:.6;cursor:progress}
 .dlmsg{font-size:14px;color:var(--muted);min-height:1.2em}
 
+/* WhatsApp community */
+.wa{display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:var(--surface);border:2px solid var(--wa);border-radius:18px;padding:12px 16px}
+.wa .wt{flex:1;min-width:190px}
+.wa h2{margin:0;font-size:17px;color:var(--navy)}
+.wa p{margin:0;font-size:14px;color:var(--muted)}
+.wa a{flex:none;background:var(--wa);color:#fff;text-decoration:none;font-weight:800;font-size:15px;border-radius:12px;padding:10px 16px}
+:root{--wa:#128c4a}
+
 /* how to play */
 .how{background:var(--surface);border:2px solid var(--gold);border-radius:18px;padding:12px 16px}
 .how summary{font-weight:800;color:var(--pink);font-size:17px;cursor:pointer}
@@ -142,13 +150,15 @@ const UI = {
       letters:["א.","ב.","ג."], archive:"📚 ארכיון החידונים", latest:"השבוע", empty:"החידונים של השבועות הקודמים יופיעו כאן.",
       old:"זהו חידון מהארכיון.", back:"לחידון של השבוע", err:"לא הצלחנו לטעון את החידון. נסו לרענן את העמוד.", date:"he-IL",
       dl:"📥 הורדת החידון ל־PDF", dlp:"4 עמודים, מוכן להדפסה – בחרו שפה:", saving:"מכינים את הקובץ…", saved:"הקובץ נשמר ✓",
-      declined:"ההורדה בוטלה.", dlfail:"ההורדה לא הצליחה. נסו שוב בעוד רגע.", dlext:"הכפתורים יפתחו את האתר הציבורי בלשונית חדשה – שם ההורדה מיידית:"},
+      declined:"ההורדה בוטלה.", dlfail:"ההורדה לא הצליחה. נסו שוב בעוד רגע.", dlext:"הכפתורים יפתחו את האתר הציבורי בלשונית חדשה – שם ההורדה מיידית:",
+      wa:"💬 הצטרפו לקהילת הווטסאפ", wap:"כל שבוע – החידון החדש ישר לטלפון", wab:"הצטרפות לקהילה"},
   fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
       show:"Voir la réponse", hide:"Cacher la réponse", all:"Voir toutes les réponses", none:"Cacher toutes les réponses",
       letters:["a.","b.","c."], archive:"📚 Archives des quiz", latest:"Cette semaine", empty:"Les quiz des semaines précédentes apparaîtront ici.",
       old:"Ceci est un quiz des archives.", back:"Revenir au quiz de la semaine", err:"Le quiz n'a pas pu être chargé. Essayez de rafraîchir la page.", date:"fr-FR",
       dl:"📥 Télécharger le quiz en PDF", dlp:"4 pages, prêt à imprimer – choisissez la langue :", saving:"Préparation du fichier…", saved:"Fichier enregistré ✓",
-      declined:"Téléchargement annulé.", dlfail:"Le téléchargement n'a pas abouti. Réessayez dans un instant.", dlext:"Les boutons ouvrent le site public dans un nouvel onglet – le téléchargement s'y fait directement :"}
+      declined:"Téléchargement annulé.", dlfail:"Le téléchargement n'a pas abouti. Réessayez dans un instant.", dlext:"Les boutons ouvrent le site public dans un nouvel onglet – le téléchargement s'y fait directement :",
+      wa:"💬 Rejoignez la communauté WhatsApp", wap:"Chaque semaine, le nouveau quiz directement sur votre téléphone", wab:"Rejoindre la communauté"}
 };
 const app = document.getElementById("app");
 const store = { get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}} };
@@ -210,6 +220,7 @@ async function render(){
      <div class="kicker">${t.kicker} · ${u.parasha} ${t.parasha} · ${lang==="he"?d.year_he:d.year}</div>
      <h1>${t.title}</h1><div class="emo" aria-hidden="true">${t.emoji}</div><div class="sub">${t.sub}</div>`));
 
+  app.append(waCard());
   if(meta.pdf){ const dl = el("section",{class:"dl",id:"dl","aria-labelledby":"dl-title"}); app.append(dl); fillDl(meta); }
 
   app.append(el("details",{class:"how", open:""}, `<summary>${u.how}</summary><ul>${t.how.map(x=>`<li>${x}</li>`).join("")}</ul>`));
@@ -248,6 +259,7 @@ async function render(){
   tb.onclick = ()=>{ allOpen=!allOpen; reveals.forEach(f=>f(allOpen)); tb.textContent = allOpen?u.none:u.all; };
 
   app.append(el("div",{class:"bye"}, t.bye));
+  app.append(waCard());
 
   const arc = el("section",{class:"archive"}, `<h2>${u.archive}</h2>`);
   const list = el("div",{class:"alist"});
@@ -261,6 +273,12 @@ async function render(){
     list.append(c);
   }
   arc.append(list); app.append(arc);
+}
+
+const WA_URL = "https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE";
+function waCard(){
+  const u = UI[lang];
+  return el("section",{class:"wa"}, `<div class="wt"><h2>${u.wa}</h2><p>${u.wap}</p></div><a href="${WA_URL}" target="_blank" rel="noopener">${u.wab}</a>`);
 }
 
 // PDF downloads, three ways:
