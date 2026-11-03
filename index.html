@@ -161,7 +161,9 @@ main{padding-bottom:96px}
 .final p{margin:0;font-size:16px}
 .frow{display:flex;gap:8px;flex-wrap:wrap;width:100%;margin-top:6px}
 .frow>*{flex:1;min-width:150px;border:0;border-radius:12px;padding:11px 12px;font-weight:800;font-size:15px;cursor:pointer;text-align:center;text-decoration:none}
+.frow .comm{flex-basis:100%;background:var(--gold);color:#3b2a00;font-size:16px}
 .frow .share{background:var(--wa);color:#fff}
+.cnote{font-size:14px;font-weight:700;color:var(--ok-ink);min-height:1.2em}
 .frow button{background:var(--navy);color:var(--surface)}
 .plus,.bit{position:fixed;z-index:30;pointer-events:none;transform:translate(-50%,-50%)}
 .plus{font-weight:900;font-size:24px;color:var(--ok);text-shadow:0 2px 0 var(--surface);animation:rise 1.1s ease-out forwards}
@@ -217,6 +219,7 @@ const UI = {
       lvlDone:n=>`🎉 סיימתם את שלב ${n}! קדימה לשלב הבא 🚀`,
       tiers:[[.9,"🏆 גאוני הפרשה!","מושלם – אפשר להעביר שיעור על הפרשה 😎"],[.7,"🌟 כוכבי השולחן!","כמעט הכול נכון – כל הכבוד!"],[.4,"😎 בדרך הנכונה!","עוד קצת ואתם שם 💪"],[0,"🐣 אפרוחים מתוקים!","בשבוע הבא אנחנו טורפים את החידון 😄"]],
       share:"📲 לשתף את התוצאה בווטסאפ", again:"🔄 לשחק שוב",
+      comm:"🏆 לשתף את הניקוד בקהילה", copied:"📋 הטקסט הועתק – הדביקו בקבוצה ושלחו!",
       shareText:(s,m,p)=>`🎲 צברתי ${s}/${m} נקודות בחידון פרשת ${p}! מי מנצח אותי? 😎👇`},
   fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
       show:"Voir la réponse", hide:"Cacher la réponse", all:"Voir toutes les réponses", none:"Cacher toutes les réponses",
@@ -232,6 +235,7 @@ const UI = {
       lvlDone:n=>`🎉 Niveau ${n} terminé ! En route pour le suivant 🚀`,
       tiers:[[.9,"🏆 Génies de la paracha !","Parfait – vous pourriez donner le cours vous-mêmes 😎"],[.7,"🌟 Stars de la table !","Presque tout juste – bravo !"],[.4,"😎 Sur la bonne voie !","Encore un petit effort et c'est gagné 💪"],[0,"🐣 Petits poussins !","La semaine prochaine, on dévore le quiz 😄"]],
       share:"📲 Partager le score sur WhatsApp", again:"🔄 Rejouer",
+      comm:"🏆 Partager mon score dans la communauté", copied:"📋 Texte copié – collez-le dans le groupe et envoyez !",
       shareText:(s,m,p)=>`🎲 J'ai fait ${s}/${m} points au quiz de la paracha ${p} ! Qui fait mieux ? 😎👇`}
 };
 const app = document.getElementById("app");
@@ -384,6 +388,7 @@ async function render(){
 }
 
 const WA_URL = "https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE";
+const SCORES_URL = "https://chat.whatsapp.com/BUeEiECsc5NAk09FRHBfrL";  // "our scores" group inside the community
 function waCard(){
   const u = UI[lang];
   return el("section",{class:"wa"}, `<div class="wt"><h2>${u.wa}</h2><p>${u.wap}</p></div><a href="${WA_URL}" target="_blank" rel="noopener">${u.wab}</a>`);
@@ -436,7 +441,14 @@ function finalCard(d, t, game, maxPts, slug){
   sh.onclick = ()=>{ try{ window.goatcounter?.count?.({path:`share-score-${slug}-${lang}`, title:"Share score", event:true}); }catch(e){} };
   const ag = el("button",{type:"button"}, u.again);
   ag.onclick = ()=>{ store.set(gkey(slug),"{}"); render().then(()=>window.scrollTo({top:0})); };
-  row.append(sh, ag); c.append(row);
+  // a link can't drop text into a group, so copy the message and open the scores group to paste it
+  const note = el("div",{class:"cnote","aria-live":"polite"});
+  const cm = el("a",{class:"comm",href:SCORES_URL,target:"_blank",rel:"noopener"}, u.comm);
+  cm.onclick = ()=>{
+    try{ navigator.clipboard?.writeText(share).then(()=>{ note.textContent = u.copied; }, ()=>{}); }catch(e){}
+    try{ window.goatcounter?.count?.({path:`share-community-${slug}-${lang}`, title:"Share score in community", event:true}); }catch(e){}
+  };
+  row.append(cm, sh, ag); c.append(row, note);
   return c;
 }
 
