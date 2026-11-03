@@ -47,7 +47,8 @@
      "שב בבית ואל תזוז 🛋️"
     ],
     "a": "<he>לֵךְ לְךָ מֵאַרְצְךָ</he>",
-    "x": "\"<he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he>\"."
+    "x": "\"<he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he>\".",
+    "c": 0
    },
    {
     "q": "איך קראו לאשתו של אברם?",
@@ -63,7 +64,8 @@
      "השכן מסדום"
     ],
     "a": "האחיין של אברם",
-    "x": "לוט היה בנו של הרן, אחיו של אברם, והצטרף אליו לכל המסעות."
+    "x": "לוט היה בנו של הרן, אחיו של אברם, והצטרף אליו לכל המסעות.",
+    "c": 1
    },
    {
     "q": "לאיזו ארץ הלך אברם?",
@@ -73,7 +75,8 @@
      "ארץ הממתקים 🍭"
     ],
     "a": "ארץ כנען",
-    "x": "היא ארץ ישראל – אז קראו לה 'כנען' כי בני כנען כבשו אותה."
+    "x": "היא ארץ ישראל – אז קראו לה 'כנען' כי בני כנען כבשו אותה.",
+    "c": 0
    },
    {
     "q": "בן כמה היה אברם כשיצא לדרך?",
@@ -83,7 +86,8 @@
      "750"
     ],
     "a": "75 שנה",
-    "x": "וזה רק ההתחלה של המסע!"
+    "x": "וזה רק ההתחלה של המסע!",
+    "c": 1
    },
    {
     "q": "למה ירד אברם למצרים?",
@@ -99,7 +103,8 @@
      "מלך סדום"
     ],
     "a": "פרעה",
-    "x": "וה' הביא עליו נגעים גדולים עד שהחזיר אותה."
+    "x": "וה' הביא עליו נגעים גדולים עד שהחזיר אותה.",
+    "c": 0
    },
    {
     "q": "ה' אמר לאברם: \"<he>הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר...</he>\" – מה הוא ביקש ממנו לספור? ✨",
@@ -121,7 +126,8 @@
      "יוסף"
     ],
     "a": "ישמעאל",
-    "x": "המלאך אמר: \"<he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he>\" – ה' שמע את תפילתך."
+    "x": "המלאך אמר: \"<he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he>\" – ה' שמע את תפילתך.",
+    "c": 1
    },
    {
     "q": "ה' אמר לאברם ללכת \"<he>אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he>\" – בלי להגיד איזו! למה?",
@@ -131,7 +137,8 @@
      "כי זה היה סוד מפרעה 🤫"
     ],
     "a": "כדי לחבב עליו את הארץ",
-    "x": "כשמחכים ומסקרנים – אוהבים יותר את מה שמקבלים בסוף."
+    "x": "כשמחכים ומסקרנים – אוהבים יותר את מה שמקבלים בסוף.",
+    "c": 1
    },
    {
     "q": "מה בנה אברם כמעט בכל מקום שהגיע אליו, כדי להודות לה'?",
@@ -147,7 +154,8 @@
      "מתחת לגמל 🐪"
     ],
     "a": "בתוך תיבה",
-    "x": "אבל המוכסים ביקשו לפתוח אותה כדי לגבות מכס – וראו את שרי."
+    "x": "אבל המוכסים ביקשו לפתוח אותה כדי לגבות מכס – וראו את שרי.",
+    "c": 0
    },
    {
     "q": "מה ביקש אברם משרי להגיד למצרים?",
@@ -169,7 +177,8 @@
      "על מי יקבל את הגמל הכי גבוה"
     ],
     "a": "רועי לוט גזלו",
-    "x": "הם האכילו את הבהמות בשדות של אחרים, ורועי אברם הוכיחו אותם."
+    "x": "הם האכילו את הבהמות בשדות של אחרים, ורועי אברם הוכיחו אותם.",
+    "c": 1
    },
    {
     "q": "מה שמו רועי אברם על הפה של הבהמות כשעברו ליד שדות של אחרים?",
@@ -185,7 +194,8 @@
      "חברון"
     ],
     "a": "סדום",
-    "x": "כי הייתה מלאה מים ועצים כמו גן עדן – אבל אנשיה היו רעים מאוד."
+    "x": "כי הייתה מלאה מים ועצים כמו גן עדן – אבל אנשיה היו רעים מאוד.",
+    "c": 0
    },
    {
     "q": "ה' הבטיח לאברם: \"<he>וְשַׂמְתִּי אֶת זַרְעֲךָ כַּ...</he>\" – כמו מה?",
@@ -195,7 +205,8 @@
      "כדגים בים"
     ],
     "a": "<he>כַּעֲפַר הָאָרֶץ</he>",
-    "x": "כמו שאי אפשר לספור את העפר – אי אפשר יהיה לספור את עם ישראל."
+    "x": "כמו שאי אפשר לספור את העפר – אי אפשר יהיה לספור את עם ישראל.",
+    "c": 0
    },
    {
     "q": "באיזו עיר התיישב אברם בסוף פרק י\"ג, באלוני ממרא?",
@@ -217,7 +228,8 @@
      "עוג"
     ],
     "a": "כדרלעומר",
-    "x": "חמשת המלכים היו משועבדים לו 12 שנה, ואז מרדו בו."
+    "x": "חמשת המלכים היו משועבדים לו 12 שנה, ואז מרדו בו.",
+    "c": 0
    },
    {
     "q": "<he>אַמְרָפֶל</he> מלך <he>שִׁנְעָר</he> – מי הוא באמת, ולמה קראו לו כך?",
@@ -239,7 +251,8 @@
      "לתוך מערה עם דוב"
     ],
     "a": "לבורות טיט",
-    "x": "ומלך סדום יצא משם בנס – כדי שכולם יאמינו גם בנס של אברם בכבשן האש."
+    "x": "ומלך סדום יצא משם בנס – כדי שכולם יאמינו גם בנס של אברם בכבשן האש.",
+    "c": 1
    },
    {
     "q": "חידה – מי אני? אני ענק, ברחתי מהמלחמה ורצתי לספר לאברם שלוט נשבה. אבל הכוונה שלי לא הייתה טובה בכלל... 🦶",
@@ -255,7 +268,8 @@
      "1,000"
     ],
     "a": "318 – \"<he>חֲנִיכָיו יְלִידֵי בֵיתוֹ</he>\"",
-    "x": "ולפי חז\"ל – רק אליעזר נשאר איתו, ו\"אליעזר\" בגימטריה = 318!"
+    "x": "ולפי חז\"ל – רק אליעזר נשאר איתו, ו\"אליעזר\" בגימטריה = 318!",
+    "c": 1
    },
    {
     "q": "מי נשארו מאחור לשמור על הכלים והחפצים?",
@@ -277,7 +291,8 @@
      "עד הירח 🌙"
     ],
     "a": "עד דן",
-    "x": "בצפון הארץ – מרחק של כמה ימי הליכה. בלילה התחלקו לקבוצות ובאו מכמה כיוונים."
+    "x": "בצפון הארץ – מרחק של כמה ימי הליכה. בלילה התחלקו לקבוצות ובאו מכמה כיוונים.",
+    "c": 0
    },
    {
     "q": "מי יצא לקראת אברם עם לחם ויין אחרי הניצחון – ומי הוא היה באמת? 🍞🍷",
@@ -323,7 +338,8 @@
      "יונה – ואברם האכיל אותה"
     ],
     "a": "<he>עַיִט</he>",
-    "x": "\"<he>וַיַּשֵּׁב אֹתָם אַבְרָם</he>\" – רמז לדוד המלך שיילחם באומות, אבל הגאולה השלמה רק עם המשיח."
+    "x": "\"<he>וַיַּשֵּׁב אֹתָם אַבְרָם</he>\" – רמז לדוד המלך שיילחם באומות, אבל הגאולה השלמה רק עם המשיח.",
+    "c": 0
    },
    {
     "q": "כמה שנים אמר ה' לאברם שבניו יהיו \"<he>גֵּרִים בְּאֶרֶץ לֹא לָהֶם</he>\"?",
@@ -333,7 +349,8 @@
      "4,000"
     ],
     "a": "400 שנה",
-    "x": "הספירה מתחילה מלידת יצחק – ומתוכן רק 210 שנה במצרים, ובסוף \"<he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he>\"."
+    "x": "הספירה מתחילה מלידת יצחק – ומתוכן רק 210 שנה במצרים, ובסוף \"<he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he>\".",
+    "c": 1
    },
    {
     "q": "מה עבר בין הבתרים בחושך הגדול? 🔥",
@@ -373,7 +390,8 @@
      "99"
     ],
     "a": "86 שנה",
-    "x": "\"<he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he>\"."
+    "x": "\"<he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he>\".",
+    "c": 1
    },
    {
     "q": "ה' שינה את השם \"<he>אַבְרָם</he>\" ל\"<he>אַבְרָהָם</he>\". מה מיוחד במספר של השם החדש?",
@@ -457,7 +475,8 @@
      "Reste à la maison et ne bouge pas 🛋️"
     ],
     "a": "« <he>לֵךְ לְךָ מֵאַרְצְךָ</he> »",
-    "x": "« <he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he> » <src>(בראשית יב, א)</src> <tr>(« va pour toi, quitte ton pays, ton lieu natal et la maison de ton père, vers le pays que Je te montrerai »)</tr>."
+    "x": "« <he>וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he> » <src>(בראשית יב, א)</src> <tr>(« va pour toi, quitte ton pays, ton lieu natal et la maison de ton père, vers le pays que Je te montrerai »)</tr>.",
+    "c": 0
    },
    {
     "q": "Comment s'appelait la femme d'Avram ?",
@@ -473,7 +492,8 @@
      "Le voisin de Sodome"
     ],
     "a": "Le neveu d'Avram",
-    "x": "Loth était le fils de Haran, le frère d'Avram, et l'a accompagné dans tous ses voyages."
+    "x": "Loth était le fils de Haran, le frère d'Avram, et l'a accompagné dans tous ses voyages.",
+    "c": 1
    },
    {
     "q": "Dans quel pays Avram est-il allé ?",
@@ -483,7 +503,8 @@
      "Le pays des bonbons 🍭"
     ],
     "a": "Le pays de Kena'an",
-    "x": "c'est la terre d'Israël – on l'appelait alors « Kena'an » parce que les enfants de Kena'an l'avaient conquise."
+    "x": "c'est la terre d'Israël – on l'appelait alors « Kena'an » parce que les enfants de Kena'an l'avaient conquise.",
+    "c": 0
    },
    {
     "q": "Quel âge avait Avram quand il s'est mis en route ?",
@@ -493,7 +514,8 @@
      "750"
     ],
     "a": "75 ans",
-    "x": "et ce n'est que le début du voyage !"
+    "x": "et ce n'est que le début du voyage !",
+    "c": 1
    },
    {
     "q": "Pourquoi Avram est-il descendu en Égypte ?",
@@ -509,7 +531,8 @@
      "Le roi de Sodome"
     ],
     "a": "Pharaon",
-    "x": "et Hachem l'a frappé de grandes plaies jusqu'à ce qu'il la rende."
+    "x": "et Hachem l'a frappé de grandes plaies jusqu'à ce qu'il la rende.",
+    "c": 0
    },
    {
     "q": "Hachem a dit à Avram : « <he>הַבֶּט נָא הַשָּׁמַיְמָה וּסְפֹר...</he> » <src>(בראשית טו, ה)</src> <tr>(« regarde donc vers le ciel et compte… »)</tr> – qu'est-ce qu'Il lui a demandé de compter ? ✨",
@@ -531,7 +554,8 @@
      "Yossef"
     ],
     "a": "Yichmaël",
-    "x": "l'ange a dit : « <he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he> » <src>(בראשית טז, יא)</src> <tr>(« car Hachem a entendu ta détresse »)</tr> – Hachem a entendu ta prière."
+    "x": "l'ange a dit : « <he>כִּי שָׁמַע ה' אֶל עָנְיֵךְ</he> » <src>(בראשית טז, יא)</src> <tr>(« car Hachem a entendu ta détresse »)</tr> – Hachem a entendu ta prière.",
+    "c": 1
    },
    {
     "q": "Hachem a dit à Avram d'aller « <he>אֶל הָאָרֶץ אֲשֶׁר אַרְאֶךָּ</he> » <src>(בראשית יב, א)</src> <tr>(« vers le pays que Je te montrerai »)</tr> – sans dire lequel ! Pourquoi ?",
@@ -541,7 +565,8 @@
      "Parce que c'était un secret pour Pharaon 🤫"
     ],
     "a": "Pour lui rendre le pays cher",
-    "x": "quand on attend et qu'on est curieux – on aime davantage ce qu'on reçoit à la fin."
+    "x": "quand on attend et qu'on est curieux – on aime davantage ce qu'on reçoit à la fin.",
+    "c": 1
    },
    {
     "q": "Qu'Avram construisait-il presque partout où il arrivait, pour remercier Hachem ?",
@@ -557,7 +582,8 @@
      "Sous un chameau 🐪"
     ],
     "a": "Dans un coffre",
-    "x": "mais les douaniers ont demandé de l'ouvrir pour percevoir la taxe – et ont vu Saraï."
+    "x": "mais les douaniers ont demandé de l'ouvrir pour percevoir la taxe – et ont vu Saraï.",
+    "c": 0
    },
    {
     "q": "Qu'Avram a-t-il demandé à Saraï de dire aux Égyptiens ?",
@@ -579,7 +605,8 @@
      "Pour savoir qui aurait le chameau le plus grand"
     ],
     "a": "Les bergers de Loth volaient",
-    "x": "ils faisaient manger les bêtes dans les champs des autres, et les bergers d'Avram leur faisaient des reproches."
+    "x": "ils faisaient manger les bêtes dans les champs des autres, et les bergers d'Avram leur faisaient des reproches.",
+    "c": 1
    },
    {
     "q": "Que mettaient les bergers d'Avram sur la bouche des bêtes quand ils passaient près des champs des autres ?",
@@ -595,7 +622,8 @@
      "'Hévron"
     ],
     "a": "Sodome",
-    "x": "parce qu'elle était pleine d'eau et d'arbres comme le Gan Éden – mais ses habitants étaient très méchants."
+    "x": "parce qu'elle était pleine d'eau et d'arbres comme le Gan Éden – mais ses habitants étaient très méchants.",
+    "c": 0
    },
    {
     "q": "Hachem a promis à Avram : « <he>וְשַׂמְתִּי אֶת זַרְעֲךָ כַּ...</he> » <src>(בראשית יג, טז)</src> <tr>(« Je rendrai ta descendance comme… »)</tr> – comme quoi ?",
@@ -605,7 +633,8 @@
      "Comme les poissons de la mer"
     ],
     "a": "« <he>כַּעֲפַר הָאָרֶץ</he> » <tr>(comme la poussière de la terre)</tr>",
-    "x": "comme on ne peut pas compter la poussière – on ne pourra pas compter le peuple d'Israël."
+    "x": "comme on ne peut pas compter la poussière – on ne pourra pas compter le peuple d'Israël.",
+    "c": 0
    },
    {
     "q": "Dans quelle ville Avram s'est-il installé à la fin du chapitre 13, aux chênes de Mamré ?",
@@ -627,7 +656,8 @@
      "Og"
     ],
     "a": "Kedorlaomer",
-    "x": "les cinq rois lui ont été asservis 12 ans, puis se sont révoltés contre lui."
+    "x": "les cinq rois lui ont été asservis 12 ans, puis se sont révoltés contre lui.",
+    "c": 0
    },
    {
     "q": "« <he>אַמְרָפֶל מֶלֶךְ שִׁנְעָר</he> » <tr>(Amraphel, roi de Chinear)</tr> <src>(בראשית יד, א)</src> – qui est-il vraiment, et pourquoi l'appelait-on ainsi ?",
@@ -649,7 +679,8 @@
      "Dans une grotte avec un ours"
     ],
     "a": "Dans les fosses de boue",
-    "x": "et le roi de Sodome en est sorti par miracle – pour que tout le monde croie aussi au miracle d'Avram dans la fournaise."
+    "x": "et le roi de Sodome en est sorti par miracle – pour que tout le monde croie aussi au miracle d'Avram dans la fournaise.",
+    "c": 1
    },
    {
     "q": "Devinette – qui suis-je ? Je suis un géant, je me suis enfui de la guerre et j'ai couru dire à Avram que Loth avait été capturé. Mais mon intention n'était pas bonne du tout… 🦶",
@@ -665,7 +696,8 @@
      "1 000"
     ],
     "a": "318 – « <he>חֲנִיכָיו יְלִידֵי בֵיתוֹ</he> » <src>(בראשית יד, יד)</src> <tr>(« ses serviteurs, nés dans sa maison »)</tr>",
-    "x": "et selon nos Sages – seul Eliézer est resté avec lui, et « Eliézer » vaut 318 en guématria !"
+    "x": "et selon nos Sages – seul Eliézer est resté avec lui, et « Eliézer » vaut 318 en guématria !",
+    "c": 1
    },
    {
     "q": "Qui est resté à l'arrière pour garder les bagages et les affaires ?",
@@ -687,7 +719,8 @@
      "Jusqu'à la lune 🌙"
     ],
     "a": "Jusqu'à Dan",
-    "x": "au nord du pays – à plusieurs jours de marche. La nuit, ils se sont divisés en groupes et sont arrivés de plusieurs directions."
+    "x": "au nord du pays – à plusieurs jours de marche. La nuit, ils se sont divisés en groupes et sont arrivés de plusieurs directions.",
+    "c": 0
    },
    {
     "q": "Qui est sorti à la rencontre d'Avram avec du pain et du vin après la victoire – et qui était-il vraiment ? 🍞🍷",
@@ -733,7 +766,8 @@
      "Une colombe – et Avram l'a nourrie"
     ],
     "a": "Un rapace (<he>עַיִט</he>)",
-    "x": "« <he>וַיַּשֵּׁב אֹתָם אַבְרָם</he> » <src>(בראשית טו, יא)</src> <tr>(« Avram les chassa »)</tr> – allusion au roi David qui combattra les nations, mais la délivrance complète ne viendra qu'avec le Machia'h."
+    "x": "« <he>וַיַּשֵּׁב אֹתָם אַבְרָם</he> » <src>(בראשית טו, יא)</src> <tr>(« Avram les chassa »)</tr> – allusion au roi David qui combattra les nations, mais la délivrance complète ne viendra qu'avec le Machia'h.",
+    "c": 0
    },
    {
     "q": "Pendant combien d'années Hachem a-t-il dit à Avram que ses descendants seraient « <he>גֵּרִים בְּאֶרֶץ לֹא לָהֶם</he> » <src>(בראשית טו, יג)</src> <tr>(« étrangers dans un pays qui n'est pas le leur »)</tr> ?",
@@ -743,7 +777,8 @@
      "4 000"
     ],
     "a": "400 ans",
-    "x": "le compte commence à la naissance d'Its'hak – dont seulement 210 ans en Égypte, et à la fin « <he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he> » <src>(בראשית טו, יד)</src> <tr>(« ils sortiront avec de grandes richesses »)</tr>."
+    "x": "le compte commence à la naissance d'Its'hak – dont seulement 210 ans en Égypte, et à la fin « <he>יֵצְאוּ בִּרְכֻשׁ גָּדוֹל</he> » <src>(בראשית טו, יד)</src> <tr>(« ils sortiront avec de grandes richesses »)</tr>.",
+    "c": 1
    },
    {
     "q": "Qu'est-ce qui est passé entre les morceaux dans la grande obscurité ? 🔥",
@@ -783,7 +818,8 @@
      "99"
     ],
     "a": "86 ans",
-    "x": "« <he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he> » <src>(בראשית טז, טז)</src> <tr>(« quatre-vingts ans et six ans »)</tr>."
+    "x": "« <he>שְׁמֹנִים שָׁנָה וְשֵׁשׁ שָׁנִים</he> » <src>(בראשית טז, טז)</src> <tr>(« quatre-vingts ans et six ans »)</tr>.",
+    "c": 1
    },
    {
     "q": "Hachem a changé le nom « <he>אַבְרָם</he> » en « <he>אַבְרָהָם</he> » <src>(בראשית יז, ה)</src>. Qu'a de spécial le nombre (la guématria) du nouveau nom ?",

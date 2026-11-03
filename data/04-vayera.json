@@ -47,7 +47,8 @@
      "לספור גמלים 🐪"
     ],
     "a": "הכנסת אורחים",
-    "x": "הוא האכיל, השקה, ולימד את האורחים לברך את ה'."
+    "x": "הוא האכיל, השקה, ולימד את האורחים לברך את ה'.",
+    "c": 0
    },
    {
     "q": "כמה \"אנשים\" הגיעו לאוהל של אברהם?",
@@ -57,7 +58,8 @@
      "100"
     ],
     "a": "3 – והם בכלל היו מלאכים! 👼",
-    "x": "ה' ראה כמה אברהם מצטער שאין אורחים – ושלח לו שלושה מלאכים בדמות אנשים."
+    "x": "ה' ראה כמה אברהם מצטער שאין אורחים – ושלח לו שלושה מלאכים בדמות אנשים.",
+    "c": 1
    },
    {
     "q": "למה לאוהל של אברהם היה פתח לכל צד?",
@@ -67,7 +69,8 @@
      "כי אברהם שכח איפה הדלת 🤭"
     ],
     "a": "כדי שאורחים ייכנסו מיד",
-    "x": "מכל כיוון שבאו – מצאו פתח פתוח."
+    "x": "מכל כיוון שבאו – מצאו פתח פתוח.",
+    "c": 1
    },
    {
     "q": "מה בישר המלאך לאברהם ולשרה?",
@@ -83,7 +86,8 @@
      "שרה שיר 🎤"
     ],
     "a": "צחקה",
-    "x": "היא אמרה בלבה: איך ייתכן? אנחנו כל כך זקנים!"
+    "x": "היא אמרה בלבה: איך ייתכן? אנחנו כל כך זקנים!",
+    "c": 0
    },
    {
     "q": "איך קראו לבן שנולד לאברהם ולשרה?",
@@ -99,7 +103,8 @@
      "חברון"
     ],
     "a": "סדום",
-    "x": "יחד עם עמורה, אדמה וצבויים."
+    "x": "יחד עם עמורה, אדמה וצבויים.",
+    "c": 0
    },
    {
     "q": "למה הפכה אשת לוט כשהסתכלה אחורה? 🧂",
@@ -109,7 +114,8 @@
      "לעמוד של אבן"
     ],
     "a": "<he>לִנְצִיב מֶלַח</he>",
-    "x": "המלאכים אמרו לא להביט אחורה – והיא לא הקשיבה."
+    "x": "המלאכים אמרו לא להביט אחורה – והיא לא הקשיבה.",
+    "c": 1
    },
    {
     "q": "חידה – מי אני? הקרניים שלי הסתבכו בעצים, ואברהם הקריב אותי במקום יצחק. 🐏",
@@ -131,7 +137,8 @@
      "כדי לעשות בריכה 🏊"
     ],
     "a": "כדי שאברהם ינוח",
-    "x": "זה היה היום השלישי למילה, ואם היו באים אורחים אברהם היה טורח בשבילם."
+    "x": "זה היה היום השלישי למילה, ואם היו באים אורחים אברהם היה טורח בשבילם.",
+    "c": 1
    },
    {
     "q": "את מי שלח אברהם החוצה לחפש אורחים?",
@@ -159,7 +166,8 @@
      "רְפָאֵל"
     ],
     "a": "מיכאל",
-    "x": "רפאל בא לרפא את אברהם ולהציל את לוט, וגבריאל בא להפוך את סדום."
+    "x": "רפאל בא לרפא את אברהם ולהציל את לוט, וגבריאל בא להפוך את סדום.",
+    "c": 0
    },
    {
     "q": "כמה ערים היו באזור סדום?",
@@ -169,7 +177,8 @@
      "12"
     ],
     "a": "5 ערים",
-    "x": "סדום, עמורה, אדמה, צבויים וצוער (בלע)."
+    "x": "סדום, עמורה, אדמה, צבויים וצוער (בלע).",
+    "c": 1
    },
    {
     "q": "מה היה החוק בסדום לגבי עניים?",
@@ -185,7 +194,8 @@
      "הזמינו אותם להיכנס"
     ],
     "a": "<he>סַנְוֵרִים</he>",
-    "x": "הם נעשו עיוורים וחיפשו את הדלת – ולא מצאו."
+    "x": "הם נעשו עיוורים וחיפשו את הדלת – ולא מצאו.",
+    "c": 1
    },
    {
     "q": "לאיזו עיר קטנה ביקש לוט לברוח?",
@@ -195,7 +205,8 @@
      "חרן"
     ],
     "a": "צוער",
-    "x": "\"<he>וְהִוא מִצְעָר</he>\" – עיר קטנה עם מעט אנשים, ובזכות לוט היא ניצלה."
+    "x": "\"<he>וְהִוא מִצְעָר</he>\" – עיר קטנה עם מעט אנשים, ובזכות לוט היא ניצלה.",
+    "c": 0
    },
    {
     "q": "לאיזה מקום עבר אברהם אחרי שסדום נהפכה?",
@@ -229,7 +240,8 @@
      "צפרדעים 🐸"
     ],
     "a": "גפרית ואש",
-    "x": "ה' חיכה שיחזרו בתשובה, ולכן התחיל בגשם. כשלא חזרו – הגשם הפך לגפרית ואש."
+    "x": "ה' חיכה שיחזרו בתשובה, ולכן התחיל בגשם. כשלא חזרו – הגשם הפך לגפרית ואש.",
+    "c": 1
    },
    {
     "q": "למה אשת לוט נענשה דווקא במלח?",
@@ -251,7 +263,8 @@
      "נמרוד"
     ],
     "a": "אבימלך",
-    "x": "ה' בא אליו בחלום ואמר לו להחזיר אותה מיד."
+    "x": "ה' בא אליו בחלום ואמר לו להחזיר אותה מיד.",
+    "c": 0
    },
    {
     "q": "מה קרה בבית של אבימלך כל הזמן ששרה הייתה שם?",
@@ -273,7 +286,8 @@
      "אברהם"
     ],
     "a": "יצחק",
-    "x": "אברהם נימול בגיל 99 וישמעאל בגיל 13 – יצחק היה הראשון בגיל 8 ימים."
+    "x": "אברהם נימול בגיל 99 וישמעאל בגיל 13 – יצחק היה הראשון בגיל 8 ימים.",
+    "c": 0
    },
    {
     "q": "ליצני הדור אמרו שיצחק הוא בכלל בן של אבימלך. מה עשה ה' כדי לסתום להם את הפה?",
@@ -441,7 +455,8 @@
      "Compter les chameaux 🐪"
     ],
     "a": "L'hospitalité",
-    "x": "il nourrissait les invités, leur donnait à boire, et leur apprenait à bénir Hachem."
+    "x": "il nourrissait les invités, leur donnait à boire, et leur apprenait à bénir Hachem.",
+    "c": 0
    },
    {
     "q": "Combien d'« hommes » sont arrivés à la tente d'Avraham ?",
@@ -451,7 +466,8 @@
      "100"
     ],
     "a": "3 – et c'étaient en fait des anges ! 👼",
-    "x": "Hachem a vu combien Avraham souffrait de ne pas avoir d'invités – et lui a envoyé trois anges sous l'apparence d'hommes."
+    "x": "Hachem a vu combien Avraham souffrait de ne pas avoir d'invités – et lui a envoyé trois anges sous l'apparence d'hommes.",
+    "c": 1
    },
    {
     "q": "Pourquoi la tente d'Avraham avait-elle une ouverture de chaque côté ?",
@@ -461,7 +477,8 @@
      "Parce qu'Avraham avait oublié où était la porte 🤭"
     ],
     "a": "Pour que les invités entrent tout de suite",
-    "x": "de quelque direction qu'ils viennent, ils trouvaient une ouverture."
+    "x": "de quelque direction qu'ils viennent, ils trouvaient une ouverture.",
+    "c": 1
    },
    {
     "q": "Quelle nouvelle l'ange a-t-il annoncée à Avraham et à Sarah ?",
@@ -477,7 +494,8 @@
      "Elle a chanté une chanson 🎤"
     ],
     "a": "Elle a ri",
-    "x": "elle s'est dit en elle-même : comment est-ce possible ? Nous sommes si vieux !"
+    "x": "elle s'est dit en elle-même : comment est-ce possible ? Nous sommes si vieux !",
+    "c": 0
    },
    {
     "q": "Comment s'appelait le fils né à Avraham et à Sarah ?",
@@ -493,7 +511,8 @@
      "'Hévron"
     ],
     "a": "Sodome",
-    "x": "avec Amora (Gomorrhe), Adma et Tsévoïm."
+    "x": "avec Amora (Gomorrhe), Adma et Tsévoïm.",
+    "c": 0
    },
    {
     "q": "En quoi s'est transformée la femme de Loth quand elle a regardé en arrière ? 🧂",
@@ -503,7 +522,8 @@
      "En colonne de pierre"
     ],
     "a": "En statue de sel (<he>נְצִיב מֶלַח</he>) <src>(בראשית יט, כו)</src>",
-    "x": "les anges avaient dit de ne pas regarder en arrière – et elle n'a pas écouté."
+    "x": "les anges avaient dit de ne pas regarder en arrière – et elle n'a pas écouté.",
+    "c": 1
    },
    {
     "q": "Devinette – qui suis-je ? Mes cornes se sont prises dans les branches, et Avraham m'a offert en sacrifice à la place d'Its'hak. 🐏",
@@ -525,7 +545,8 @@
      "Pour faire une piscine 🏊"
     ],
     "a": "Pour qu'Avraham se repose",
-    "x": "c'était le troisième jour après la mila, et si des invités étaient venus, Avraham se serait donné de la peine pour eux."
+    "x": "c'était le troisième jour après la mila, et si des invités étaient venus, Avraham se serait donné de la peine pour eux.",
+    "c": 1
    },
    {
     "q": "Qui Avraham a-t-il envoyé dehors pour chercher des invités ?",
@@ -553,7 +574,8 @@
      "Rephaël"
     ],
     "a": "Mikhaël",
-    "x": "Rephaël est venu guérir Avraham et sauver Loth, et Gavriel est venu renverser Sodome."
+    "x": "Rephaël est venu guérir Avraham et sauver Loth, et Gavriel est venu renverser Sodome.",
+    "c": 0
    },
    {
     "q": "Combien de villes y avait-il dans la région de Sodome ?",
@@ -563,7 +585,8 @@
      "12"
     ],
     "a": "5 villes",
-    "x": "Sodome, Amora, Adma, Tsévoïm et Tsoar (Béla)."
+    "x": "Sodome, Amora, Adma, Tsévoïm et Tsoar (Béla).",
+    "c": 1
    },
    {
     "q": "Quelle était la loi à Sodome concernant les pauvres ?",
@@ -579,7 +602,8 @@
      "Ils les ont invités à entrer"
     ],
     "a": "L'aveuglement (<he>סַנְוֵרִים</he>) <src>(בראשית יט, יא)</src>",
-    "x": "ils sont devenus aveugles et cherchaient la porte – sans la trouver."
+    "x": "ils sont devenus aveugles et cherchaient la porte – sans la trouver.",
+    "c": 1
    },
    {
     "q": "Dans quelle petite ville Loth a-t-il demandé à s'enfuir ?",
@@ -589,7 +613,8 @@
      "'Haran"
     ],
     "a": "Tsoar",
-    "x": "« <he>וְהִוא מִצְעָר</he> » <src>(בראשית יט, כ)</src> <tr>(« elle est petite »)</tr> – une petite ville avec peu d'habitants, et grâce à Loth elle a été sauvée."
+    "x": "« <he>וְהִוא מִצְעָר</he> » <src>(בראשית יט, כ)</src> <tr>(« elle est petite »)</tr> – une petite ville avec peu d'habitants, et grâce à Loth elle a été sauvée.",
+    "c": 0
    },
    {
     "q": "Où Avraham est-il parti après le renversement de Sodome ?",
@@ -623,7 +648,8 @@
      "Des grenouilles 🐸"
     ],
     "a": "Du soufre et du feu",
-    "x": "Hachem attendait qu'ils fassent techouva, c'est pourquoi Il a commencé par de la pluie. Comme ils ne sont pas revenus – la pluie s'est changée en soufre et en feu."
+    "x": "Hachem attendait qu'ils fassent techouva, c'est pourquoi Il a commencé par de la pluie. Comme ils ne sont pas revenus – la pluie s'est changée en soufre et en feu.",
+    "c": 1
    },
    {
     "q": "Pourquoi la femme de Loth a-t-elle été punie justement par le sel ?",
@@ -645,7 +671,8 @@
      "Nimrod"
     ],
     "a": "Avimélekh",
-    "x": "Hachem lui est apparu en rêve et lui a dit de la rendre immédiatement."
+    "x": "Hachem lui est apparu en rêve et lui a dit de la rendre immédiatement.",
+    "c": 0
    },
    {
     "q": "Que s'est-il passé dans la maison d'Avimélekh pendant tout le temps où Sarah y était ?",
@@ -667,7 +694,8 @@
      "Avraham"
     ],
     "a": "Its'hak",
-    "x": "Avraham a été circoncis à 99 ans et Yichmaël à 13 ans – Its'hak a été le premier à l'âge de 8 jours."
+    "x": "Avraham a été circoncis à 99 ans et Yichmaël à 13 ans – Its'hak a été le premier à l'âge de 8 jours.",
+    "c": 0
    },
    {
     "q": "Les moqueurs de la génération disaient qu'Its'hak était en fait le fils d'Avimélekh. Qu'a fait Hachem pour leur fermer la bouche ?",
