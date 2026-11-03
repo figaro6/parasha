@@ -302,10 +302,26 @@ function fillDl(meta){
     let b;
     if(dlMode==="save"){ b = el("button",{type:"button",id:"dl-"+l,lang:l}, label); b.onclick = ()=>savePdf(meta, l, b, msg); }
     else if(dlMode==="ext"){ b = el("a",{id:"dl-"+l,lang:l,href:`${PUBLIC_URL}#${meta.slug}-${l}`,target:"_blank",rel:"noopener"}, label); }
-    else { b = el("a",{id:"dl-"+l,lang:l,href:meta.pdf[l],download:meta.pdf[l].split("/").pop()}, label); }
+    else { b = el("a",{id:"dl-"+l,lang:l,href:meta.pdf[l],download:meta.pdf[l].split("/").pop()}, label); b.onclick = ()=>countDl(meta.slug, l); }
     row.append(b);
   }
   box.append(row, msg);
+  if(dlMode==="link") showDlCount(meta.slug, box);
+}
+
+// Stats (GoatCounter, no cookies): page visits + one event per PDF download.
+// The public count only shows once "Allow adding visitor counts" is ticked in GoatCounter's settings.
+const GC = "https://ourimad-parasha.goatcounter.com";
+const dlPath = (s, l)=>`download-${s}-${l}`;
+function countDl(s, l){ try{ window.goatcounter?.count?.({path: dlPath(s, l), title: `PDF ${s} ${l}`, event: true}); }catch(e){} }
+async function showDlCount(s, box){
+  try{
+    const n = await Promise.all(["he","fr"].map(l=>fetch(`${GC}/counter/${dlPath(s, l)}.json`)
+      .then(r=>r.ok ? r.json() : {count:"0"}).then(j=>parseInt(String(j.count).replace(/\D/g,""))||0).catch(()=>0)));
+    const total = n[0]+n[1];
+    if(!total || !box.isConnected) return;
+    box.append(el("div",{class:"dlmsg"}, lang==="he" ? `📊 הורד ${total.toLocaleString("he-IL")} פעמים` : `📊 Téléchargé ${total.toLocaleString("fr-FR")} fois`));
+  }catch(e){}
 }
 async function savePdf(meta, l, btn, msg){
   const u = UI[lang];
@@ -328,6 +344,7 @@ for(const b of document.querySelectorAll(".lang button")) b.onclick = ()=>{ lang
 fetch("data/manifest.json").then(r=>r.json()).then(m=>{ manifest=m; render(); })
   .catch(()=>{ app.innerHTML = `<div class="empty">${UI[lang].err}</div>`; });
 </script>
+<script data-goatcounter="https://ourimad-parasha.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 </body>
 </html>
