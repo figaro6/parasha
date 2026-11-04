@@ -1,6 +1,18 @@
 {
  "issues": [
   {
+   "series": 5,
+   "slug": "chayeisarah",
+   "date": "2026-11-07",
+   "he": "חיי שרה",
+   "fr": "'Hayé Sarah",
+   "file": "data/05-chayeisarah.json",
+   "pdf": {
+    "he": "pdf/quiz-05-chayeisarah-he.pdf",
+    "fr": "pdf/quiz-05-chayeisarah-fr.pdf"
+   }
+  },
+  {
    "series": 4,
    "slug": "vayera",
    "date": "2026-10-31",
