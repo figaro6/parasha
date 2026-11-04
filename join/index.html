@@ -2,59 +2,85 @@
 <html lang="he" dir="rtl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>🎲 חידון לשולחן השבת · Quiz du Chabbat – OuriMad</title>
-<meta name="description" content="כל שבוע חידון חדש על פרשת השבוע לילדים בגילאי 5–10 ולכל המשפחה · Chaque semaine, un nouveau quiz sur la paracha pour les 5–10 ans et toute la famille">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>🎲 חידון הפרשה · Le quiz de la paracha – OuriMad</title>
+<meta name="description" content="חידון חדש על פרשת השבוע לקטנים ולגדולים – להדפסה או לשחק מהטלפון, ולשתף את הניקוד עם החברים! · Le nouveau quiz de la paracha pour petits et grands – à imprimer ou à jouer, et partage ton score !">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://figaro6.github.io/parasha/join/">
-<meta property="og:title" content="🎲 חידון לשולחן השבת · Quiz du Chabbat">
-<meta property="og:description" content="הצטרפו לקהילה – כל שבוע חידון חדש על הפרשה לילדים 5–10 ולכל המשפחה 🕯️ Rejoignez la communauté – chaque semaine, un nouveau quiz sur la paracha pour les 5–10 ans et toute la famille">
+<meta property="og:title" content="🎲 חידון הפרשה החדש · Le nouveau quiz de la paracha">
+<meta property="og:description" content="לקטנים ולגדולים · להדפסה או לשחק מהטלפון · שתפו את הניקוד! 🏆 Pour petits et grands · à imprimer ou à jouer · partage ton score !">
 <meta property="og:image" content="https://figaro6.github.io/parasha/logo.png">
 <meta property="og:image:width" content="512">
 <meta property="og:image:height" content="512">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="../logo.png">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800;900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800;900&display=swap">
 <style>
-:root{--bg:#fbf8f4;--surface:#fff;--ink:#2b2d42;--muted:#6b6f80;--navy:#2b2d6e;--pink:#e0457b;--gold:#f2c14e;--line:#e6e3ee;--wa:#128c4a}
-@media (prefers-color-scheme:dark){:root{--bg:#17162a;--surface:#221f38;--ink:#ecebf5;--muted:#a7a6bd;--navy:#c9c6ff;--pink:#ff7aa6;--line:#35325a;color-scheme:dark}}
-*{box-sizing:border-box}
+:root{--bg:#fbf8f4;--surface:#fff;--ink:#2b2d42;--muted:#6b6f80;--navy:#2b2d6e;--pink:#e0457b;--gold:#f2c14e;--line:#e6e3ee;--wa:#128c4a;--site:#2b2d6e;--tint:#fff6e0;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17162a;--surface:#221f38;--ink:#ecebf5;--muted:#a7a6bd;--navy:#c9c6ff;--pink:#ff7aa6;--line:#35325a;--site:#4b3a9a;--tint:#2a2545;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#17162a;--surface:#221f38;--ink:#ecebf5;--muted:#a7a6bd;--navy:#c9c6ff;--pink:#ff7aa6;--line:#35325a;--site:#4b3a9a;--tint:#2a2545;color-scheme:dark}
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*,*::before,*::after{box-sizing:inherit}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:"Rubik","Segoe UI",Arial,sans-serif;line-height:1.5;-webkit-text-size-adjust:100%}
-main{max-width:520px;margin:0 auto;padding:28px 16px 40px;display:flex;flex-direction:column;align-items:center;gap:18px;text-align:center}
-img{width:168px;height:168px;border-radius:50%;box-shadow:0 8px 28px rgba(43,45,110,.28)}
-h1{margin:0;font-size:28px;line-height:1.2;font-weight:900;color:var(--navy)}
-h1 span{display:block;color:var(--pink);font-size:22px;margin-top:4px}
-.card{width:100%;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
-.card p{margin:0;font-size:16px}
-.card[dir="ltr"]{text-align:center}
-.btns{width:100%;display:flex;flex-direction:column;gap:10px}
-.btns a{display:block;border-radius:14px;padding:13px 16px;font-weight:800;font-size:17px;text-decoration:none;color:#fff}
-.btns a span{display:block;font-weight:600;font-size:15px;opacity:.92}
+main{max-width:520px;margin:0 auto;padding:22px 16px 36px;display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center}
+.logo{width:120px;height:120px;border-radius:50%;box-shadow:0 8px 28px rgba(43,45,110,.28)}
+.new{display:inline-block;background:var(--pink);color:#fff;font-weight:800;font-size:13px;border-radius:999px;padding:4px 12px;letter-spacing:.3px}
+h1{margin:0;font-size:30px;line-height:1.15;font-weight:900;color:var(--navy)}
+h1 span{display:block;color:var(--pink);font-size:21px;margin-top:6px;font-weight:800}
+.week{font-size:15px;color:var(--muted);min-height:1.5em}
+.week b{color:var(--ink)}
+.feats{width:100%;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.feat{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:12px 6px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.feat .i{font-size:30px;line-height:1.1}
+.feat b{font-size:14px;line-height:1.25}
+.feat small{display:block;font-size:12.5px;color:var(--muted);line-height:1.25}
+.card{width:100%;background:var(--tint);border:1px solid var(--line);border-radius:18px;padding:12px 16px;font-size:15.5px}
+.card p{margin:0}
+.card p+p{margin-top:6px}
+.btns{width:100%;display:flex;flex-direction:column;gap:12px;margin-top:4px}
+.btns a{display:flex;align-items:center;gap:14px;border-radius:18px;padding:14px 18px;text-decoration:none;color:#fff;text-align:start;box-shadow:0 6px 18px rgba(0,0,0,.12);transition:transform .1s}
+.btns a:active{transform:scale(.98)}
+.btns .em{font-size:32px;line-height:1}
+.btns .t{display:flex;flex-direction:column}
+.btns .t b{font-size:19px;font-weight:800;line-height:1.2}
+.btns .t span{font-size:15px;font-weight:500;opacity:.92}
+.site{background:var(--site)}
 .wa{background:var(--wa)}
-.site{background:var(--navy)}
-@media (prefers-color-scheme:dark){.site{background:#3b2a7a}}
-small{color:var(--muted);font-size:13px}
+.foot{color:var(--muted);font-size:13px}
 </style>
 </head>
 <body>
 <main>
-  <img src="../logo.png" alt="OuriMad – WEEKLY_PARASHA">
-  <h1>🎲 חידון לשולחן השבת<span lang="fr" dir="ltr">Quiz pour la table du Chabbat</span></h1>
+  <img class="logo" src="../logo.png" alt="OuriMad – WEEKLY_PARASHA">
+  <span class="new">✨ <bdi>חדש!</bdi> · <bdi lang="fr" dir="ltr">Nouveau<span class="new">✨ חדש! · Nouveau !</span>#8239;!</bdi></span>
+  <h1>🎲 חידון הפרשה<span lang="fr" dir="ltr">Le quiz de la paracha</span></h1>
+  <div class="week" id="week">לקטנים ולגדולים · <span lang="fr" dir="ltr">Pour petits et grands</span></div>
+
+  <div class="feats">
+    <div class="feat"><div class="i">📱</div><b>משחקים מהטלפון</b><small lang="fr" dir="ltr">On joue sur le téléphone</small></div>
+    <div class="feat"><div class="i">🖨️</div><b>או מדפיסים לשבת</b><small lang="fr" dir="ltr">ou on imprime pour Chabbat</small></div>
+    <div class="feat"><div class="i">🏆</div><b>משתפים את הניקוד</b><small lang="fr" dir="ltr">on partage son score</small></div>
+  </div>
+
   <div class="card">
-    <p>כל שבוע – חידון חדש על פרשת השבוע לילדים בגילאי 5–10, ולכל המשפחה 👨‍👩‍👧‍👦</p>
-    <p>✨ 50 שאלות ב־5 שלבים · 📥 PDF להדפסה או משחק מהטלפון</p>
+    <p>כל שבוע – 50 שאלות חדשות על הפרשה, ב־5 שלבים מגיל 5 ועד סבא 😉</p>
+    <p lang="fr" dir="ltr">Chaque semaine – 50 nouvelles questions sur la paracha, en 5 niveaux, de 5 ans… jusqu'à papi&#8239;😉</p>
   </div>
-  <div class="card" lang="fr" dir="ltr">
-    <p>Chaque semaine, un nouveau quiz sur la paracha pour les enfants de 5 à 10 ans… et toute la famille&#8239;!</p>
-    <p>✨ 50 questions en 5 niveaux · 📥 PDF à imprimer ou jeu sur téléphone</p>
-  </div>
+
   <div class="btns">
-    <a class="wa" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE">💬 הצטרפו לקהילה<span lang="fr" dir="ltr">Rejoindre la communauté</span></a>
-    <a class="site" href="../">🎲 לחידון של השבוע<span lang="fr" dir="ltr">Le quiz de la semaine</span></a>
+    <a class="site" href="../"><span class="em">🎲</span><span class="t"><b>לשחק עכשיו!</b><span lang="fr" dir="ltr">Jouer maintenant !</span></span></a>
+    <a class="wa" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE"><span class="em">💬</span><span class="t"><b>להצטרף לקהילה</b><span lang="fr" dir="ltr">Rejoindre la communauté</span></span></a>
   </div>
-  <small>שבת שלום · Chabbat Chalom 🕯️🕯️</small>
+  <div class="foot">בקהילה: חידון חדש כל שבוע ישר לוואטסאפ 📲<br><span lang="fr" dir="ltr">Dans la communauté : le nouveau quiz chaque semaine sur WhatsApp</span></div>
+  <div class="foot">שבת שלום · Chabbat Chalom 🕯️🕯️</div>
 </main>
+<script>
+fetch("../data/manifest.json").then(r=>r.json()).then(m=>{
+  const i=m.issues&&m.issues[0]; if(!i) return;
+  document.getElementById("week").innerHTML='החידון של השבוע: <b>פרשת '+i.he+'</b><br><span lang="fr" dir="ltr">Cette semaine : <b>Paracha '+i.fr+'</b></span>';
+}).catch(()=>{});
+</script>
 <script data-goatcounter="https://ourimad-parasha.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>
 </html>
