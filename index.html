@@ -508,7 +508,7 @@ function fillDl(meta){
     let b;
     if(dlMode==="save"){ b = el("button",{type:"button",id:"dl-"+l,lang:l}, label); b.onclick = ()=>savePdf(meta, l, b, msg); }
     else if(dlMode==="ext"){ b = el("a",{id:"dl-"+l,lang:l,href:`${PUBLIC_URL}#${meta.slug}-${l}`,target:"_blank",rel:"noopener"}, label); }
-    else { b = el("a",{id:"dl-"+l,lang:l,href:meta.pdf[l],download:meta.pdf[l].split("/").pop()}, label); b.onclick = ()=>countDl(meta.slug, l); }
+    else { b = el("a",{id:"dl-"+l,lang:l,href:meta.pdf[l],download:meta.pdf[l].split("?")[0].split("/").pop()}, label); b.onclick = ()=>countDl(meta.slug, l); }
     row.append(b);
   }
   box.append(row, msg);
@@ -536,7 +536,7 @@ async function savePdf(meta, l, btn, msg){
   try{
     const r = await fetch(meta.pdf[l]); if(!r.ok) throw {code:"fetch"};
     const blob = await r.blob();
-    await downloads.save({filename: meta.pdf[l].split("/").pop(), data: blob});
+    await downloads.save({filename: meta.pdf[l].split("?")[0].split("/").pop(), data: blob});
     msg.textContent = u.saved;
   }catch(e){
     if(e && ["unavailable","not_granted","capability_disabled","capability_removed"].includes(e.code)){ document.body.classList.remove("can-dl"); }
