@@ -153,30 +153,30 @@
    {
     "q": "איך שמעה שרה על עקדת יצחק?",
     "opts": [
-     "יצחק שלח לה מכתב ✉️",
-     "השטן בא וסיפר לה – ומרוב צער פרחה נשמתה",
-     "אליעזר רץ וסיפר לה"
+     "השטן בא וסיפר לה",
+     "אליעזר חזר מההר וסיפר לה",
+     "ישמעאל רץ הביתה וסיפר לה"
     ],
     "a": "השטן בא וסיפר לה",
     "x": "הוא סיפר לה שאברהם לקח את יצחק להקריב אותו – ושרה, מרוב צער, נפטרה. 💔",
-    "c": 1
+    "c": 0
    },
    {
     "q": "איך גילה אברהם את מערת המכפלה? 🐄",
     "opts": [
-     "חלם עליה בלילה 💭",
-     "עגל ברח לתוך המערה, ואברהם רדף אחריו",
-     "מצא מפה ישנה 🗺️"
+     "רדף אחרי עגל שברח לתוך המערה",
+     "אחד המלאכים הוביל אותו לשם",
+     "ראה אור יוצא מפתח המערה"
     ],
     "a": "רדף אחרי עגל שברח לתוכה",
     "x": "כשהכין אוכל לשלושת המלאכים, עגל אחד ברח למערה. בפנים ראה אברהם את קברי אדם וחוה, נרות דולקים – וריח של גן עדן!",
-    "c": 1
+    "c": 0
    },
    {
     "q": "ממי קנה אברהם את המערה?",
     "opts": [
-     "מאבימלך",
-     "מפרעה",
+     "מצֹחר, אביו של עפרון",
+     "ממַמְרֵא האמורי, ידידו של אברהם",
      "מעפרון החתי"
     ],
     "a": "<he>עֶפְרוֹן בֶּן צֹחַר</he> החתי",
@@ -186,64 +186,64 @@
    {
     "q": "כמה כסף שילם אברהם על השדה והמערה?",
     "opts": [
-     "4 שקלים",
-     "שום דבר – קיבל במתנה 🎁",
-     "400 שקל כסף"
+     "300 שקל כסף",
+     "400 שקל כסף",
+     "400 שקל זהב"
     ],
     "a": "400 שקל כסף",
     "x": "ובשקלים הכי חשובים – \"<he>עֹבֵר לַסֹּחֵר</he>\", שמקבלים אותם בכל מקום. הרבה יותר ממה שהמערה שווה!",
-    "c": 2
+    "c": 1
    },
    {
     "q": "איך הגיע אליעזר כל כך מהר לחרן?",
     "opts": [
-     "בקפיצת הדרך – הדרך התקצרה בנס",
-     "ברכבת מהירה 🚄",
-     "הגמלים רצו כמו סוסי מרוץ 🏇"
+     "מלאך נשא אותו ואת הגמלים באוויר",
+     "רכב כל הלילה בלי לעצור",
+     "בקפיצת הדרך – הדרך התקצרה בנס"
     ],
     "a": "בקְפִיצַת הַדֶּרֶךְ",
     "x": "נס! הוא יצא בבוקר – והגיע עוד באותו יום, לפני הערב.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "איזה סימן ביקש אליעזר מה' כדי לדעת מי הכלה של יצחק?",
     "opts": [
-     "הנערה עם השמלה הכי יפה 👗",
-     "הנערה שתגיד: \"שתה וגם גמליך אשקה\"",
-     "הנערה הראשונה שתגיד שלום 👋"
+     "שתאמר: \"שתה, אדוני\" ותזמין אותו הביתה",
+     "שתאמר: \"יש מקום בבית אבי ללון\"",
+     "שתאמר: \"שתה וגם גמליך אשקה\""
     ],
     "a": "\"<he>שְׁתֵה וְגַם גְּמַלֶּיךָ אַשְׁקֶה</he>\"",
     "x": "כך ידע שהיא בעלת חסד – מתאימה לבית של אברהם, גומל החסדים.",
-    "c": 1
+    "c": 2
    },
    {
     "q": "מה קרה למים בבאר כשרבקה הגיעה?",
     "opts": [
-     "נהיו מיץ תפוזים 🍊",
-     "עלו מעצמם למעלה – לקראתה 💧",
-     "קפאו לקרח ❄️"
+     "המים נהיו מתוקים כדבש",
+     "הבאר היבשה התחילה לנבוע מחדש",
+     "המים עלו מעצמם לקראתה"
     ],
     "a": "המים עלו לקראתה",
     "x": "נס! ובגלל זה אליעזר רץ אליה מיד.",
-    "c": 1
+    "c": 2
    },
    {
     "q": "מה נתן אליעזר לרבקה אחרי שהשקתה את הגמלים? 💍",
     "opts": [
-     "כד חדש 🏺",
-     "גמל קטן במתנה 🐪",
-     "נזם זהב ושני צמידים"
+     "שתי שרשראות זהב וטבעת",
+     "נזם זהב ושני צמידים",
+     "נזם כסף ושני צמידים"
     ],
     "a": "<he>נֶזֶם זָהָב וּשְׁנֵי צְמִידִים</he>",
     "x": "עוד לפני שידע מאיזו משפחה היא – כי היה בטוח שה' הצליח את דרכו.",
-    "c": 2
+    "c": 1
    },
    {
     "q": "אליעזר שאל את רבקה שתי שאלות. מה הן?",
     "opts": [
      "\"בת מי את?\" ו\"היש בית אביך מקום לנו ללין?\"",
-     "\"מה השעה?\" ו\"איפה השוק?\" ⏰",
-     "\"בת כמה את?\" ו\"מה את אוהבת לאכול?\""
+     "\"מה שמך?\" ו\"היש בית אביך מקום ללין?\"",
+     "\"בת מי את?\" ו\"היש לכם תבן ומספוא לגמלים?\""
     ],
     "a": "\"<he>בַּת מִי אַתְּ?</he>\" + \"<he>הֲיֵשׁ בֵּית אָבִיךְ מָקוֹם לָנוּ לָלִין?</he>\"",
     "x": "ורבקה ענתה לפי הסדר: קודם על הראשונה ואחר כך על השנייה – חכמה אמיתית!",
@@ -252,9 +252,9 @@
    {
     "q": "\"<he>וַיֵּצֵא יִצְחָק לָשׂוּחַ בַּשָּׂדֶה לִפְנוֹת עָרֶב</he>\" – מה עשה יצחק בשדה?",
     "opts": [
-     "קטף פרחים 🌼",
-     "התפלל – תפילת מנחה 🙏",
-     "שיחק כדורגל ⚽"
+     "למד תורה בשקט",
+     "התפלל – תפילת מנחה",
+     "התפלל – תפילת ערבית"
     ],
     "a": "התפלל – תפילת מנחה",
     "x": "יצחק אבינו תיקן את תפילת מנחה – ובדיוק אז ראה את הגמלים מגיעים. 🐪",
@@ -263,20 +263,20 @@
    {
     "q": "\"<he>מֵאָה שָׁנָה וְעֶשְׂרִים שָׁנָה וְשֶׁבַע שָׁנִים</he>\" – למה התורה כותבת \"שנה\" אחרי כל מספר?",
     "opts": [
-     "כי שרה אהבה מאוד ימי הולדת 🎂",
-     "כדי שיהיה קל יותר לספור",
-     "כדי ללמד: בת 100 כבת 20 בלי חטא, ובת 20 כבת 7 ביופי"
+     "ללמד: בת 100 כבת 20 בלי חטא, ובת 20 כבת 7 ביופי",
+     "ללמד שכל תקופה בחייה הייתה מלאה ניסיונות",
+     "ללמד: בת 100 כבת 20 ביופי, ובת 20 כבת 7 בלי חטא"
     ],
     "a": "כל מספר נדרש לעצמו",
     "x": "בת מאה – כמו בת עשרים בלי חטא (עד גיל 20 לא נענשים בבית דין של מעלה); ובת עשרים – יפה כמו בת שבע. כל ימיה היו טובים באותה מידה!",
-    "c": 2
+    "c": 0
    },
    {
     "q": "בתורה כתוב \"<he>וַיָּבֹא אַבְרָהָם לִסְפֹּד לְשָׂרָה וְלִבְכֹּתָהּ</he>\" – והאות כ' שם קטנה! למה?",
     "opts": [
-     "כי הסופר התעייף בסוף 😅",
-     "כי אברהם בכה רק מעט – שרה נפטרה בזקנה טובה",
-     "כי לא נשאר מספיק דיו"
+     "כי מיהר לטפל בקבורה ובקניית המערה",
+     "כי בכה רק מעט – שרה נפטרה בזקנה טובה",
+     "כי בכה בסתר, שלא יראו אותו בני חת"
     ],
     "a": "אברהם בכה רק מְעַט",
     "x": "כי שרה נפטרה בזקנה טובה. ועוד טעם: היא נקברה בערב סוכות – והחג הפסיק את האבלות.",
@@ -285,20 +285,20 @@
    {
     "q": "למה קוראים למערה \"מערת המכפלה\"?",
     "opts": [
-     "כי היא כפולה: שתי קומות, וקבורים בה זוגות",
-     "כי היו לה רק שני פתחים",
-     "כי הייתה בה באר כפולה"
+     "כי אברהם שילם עליה מחיר כפול",
+     "כי יש לה שתי קומות, וקבורים בה זוגות",
+     "כי יש לה שני פתחים – אחד מכל צד"
     ],
     "a": "כי היא כפולה",
     "x": "יש לה שתי קומות, וקבורים בה ארבעה זוגות: אדם וחוה, אברהם ושרה, יצחק ורבקה, יעקב ולאה.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "אברהם אמר לבני חת: \"<he>גֵּר וְתוֹשָׁב אָנֹכִי עִמָּכֶם</he>\". למה התכוון?",
     "opts": [
-     "שהוא נשאר רק שבוע ואחר כך עוזב",
-     "שהוא רוצה לגור ליד הים",
-     "אם תסכימו – אני גר; ואם לא – אני תושב, כי ה' הבטיח לי את הארץ"
+     "גר – לבדי; תושב – יחד עם כל משפחתי",
+     "גר – כל עוד אני חי; תושב – אחרי מותי, במערה",
+     "אם תסכימו – גר; ואם לא – תושב, כי ה' הבטיח לי את הארץ"
     ],
     "a": "אם תסכימו – אני גר; ואם לא – אני תושב",
     "x": "\"תושב\" – כי ה' הבטיח לו: \"<he>לְזַרְעֲךָ אֶתֵּן אֶת הָאָרֶץ הַזֹּאת</he>\". אבל אברהם העדיף לקנות בכבוד, בכסף מלא.",
@@ -307,19 +307,19 @@
    {
     "q": "כמה ימי הליכה יש מקרית ארבע לארם נהריים – ובכמה זמן הגיע אליעזר?",
     "opts": [
+     "7 ימים – ואליעזר הגיע ב־3 שעות",
      "17 ימים – ואליעזר הגיע ב־3 שעות",
-     "3 ימים – ואליעזר הגיע ב־17 שעות",
-     "שבוע – ואליעזר הגיע בשבוע"
+     "17 ימים – ואליעזר הגיע ב־3 ימים"
     ],
     "a": "17 יום – ואליעזר הגיע ב־3 שעות! ⚡",
     "x": "כך מסופר בפרקי דרבי אליעזר – זו קפיצת הדרך.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "בת כמה הייתה רבקה כשפגשה את אליעזר, לפי המדרש?",
     "opts": [
-     "13",
-     "30",
+     "12",
+     "5",
      "3"
     ],
     "a": "בת 3 (ויש מדרש: בת 14)",
@@ -329,20 +329,20 @@
    {
     "q": "למה העיר נקראת \"<he>אֲרַם נַהֲרַיִם</he>\"?",
     "opts": [
-     "כי יש בה הרבה נחלים קטנים",
-     "כי האנשים שם אהבו לשחות 🏊",
-     "כי היא בין שני נהרות – פרת וחידקל"
+     "כי שני נהרות נפגשים בה ונהיים לנהר אחד",
+     "כי היא בין שני נהרות – פרת וחידקל",
+     "כי היא בין שני נהרות – הירדן והפרת"
     ],
     "a": "בין שני נהרות – פְּרָת וְחִדֶּקֶל",
     "x": "\"נהריים\" = שני נהרות. שם, בחרן, גר נחור – אחיו של אברהם.",
-    "c": 2
+    "c": 1
    },
    {
     "q": "מי ניסה לעכב את השידוך – ואיך?",
     "opts": [
-     "לבן – הסתיר את הגמלים",
+     "לבן – שם רעל בצלחת של אליעזר",
      "בתואל – שם רעל בצלחת של אליעזר",
-     "אמא של רבקה – נעלה את הדלת"
+     "בתואל – הסתיר את רבקה בבית"
     ],
     "a": "בתואל – שם רעל בצלחת של אליעזר ☠️",
     "x": "אבל מלאך החליף את הצלחות – ובתואל עצמו אכל, ומת באותו לילה.",
@@ -353,7 +353,7 @@
     "opts": [
      "<he>דְּבוֹרָה</he> – המינקת של רבקה",
      "<he>מִלְכָּה</he> – הסבתא של רבקה",
-     "<he>הָגָר</he>"
+     "<he>זִלְפָּה</he> – שפחה מבית לבן"
     ],
     "a": "<he>דְּבוֹרָה</he>, המינקת של רבקה",
     "x": "ולפי המדרש, מתוך עשרת הגמלים: אחד לאליעזר, אחד לרבקה, אחד לדבורה – ושבעה לנערות של רבקה.",
@@ -362,53 +362,53 @@
    {
     "q": "אליעזר אמר: \"וְאִם לֹא... <he>וְאֶפְנֶה עַל יָמִין אוֹ עַל שְׂמֹאל</he>\". לאן התכוון לפנות?",
     "opts": [
-     "ימין – לבנות ישמעאל בדרום; שמאל – לבנות לוט בצפון",
-     "ימין – לים; שמאל – למדבר",
-     "לחזור הביתה בדרך אחרת"
+     "ימין – לבנות לוט; שמאל – לבנות ישמעאל",
+     "ימין – לבנות ישמעאל; שמאל – לבנות לוט",
+     "ימין – לבנות ענר; שמאל – לבנות אשכול"
     ],
     "a": "ימין = בנות ישמעאל, שמאל = בנות לוט",
     "x": "ישמעאל גר בדרום (ימין, כשעומדים מול המזרח), ולוט – בצפון (שמאל).",
-    "c": 0
+    "c": 1
    },
    {
     "q": "למה נפטרה שרה לפני אברהם, אף שהייתה צעירה ממנו ב־10 שנים?",
     "opts": [
-     "כי עבדה קשה מדי באוהל",
-     "כי גרה רחוק מהבאר",
-     "כי מסרה את דינו של אברהם לשמים: \"ישפוט ה' ביני וביניך\""
+     "כי צחקה כשהמלאך בישר על לידת יצחק",
+     "כי מסרה את דינו של אברהם לשמים: \"ישפוט ה' ביני וביניך\"",
+     "כי גירשה את הגר וישמעאל מהבית"
     ],
     "a": "כי מסרה את דינו של אברהם לשמים",
     "x": "כשהגר ציערה אותה, אמרה שרה: \"<he>יִשְׁפֹּט ה' בֵּינִי וּבֵינֶיךָ</he>\". מי שמוסר דין חברו לשמים – נענש ראשון (בבא קמא צג). לכן עדיף לוותר! 🤝",
-    "c": 2
+    "c": 1
    },
    {
     "q": "למה אברהם לא פנה ישר לעפרון, אלא ביקש מבני חת לדבר איתו?",
     "opts": [
-     "כי אברהם לא ידע איפה עפרון גר",
-     "כי עפרון עשיר ומכובד, ולא היה מוכר את נחלת אבותיו בלי מתווך",
-     "כי עפרון היה חולה באותו יום"
+     "כי עפרון, עשיר ומכובד, לא היה מוכר את נחלת אבותיו בלי מתווך",
+     "כי עפרון לא דיבר את השפה של אברהם",
+     "כי עפרון כעס על אברהם ולא רצה לדבר איתו"
     ],
     "a": "כי עפרון לא היה מוכר בלי מתווך",
     "x": "עפרון היה עשיר ומכובד, ולא היה מוכר את נחלת אבותיו (רמב\"ן). וכך גם דרך ארץ – לא פונים ישירות לאדם חשוב בבקשה. ובאותו יום בני חת אפילו מינו את עפרון למנהיג – שלא יצטרך אדם גדול לקנות מאדם קטן.",
-    "c": 1
+    "c": 0
    },
    {
     "q": "עפרון רצה לתת את המערה במתנה – למה אברהם התעקש לשלם?",
     "opts": [
+     "כי \"שונא מתנות יחיה\" – צדיק לא נהנה ממתנות",
      "כי על מתנה אפשר לערער אחר כך – ועל קנייה בכסף ובשטר לא",
-     "כי לא אהב לקבל מתנות",
-     "כי המערה הייתה קטנה מדי"
+     "כי רצה לכבד את עפרון מול כל בני חת"
     ],
     "a": "על מתנה אפשר לערער – על קנייה לא",
     "x": "כשקונים בכסף ובשטר – אף אחד לא יוכל לבוא יום אחד ולהגיד \"המערה שלנו!\". ואברהם אמר \"<he>נָתַתִּי</he>\" ולא \"אתן\" – כי הבטחה של צדיק היא כמו מעשה שכבר נעשה.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "כשעפרון קיבל את הכסף, שמו נכתב בלי ו' – \"<he>עֶפְרֹן</he>\". למה?",
     "opts": [
      "כי \"אמר הרבה ואפילו מעט לא עשה\" – הבטיח בחינם ולקח הון",
-     "כי שכחו לכתוב את האות",
-     "כי עפרון היה נמוך מאוד"
+     "כי התורה מקצרת את שמו של מי שמוכר אדמה",
+     "כי ירד מגדולתו – כבר לא היה מנהיג"
     ],
     "a": "\"<he>אוֹמֵר הַרְבֵּה וַאֲפִלּוּ מְעַט אֵינוֹ עוֹשֶׂה</he>\"",
     "x": "הבטיח לתת בחינם – ובסוף לקח סכום עצום. ו\"עפרן\" בלי ו' בגימטריה = 400, כמו השקלים – וגם כמו \"רַע עַיִן\" (270 + 130). 🔢",
@@ -417,9 +417,9 @@
    {
     "q": "חז\"ל אומרים שמשהו מיוחד התחיל בעולם רק בזמן אברהם – בפרשה שלנו. מה זה? 👴",
     "opts": [
-     "גשם – עד אז לא ירד גשם",
+     "ייסורים – עד אז לא היו לאדם ייסורים",
      "זקנה – עד אז לא היו סימני זקנה",
-     "שינה – עד אז אף אחד לא ישן"
+     "חולי – עד אז אנשים לא היו חולים"
     ],
     "a": "<he>זִקְנָה</he>!",
     "x": "עד אברהם לא היו לאנשים סימני זקנה, וכולם התבלבלו בין אברהם ליצחק כי היו דומים מאוד. אברהם ביקש רחמים – וכך נכתב לראשונה: \"<he>וְאַבְרָהָם זָקֵן</he>\".",
@@ -428,9 +428,9 @@
    {
     "q": "אליעזר שאל: \"<he>אוּלַי לֹא תֹאבֶה הָאִשָּׁה לָלֶכֶת אַחֲרַי</he>\". מה מסתתר במילה \"אולי\"?",
     "opts": [
-     "שאליעזר פחד מהגמלים",
-     "שאליעזר לא רצה לנסוע רחוק",
-     "\"אלי\" בלי ו' – אליעזר רצה שיצחק יתחתן עם הבת שלו"
+     "שאליעזר חשש שלא יצליח בשליחות",
+     "\"אלי\" – אליעזר רצה שרבקה תתחתן איתו",
+     "\"אלי\" – אליעזר רצה שיצחק יתחתן עם הבת שלו"
     ],
     "a": "\"<he>אֻלַי</he>\" חסר = \"<he>אֵלַי</he>\" – הוא רצה את יצחק לבתו!",
     "x": "אבל אברהם ענה: אתה מכנען שהוא \"ארור\", ובני \"ברוך\" – \"<he>וְאֵין אָרוּר מִתְדַּבֵּק בְּבָרוּךְ</he>\". ואליעזר קיבל את דבריו באהבה.",
@@ -439,31 +439,31 @@
    {
     "q": "אליעזר היה מכנען ה\"ארור\". אז למה לבן קרא לו \"<he>בּוֹא בְּרוּךְ ה'</he>\"?",
     "opts": [
-     "כי שירת את אברהם בנאמנות – ועבר מ\"ארור\" ל\"ברוך\"",
-     "כי נתן ללבן מתנה גדולה",
-     "כי נולד ביום חג"
+     "כי אליעזר בירך את לבן קודם לכן",
+     "כי ראה שהגמלים שלו לא אוכלים בשדות זרים",
+     "כי שירת את אברהם בנאמנות – ועבר מ\"ארור\" ל\"ברוך\""
     ],
     "a": "כי אליעזר עבר מ\"ארור\" ל\"ברוך\"",
     "x": "בזכות שהיה עבד נאמן לאברהם (בראשית רבה). ולבן הוסיף: \"<he>וְאָנֹכִי פִּנִּיתִי הַבַּיִת</he>\" – פיניתי את הבית מעבודה זרה, כדי שאליעזר יסכים להיכנס.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "אליעזר נתן לרבקה נזם במשקל \"בֶּקַע\" ושני צמידים במשקל עשרה. למה זה רומז?",
     "opts": [
-     "שלושת האבות, שני בני אברהם ועשרת הניסיונות",
-     "שבת, שני נרות ומניין של עשרה",
-     "מחצית השקל, שני הלוחות ועשרת הדיברות"
+     "מחצית השקל, שני הלוחות ועשרת הדיברות",
+     "שלושת האבות, שני הלוחות ועשרת הדיברות",
+     "מחצית השקל, שני הכרובים ועשר המכות"
     ],
     "a": "מחצית השקל, שני הלוחות ועשרת הדיברות 📜",
     "x": "\"בקע\" – כמו מחצית השקל שנתנו בני ישראל; שני צמידים – שני לוחות הברית; ומשקל עשרה – עשרת הדיברות שבניה עתידים לקבל.",
-    "c": 2
+    "c": 0
    },
    {
     "q": "שלושה ניסים היו באוהל של שרה – נעלמו כשנפטרה, וחזרו כשרבקה הגיעה. מה הם?",
     "opts": [
      "נר דולק כל השבוע, ברכה בעיסה וענן קשור על האוהל",
-     "מן, באר ועמוד אש",
-     "גשם, טל ורוח טובה"
+     "נר דולק כל השבוע, פתחים לארבע רוחות וענן על האוהל",
+     "נר דולק כל השבוע, ברכה בעיסה ובאר מים ליד האוהל"
     ],
     "a": "נר דולק, ברכה בעיסה וענן על האוהל 🕯️🍞☁️",
     "x": "נר שדלק מערב שבת לערב שבת, ברכה בבצק, וענן (השכינה) קשור על האוהל. הם כנגד שלוש מצוות של נשים: הדלקת נרות, הפרשת חלה וטהרת המשפחה.",
@@ -472,9 +472,9 @@
    {
     "q": "איך יודעים שישמעאל חזר בתשובה בסוף ימי אברהם?",
     "opts": [
-     "כי ישמעאל בכה הכי חזק בלוויה",
-     "כי ישמעאל קנה לאברהם מתנה",
-     "\"ויקברו אתו יצחק וישמעאל\" – נתן ליצחק לעמוד ראשון; ו\"ויגוע\" נאמר רק בצדיקים"
+     "ישמעאל ויתר ליצחק על כל הירושה",
+     "\"ויקברו אתו ישמעאל ויצחק\" – הבכור הוביל, כמו שצריך",
+     "\"ויקברו אתו יצחק וישמעאל\" – ישמעאל נתן ליצחק ללכת ראשון"
     ],
     "a": "שני רמזים בתורה",
     "x": "\"<he>וַיִּקְבְּרוּ אֹתוֹ יִצְחָק וְיִשְׁמָעֵאל</he>\" – ישמעאל הגדול נתן ליצחק לעמוד ראשון; ובמיתתו כתוב \"<he>וַיִּגְוַע</he>\" – לשון שנאמרת רק בצדיקים. כך התקיים לאברהם \"<he>בְּשֵׂיבָה טוֹבָה</he>\".",
@@ -483,20 +483,20 @@
    {
     "q": "יצחק חי 180 שנה, ואברהם רק 175. למה קיצר ה' חמש שנים מחיי אברהם?",
     "opts": [
-     "כדי שלא יראה את עשו יוצא לתרבות רעה",
-     "כי היה עייף מכל הניסיונות",
-     "כי רצה להיות קרוב לשרה"
+     "כדי שלא יראה את יצחק מתעוור",
+     "כדי שלא יראה את יעקב בורח מפני עשו",
+     "כדי שלא יראה את עשו יוצא לתרבות רעה"
     ],
     "a": "שלא יראה את עשו הנכד מתקלקל",
     "x": "באותו יום שנפטר אברהם – יצא עשו לתרבות רעה. ה' רצה שאברהם ייפטר \"<he>בְּשֵׂיבָה טוֹבָה</he>\", בשמחה ובנחת. 💙",
-    "c": 0
+    "c": 2
    },
    {
     "q": "ה' נתן לאברהם את \"כוח הברכה\" – ובכל זאת אברהם לא בירך את יצחק. למה?",
     "opts": [
      "כי ראה שעשו עתיד לצאת ממנו – והשאיר את הברכה לה'",
-     "כי שכח לברך",
-     "כי יצחק לא ביקש ברכה"
+     "כי חיכה שיצחק יתחתן ויוולדו לו ילדים",
+     "כי חשש שישמעאל יקנא ויריב עם יצחק"
     ],
     "a": "השאיר את הברכה ל\"בעל הברכות\"",
     "x": "אברהם ראה שעשו עתיד לצאת מיצחק, ולא רצה לברך גם אותו. לכן מיד אחרי פטירתו – \"<he>וַיְבָרֶךְ אֱלֹהִים אֶת יִצְחָק בְּנוֹ</he>\": ה' בעצמו בירך וניחם אותו.",
@@ -505,8 +505,8 @@
    {
     "q": "למה לקח אליעזר דווקא עשרה גמלים?",
     "opts": [
-     "כי עשר היה המספר האהוב עליו",
-     "כי בחרן גבו מכס של עשרה גמלים",
+     "כנגד עשרת הניסיונות של אברהם",
+     "כנגד עשרה דורות מנח ועד אברהם",
      "כדי שיהיו עשרה אנשים – מניין לברכת האירוסין"
     ],
     "a": "כדי שיהיו עשרה אנשים – מניין",
@@ -516,9 +516,9 @@
    {
     "q": "\"<he>וַתְּמַהֵר וַתֹּרֶד כַּדָּהּ</he>\" – למה רבקה מיהרה כל כך?",
     "opts": [
-     "כי פחדה מהגמלים",
-     "כי אליעזר התפלל \"הקרה נא לפני היום\" – וה' זירז אותה לפני השקיעה",
-     "כי אמא שלה קראה לה הביתה"
+     "כי ראתה שהוא אורח עשיר עם עשרה גמלים",
+     "כי אליעזר התפלל \"הקרה נא לפני היום\" – וה' זירז אותה",
+     "כי כל הבנות האחרות כבר חיכו בתור לבאר"
     ],
     "a": "כדי שהכל ייגמר לפני השקיעה",
     "x": "הגר\"א מסביר: אליעזר התפלל \"<he>הַקְרֵה נָא לְפָנַי הַיּוֹם</he>\" – היום! וה' זירז את רבקה כדי שתספיק לפני השקיעה. ועוד: כדי שהאורח העייף לא יחכה.",
@@ -527,68 +527,68 @@
    {
     "q": "\"<he>וְלִבְנֵי הַפִּילַגְשִׁים אֲשֶׁר לְאַבְרָהָם נָתַן אַבְרָהָם מַתָּנֹת</he>\" – מה היו המתנות, לפי אחד ההסברים?",
     "opts": [
+     "השלל ממלחמת ארבעת המלכים",
      "המתנות שפרעה ואבימלך נתנו לו בגלל שרה",
-     "את כל הגמלים והעבדים מהבית",
-     "את מערת המכפלה"
+     "הצאן והבקר שקיבל מבני חת"
     ],
     "a": "המתנות שפרעה ואבימלך נתנו לו בגלל שרה",
     "x": "אברהם לא רצה ליהנות ממה שקיבל בגלל שרה – ונתן הכל לבני הגר. ושלח אותם \"<he>אֶל אֶרֶץ קֶדֶם</he>\", שלא יבקשו חלק בארץ ישראל. ואת כל השאר – נתן ליצחק.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "אליעזר שאל: \"מָקוֹם לָנוּ <he>לָלִין</he>\", ורבקה ענתה: \"מָקוֹם <he>לָלוּן</he>\". מה ההבדל?",
     "opts": [
-     "אין הבדל – זה אותו דבר",
-     "\"ללין\" = לילה אחד; \"ללון\" = הרבה לילות – רבקה הזמינה יותר",
-     "\"ללון\" = לאכול ארוחת ערב"
+     "\"ללין\" = הרבה לילות; \"ללון\" = לילה אחד",
+     "\"ללין\" = רק לאנשים; \"ללון\" = גם לגמלים",
+     "\"ללין\" = לילה אחד; \"ללון\" = הרבה לילות"
     ],
     "a": "\"ללין\" = לילה אחד, \"ללון\" = הרבה לילות",
     "x": "אליעזר ביקש לילה אחד בלבד – ורבקה, בעלת החסד, ענתה בנדיבות: יש מקום גם לכמה לילות! ✨",
-    "c": 1
+    "c": 2
    },
    {
     "q": "עד עכשיו אליעזר קרא ליצחק \"בֶּן אֲדֹנִי\" – ופתאום: \"<he>הוּא אֲדֹנִי</he>\". למה?",
     "opts": [
-     "כי אברהם כבר נפטר",
-     "כי יצחק נהיה מלך",
-     "כי עד החתונה לא נקרא \"אדם\" שלם – ועכשיו, כשרבקה מגיעה, הוא \"אדוני\""
+     "כי עד החתונה לא נקרא \"אדם\" שלם – ועכשיו, כשרבקה מגיעה, הוא \"אדוני\"",
+     "כי ראה את יצחק מתפלל בשדה, זוהר כמו מלאך",
+     "כי אברהם שחרר את אליעזר – והוא כבר לא עבד"
     ],
     "a": "כי עכשיו יצחק עומד להתחתן",
     "x": "\"<he>זָכָר וּנְקֵבָה בְּרָאָם... וַיִּקְרָא אֶת שְׁמָם אָדָם</he>\" – רק יחד הם \"אדם\" שלם. כשרבקה באה – יצחק כבר \"אדוני\".",
-    "c": 2
+    "c": 0
    },
    {
     "q": "אחרי פטירת שרה נשא אברהם אשה בשם \"<he>קְטוּרָה</he>\". מי היא – ולמה נקראה כך?",
     "opts": [
-     "מלכה – כי הייתה מלכה",
-     "הגר – כי מעשיה היו נאים כקטורת",
-     "דבורה – כי הייתה מינקת"
+     "<he>הָגָר</he> – כי מעשיה היו נאים כקטורת",
+     "<he>מִלְכָּה</he> – כי \"קשרה\" את עצמה לבית אברהם",
+     "<he>דְּבוֹרָה</he> – כי מעשיה היו נאים כקטורת"
     ],
     "a": "<he>הָגָר</he>!",
     "x": "רש\"י: מעשיה היו נאים כמו קְטֹרֶת, וגם \"קשרה\" את עצמה – לא נישאה לאיש אחר. ויצחק עצמו הלך להביא אותה לאברהם מבאר לחי רואי. 🌸",
-    "c": 1
+    "c": 0
    },
    {
     "q": "🧮 חידת חשבון: ישמעאל גדול מיצחק ב־14 שנה, ויצחק היה בן 60 כשנולד יעקב. ישמעאל נפטר בגיל 137 – בדיוק כשיעקב יצא מבית אביו. בן כמה היה יעקב כשיצא? ובונוס: יעקב הגיע לבית לבן רק בגיל 77. כמה שנים \"חסרות\" – ואיפה היה?",
     "opts": [
-     "יעקב בן 63 · 14 שנים בישיבת שם ועבר",
-     "יעקב בן 77 · 14 שנים בישיבת שם ועבר",
-     "יעקב בן 63 · 7 שנים אצל עשו"
+     "יעקב בן 74 · 3 שנים בישיבת שם ועבר",
+     "יעקב בן 60 · 17 שנים בישיבת שם ועבר",
+     "יעקב בן 63 · 14 שנים בישיבת שם ועבר"
     ],
     "a": "יעקב בן 63 · 14 שנים בישיבת שם ועבר 📚",
     "x": "14 + 60 = 74 – גילו של ישמעאל כשנולד יעקב. 137 − 74 = 63. ו־77 − 63 = 14 שנים שבהן יעקב למד תורה בישיבת שם ועבר! בשביל זה התורה מונה את שנות ישמעאל.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "💎 שאלת הזהב: התורה חוסכת במילים – לפעמים לומדים הלכות שלמות מאות אחת! אבל את כל הסיפור של אליעזר ליד הבאר היא כותבת פעמיים: פעם כשזה קורה, ופעם כשאליעזר מספר אותו בבית בתואל. רגע... למה לא לכתוב פשוט \"וסיפר להם את כל מה שקרה\"?",
     "opts": [
-     "כי בפעם הראשונה הסיפור נכתב בטעות",
-     "כי אליעזר שכח פרטים והיה צריך לתקן",
-     "כי ה' אוהב את הדיבור של עבדי האבות – מלא חסד, אמונה ותפילה"
+     "כי ה' אוהב את הדיבור של עבדי האבות – מלא חסד, אמונה ותפילה",
+     "כי זה הנס הכי גדול בכל ספר בראשית",
+     "כדי ללמד שצריך לחזור על דבר חשוב פעמיים, שלא נשכח"
     ],
     "a": "כי הדיבור של עבדי האבות יקר לה' – \"<he>יָפָה שִׂיחָתָן שֶׁל עַבְדֵי אָבוֹת</he>\"",
     "x": "חז\"ל אומרים שהשיחה של אליעזר יקרה לה' אפילו יותר מהלכות רבות. למה? כי בכל מילה שלו רואים חסד, אמונה ותפילה: הוא לא אמר \"אני הצלחתי\" – אלא \"ה' הצליח דרכי\". הוא אפילו סירב לאכול עד שסיפר – \"<he>לֹא אֹכַל עַד אִם דִּבַּרְתִּי דְּבָרָי</he>\". ושימו לב לפלא: בגלל שהתעקש לדבר לפני האוכל – המלאך הספיק להחליף את הצלחת המורעלת, והוא ניצל! מילים טובות שומרות על מי שאומר אותן. ✨",
-    "c": 2
+    "c": 0
    }
   ]
  },
@@ -741,30 +741,30 @@
    {
     "q": "Comment Sarah a-t-elle appris la Akéda (ligature) d'Its'hak ?",
     "opts": [
-     "Its'hak lui a envoyé une lettre ✉️",
-     "Le Satan le lui a raconté – et de chagrin son âme s'est envolée",
-     "Eliézer a couru le lui dire"
+     "Le Satan est venu le lui raconter",
+     "Eliézer est revenu de la montagne le lui dire",
+     "Yichmaël a couru à la maison le lui dire"
     ],
     "a": "Le Satan est venu le lui raconter",
     "x": "Il lui a dit qu'Avraham avait emmené Its'hak pour l'offrir en sacrifice – et de chagrin, Sarah est décédée. 💔",
-    "c": 1
+    "c": 0
    },
    {
     "q": "Comment Avraham a-t-il découvert Mearat HaMakhpéla ? 🐄",
     "opts": [
-     "Il en a rêvé la nuit 💭",
-     "Un veau s'est sauvé dans la grotte, et Avraham l'a poursuivi",
-     "Il a trouvé une vieille carte 🗺️"
+     "Il a poursuivi un veau qui s'y était sauvé",
+     "L'un des anges l'y a conduit",
+     "Il a vu une lumière sortir de l'entrée de la grotte"
     ],
     "a": "En poursuivant un veau qui s'y était sauvé",
     "x": "En préparant le repas des trois anges, un veau s'est enfui dans la grotte. À l'intérieur, Avraham a vu les tombes d'Adam et 'Hava, des bougies allumées – et un parfum du Gan Eden !",
-    "c": 1
+    "c": 0
    },
    {
     "q": "De qui Avraham a-t-il acheté la grotte ?",
     "opts": [
-     "D'Avimélekh",
-     "De Pharaon",
+     "De Tso'har, le père d'Éfron",
+     "De Mamré l'Amorite, l'ami d'Avraham",
      "D'Éfron le 'Hittite"
     ],
     "a": "D'Éfron fils de Tso'har, le 'Hittite",
@@ -774,64 +774,64 @@
    {
     "q": "Combien Avraham a-t-il payé le champ et la grotte ?",
     "opts": [
-     "4 sicles",
-     "Rien – c'était un cadeau 🎁",
-     "400 sicles d'argent"
+     "300 sicles d'argent",
+     "400 sicles d'argent",
+     "400 sicles d'or"
     ],
     "a": "400 sicles d'argent",
     "x": "Et dans la meilleure monnaie, acceptée partout (« <he>עֹבֵר לַסֹּחֵר</he> »). Bien plus que sa vraie valeur !",
-    "c": 2
+    "c": 1
    },
    {
     "q": "Comment Eliézer est-il arrivé si vite à 'Haran ?",
     "opts": [
-     "Par la kfitsat haderekh – le chemin s'est raccourci par miracle",
-     "En TGV 🚄",
-     "Les chameaux ont galopé comme des chevaux de course 🏇"
+     "Un ange l'a porté dans les airs avec les chameaux",
+     "Il a voyagé toute la nuit sans s'arrêter",
+     "Par la kfitsat haderekh – le chemin raccourci par miracle"
     ],
     "a": "Par la kfitsat haderekh (le chemin raccourci)",
     "x": "Un miracle ! Il est parti le matin – et il est arrivé le jour même, avant le soir.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "Quel signe Eliézer a-t-il demandé à Hachem pour reconnaître la fiancée d'Its'hak ?",
     "opts": [
-     "Celle qui aura la plus belle robe 👗",
-     "Celle qui dira : « Bois, et j'abreuverai aussi tes chameaux »",
-     "La première qui dira bonjour 👋"
+     "Celle qui dira : « Bois, mon seigneur » et l'invitera chez elle",
+     "Celle qui dira : « Il y a de la place chez mon père pour la nuit »",
+     "Celle qui dira : « Bois, et j'abreuverai aussi tes chameaux »"
     ],
     "a": "« <he>שְׁתֵה וְגַם גְּמַלֶּיךָ אַשְׁקֶה</he> »",
     "x": "<tr>« Bois, et j'abreuverai aussi tes chameaux »</tr> – ainsi il saurait qu'elle aime la bonté, digne de la maison d'Avraham.",
-    "c": 1
+    "c": 2
    },
    {
     "q": "Qu'est-il arrivé à l'eau du puits quand Rivka est arrivée ?",
     "opts": [
-     "Elle s'est transformée en jus d'orange 🍊",
-     "Elle est montée toute seule vers elle 💧",
-     "Elle a gelé ❄️"
+     "L'eau est devenue douce comme le miel",
+     "Le puits asséché s'est remis à couler",
+     "L'eau est montée toute seule vers elle"
     ],
     "a": "L'eau est montée vers elle",
     "x": "Un miracle ! C'est pour ça qu'Eliézer a couru vers elle.",
-    "c": 1
+    "c": 2
    },
    {
     "q": "Qu'a donné Eliézer à Rivka après qu'elle a abreuvé les chameaux ? 💍",
     "opts": [
-     "Une nouvelle cruche 🏺",
-     "Un petit chameau en cadeau 🐪",
-     "Un anneau d'or et deux bracelets"
+     "Deux colliers d'or et une bague",
+     "Un anneau d'or et deux bracelets",
+     "Un anneau d'argent et deux bracelets"
     ],
     "a": "Un anneau (nezem) d'or et deux bracelets",
     "x": "Avant même de savoir de quelle famille elle était – il était sûr qu'Hachem l'avait fait réussir.",
-    "c": 2
+    "c": 1
    },
    {
     "q": "Eliézer a posé deux questions à Rivka. Lesquelles ?",
     "opts": [
-     "« De qui es-tu la fille ? » et « Y a-t-il de la place chez ton père pour la nuit ? »",
-     "« Quelle heure est-il ? » et « Où est le marché ? » ⏰",
-     "« Quel âge as-tu ? » et « Qu'aimes-tu manger ? »"
+     "« De qui es-tu la fille ? » et « Y a-t-il de la place chez ton père pour la nuit ? »",
+     "« Comment t'appelles-tu ? » et « Y a-t-il de la place chez ton père pour la nuit ? »",
+     "« De qui es-tu la fille ? » et « Avez-vous de la paille pour les chameaux ? »"
     ],
     "a": "« De qui es-tu la fille ? » + « Y a-t-il de la place chez ton père pour nous loger ? »",
     "x": "Et Rivka a répondu dans l'ordre : d'abord à la première, puis à la seconde – une vraie sage !",
@@ -840,9 +840,9 @@
    {
     "q": "« <he>וַיֵּצֵא יִצְחָק לָשׂוּחַ בַּשָּׂדֶה לִפְנוֹת עָרֶב</he> » <tr>– « Its'hak sortit méditer dans les champs vers le soir »</tr>. Que faisait Its'hak dans les champs ?",
     "opts": [
-     "Il cueillait des fleurs 🌼",
-     "Il priait – la prière de Min'ha 🙏",
-     "Il jouait au foot ⚽"
+     "Il étudiait la Torah au calme",
+     "Il priait – la prière de Min'ha",
+     "Il priait – la prière d'Arvit"
     ],
     "a": "Il priait – la prière de Min'ha",
     "x": "Its'hak Avinou a institué la prière de Min'ha – et c'est justement là qu'il a vu arriver les chameaux. 🐪",
@@ -851,20 +851,20 @@
    {
     "q": "« <he>מֵאָה שָׁנָה וְעֶשְׂרִים שָׁנָה וְשֶׁבַע שָׁנִים</he> » – pourquoi la Torah répète-t-elle « ans » après chaque nombre ?",
     "opts": [
-     "Parce que Sarah adorait les anniversaires 🎂",
-     "Pour que ce soit plus facile à compter",
-     "Pour enseigner : à 100 ans comme à 20 sans faute, à 20 comme à 7 en beauté"
+     "Pour enseigner : à 100 ans comme à 20 sans faute, à 20 comme à 7 en beauté",
+     "Pour enseigner que chaque période de sa vie était pleine d'épreuves",
+     "Pour enseigner : à 100 ans comme à 20 en beauté, à 20 comme à 7 sans faute"
     ],
     "a": "Chaque nombre s'explique à part",
     "x": "À cent ans, elle était comme à vingt – sans faute (avant 20 ans, on n'est pas puni par le tribunal céleste) ; et à vingt ans, belle comme à sept. Toutes ses années étaient bonnes !",
-    "c": 2
+    "c": 0
    },
    {
     "q": "La Torah écrit « <he>וְלִבְכֹּתָהּ</he> » <tr>(et la pleurer)</tr> – avec une petite lettre כ ! Pourquoi ?",
     "opts": [
-     "Parce que le scribe était fatigué 😅",
-     "Parce qu'Avraham n'a pleuré qu'un peu – Sarah est partie à un bel âge",
-     "Parce qu'il n'y avait plus d'encre"
+     "Il s'est vite occupé de l'enterrement et de l'achat de la grotte",
+     "Il n'a pleuré qu'un peu – Sarah est partie à un bel âge",
+     "Il pleurait en cachette, loin des Bné 'Het"
     ],
     "a": "Avraham n'a pleuré qu'un peu",
     "x": "Car Sarah est décédée à un bel âge. Autre raison : elle a été enterrée la veille de Souccot – et la fête a interrompu le deuil.",
@@ -873,20 +873,20 @@
    {
     "q": "Pourquoi appelle-t-on la grotte « Mearat HaMakhpéla » ?",
     "opts": [
-     "Parce qu'elle est double : deux étages, et des couples y reposent",
-     "Parce qu'elle n'avait que deux entrées",
-     "Parce qu'il y avait un double puits"
+     "Parce qu'Avraham l'a payée le double",
+     "Parce qu'elle a deux étages, et des couples y reposent",
+     "Parce qu'elle a deux entrées – une de chaque côté"
     ],
     "a": "Parce qu'elle est « double » (kfoula)",
     "x": "Elle a deux étages, et quatre couples y reposent : Adam et 'Hava, Avraham et Sarah, Its'hak et Rivka, Yaakov et Léa.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "Avraham a dit aux Bné 'Het : « <he>גֵּר וְתוֹשָׁב אָנֹכִי עִמָּכֶם</he> » <tr>(je suis étranger et résident parmi vous)</tr>. Que voulait-il dire ?",
     "opts": [
-     "Qu'il ne restait qu'une semaine",
-     "Qu'il voulait habiter au bord de la mer",
-     "Si vous acceptez, je suis un invité ; sinon, un résident – car Hachem m'a promis la terre"
+     "Invité seul ; résident avec toute ma famille",
+     "Invité tant que je vis ; résident après ma mort, dans la grotte",
+     "Si vous acceptez, invité ; sinon, résident – car Hachem m'a promis la terre"
     ],
     "a": "Si vous acceptez – je suis un invité ; sinon – je suis résident",
     "x": "« Résident » – car Hachem lui avait promis : « À ta descendance Je donnerai ce pays ». Mais Avraham a préféré acheter, avec respect et au prix fort.",
@@ -895,19 +895,19 @@
    {
     "q": "Combien de jours de marche y a-t-il de Kiryat Arba à Aram Naharayim – et en combien de temps Eliézer est-il arrivé ?",
     "opts": [
+     "7 jours – et Eliézer est arrivé en 3 heures",
      "17 jours – et Eliézer est arrivé en 3 heures",
-     "3 jours – et Eliézer est arrivé en 17 heures",
-     "Une semaine – et Eliézer est arrivé en une semaine"
+     "17 jours – et Eliézer est arrivé en 3 jours"
     ],
     "a": "17 jours – et Eliézer en 3 heures ! ⚡",
     "x": "C'est ce que racontent les Pirké de Rabbi Eliézer – c'est la kfitsat haderekh.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "Quel âge avait Rivka quand elle a rencontré Eliézer, selon le midrach ?",
     "opts": [
-     "13 ans",
-     "30 ans",
+     "12 ans",
+     "5 ans",
      "3 ans"
     ],
     "a": "3 ans (un autre midrach dit : 14 ans)",
@@ -917,20 +917,20 @@
    {
     "q": "Pourquoi la ville s'appelle-t-elle « <he>אֲרַם נַהֲרַיִם</he> » <tr>(Aram Naharayim)</tr> ?",
     "opts": [
-     "Parce qu'elle a beaucoup de petits ruisseaux",
-     "Parce que ses habitants adoraient nager 🏊",
-     "Parce qu'elle est entre deux fleuves – l'Euphrate et le Tigre"
+     "Parce que deux fleuves s'y rejoignent pour n'en faire qu'un",
+     "Parce qu'elle est entre deux fleuves – l'Euphrate et le Tigre",
+     "Parce qu'elle est entre deux fleuves – le Jourdain et l'Euphrate"
     ],
     "a": "Entre deux fleuves – l'Euphrate et le Tigre",
     "x": "« Naharayim » = deux fleuves (Prat et 'Hidékel). C'est là, à 'Haran, qu'habitait Na'hor, le frère d'Avraham.",
-    "c": 2
+    "c": 1
    },
    {
     "q": "Qui a essayé d'empêcher le mariage – et comment ?",
     "opts": [
-     "Lavan – il a caché les chameaux",
-     "Betouël – il a mis du poison dans l'assiette d'Eliézer",
-     "La mère de Rivka – elle a fermé la porte à clé"
+     "Lavan – du poison dans l'assiette d'Eliézer",
+     "Betouël – du poison dans l'assiette d'Eliézer",
+     "Betouël – il a caché Rivka dans la maison"
     ],
     "a": "Betouël – du poison dans l'assiette d'Eliézer ☠️",
     "x": "Mais un ange a échangé les assiettes – et Betouël lui-même a mangé, et il est mort cette nuit-là.",
@@ -941,7 +941,7 @@
     "opts": [
      "Dvora – la nourrice de Rivka",
      "Milka – la grand-mère de Rivka",
-     "Hagar"
+     "Zilpa – une servante de la maison de Lavan"
     ],
     "a": "Dvora (<he>דְּבוֹרָה</he>), la nourrice de Rivka",
     "x": "Selon le midrach, sur les dix chameaux : un pour Eliézer, un pour Rivka, un pour Dvora – et sept pour les servantes de Rivka.",
@@ -950,53 +950,53 @@
    {
     "q": "Eliézer a dit : « sinon… <he>וְאֶפְנֶה עַל יָמִין אוֹ עַל שְׂמֹאל</he> » <tr>(je me tournerai à droite ou à gauche)</tr>. Où voulait-il aller ?",
     "opts": [
-     "À droite – chez les filles de Yichmaël (sud) ; à gauche – chez celles de Loth (nord)",
-     "À droite – vers la mer ; à gauche – vers le désert",
-     "Rentrer chez lui par un autre chemin"
+     "À droite – les filles de Loth ; à gauche – celles de Yichmaël",
+     "À droite – les filles de Yichmaël ; à gauche – celles de Loth",
+     "À droite – les filles d'Aner ; à gauche – celles d'Echkol"
     ],
     "a": "Droite = filles de Yichmaël, gauche = filles de Loth",
     "x": "Yichmaël habitait au sud (à droite, quand on regarde vers l'est), et Loth au nord (à gauche).",
-    "c": 0
+    "c": 1
    },
    {
     "q": "Pourquoi Sarah est-elle décédée avant Avraham, alors qu'elle avait 10 ans de moins que lui ?",
     "opts": [
-     "Elle travaillait trop dans la tente",
-     "Elle habitait loin du puits",
-     "Elle a remis le jugement d'Avraham au Ciel : « Qu'Hachem juge entre moi et toi »"
+     "Elle avait ri quand l'ange avait annoncé la naissance d'Its'hak",
+     "Elle a remis le jugement d'Avraham au Ciel : « Qu'Hachem juge entre moi et toi »",
+     "Elle avait chassé Hagar et Yichmaël de la maison"
     ],
     "a": "Elle a remis le jugement d'Avraham au Ciel",
     "x": "Quand Hagar l'a fait souffrir, Sarah a dit : « <he>יִשְׁפֹּט ה' בֵּינִי וּבֵינֶיךָ</he> » <tr>(qu'Hachem juge entre moi et toi)</tr>. Celui qui remet le jugement de son prochain au Ciel est puni en premier (Baba Kama 93). Mieux vaut pardonner ! 🤝",
-    "c": 2
+    "c": 1
    },
    {
     "q": "Pourquoi Avraham ne s'est-il pas adressé directement à Éfron, mais a demandé aux Bné 'Het de lui parler ?",
     "opts": [
-     "Avraham ne savait pas où habitait Éfron",
      "Éfron, riche et respecté, n'aurait pas vendu l'héritage familial sans intermédiaire",
-     "Éfron était malade ce jour-là"
+     "Éfron ne parlait pas la langue d'Avraham",
+     "Éfron était fâché contre Avraham et ne voulait pas lui parler"
     ],
     "a": "Éfron n'aurait pas vendu sans intermédiaire",
     "x": "Éfron était riche et respecté, et n'aurait pas vendu l'héritage de ses ancêtres (Ramban). C'est aussi la politesse : on ne demande pas directement à une personnalité. Et ce jour-là, les Bné 'Het ont même nommé Éfron chef – pour qu'un grand homme n'achète pas à un petit.",
-    "c": 1
+    "c": 0
    },
    {
     "q": "Éfron voulait offrir la grotte – pourquoi Avraham a-t-il insisté pour payer ?",
     "opts": [
+     "Car « celui qui déteste les cadeaux vivra » – un juste n'en profite pas",
      "Un cadeau peut être contesté plus tard – pas un achat avec argent et contrat",
-     "Il n'aimait pas recevoir de cadeaux",
-     "La grotte était trop petite"
+     "Pour honorer Éfron devant tous les Bné 'Het"
     ],
     "a": "Un cadeau peut être contesté – un achat, non",
     "x": "Avec de l'argent et un acte de vente, personne ne pourra jamais dire « cette grotte est à nous ! ». Et Avraham a dit « <he>נָתַתִּי</he> » <tr>(j'ai donné)</tr> et non « je donnerai » – car la promesse d'un juste vaut déjà un acte accompli.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "Quand Éfron a reçu l'argent, son nom est écrit sans la lettre ו – « <he>עֶפְרֹן</he> ». Pourquoi ?",
     "opts": [
-     "Il « promet beaucoup et ne fait même pas un peu » – gratuit promis, fortune encaissée",
-     "On a oublié d'écrire la lettre",
-     "Éfron était très petit"
+     "Il « promet beaucoup et ne fait même pas un peu » – gratuit promis, fortune encaissée",
+     "La Torah raccourcit le nom de celui qui vend une terre",
+     "Il avait perdu son rang – il n'était plus chef"
     ],
     "a": "Il « promet beaucoup et ne fait même pas un peu »",
     "x": "Il avait promis de tout donner gratuitement – et a fini par prendre une somme énorme. Et « <he>עפרן</he> » sans ו vaut 400 en guématria, comme les sicles – et comme « <he>רַע עַיִן</he> » <tr>(mauvais œil, avare)</tr> (270 + 130). 🔢",
@@ -1005,9 +1005,9 @@
    {
     "q": "Nos Sages disent que quelque chose de spécial a commencé dans le monde seulement à l'époque d'Avraham – dans notre paracha. Quoi ? 👴",
     "opts": [
-     "La pluie – avant, il ne pleuvait jamais",
+     "Les souffrances – avant, l'homme ne souffrait pas",
      "La vieillesse – avant, aucun signe de vieillesse",
-     "Le sommeil – avant, personne ne dormait"
+     "La maladie – avant, personne n'était malade"
     ],
     "a": "La vieillesse !",
     "x": "Avant Avraham, personne n'avait de signes de vieillesse, et tout le monde confondait Avraham et Its'hak, tant ils se ressemblaient. Avraham a prié – et pour la première fois il est écrit : « <he>וְאַבְרָהָם זָקֵן</he> » <tr>(Avraham était vieux)</tr>.",
@@ -1016,9 +1016,9 @@
    {
     "q": "Eliézer a demandé : « <he>אוּלַי לֹא תֹאבֶה הָאִשָּׁה</he> » <tr>(peut-être la femme ne voudra-t-elle pas)</tr>. Que cache le mot « peut-être » ?",
     "opts": [
-     "Qu'Eliézer avait peur des chameaux",
-     "Qu'Eliézer ne voulait pas voyager loin",
-     "Écrit sans ו (« vers moi ») – Eliézer voulait marier Its'hak à sa fille"
+     "Qu'Eliézer craignait d'échouer dans sa mission",
+     "« Vers moi » – Eliézer voulait épouser Rivka lui-même",
+     "« Vers moi » – Eliézer voulait marier Its'hak à sa fille"
     ],
     "a": "« <he>אֻלַי</he> » sans ו se lit « <he>אֵלַי</he> » <tr>(vers moi)</tr> – il voulait Its'hak pour sa fille !",
     "x": "Mais Avraham a répondu : tu descends de Canaan, qui est « maudit », et mon fils est « béni » – « <he>וְאֵין אָרוּר מִתְדַּבֵּק בְּבָרוּךְ</he> » <tr>(le maudit ne s'unit pas au béni)</tr>. Et Eliézer a accepté avec amour.",
@@ -1027,31 +1027,31 @@
    {
     "q": "Eliézer descendait de Canaan, « le maudit ». Alors pourquoi Lavan l'a-t-il appelé « <he>בּוֹא בְּרוּךְ ה'</he> » <tr>(viens, béni d'Hachem)</tr> ?",
     "opts": [
-     "Il a servi Avraham fidèlement – et est passé de « maudit » à « béni »",
-     "Il avait fait un gros cadeau à Lavan",
-     "Il était né un jour de fête"
+     "Eliézer avait béni Lavan juste avant",
+     "Il avait vu que ses chameaux ne mangeaient pas dans les champs des autres",
+     "Il a servi Avraham fidèlement – et est passé de « maudit » à « béni »"
     ],
     "a": "Eliézer est passé de « maudit » à « béni »",
     "x": "Grâce à sa fidélité envers Avraham (Béréchit Rabba). Et Lavan a ajouté : « <he>וְאָנֹכִי פִּנִּיתִי הַבַּיִת</he> » – j'ai vidé la maison de ses idoles, pour qu'Eliézer accepte d'entrer.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "Eliézer a donné à Rivka un anneau pesant un « béka » et deux bracelets pesant dix. Quelle allusion ?",
     "opts": [
-     "Les trois Patriarches, les deux fils d'Avraham et les dix épreuves",
-     "Le Chabbat, deux bougies et un minyan de dix",
-     "Le demi-sicle, les deux Tables et les Dix Commandements"
+     "Le demi-sicle, les deux Tables et les Dix Commandements",
+     "Les trois Patriarches, les deux Tables et les Dix Commandements",
+     "Le demi-sicle, les deux Kerouvim et les dix plaies"
     ],
     "a": "Le demi-sicle, les deux Tables et les Dix Commandements 📜",
     "x": "Le « béka » – comme le demi-sicle (ma'hatsit hachékel) des Bné Israël ; les deux bracelets – les deux Tables de l'Alliance ; et le poids de dix – les Dix Commandements que ses enfants recevraient.",
-    "c": 2
+    "c": 0
    },
    {
     "q": "Trois miracles étaient dans la tente de Sarah – disparus à sa mort, revenus avec Rivka. Lesquels ?",
     "opts": [
      "Une bougie toute la semaine, la bénédiction dans la pâte et une nuée sur la tente",
-     "La manne, le puits et la colonne de feu",
-     "La pluie, la rosée et un bon vent"
+     "Une bougie toute la semaine, quatre entrées et une nuée sur la tente",
+     "Une bougie toute la semaine, la bénédiction dans la pâte et un puits près de la tente"
     ],
     "a": "Une bougie allumée, la bénédiction dans la pâte et la nuée sur la tente 🕯️🍞☁️",
     "x": "Une bougie allumée d'un vendredi soir à l'autre, la bénédiction dans la pâte, et la nuée (la Chékhina) au-dessus de la tente. Ils correspondent à trois mitsvot des femmes : allumer les bougies, prélever la 'hala et la pureté familiale.",
@@ -1060,9 +1060,9 @@
    {
     "q": "Comment sait-on que Yichmaël a fait techouva à la fin de la vie d'Avraham ?",
     "opts": [
-     "Yichmaël pleurait le plus fort aux funérailles",
-     "Yichmaël avait acheté un cadeau à Avraham",
-     "« Its'hak et Yichmaël l'enterrèrent » – Its'hak passe en premier ; et « vayigva » est dit des justes"
+     "Yichmaël a laissé tout l'héritage à Its'hak",
+     "« Yichmaël et Its'hak l'enterrèrent » – l'aîné en tête, comme il se doit",
+     "« Its'hak et Yichmaël l'enterrèrent » – Yichmaël a laissé Its'hak passer en premier"
     ],
     "a": "Deux indices dans la Torah",
     "x": "« <he>וַיִּקְבְּרוּ אֹתוֹ יִצְחָק וְיִשְׁמָעֵאל</he> » – Yichmaël, l'aîné, a laissé Its'hak passer en premier ; et à sa mort il est écrit « <he>וַיִּגְוַע</he> » – un mot réservé aux justes. Ainsi s'est réalisée la promesse « <he>בְּשֵׂיבָה טוֹבָה</he> » <tr>(une belle vieillesse)</tr>.",
@@ -1071,20 +1071,20 @@
    {
     "q": "Its'hak a vécu 180 ans, et Avraham seulement 175. Pourquoi Hachem a-t-il retiré cinq ans à la vie d'Avraham ?",
     "opts": [
-     "Pour qu'il ne voie pas Essav prendre le mauvais chemin",
-     "Il était fatigué de toutes les épreuves",
-     "Il voulait être près de Sarah"
+     "Pour qu'il ne voie pas Its'hak devenir aveugle",
+     "Pour qu'il ne voie pas Yaakov fuir devant Essav",
+     "Pour qu'il ne voie pas Essav prendre le mauvais chemin"
     ],
     "a": "Pour qu'il ne voie pas son petit-fils Essav mal tourner",
     "x": "Le jour même où Avraham est décédé, Essav s'est engagé dans la mauvaise voie. Hachem voulait qu'Avraham parte « <he>בְּשֵׂיבָה טוֹבָה</he> » – dans la joie et la sérénité. 💙",
-    "c": 0
+    "c": 2
    },
    {
     "q": "Hachem avait donné à Avraham le « pouvoir de bénir » – et pourtant il n'a pas béni Its'hak. Pourquoi ?",
     "opts": [
      "Il a vu qu'Essav sortirait de lui – et a laissé la bénédiction à Hachem",
-     "Il a oublié de le bénir",
-     "Its'hak n'avait pas demandé de bénédiction"
+     "Il attendait qu'Its'hak se marie et ait des enfants",
+     "Il craignait que Yichmaël soit jaloux et se dispute avec Its'hak"
     ],
     "a": "Il a laissé la bénédiction au « Maître des bénédictions »",
     "x": "Avraham a vu qu'Essav sortirait d'Its'hak, et ne voulait pas le bénir aussi. Alors juste après sa mort : « <he>וַיְבָרֶךְ אֱלֹהִים אֶת יִצְחָק בְּנוֹ</he> » – Hachem Lui-même a béni et consolé Its'hak.",
@@ -1093,8 +1093,8 @@
    {
     "q": "Pourquoi Eliézer a-t-il pris justement dix chameaux ?",
     "opts": [
-     "Dix était son nombre préféré",
-     "À 'Haran on payait une taxe de dix chameaux",
+     "En souvenir des dix épreuves d'Avraham",
+     "En souvenir des dix générations de Noa'h à Avraham",
      "Pour avoir dix hommes – un minyan pour la bénédiction des fiançailles"
     ],
     "a": "Pour avoir dix hommes – un minyan",
@@ -1104,9 +1104,9 @@
    {
     "q": "« <he>וַתְּמַהֵר וַתֹּרֶד כַּדָּהּ</he> » <tr>(elle se hâta de descendre sa cruche)</tr> – pourquoi Rivka s'est-elle tant pressée ?",
     "opts": [
-     "Elle avait peur des chameaux",
-     "Eliézer avait prié pour « aujourd'hui » – Hachem l'a pressée avant le coucher du soleil",
-     "Sa mère l'appelait à la maison"
+     "Elle avait vu un invité riche avec dix chameaux",
+     "Eliézer avait prié pour « aujourd'hui » – et Hachem l'a pressée",
+     "Toutes les autres filles attendaient déjà leur tour au puits"
     ],
     "a": "Pour que tout se termine avant le coucher du soleil",
     "x": "Le Gaon de Vilna explique : Eliézer avait prié « <he>הַקְרֵה נָא לְפָנַי הַיּוֹם</he> » – aujourd'hui ! Et Hachem a fait se hâter Rivka pour finir avant le coucher du soleil. Et aussi : pour que l'invité fatigué n'attende pas.",
@@ -1115,68 +1115,68 @@
    {
     "q": "« Aux fils des concubines, Avraham donna des cadeaux » – quels étaient ces cadeaux, selon une explication ?",
     "opts": [
+     "Le butin de la guerre des quatre rois",
      "Les cadeaux de Pharaon et d'Avimélekh, reçus à cause de Sarah",
-     "Tous les chameaux et serviteurs de la maison",
-     "Mearat HaMakhpéla"
+     "Le bétail reçu des Bné 'Het"
     ],
     "a": "Les cadeaux reçus de Pharaon et d'Avimélekh à cause de Sarah",
     "x": "Avraham ne voulait pas profiter de ce qu'il avait reçu à cause de Sarah – il a tout donné aux fils de Hagar. Et il les a envoyés « <he>אֶל אֶרֶץ קֶדֶם</he> » <tr>(vers l'Orient)</tr>, pour qu'ils ne réclament pas de part en Erets Israël. Tout le reste, il l'a donné à Its'hak.",
-    "c": 0
+    "c": 1
    },
    {
     "q": "Eliézer a demandé une place « <he>לָלִין</he> », et Rivka a répondu une place « <he>לָלוּן</he> ». Quelle différence ?",
     "opts": [
-     "Aucune – c'est pareil",
-     "« Lalin » = une nuit ; « lalou'n » = plusieurs nuits – Rivka invite davantage",
-     "« Lalou'n » = dîner"
+     "« Lalin » = plusieurs nuits ; « lalou'n » = une nuit",
+     "« Lalin » = pour les hommes ; « lalou'n » = aussi pour les chameaux",
+     "« Lalin » = une nuit ; « lalou'n » = plusieurs nuits"
     ],
     "a": "« Lalin » = une nuit, « lalou'n » = plusieurs nuits",
     "x": "Eliézer n'avait demandé qu'une seule nuit – et Rivka, pleine de bonté, a répondu généreusement : il y a de la place pour plusieurs nuits ! ✨",
-    "c": 1
+    "c": 2
    },
    {
     "q": "Jusque-là Eliézer appelait Its'hak « le fils de mon maître » – et soudain : « <he>הוּא אֲדֹנִי</he> » <tr>(c'est mon maître)</tr>. Pourquoi ?",
     "opts": [
-     "Parce qu'Avraham était déjà décédé",
-     "Parce qu'Its'hak était devenu roi",
-     "Avant le mariage, on n'est pas un « Adam » complet – avec Rivka, il devient « mon maître »"
+     "Avant le mariage, on n'est pas un « Adam » complet – avec Rivka, il devient « mon maître »",
+     "Il avait vu Its'hak prier dans les champs, rayonnant comme un ange",
+     "Avraham avait libéré Eliézer – il n'était plus serviteur"
     ],
     "a": "Parce qu'Its'hak va maintenant se marier",
     "x": "« <he>זָכָר וּנְקֵבָה בְּרָאָם... וַיִּקְרָא אֶת שְׁמָם אָדָם</he> » – c'est seulement ensemble qu'ils forment un « Adam » complet. Avec Rivka, Its'hak devient « mon maître ».",
-    "c": 2
+    "c": 0
    },
    {
     "q": "Après le décès de Sarah, Avraham a épousé « <he>קְטוּרָה</he> » <tr>(Ketoura)</tr>. Qui est-elle – et pourquoi ce nom ?",
     "opts": [
-     "Milka – parce qu'elle était reine",
      "Hagar – ses actions étaient agréables comme l'encens",
-     "Dvora – parce qu'elle était nourrice"
+     "Milka – elle s'était « attachée » à la maison d'Avraham",
+     "Dvora – ses actions étaient agréables comme l'encens"
     ],
     "a": "Hagar !",
     "x": "Rachi : ses actions étaient agréables comme l'encens (<he>קְטֹרֶת</he>), et elle s'était « attachée » (<he>קְשׁוּרָה</he>) – elle n'a épousé personne d'autre. Et c'est Its'hak lui-même qui est allé la ramener à Avraham, depuis Béer La'haï Roï. 🌸",
-    "c": 1
+    "c": 0
    },
    {
     "q": "🧮 Énigme de calcul : Yichmaël avait 14 ans de plus qu'Its'hak, et Its'hak avait 60 ans à la naissance de Yaakov. Yichmaël est mort à 137 ans – juste quand Yaakov a quitté la maison de son père. Quel âge avait Yaakov ? Bonus : Yaakov n'est arrivé chez Lavan qu'à 77 ans. Combien d'années « manquent » – et où était-il ?",
     "opts": [
-     "63 ans · 14 ans à la yéchiva de Chem et Ever",
-     "77 ans · 14 ans à la yéchiva de Chem et Ever",
-     "63 ans · 7 ans chez Essav"
+     "74 ans · 3 ans à la yéchiva de Chem et Ever",
+     "60 ans · 17 ans à la yéchiva de Chem et Ever",
+     "63 ans · 14 ans à la yéchiva de Chem et Ever"
     ],
     "a": "Yaakov avait 63 ans · 14 ans à la yéchiva de Chem et Ever 📚",
     "x": "14 + 60 = 74 – l'âge de Yichmaël à la naissance de Yaakov. 137 − 74 = 63. Et 77 − 63 = 14 années pendant lesquelles Yaakov a étudié la Torah à la yéchiva de Chem et Ever ! C'est pour ça que la Torah compte les années de Yichmaël.",
-    "c": 0
+    "c": 2
    },
    {
     "q": "💎 Question en or : la Torah économise ses mots – parfois on apprend des lois entières d'une seule lettre ! Mais toute l'histoire d'Eliézer au puits, elle l'écrit deux fois : quand ça se passe, puis quand Eliézer la raconte chez Betouël. Attendez… pourquoi ne pas écrire simplement « et il leur raconta tout ce qui s'était passé » ?",
     "opts": [
-     "La première fois, l'histoire avait été écrite par erreur",
-     "Eliézer avait oublié des détails et devait corriger",
-     "Hachem aime les paroles des serviteurs des Patriarches – pleines de bonté, de foi et de prière"
+     "Hachem aime les paroles des serviteurs des Patriarches – pleines de bonté, de foi et de prière",
+     "Parce que c'est le plus grand miracle du livre de Béréchit",
+     "Pour enseigner qu'il faut répéter deux fois une chose importante"
     ],
     "a": "Parce que les paroles des serviteurs des Patriarches sont précieuses à Hachem",
     "x": "Nos Sages disent : « <he>יָפָה שִׂיחָתָן שֶׁל עַבְדֵי אָבוֹת</he> » – la conversation des serviteurs des Patriarches est plus belle devant Hachem que bien des lois. Pourquoi ? Chaque mot d'Eliézer respire la bonté, la foi et la prière : il ne dit pas « j'ai réussi » mais « Hachem a fait réussir mon chemin ». Il a même refusé de manger avant d'avoir parlé – « <he>לֹא אֹכַל עַד אִם דִּבַּרְתִּי דְּבָרָי</he> ». Et voyez la merveille : parce qu'il a insisté pour parler avant le repas, l'ange a eu le temps d'échanger l'assiette empoisonnée – et il a été sauvé ! Les bonnes paroles protègent celui qui les dit. ✨",
-    "c": 2
+    "c": 0
    }
   ]
  }
