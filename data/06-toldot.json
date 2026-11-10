@@ -1,0 +1,1198 @@
+{
+ "series": 6,
+ "slug": "toldot",
+ "date": "2026-11-14",
+ "print_mc": [
+  1,
+  2,
+  5,
+  8,
+  9,
+  10,
+  11,
+  13,
+  15,
+  26,
+  28,
+  29,
+  42
+ ],
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "תולדות",
+  "kicker": "חידון לשולחן השבת",
+  "title": "הקול קול <em>יעקב</em>!",
+  "emoji": "👶 👶 🏹 🍲 💧 🐐 🍷 🕯️ 🙏 ⭐",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – וכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות של הגדולים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח ראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 · 5 נקודות לכל תשובה"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "איך קראו לשני התאומים של יצחק ורבקה?",
+    "opts": [
+     "קין והבל",
+     "יצחק וישמעאל",
+     "יעקב ועשו"
+    ],
+    "a": "<he>יַעֲקֹב וְעֵשָׂו</he>",
+    "x": "שני אחים תאומים – אבל שונים מאוד אחד מהשני! 👦👦",
+    "c": 2
+   },
+   {
+    "q": "מה בישל יעקב ביום שעשו חזר עייף מהשדה? 🍲",
+    "opts": [
+     "פנקייקים עם סירופ 🥞",
+     "מרק עוף",
+     "נזיד עדשים"
+    ],
+    "a": "<he>נְזִיד עֲדָשִׁים</he>",
+    "x": "תבשיל עדשים אדום – וזה היה בדיוק ביום שאברהם אבינו נפטר, ויעקב הכין אותו ליצחק אביו האבל.",
+    "c": 2
+   },
+   {
+    "q": "מי מהאחים אהב לצוד חיות בשדה? 🏹",
+    "opts": [
+     "עשו",
+     "יעקב",
+     "לבן"
+    ],
+    "a": "<he>עֵשָׂו</he>",
+    "x": "\"<he>אִישׁ יֹדֵעַ צַיִד אִישׁ שָׂדֶה</he>\" – עשו הסתובב כל היום בשדות וצד חיות ועופות.",
+    "c": 0
+   },
+   {
+    "q": "ומה אהב יעקב לעשות? 📚",
+    "opts": [
+     "לצוד אריות 🦁",
+     "לטפס על הרים ⛰️",
+     "ללמוד תורה באוהלים"
+    ],
+    "a": "ללמוד תורה באוהלים",
+    "x": "\"<he>אִישׁ תָּם יֹשֵׁב אֹהָלִים</he>\" – יעקב ישב ולמד תורה באוהלים של שם ועבר. \"תם\" – הלב והפה שלו שווים, בלי רמאות.",
+    "c": 2
+   },
+   {
+    "q": "איך נראה עשו כשנולד?",
+    "opts": [
+     "קירח לגמרי 👶",
+     "ירוק כמו צפרדע 🐸",
+     "אדום ומלא שיער"
+    ],
+    "a": "אדום – ומלא שיער!",
+    "x": "\"<he>אַדְמוֹנִי כֻּלּוֹ כְּאַדֶּרֶת שֵׂעָר</he>\" – הוא נולד מלא שיער כמו אדם גדול, ולכן קראו לו \"עשו\" – כאילו כבר \"עשוי\" וגמור.",
+    "c": 2
+   },
+   {
+    "q": "מה עשה יעקב כשיצא לאוויר העולם? 🦶",
+    "opts": [
+     "צחק בקול רם 😄",
+     "אחז בעקב של עשו",
+     "נרדם מיד"
+    ],
+    "a": "אחז בעָקֵב של עשו!",
+    "x": "הם רבו מי ייצא ראשון ויהיה הבכור – ויעקב תפס את העקב של אחיו כדי לעכב אותו. לכן נקרא \"<he>יַעֲקֹב</he>\".",
+    "c": 1
+   },
+   {
+    "q": "חידה – מה אני? 🐐 הייתי פעם על גדי קטן. רבקה הלבישה אותי על הידיים ועל הצוואר של יעקב – כדי שיהיה שעיר כמו עשו.",
+    "opts": [
+     "עורות הגדיים",
+     "כפפות צמר 🧤",
+     "בגדי החמודות"
+    ],
+    "a": "<he>עוֹרוֹת גְּדָיֵי הָעִזִּים</he>",
+    "x": "יעקב פחד שיצחק ימשש אותו ויגלה שהוא חלק – ורבקה מצאה פתרון חכם.",
+    "c": 0
+   },
+   {
+    "q": "מה מצאו עבדי יצחק כשחפרו בנחל גרר? 💧",
+    "opts": [
+     "באר מים חיים",
+     "תיבת אוצר 💰",
+     "עצמות של דינוזאור 🦕"
+    ],
+    "a": "<he>בְּאֵר מַיִם חַיִּים</he>",
+    "x": "מעיין שנובע תמיד – אבל רועי גרר מיד באו לריב איתם עליו.",
+    "c": 0
+   },
+   {
+    "q": "איך קרא יצחק לבאר שעליה כבר לא רבו איתו?",
+    "opts": [
+     "עשק",
+     "שטנה",
+     "רחובות"
+    ],
+    "a": "<he>רְחֹבוֹת</he>",
+    "x": "\"<he>כִּי עַתָּה הִרְחִיב ה' לָנוּ וּפָרִינוּ בָאָרֶץ</he>\" – סוף סוף מקום רחב ושקט! 🌿",
+    "c": 2
+   },
+   {
+    "q": "השלימו את המשפט של יצחק: \"<he>הַקֹּל קוֹל ___ וְהַיָּדַיִם יְדֵי ___</he>\" 🤔",
+    "opts": [
+     "יעקב · עשו",
+     "עשו · יעקב",
+     "רבקה · לבן"
+    ],
+    "a": "\"<he>הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו</he>\"",
+    "x": "הקול היה עדין ומזכיר את שם ה' – כמו של יעקב; אבל הידיים שעירות – כמו של עשו.",
+    "c": 0
+   },
+   {
+    "q": "בן כמה היה יצחק כשהתחתן עם רבקה?",
+    "opts": [
+     "60",
+     "40",
+     "13"
+    ],
+    "a": "בן 40",
+    "x": "\"<he>בֶּן אַרְבָּעִים שָׁנָה</he>\" – והתאומים נולדו רק כשהיה בן 60.",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַיֶּעְתַּר יִצְחָק לַה' לְנֹכַח אִשְׁתּוֹ</he>\" – איך התפללו יצחק ורבקה על ילדים?",
+    "opts": [
+     "כל אחד עמד בפינה אחרת של הבית",
+     "שניהם עלו יחד להר המוריה",
+     "ביקשו מאברהם שיתפלל בשבילם"
+    ],
+    "a": "כל אחד עמד בפינה אחרת של הבית – והתפלל",
+    "x": "יצחק כאן ורבקה ממול – שניהם התפללו בכל הלב על אותו דבר. 🙏",
+    "c": 0
+   },
+   {
+    "q": "התפילה של מי התקבלה ראשונה – ולמה?",
+    "opts": [
+     "של רבקה – כי התפללה יותר זמן",
+     "של שניהם בדיוק באותו רגע",
+     "של יצחק – כי הוא צדיק בן צדיק"
+    ],
+    "a": "של יצחק – צדיק בן צדיק",
+    "x": "רבקה הייתה צדקת – אבל בת של רשע (בתואל). תפילת צדיק בן צדיק חזקה במיוחד.",
+    "c": 2
+   },
+   {
+    "q": "\"<he>וַיִּתְרֹצְצוּ הַבָּנִים בְּקִרְבָּהּ</he>\" – מה קרה כשרבקה עברה ליד בית המדרש של שם ועבר?",
+    "opts": [
+     "יעקב התרוצץ – רצה לצאת ללמוד תורה",
+     "עשו התרוצץ – רצה לצאת לצוד",
+     "שניהם נרגעו ונרדמו בשקט"
+    ],
+    "a": "יעקב \"רצה לצאת\" – ללמוד תורה!",
+    "x": "וכשעברה ליד בית של עבודה זרה – עשו \"רצה לצאת\". רבקה חשבה שזה תינוק אחד, ולא הבינה מה קורה.",
+    "c": 0
+   },
+   {
+    "q": "\"<he>וַתֵּלֶךְ לִדְרֹשׁ אֶת ה'</he>\" – אצל מי שאלה רבקה מה קורה לה?",
+    "opts": [
+     "אצל אברהם",
+     "אצל שם בן נח",
+     "אצל יצחק"
+    ],
+    "a": "אצל שֵׁם בן נח",
+    "x": "בבית המדרש שלו. ולמה לא שאלה את אברהם? כדי שלא יידע על הצער שלה (מושב זקנים).",
+    "c": 1
+   },
+   {
+    "q": "למה בישל יעקב לאבא שלו האבל דווקא עדשים?",
+    "opts": [
+     "כי הן עגולות כמו גלגל – והאבלות \"מתגלגלת\" בעולם",
+     "כי זה היה המאכל הכי זול בשוק",
+     "כי עשו אהב עדשים יותר מכל"
+    ],
+    "a": "כי העדשים עגולות – כמו גלגל",
+    "x": "האבלות היא כמו \"גלגל שחוזר בעולם\". ועוד: לעדשה אין \"פה\" (חריץ) – כמו האבל שאין לו פה, כי הוא שותק מרוב צער.",
+    "c": 0
+   },
+   {
+    "q": "למה קראו לעשו גם \"<he>אֱדוֹם</he>\"?",
+    "opts": [
+     "על שם התבשיל האדום שביקש",
+     "כי הוא נולד בארץ אדום",
+     "כי אהב ללבוש בגדים אדומים"
+    ],
+    "a": "על שם התבשיל האדום שביקש",
+    "x": "\"<he>הַלְעִיטֵנִי נָא מִן הָאָדֹם הָאָדֹם הַזֶּה</he>\" – הוא אפילו לא ידע את שם המאכל! וגם כי נולד אדמוני.",
+    "c": 0
+   },
+   {
+    "q": "היה רעב גדול. למה אסר ה' על יצחק לרדת למצרים, כמו שעשה אברהם?",
+    "opts": [
+     "כי במצרים היה רעב עוד יותר גדול",
+     "כי פרעה היה אויב של המשפחה",
+     "כי היה \"עולה תמימה\" – הוקדש על המזבח"
+    ],
+    "a": "כי יצחק היה \"עוֹלָה תְּמִימָה\"",
+    "x": "מאז שנעקד על המזבח, יצחק היה קדוש כמו קרבן – ואסור לו לצאת מארץ ישראל. \"<he>שְׁכֹן בָּאָרֶץ</he>\".",
+    "c": 2
+   },
+   {
+    "q": "\"<he>וַיִּמְצָא בַּשָּׁנָה הַהִוא מֵאָה שְׁעָרִים</he>\" – מה זה אומר?",
+    "opts": [
+     "יצחק בנה עיר עם 100 שערים",
+     "היבול היה פי 100 ממה שהעריכו",
+     "יצחק חפר 100 בארות"
+    ],
+    "a": "יבול פי 100 ממה שהעריכו – בשנת רעב!",
+    "x": "יצחק זרע באדמה יבשה בשנה קשה – וה' בירך אותו. העריכו כדי להפריש מעשרות לעניים. 🌾",
+    "c": 1
+   },
+   {
+    "q": "יצחק חפר מחדש את הבארות של אביו שהפלשתים סתמו. איך קרא להן?",
+    "opts": [
+     "בשמות חדשים משלו",
+     "באותם שמות שקרא להן אברהם",
+     "על שם הבנים שלו"
+    ],
+    "a": "באותם שמות שקרא להן אברהם",
+    "x": "כדי לכבד את אביו ולהזכיר את אברהם. כיבוד אב – גם אחרי פטירתו! 💙",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וְהִנֵּה תוֹמִם בְּבִטְנָהּ</he>\" – המילה \"תומם\" כתובה בלי א'. מה זה מלמד?",
+    "opts": [
+     "שהם לא יהיו דומים בכלל",
+     "שהם ייוולדו בהפרש של שעה",
+     "שאחד מהתאומים יהיה רשע"
+    ],
+    "a": "שאחד מהתאומים יהיה רשע",
+    "x": "אצל תמר כתוב \"<he>תְאוֹמִים</he>\" מלא – כי שני הבנים שלה היו צדיקים. כאן חסרה אות – כי אחד מהם \"חסר\".",
+    "c": 2
+   },
+   {
+    "q": "חידה – מי אני? 🏹 היה לי בגד מיוחד של אדם הראשון, ועליו ציורים של כל החיות – וכשלבשתי אותו, החיות באו אליי. אבל צייד אחר רצה מאוד את הבגד...",
+    "opts": [
+     "אבימלך",
+     "פיכל שר הצבא",
+     "נמרוד"
+    ],
+    "a": "<he>נִמְרוֹד</he>",
+    "x": "עשו הרג את נמרוד ולקח את הבגדים – ומאז הם נקראו \"<he>בִּגְדֵי הַחֲמוּדוֹת</he>\", כי עשו חמד אותם. זה קרה בדיוק ביום שעשו חזר עייף ומכר את הבכורה.",
+    "c": 2
+   },
+   {
+    "q": "איזו \"שאלה של צדיק\" שאל עשו את אבא שלו, כדי להיראות מדקדק במצוות? 🧂",
+    "opts": [
+     "איך מעשרים את המלח ואת התבן?",
+     "כמה זמן מחכים בין בשר לחלב?",
+     "מאיזו שעה מדליקים נרות שבת?"
+    ],
+    "a": "\"איך מעשרים את המלח ואת התבן?\"",
+    "x": "על מלח ותבן בכלל אין מעשר! אבל יצחק חשב: אם הוא שואל על זה – כמה הוא זהיר במצוות... כך עשו \"צד\" את אבא שלו בפיו.",
+    "c": 0
+   },
+   {
+    "q": "למה רצה יעקב כל כך לקנות את הבכורה?",
+    "opts": [
+     "כי הבכור מקבל ירושה כפולה",
+     "כי הבכורות יעבדו בבית המקדש – ורשע לא ראוי",
+     "כי רצה לשבת ראשון ליד השולחן"
+    ],
+    "a": "כי הבכורות עתידים לעבוד בבית המקדש – ורשע לא ראוי לזה",
+    "x": "ועשו שאל: מה העבודה? יעקב סיפר על האזהרות הרבות – ועשו ענה: \"<he>הִנֵּה אָנֹכִי הוֹלֵךְ לָמוּת וְלָמָּה זֶּה לִי בְּכֹרָה</he>\".",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַיִּבֶז עֵשָׂו אֶת הַבְּכֹרָה</he>\" – איך רואים שעשו באמת זלזל בה?",
+    "opts": [
+     "צעק על יעקב וזרק את הקערה",
+     "ביקש מיד לקנות את הבכורה בחזרה",
+     "אכל, שתה, קם והלך – ולא התחרט בכלל"
+    ],
+    "a": "\"<he>וַיֹּאכַל וַיֵּשְׁתְּ וַיָּקָם וַיֵּלַךְ</he>\" – בלי שום חרטה",
+    "x": "אחרי שנרגע, יכול היה להגיד \"מיהרתי מדי\". אבל הוא אכל בלי ברכה, קם והלך לדרכו – כאילו לא קרה כלום.",
+    "c": 2
+   },
+   {
+    "q": "עשק, שטנה, רחובות – לפי הרמב\"ן, שלוש הבארות רומזות ל...",
+    "opts": [
+     "שלושת האבות",
+     "שלושת בתי המקדש",
+     "שלושת הרגלים"
+    ],
+    "a": "שלושת בתי המקדש",
+    "x": "\"עשק\" – הבית הראשון, שהגויים נלחמו בו עד שנחרב; \"שטנה\" – הבית השני, שהיה קשה עוד יותר; \"רחובות\" – הבית השלישי, שייבנה במהרה בלי שום מתנגד! 🏛️",
+    "c": 1
+   },
+   {
+    "q": "למה דווקא על הבאר \"רחובות\" לא רבו רועי גרר?",
+    "opts": [
+     "יצחק שילם להם הרבה כסף",
+     "אבימלך שלח חיילים לשמור עליה",
+     "הייתה רחוקה מהנחל – ולא הייתה להם טענה"
+    ],
+    "a": "כי הייתה רחוקה מהנחל – ולא הייתה להם שום טענה",
+    "x": "על הבארות הקודמות טענו: \"המים באים מהנחל שלנו!\". אבל יצחק הבין שהטענות היו רק תירוץ – הם פשוט שנאו אותו.",
+    "c": 2
+   },
+   {
+    "q": "באיזה לילה ביקש יצחק לברך את עשו?",
+    "opts": [
+     "בליל פסח",
+     "בליל שבת",
+     "בליל ראש השנה"
+    ],
+    "a": "בליל פסח 🍷",
+    "x": "יצחק אמר: \"הלילה הזה לילה קדוש – שערי הברכה נפתחים\". ולכן ה\"לחם\" שהביא יעקב היה מצות!",
+    "c": 0
+   },
+   {
+    "q": "\"<he>בִּגְדֵי עֵשָׂו הַחֲמֻדֹת</he>\" שרבקה הלבישה את יעקב – של מי היו במקור?",
+    "opts": [
+     "של נח",
+     "של אדם הראשון",
+     "של אברהם"
+    ],
+    "a": "של אדם הראשון",
+    "x": "הם עברו לנמרוד, ומשם לעשו. ויש אומרים שנבראו בערב שבת בין השמשות! עשו הפקיד אותם אצל רבקה, כי חשד בנשים שלו שיגנבו אותם.",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַתִּכְהֶיןָ עֵינָיו מֵרְאֹת</he>\" – רש\"י מביא שלוש סיבות למה כהו עיני יצחק. מה הן?",
+    "opts": [
+     "עשן של עבודה זרה, דמעות המלאכים בעקדה, וכדי שיעקב יקבל את הברכות",
+     "אור השמש החזק, זקנה, ובכי על שרה",
+     "האבק מהבארות, קריאה בלילה, ועייפות מהדרך"
+    ],
+    "a": "עשן, דמעות – ותוכנית משמים",
+    "x": "1. העשן של הקטורת לעבודה זרה שהקטירו נשות עשו. 2. דמעות המלאכים שנפלו לעיניו בעקדה. 3. כדי שיעקב יוכל לקבל את הברכות. 👁️",
+    "c": 0
+   },
+   {
+    "q": "יצחק התחתן בגיל 40 ונהיה אבא רק בגיל 60. למה עברו 20 שנה?",
+    "opts": [
+     "20 שנה יצחק היה בדרכים עם הצאן",
+     "10 שנים חיכה שרבקה תגדל, ועוד 10 שנים בלי ילדים",
+     "20 שנה רבקה למדה בבית המדרש של שם"
+    ],
+    "a": "10 שנים חיכה – ועוד 10 שנים התפללו",
+    "x": "רבקה הייתה בת 3 בחתונה. יצחק חיכה 10 שנים עד שהגיעה לגיל 13, ואחר כך עברו עוד 10 שנים בלי ילדים – עד שהבין שהיא עקרה, והתפללו.",
+    "c": 1
+   },
+   {
+    "q": "שם אמר לרבקה: \"<he>שְׁנֵי גוֹיִם בְּבִטְנֵךְ</he>\" – אחד צדיק ואחד רשע. למה רבקה דווקא שמחה לשמוע את זה?",
+    "opts": [
+     "כי תמיד רצתה הרבה ילדים",
+     "כי שמעה שאחד מהם יהיה מלך",
+     "הבינה שזה לא תינוק אחד \"מבולבל\" – אלא שני ילדים שונים"
+    ],
+    "a": "כי הבינה שזו לא אשמתה",
+    "x": "היא חשבה שיש לה תינוק אחד שרוצה גם תורה וגם עבודה זרה – ודאגה מאוד. כששמעה שאלה שני ילדים שונים – נרגעה (חזקוני). 😌",
+    "c": 2
+   },
+   {
+    "q": "אבימלך אמר ליצחק: \"לא נגענו בך – ושלחנו אותך בשלום\". חז\"ל משלו על זה משל על אריה ועגור. מה המשל? 🦁",
+    "opts": [
+     "העגור הציל את האריה מבור עמוק",
+     "האריה אמר: \"השכר שלך – שיצאת חי מהפה שלי\"",
+     "האריה והעגור כרתו ברית לשמור על הבאר"
+    ],
+    "a": "האריה אמר לעגור: \"תודה שיצאת חי מהפה שלי!\"",
+    "x": "לאריה נתקעה עצם בגרון, והעגור בעל הצוואר הארוך הוציא אותה. כשביקש שכר, אמר האריה: \"מספיק שהכנסת ראש לפה שלי ויצאת חי!\". כך אבימלך – מתנהג כאילו עשה טובה כשרק לא הזיק.",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַיִּשְׁמֹר מִשְׁמַרְתִּי מִצְוֹתַי חֻקּוֹתַי וְתוֹרֹתָי</he>\" – מה זה \"משמרתי\"?",
+    "opts": [
+     "מצוות ששומרים רק בלילה",
+     "גדרות של חכמים שמרחיקים מעבירה",
+     "שמירה על הצאן מפני גנבים"
+    ],
+    "a": "גדרות של חכמים – שמרחיקים מעבירה",
+    "x": "כמו לא לרכוב על בהמה בשבת – שמא יחתוך ענף כדי להאיץ בה. \"משמרת\" – שומרת על האדם שלא יגיע לעבירה. 🚧",
+    "c": 1
+   },
+   {
+    "q": "יעקב אמר לאביו: \"<he>אָנֹכִי עֵשָׂו בְּכֹרֶךָ</he>\". האם יעקב שיקר?",
+    "opts": [
+     "לא – \"אנכי\" (זה אני), ו\"עשו בכורך\" זה משפט נפרד",
+     "כן – אבל רק כי אמא ביקשה ממנו",
+     "לא – כי עשו נתן לו רשות להתחפש"
+    ],
+    "a": "לא! \"אנכי\" – זה אני, ו\"עשו בכורך\" – משפט נפרד",
+    "x": "כלומר: אני הוא המביא לך, ועשו – הוא הבכור שלך. וכששאל יצחק \"<he>אַתָּה זֶה בְּנִי עֵשָׂו?</he>\" – ענה רק: \"<he>אָנִי</he>\". יעקב איש אמת. ✔️",
+    "c": 0
+   },
+   {
+    "q": "למה לקח לעשו כל כך הרבה זמן לחזור מהציד – ומה הביא בסוף? 🐕",
+    "opts": [
+     "מלאך שחרר כל צבי שצד – ובסוף הכין מטעמים מכלב",
+     "הלך לאיבוד ביער עד הבוקר",
+     "נרדם מתחת לעץ אחרי ציד ארוך"
+    ],
+    "a": "ה' עיכב אותו – ובסוף הכין מטעמים מ... כלב!",
+    "x": "בכל פעם שצד צבי וקשר אותו – בא מלאך ושחרר אותו. כשהתייאש, תפס כלב, הרג אותו והכין ממנו מטעמים לאביו.",
+    "c": 0
+   },
+   {
+    "q": "\"<he>וַיְהִי אַךְ יָצֹא יָצָא יַעֲקֹב... וְעֵשָׂו אָחִיו בָּא</he>\" – איך לא נפגשו האחים בפתח?",
+    "opts": [
+     "יעקב התחבא מתחת למיטה של יצחק",
+     "יעקב יצא מכנף אחת של הדלת ועשו נכנס מהשנייה",
+     "עשו נכנס מהחלון כי מיהר"
+    ],
+    "a": "לדלת היו שתי כנפיים",
+    "x": "יעקב יצא מכנף אחת של הדלת, ועשו נכנס מהכנף השנייה – באותו רגע ממש! ולפי מדרש אחר: לאוהל של יצחק היו הרבה פתחים. 🚪",
+    "c": 1
+   },
+   {
+    "q": "יעקב הביא לאביו גם יין. מאיפה הגיע היין הזה? 🍷",
+    "opts": [
+     "רבקה קנתה אותו בשוק של גרר",
+     "יעקב סחט ענבים מהכרם של אברהם",
+     "מלאך הביא יין השמור מששת ימי בראשית"
+    ],
+    "a": "מלאך הביא יין ששמור מששת ימי בראשית",
+    "x": "יין מיוחד ששמור מאז בריאת העולם (תרגום יונתן). ולפי הביאור שזה היה ליל פסח – היין היה לארבע הכוסות!",
+    "c": 2
+   },
+   {
+    "q": "יעקב לבש עורות של עיזים – ובכל זאת יצחק אמר: \"<he>רְאֵה רֵיחַ בְּנִי כְּרֵיחַ שָׂדֶה אֲשֶׁר בֵּרֲכוֹ ה'</he>\". איזה ריח הוא הריח?",
+    "opts": [
+     "ריח גן עדן – מהבגדים של אדם הראשון",
+     "ריח של המטעמים שרבקה בישלה",
+     "ריח של עורות העיזים"
+    ],
+    "a": "ריח של גן עדן 🌸",
+    "x": "במקום ריח רע של עורות – יצחק הריח את גן העדן, כי הבגדים היו של אדם הראשון שהיה בגן עדן. חז\"ל אומרים שזה היה \"כריח שדה תפוחים\", ויש אומרים – ריח של אתרוג.",
+    "c": 0
+   },
+   {
+    "q": "עשו ביקש ברכה ובכה. חז\"ל אומרים שהוריד שלוש דמעות. מה קרה עם הדמעה השלישית?",
+    "opts": [
+     "נפלה על הברכה של יעקב ומחקה אותה",
+     "הפכה לאבן קטנה",
+     "נשארה תלויה בעין ולא נפלה"
+    ],
+    "a": "היא נשארה תלויה בעין – ולא נפלה",
+    "x": "אחת מעין ימין, אחת מעין שמאל – והשלישית נתקעה. אילו כל שלוש היו נופלות, עם ישראל היה בסכנה גדולה. ובזכות הדמעות האלה קיבל עשו את הר שעיר. 💧",
+    "c": 2
+   },
+   {
+    "q": "\"<he>וַיֶּחֱרַד יִצְחָק חֲרָדָה גְּדֹלָה עַד מְאֹד</he>\" – יותר מאשר בעקדה! מה הבהיל אותו כל כך – ומה הרגיע אותו?",
+    "opts": [
+     "ראה גיהנום פתוח מתחת לעשו – ונרגע כששמע שיעקב קנה את הבכורה",
+     "פחד שעשו יכעס – ונרגע כשרבקה נכנסה",
+     "שמע רעש מבחוץ – ונרגע כשראה שזה רק הגמלים"
+    ],
+    "a": "ראה גיהנום פתוח מתחת לעשו – וכשעשו אמר \"את בכורתי לקח\", נרגע",
+    "x": "יצחק פחד שאולי עבר עבירה כשבירך את הקטן לפני הגדול. אבל כשעשו סיפר שיעקב קנה ממנו את הבכורה – הבין שבירך את הבכור האמיתי, ואמר: \"<he>גַּם בָּרוּךְ יִהְיֶה</he>\".",
+    "c": 0
+   },
+   {
+    "q": "לפי פרקי דרבי אליעזר, יצחק בירך את יעקב בעשר ברכות. כנגד מה הן?",
+    "opts": [
+     "עשר המכות ועשרת הניסיונות",
+     "עשרה מאמרות ועשרת הדיברות",
+     "עשרה דורות מאדם עד נח"
+    ],
+    "a": "כנגד עשרה מאמרות ועשרת הדיברות",
+    "x": "עשרה מאמרות שבהם נברא העולם, ועשרת הדיברות שבהם ניתנה התורה. מטל השמיים ועד \"ארריך ארור ומברכיך ברוך\". ✨",
+    "c": 1
+   },
+   {
+    "q": "יצחק אמר ליעקב \"<he>אֹרְרֶיךָ אָרוּר וּמְבָרְכֶיךָ בָּרוּךְ</he>\" – ובלעם אמר להפך: קודם \"מברכיך\". למה הסדר שונה?",
+    "opts": [
+     "כי יצחק ובלעם דיברו שפות שונות",
+     "צדיקים – תחילתם יסורים וסופם שלווה; רשעים – להפך",
+     "כי בלעם שכח את הסדר הנכון"
+    ],
+    "a": "צדיקים – תחילתם קשה וסופם טוב; רשעים – להפך",
+    "x": "אצל יעקב (צדיק) הקללות באות קודם והברכה בסוף. אצל בלעם (רשע) – קודם טוב ובסוף רע. לכן יצחק הקדים את \"ארריך\" – הסוף של יעקב יהיה טוב! 🌅",
+    "c": 1
+   },
+   {
+    "q": "בברכה ליעקב כתוב \"<he>וְיִתֶּן לְךָ הָאֱלֹהִים</he>\" – ובברכה לעשו אין שם ה' בכלל. מה מלמד השם \"אלוקים\"?",
+    "opts": [
+     "שהברכה תתקיים רק בשבתות",
+     "שיעקב יקבל יותר כסף מעשו",
+     "מידת הדין – ייתן רק אם יעקב יהיה ראוי"
+    ],
+    "a": "מידת הדין – ה' ייתן רק אם יעקב יהיה ראוי",
+    "x": "\"אלוקים\" הוא מידת הדין: כשיעקב ובניו יתנהגו כראוי – יקבלו. וגם: ברכת עשו מתחילה \"משמני הארץ\" (גשמיות), וברכת יעקב – \"מטל השמיים\".",
+    "c": 2
+   },
+   {
+    "q": "לעשו נאמר: \"<he>וְאֶת אָחִיךָ תַּעֲבֹד, וְהָיָה כַּאֲשֶׁר תָּרִיד וּפָרַקְתָּ עֻלּוֹ</he>\". מתי עשו \"פורק\" את העול של יעקב?",
+    "opts": [
+     "כשעשו נהיה עשיר יותר מיעקב",
+     "כשישראל מזניחים את התורה",
+     "כשעשו מנצח במלחמה גדולה"
+    ],
+    "a": "כשישראל מזניחים את התורה",
+    "x": "כשישראל לומדים תורה ומקיימים מצוות – עשו נכנע. וכשמזניחים – עשו עולה ויעקב יורד. הכל תלוי בנו! 📖",
+    "c": 1
+   },
+   {
+    "q": "עשו רצה להרוג את יעקב – אבל היה לו תכנון ערמומי במיוחד, שבו מישהו אחר יעשה את העבודה. מה היה התכנון? 🕵️",
+    "opts": [
+     "שלבן יהרוג את יעקב בחרן",
+     "שישמעאל יהרוג את יעקב, ואז עשו יהרוג את ישמעאל וירש הכל",
+     "שאבימלך יגרש את יעקב מהארץ"
+    ],
+    "a": "שישמעאל יהרוג את יעקב – ואז עשו יהרוג את ישמעאל",
+    "x": "עשו התחתן עם בת ישמעאל כדי שישמעאל יהרוג את יעקב. אחר כך עשו \"ינקום\" ויהרוג את ישמעאל – וירש את הכל: גם את אברהם וגם את יצחק!",
+    "c": 1
+   },
+   {
+    "q": "רבקה אמרה: \"<he>לָמָּה אֶשְׁכַּל גַּם שְׁנֵיכֶם יוֹם אֶחָד</he>\". חז\"ל אומרים שזה התקיים. איך? ⚰️",
+    "opts": [
+     "יעקב ועשו נקברו ביום אחד – חושים בן דן הכה את עשו",
+     "שניהם חלו ביום אחד והבריאו",
+     "שניהם עזבו את הבית באותו בוקר"
+    ],
+    "a": "יעקב ועשו נקברו באותו יום",
+    "x": "בלוויה של יעקב, עשו חסם את מערת המכפלה. חושים בן דן, שהיה חירש, לא הבין למה מחכים – לקח מקל והכה את עשו. הראש של עשו התגלגל לתוך המערה (סוטה יג).",
+    "c": 0
+   },
+   {
+    "q": "עשו קרא לאשתו \"<he>יְהוּדִית</he>\" – אף שהיא עבדה עבודה זרה. למה?",
+    "opts": [
+     "כדי לרמות את אביו – שיחשוב שהיא כופרת בעבודה זרה",
+     "כי היא נולדה בארץ יהודה",
+     "כי רבקה בחרה לה את השם"
+    ],
+    "a": "כדי לרמות את אביו",
+    "x": "שיצחק יחשוב שהיא כופרת בעבודה זרה (כמו \"יהודית\"). ואשתו השנייה, \"<he>בָּשְׂמַת</he>\", נקראה כך כי הקטירה בשמים לעבודה זרה. הנשים האלה היו \"<he>מֹרַת רוּחַ</he>\" ליצחק ולרבקה.",
+    "c": 0
+   },
+   {
+    "q": "🧮 חידת חשבון: יצחק היה בן 60 כשנולדו התאומים, ויעקב קיבל את הברכות בגיל 63. בן כמה היה יצחק באותו ליל פסח? ובונוס: שרה אמו נפטרה בגיל 127 – כמה שנים חסרו ליצחק כדי להגיע לגיל שלה, ולמה זה הדאיג אותו?",
+    "opts": [
+     "יצחק בן 63 · חסרו 64 שנים",
+     "יצחק בן 123 · חסרו 4 שנים",
+     "יצחק בן 123 · חסרו 5 שנים"
+    ],
+    "a": "יצחק בן 123 · חסרו 4 שנים",
+    "x": "60 + 63 = 123, ו־127 − 123 = 4. חז\"ל אומרים: מי שמתקרב לגיל שבו נפטרו הוריו – 5 שנים לפני – ידאג. לכן אמר יצחק: \"<he>לֹא יָדַעְתִּי יוֹם מוֹתִי</he>\" – ורצה לברך מיד. ⏳",
+    "c": 1
+   },
+   {
+    "q": "💎 שאלת הזהב: \"<he>הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו</he>\". רגע... יצחק סתם תיאר מה הרגיש בידיים ומה שמע באוזניים. אז למה המשפט הזה נעשה אחד המשפטים המפורסמים בתורה – כאילו הוא מלמד משהו לכל הדורות?",
+    "opts": [
+     "כי יצחק רצה ללמד איך מזהים אנשים בחושך",
+     "כי מאותו יום יעקב ועשו החליפו את הקולות שלהם",
+     "כי הכוח של יעקב בקול – תורה ותפילה, והכוח של עשו בידיים"
+    ],
+    "a": "כי זה \"המפתח\" של העולם: הכוח של יעקב – בקול, והכוח של עשו – בידיים",
+    "x": "שימו לב מה היה מיוחד בקול של יעקב: הוא דיבר בעדינות והזכיר את שם ה'. זה הנשק של יעקב – הקול של תורה ותפילה. והנשק של עשו – הידיים, החרב: \"<he>וְעַל חַרְבְּךָ תִחְיֶה</he>\". ועכשיו תחברו לברכה של עשו: \"<he>וּפָרַקְתָּ עֻלּוֹ</he>\" – עשו מתגבר רק כשהקול של יעקב נחלש. לכן חז\"ל אומרים: כל זמן שהקול של יעקב נשמע בבתי הכנסת ובבתי המדרש – הידיים של עשו לא יכולות לשלוט. וזה אומר שכל ילד שלומד תורה בקול, ממש כאן ליד שולחן השבת – הוא שומר על כל עם ישראל! 🛡️",
+    "c": 2
+   }
+  ]
+ },
+ "fr": {
+  "parasha": "Toledot",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "La voix de <em>Yaakov</em> !",
+  "emoji": "👶 👶 🏹 🍲 💧 🐐 🍷 🕯️ 🙏 ⭐",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans · 5 points par réponse"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "Comment s'appelaient les jumeaux d'Its'hak et Rivka ?",
+    "opts": [
+     "Caïn et Hével",
+     "Its'hak et Yichmaël",
+     "Yaakov et Essav"
+    ],
+    "a": "Yaakov et Essav (<he>יַעֲקֹב וְעֵשָׂו</he>)",
+    "x": "Deux frères jumeaux – mais tellement différents l'un de l'autre ! 👦👦",
+    "c": 2
+   },
+   {
+    "q": "Qu'est-ce que Yaakov a cuisiné le jour où Essav est rentré épuisé des champs ? 🍲",
+    "opts": [
+     "Des pancakes au sirop 🥞",
+     "Une soupe au poulet",
+     "Un plat de lentilles"
+    ],
+    "a": "Un plat de lentilles (<he>נְזִיד עֲדָשִׁים</he>)",
+    "x": "Un plat de lentilles rouges – c'était justement le jour du décès d'Avraham, et Yaakov l'avait préparé pour Its'hak, son père en deuil.",
+    "c": 2
+   },
+   {
+    "q": "Lequel des frères aimait chasser les animaux dans les champs ? 🏹",
+    "opts": [
+     "Essav",
+     "Yaakov",
+     "Lavan"
+    ],
+    "a": "Essav",
+    "x": "« <he>אִישׁ יֹדֵעַ צַיִד אִישׁ שָׂדֶה</he> » <tr>– « un habile chasseur, un homme des champs »</tr> : Essav passait ses journées à chasser.",
+    "c": 0
+   },
+   {
+    "q": "Et qu'aimait faire Yaakov ? 📚",
+    "opts": [
+     "Chasser les lions 🦁",
+     "Escalader les montagnes ⛰️",
+     "Étudier la Torah dans les tentes"
+    ],
+    "a": "Étudier la Torah dans les tentes",
+    "x": "« <he>אִישׁ תָּם יֹשֵׁב אֹהָלִים</he> » <tr>– « un homme intègre, qui demeurait sous les tentes »</tr> : Yaakov étudiait la Torah dans les tentes de Chem et Ever. « Tam » : son cœur et sa bouche disent la même chose.",
+    "c": 2
+   },
+   {
+    "q": "À quoi ressemblait Essav à sa naissance ?",
+    "opts": [
+     "Complètement chauve 👶",
+     "Vert comme une grenouille 🐸",
+     "Roux et plein de poils"
+    ],
+    "a": "Tout roux – et plein de poils !",
+    "x": "« <he>אַדְמוֹנִי כֻּלּוֹ כְּאַדֶּרֶת שֵׂעָר</he> » – il est né couvert de poils comme un adulte ; d'où son nom « Essav », comme déjà « fait » (<he>עָשׂוּי</he>), terminé.",
+    "c": 2
+   },
+   {
+    "q": "Qu'a fait Yaakov en venant au monde ? 🦶",
+    "opts": [
+     "Il riait aux éclats 😄",
+     "Il tenait le talon d'Essav",
+     "Il s'est endormi tout de suite"
+    ],
+    "a": "Il tenait le talon d'Essav !",
+    "x": "Ils se disputaient pour savoir qui sortirait en premier – et Yaakov a attrapé le talon (<he>עָקֵב</he>) de son frère pour le retenir. D'où son nom « Yaakov ».",
+    "c": 1
+   },
+   {
+    "q": "Devinette – que suis-je ? 🐐 J'étais sur un petit chevreau. Rivka m'a mise sur les mains et le cou de Yaakov – pour qu'il soit poilu comme Essav.",
+    "opts": [
+     "Les peaux de chevreaux",
+     "Des gants en laine 🧤",
+     "Les habits précieux d'Essav"
+    ],
+    "a": "Les peaux de chevreaux (<he>עוֹרוֹת גְּדָיֵי הָעִזִּים</he>)",
+    "x": "Yaakov avait peur qu'Its'hak le touche et découvre qu'il était lisse – et Rivka a trouvé une solution astucieuse.",
+    "c": 0
+   },
+   {
+    "q": "Qu'ont trouvé les serviteurs d'Its'hak en creusant dans la vallée de Guérar ? 💧",
+    "opts": [
+     "Un puits d'eau vive",
+     "Un coffre au trésor 💰",
+     "Des os de dinosaure 🦕"
+    ],
+    "a": "Un puits d'eau vive (<he>בְּאֵר מַיִם חַיִּים</he>)",
+    "x": "Une source qui coule toujours – mais les bergers de Guérar sont aussitôt venus se disputer.",
+    "c": 0
+   },
+   {
+    "q": "Comment Its'hak a-t-il appelé le puits pour lequel on ne s'est plus disputé ?",
+    "opts": [
+     "Essek",
+     "Sitna",
+     "Ré'hovot"
+    ],
+    "a": "Ré'hovot (<he>רְחֹבוֹת</he>)",
+    "x": "« <he>כִּי עַתָּה הִרְחִיב ה' לָנוּ</he> » <tr>– « car maintenant Hachem nous a mis au large »</tr> – enfin un endroit vaste et paisible ! 🌿",
+    "c": 2
+   },
+   {
+    "q": "Complétez la phrase d'Its'hak : « La voix est la voix de ___ et les mains sont les mains de ___ » 🤔",
+    "opts": [
+     "Yaakov · Essav",
+     "Essav · Yaakov",
+     "Rivka · Lavan"
+    ],
+    "a": "« La voix est celle de Yaakov, les mains celles d'Essav »",
+    "x": "« <he>הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו</he> » – la voix était douce et mentionnait le nom d'Hachem, comme celle de Yaakov ; mais les mains étaient poilues, comme celles d'Essav.",
+    "c": 0
+   },
+   {
+    "q": "Quel âge avait Its'hak quand il a épousé Rivka ?",
+    "opts": [
+     "60 ans",
+     "40 ans",
+     "13 ans"
+    ],
+    "a": "40 ans",
+    "x": "« <he>בֶּן אַרְבָּעִים שָׁנָה</he> » – et les jumeaux ne sont nés que lorsqu'il avait 60 ans.",
+    "c": 1
+   },
+   {
+    "q": "« <he>וַיֶּעְתַּר יִצְחָק לַה' לְנֹכַח אִשְׁתּוֹ</he> » – comment Its'hak et Rivka ont-ils prié pour avoir des enfants ?",
+    "opts": [
+     "Chacun dans un coin différent de la maison",
+     "Ils sont montés ensemble au mont Moria",
+     "Ils ont demandé à Avraham de prier pour eux"
+    ],
+    "a": "Chacun dans un coin de la maison – face à face",
+    "x": "Its'hak d'un côté, Rivka en face – tous les deux priaient de tout leur cœur pour la même chose. 🙏",
+    "c": 0
+   },
+   {
+    "q": "La prière de qui a été exaucée en premier – et pourquoi ?",
+    "opts": [
+     "Celle de Rivka – elle a prié plus longtemps",
+     "Les deux exactement au même moment",
+     "Celle d'Its'hak – un juste fils de juste"
+    ],
+    "a": "Celle d'Its'hak – un juste fils de juste",
+    "x": "Rivka était une juste – mais fille d'un méchant (Betouël). La prière d'un juste fils de juste est particulièrement forte.",
+    "c": 2
+   },
+   {
+    "q": "« <he>וַיִּתְרֹצְצוּ הַבָּנִים בְּקִרְבָּהּ</he> » <tr>(les enfants se heurtaient en elle)</tr> – que se passait-il quand Rivka passait devant la maison d'étude de Chem et Ever ?",
+    "opts": [
+     "Yaakov s'agitait – il voulait sortir étudier la Torah",
+     "Essav s'agitait – il voulait sortir chasser",
+     "Les deux se calmaient et s'endormaient"
+    ],
+    "a": "Yaakov « voulait sortir » – pour étudier la Torah !",
+    "x": "Et devant un temple d'idoles, c'est Essav qui « voulait sortir ». Rivka pensait qu'il n'y avait qu'un seul bébé et ne comprenait pas.",
+    "c": 0
+   },
+   {
+    "q": "« Elle alla consulter Hachem » – à qui Rivka a-t-elle demandé ce qui lui arrivait ?",
+    "opts": [
+     "À Avraham",
+     "À Chem, fils de Noa'h",
+     "À Its'hak"
+    ],
+    "a": "À Chem, fils de Noa'h",
+    "x": "Dans sa maison d'étude. Et pourquoi pas à Avraham ? Pour qu'il ne sache pas qu'elle souffrait (Moshav Zekénim).",
+    "c": 1
+   },
+   {
+    "q": "Pourquoi Yaakov a-t-il cuisiné justement des lentilles pour son père en deuil ?",
+    "opts": [
+     "Rondes comme une roue – le deuil « tourne » dans le monde",
+     "C'était le plat le moins cher du marché",
+     "Parce qu'Essav adorait les lentilles"
+    ],
+    "a": "Parce que les lentilles sont rondes – comme une roue",
+    "x": "Le deuil est comme une « roue qui tourne dans le monde ». Et aussi : la lentille n'a pas de « bouche » (pas de fente) – comme l'endeuillé qui reste silencieux de chagrin.",
+    "c": 0
+   },
+   {
+    "q": "Pourquoi Essav s'appelle-t-il aussi « <he>אֱדוֹם</he> » <tr>(Édom, le rouge)</tr> ?",
+    "opts": [
+     "À cause du plat rouge qu'il a réclamé",
+     "Parce qu'il est né au pays d'Édom",
+     "Parce qu'il aimait porter du rouge"
+    ],
+    "a": "À cause du plat rouge qu'il a réclamé",
+    "x": "« <he>הַלְעִיטֵנִי נָא מִן הָאָדֹם הָאָדֹם הַזֶּה</he> » <tr>– « fais-moi avaler de ce rouge, ce rouge-là »</tr> – il ne connaissait même pas le nom du plat ! Et aussi parce qu'il était né roux.",
+    "c": 0
+   },
+   {
+    "q": "Il y avait une grande famine. Pourquoi Hachem a-t-il interdit à Its'hak de descendre en Égypte, comme Avraham ?",
+    "opts": [
+     "La famine était encore pire en Égypte",
+     "Pharaon était l'ennemi de la famille",
+     "Il était une « offrande parfaite » – consacré sur l'autel"
+    ],
+    "a": "Parce qu'Its'hak était une « offrande parfaite »",
+    "x": "Depuis qu'il a été lié sur l'autel, Its'hak était saint comme un sacrifice – il ne devait pas quitter Erets Israël : « <he>שְׁכֹן בָּאָרֶץ</he> » <tr>(demeure dans le pays)</tr>.",
+    "c": 2
+   },
+   {
+    "q": "« <he>וַיִּמְצָא בַּשָּׁנָה הַהִוא מֵאָה שְׁעָרִים</he> » – qu'est-ce que ça veut dire ?",
+    "opts": [
+     "Its'hak a construit une ville à 100 portes",
+     "La récolte était 100 fois plus grande que prévu",
+     "Its'hak a creusé 100 puits"
+    ],
+    "a": "Une récolte 100 fois plus grande que prévu – en pleine famine !",
+    "x": "Its'hak a semé dans une terre sèche, une année difficile – et Hachem l'a béni. On avait estimé la récolte pour prélever la dîme des pauvres. 🌾",
+    "c": 1
+   },
+   {
+    "q": "Its'hak a recreusé les puits de son père bouchés par les Philistins. Comment les a-t-il appelés ?",
+    "opts": [
+     "De nouveaux noms à lui",
+     "Des mêmes noms qu'Avraham",
+     "Du nom de ses fils"
+    ],
+    "a": "Des mêmes noms qu'Avraham leur avait donnés",
+    "x": "Pour honorer son père et rappeler le souvenir d'Avraham. Le respect des parents – même après leur départ ! 💙",
+    "c": 1
+   },
+   {
+    "q": "« <he>וְהִנֵּה תוֹמִם בְּבִטְנָהּ</he> » <tr>(il y avait des jumeaux en elle)</tr> – le mot « jumeaux » est écrit sans la lettre א. Qu'apprend-on ?",
+    "opts": [
+     "Ils ne se ressembleraient pas du tout",
+     "Ils naîtraient à une heure d'écart",
+     "L'un des jumeaux serait méchant"
+    ],
+    "a": "L'un des jumeaux serait méchant",
+    "x": "Pour Tamar, il est écrit « <he>תְאוֹמִים</he> » complet – ses deux fils étaient justes. Ici il manque une lettre – car l'un d'eux « manquera ».",
+    "c": 2
+   },
+   {
+    "q": "Devinette – qui suis-je ? 🏹 J'avais un habit spécial d'Adam HaRichon, brodé de tous les animaux – quand je le portais, les animaux venaient à moi. Mais un autre chasseur voulait absolument cet habit…",
+    "opts": [
+     "Avimélekh",
+     "Pi'hol, chef de l'armée",
+     "Nimrod"
+    ],
+    "a": "Nimrod",
+    "x": "Essav a tué Nimrod et pris ses habits – d'où leur nom « <he>בִּגְדֵי הַחֲמוּדוֹת</he> » <tr>(les habits convoités)</tr>. C'était le jour même où Essav est rentré épuisé et a vendu son droit d'aînesse.",
+    "c": 2
+   },
+   {
+    "q": "Quelle « question de juste » Essav posait-il à son père, pour paraître pointilleux ? 🧂",
+    "opts": [
+     "Comment prélève-t-on la dîme du sel et de la paille ?",
+     "Combien attend-on entre viande et lait ?",
+     "À quelle heure allume-t-on les bougies de Chabbat ?"
+    ],
+    "a": "« Comment prélève-t-on la dîme du sel et de la paille ? »",
+    "x": "Le sel et la paille ne sont même pas soumis à la dîme ! Mais Its'hak pensait : s'il demande ça, comme il est scrupuleux… Ainsi Essav « chassait » son père avec sa bouche.",
+    "c": 0
+   },
+   {
+    "q": "Pourquoi Yaakov tenait-il tant à acheter le droit d'aînesse ?",
+    "opts": [
+     "L'aîné reçoit un double héritage",
+     "Les premiers-nés serviraient au Temple – pas un méchant",
+     "Pour s'asseoir le premier à table"
+    ],
+    "a": "Les premiers-nés devaient servir au Temple – un méchant n'en est pas digne",
+    "x": "Essav a demandé : en quoi consiste ce service ? Yaakov a parlé des nombreux avertissements – et Essav a répondu : « <he>הִנֵּה אָנֹכִי הוֹלֵךְ לָמוּת וְלָמָּה זֶּה לִי בְּכֹרָה</he> » <tr>(je vais mourir, à quoi bon ce droit d'aînesse ?)</tr>.",
+    "c": 1
+   },
+   {
+    "q": "« <he>וַיִּבֶז עֵשָׂו אֶת הַבְּכֹרָה</he> » <tr>(Essav méprisa le droit d'aînesse)</tr> – comment voit-on qu'il la méprisait vraiment ?",
+    "opts": [
+     "Il a crié sur Yaakov et jeté le bol",
+     "Il a voulu racheter aussitôt son droit d'aînesse",
+     "Il a mangé, bu, et est parti – sans aucun regret"
+    ],
+    "a": "« Il mangea, but, se leva et s'en alla » – sans aucun regret",
+    "x": "Une fois calmé, il aurait pu dire « j'ai été trop pressé ». Mais il a mangé sans bénédiction, s'est levé et est parti – comme si de rien n'était.",
+    "c": 2
+   },
+   {
+    "q": "Essek, Sitna, Ré'hovot – selon le Ramban, les trois puits font allusion…",
+    "opts": [
+     "Aux trois Patriarches",
+     "Aux trois Temples",
+     "Aux trois fêtes de pèlerinage"
+    ],
+    "a": "Aux trois Temples",
+    "x": "« Essek » – le premier Temple, combattu par les nations jusqu'à sa destruction ; « Sitna » – le second, plus dur encore ; « Ré'hovot » – le troisième, qui sera bâti bientôt, sans aucune opposition ! 🏛️",
+    "c": 1
+   },
+   {
+    "q": "Pourquoi les bergers de Guérar ne se sont-ils pas disputés pour le puits « Ré'hovot » ?",
+    "opts": [
+     "Its'hak les a payés très cher",
+     "Avimélekh a envoyé des soldats le garder",
+     "Il était loin du ruisseau – aucun prétexte possible"
+    ],
+    "a": "Il était loin du ruisseau – ils n'avaient aucun prétexte",
+    "x": "Pour les puits précédents, ils disaient : « l'eau vient de notre ruisseau ! ». Mais Its'hak avait compris que c'étaient des prétextes – ils le détestaient, tout simplement.",
+    "c": 2
+   },
+   {
+    "q": "Quelle nuit Its'hak voulait-il bénir Essav ?",
+    "opts": [
+     "La nuit de Pessa'h",
+     "Le soir de Chabbat",
+     "La nuit de Roch Hachana"
+    ],
+    "a": "La nuit de Pessa'h 🍷",
+    "x": "Its'hak a dit : « Cette nuit est sainte – les portes de la bénédiction s'ouvrent ». C'est pour ça que le « pain » apporté par Yaakov était de la matsa !",
+    "c": 0
+   },
+   {
+    "q": "Les « habits précieux d'Essav » que Rivka a fait porter à Yaakov – à qui étaient-ils à l'origine ?",
+    "opts": [
+     "À Noa'h",
+     "À Adam HaRichon",
+     "À Avraham"
+    ],
+    "a": "À Adam HaRichon",
+    "x": "Ils sont passés à Nimrod, puis à Essav. Certains disent qu'ils ont été créés à la veille du premier Chabbat ! Essav les gardait chez Rivka, car il soupçonnait ses femmes de vouloir les voler.",
+    "c": 1
+   },
+   {
+    "q": "« Ses yeux s'affaiblirent » – Rachi donne trois raisons pour lesquelles Its'hak est devenu aveugle. Lesquelles ?",
+    "opts": [
+     "Fumée des idoles, larmes des anges à la Akéda, et pour que Yaakov reçoive les bénédictions",
+     "Le soleil trop fort, la vieillesse, et les pleurs pour Sarah",
+     "La poussière des puits, la lecture la nuit, et la fatigue du voyage"
+    ],
+    "a": "La fumée, les larmes – et un plan du Ciel",
+    "x": "1. La fumée de l'encens offert aux idoles par les femmes d'Essav. 2. Les larmes des anges tombées dans ses yeux lors de la Akéda. 3. Pour que Yaakov puisse recevoir les bénédictions. 👁️",
+    "c": 0
+   },
+   {
+    "q": "Its'hak s'est marié à 40 ans et n'est devenu père qu'à 60 ans. Pourquoi ces 20 ans ?",
+    "opts": [
+     "Its'hak a voyagé 20 ans avec les troupeaux",
+     "10 ans d'attente qu'elle grandisse, puis 10 ans sans enfants",
+     "Rivka a étudié 20 ans chez Chem"
+    ],
+    "a": "10 ans d'attente – puis 10 ans de prières",
+    "x": "Rivka avait 3 ans au mariage. Its'hak a attendu 10 ans qu'elle atteigne 13 ans, puis 10 années encore sont passées sans enfants – jusqu'à ce qu'il comprenne qu'elle était stérile, et ils ont prié.",
+    "c": 1
+   },
+   {
+    "q": "Chem a dit à Rivka : « deux nations sont en toi » – un juste et un méchant. Pourquoi Rivka a-t-elle été justement soulagée ?",
+    "opts": [
+     "Elle avait toujours voulu beaucoup d'enfants",
+     "L'un d'eux serait roi",
+     "Ce n'était pas un seul bébé « perdu », mais deux enfants différents"
+    ],
+    "a": "Elle a compris que ce n'était pas sa faute",
+    "x": "Elle croyait porter un seul bébé qui voulait à la fois la Torah et les idoles – et elle s'inquiétait beaucoup. En apprenant que c'étaient deux enfants différents, elle s'est apaisée ('Hizkouni). 😌",
+    "c": 2
+   },
+   {
+    "q": "Avimélekh a dit à Its'hak : « nous ne t'avons pas touché, nous t'avons renvoyé en paix ». Nos Sages en font une fable du lion et de la grue. Laquelle ? 🦁",
+    "opts": [
+     "La grue a sauvé le lion d'une fosse profonde",
+     "Le lion : « ta récompense, c'est d'être sortie vivante de ma gueule »",
+     "Le lion et la grue ont fait alliance pour garder un puits"
+    ],
+    "a": "Le lion dit à la grue : « ta récompense, c'est d'être ressortie vivante de ma gueule ! »",
+    "x": "Un os était coincé dans la gorge du lion ; la grue au long cou l'a retiré. Quand elle a demandé une récompense, le lion a répondu : « Tu as mis ta tête dans ma gueule et tu en es sortie vivante – ça suffit ! ». Ainsi Avimélekh : il se vante comme d'un bienfait de n'avoir fait aucun mal.",
+    "c": 1
+   },
+   {
+    "q": "« Il a observé Mes prescriptions (<he>מִשְׁמַרְתִּי</he>), Mes commandements, Mes lois et Mes enseignements » – que signifie « michmarti » ?",
+    "opts": [
+     "Les mitsvot qu'on garde seulement la nuit",
+     "Les barrières des Sages qui éloignent de la faute",
+     "La garde des troupeaux contre les voleurs"
+    ],
+    "a": "Les « barrières » des Sages – qui éloignent de la faute",
+    "x": "Par exemple : ne pas monter sur un animal à Chabbat – de peur de couper une branche pour le faire avancer. La « michméret » protège l'homme pour qu'il n'arrive pas à la faute. 🚧",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a dit à son père : « <he>אָנֹכִי עֵשָׂו בְּכֹרֶךָ</he> » <tr>(c'est moi, Essav ton aîné)</tr>. Yaakov a-t-il menti ?",
+    "opts": [
+     "Non – « c'est moi », puis « Essav est ton aîné » à part",
+     "Oui – mais seulement parce que sa mère l'a demandé",
+     "Non – Essav lui avait permis de se déguiser"
+    ],
+    "a": "Non ! « C'est moi » – et « Essav est ton aîné » est une autre phrase",
+    "x": "Autrement dit : c'est moi qui t'apporte à manger, et Essav – c'est ton aîné. Et quand Its'hak a demandé « es-tu bien mon fils Essav ? », il a seulement répondu : « <he>אָנִי</he> » <tr>(moi)</tr>. Yaakov, homme de vérité. ✔️",
+    "c": 0
+   },
+   {
+    "q": "Pourquoi Essav a-t-il mis si longtemps à revenir de la chasse – et qu'a-t-il rapporté finalement ? 🐕",
+    "opts": [
+     "Un ange libérait chaque cerf – à la fin, il a cuisiné un chien",
+     "Il s'est perdu dans la forêt jusqu'au matin",
+     "Il s'est endormi sous un arbre après une longue chasse"
+    ],
+    "a": "Hachem l'a retardé – et il a préparé le plat avec… un chien !",
+    "x": "Chaque fois qu'il attrapait un cerf et l'attachait, un ange venait le libérer. Découragé, il a attrapé un chien, l'a tué et en a fait un plat pour son père.",
+    "c": 0
+   },
+   {
+    "q": "« À peine Yaakov était-il sorti… qu'Essav son frère arriva » – comment les frères ne se sont-ils pas croisés à la porte ?",
+    "opts": [
+     "Yaakov s'est caché sous le lit d'Its'hak",
+     "Yaakov est sorti par un battant, Essav est entré par l'autre",
+     "Essav est entré par la fenêtre, pressé"
+    ],
+    "a": "La porte avait deux battants",
+    "x": "Yaakov est sorti par un battant, et Essav est entré par l'autre – exactement au même instant ! Selon un autre midrach, la tente d'Its'hak avait plusieurs entrées. 🚪",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a aussi apporté du vin à son père. D'où venait ce vin ? 🍷",
+    "opts": [
+     "Rivka l'avait acheté au marché de Guérar",
+     "Yaakov a pressé des raisins de la vigne d'Avraham",
+     "Un ange a apporté un vin gardé depuis la Création"
+    ],
+    "a": "Un ange a apporté du vin conservé depuis les six jours de la Création",
+    "x": "Un vin spécial gardé depuis la création du monde (Targoum Yonathan). Et puisque c'était la nuit de Pessa'h – c'était pour les quatre coupes !",
+    "c": 2
+   },
+   {
+    "q": "Yaakov portait des peaux de chèvres – et pourtant Its'hak a dit : « l'odeur de mon fils est comme l'odeur d'un champ béni par Hachem ». Qu'a-t-il senti ?",
+    "opts": [
+     "Le parfum du Gan Eden – venant des habits d'Adam",
+     "L'odeur du plat cuisiné par Rivka",
+     "L'odeur des peaux de chèvres"
+    ],
+    "a": "Le parfum du Gan Eden 🌸",
+    "x": "Au lieu de la mauvaise odeur des peaux, Its'hak a senti le Gan Eden – car les habits étaient ceux d'Adam HaRichon, qui avait vécu au Gan Eden. Nos Sages disent : « comme l'odeur d'un champ de pommiers », et certains disent – l'odeur de l'étrog.",
+    "c": 0
+   },
+   {
+    "q": "Essav a pleuré pour recevoir une bénédiction. Nos Sages disent qu'il a versé trois larmes. Qu'est-il arrivé à la troisième ?",
+    "opts": [
+     "Elle est tombée sur la bénédiction de Yaakov et l'a effacée",
+     "Elle s'est transformée en petit caillou",
+     "Elle est restée suspendue sans tomber"
+    ],
+    "a": "Elle est restée suspendue dans son œil – sans tomber",
+    "x": "Une de l'œil droit, une de l'œil gauche – et la troisième est restée accrochée. Si les trois étaient tombées, le peuple d'Israël aurait été en grand danger. Grâce à ces larmes, Essav a reçu le mont Séïr. 💧",
+    "c": 2
+   },
+   {
+    "q": "« Its'hak fut saisi d'un effroi extrême » – plus encore qu'à la Akéda ! Qu'est-ce qui l'a tant effrayé – et qu'est-ce qui l'a rassuré ?",
+    "opts": [
+     "Le Guéhinam ouvert sous Essav – apaisé en apprenant la vente du droit d'aînesse",
+     "La colère d'Essav – apaisé quand Rivka est entrée",
+     "Un bruit dehors – apaisé en voyant que c'étaient les chameaux"
+    ],
+    "a": "Il a vu le Guéhinam ouvert sous Essav – et s'est apaisé en entendant « il m'a pris mon droit d'aînesse »",
+    "x": "Its'hak craignait d'avoir fauté en bénissant le cadet avant l'aîné. Mais quand Essav a raconté que Yaakov lui avait acheté le droit d'aînesse, il a compris qu'il avait béni le vrai aîné, et il a dit : « <he>גַּם בָּרוּךְ יִהְיֶה</he> » <tr>(lui aussi restera béni)</tr>.",
+    "c": 0
+   },
+   {
+    "q": "Selon les Pirké de Rabbi Eliézer, Its'hak a béni Yaakov de dix bénédictions. À quoi correspondent-elles ?",
+    "opts": [
+     "Aux dix plaies et aux dix épreuves",
+     "Aux dix paroles de la Création et aux Dix Commandements",
+     "Aux dix générations d'Adam à Noa'h"
+    ],
+    "a": "Aux dix paroles de la Création et aux Dix Commandements",
+    "x": "Les dix paroles par lesquelles le monde a été créé, et les Dix Commandements par lesquels la Torah a été donnée. De la rosée du ciel jusqu'à « maudit qui te maudit, béni qui te bénit ». ✨",
+    "c": 1
+   },
+   {
+    "q": "Its'hak a dit à Yaakov « maudit qui te maudit, béni qui te bénit » – et Bilam a dit l'inverse : d'abord « béni ». Pourquoi cet ordre ?",
+    "opts": [
+     "Its'hak et Bilam parlaient des langues différentes",
+     "Justes : début difficile, fin paisible ; méchants : l'inverse",
+     "Bilam avait oublié le bon ordre"
+    ],
+    "a": "Pour les justes, le début est dur et la fin heureuse ; pour les méchants, l'inverse",
+    "x": "Chez Yaakov (le juste), les malédictions viennent d'abord et la bénédiction à la fin. Chez Bilam (le méchant) – d'abord le bien, puis le mal. Its'hak a donc commencé par « maudit » – la fin de Yaakov sera belle ! 🌅",
+    "c": 1
+   },
+   {
+    "q": "La bénédiction de Yaakov dit « <he>וְיִתֶּן לְךָ הָאֱלֹהִים</he> » <tr>(qu'Elokim te donne)</tr> – celle d'Essav ne mentionne pas Hachem. Que nous apprend le nom « Elokim » ?",
+    "opts": [
+     "La bénédiction ne vaudrait que le Chabbat",
+     "Yaakov recevrait plus d'argent qu'Essav",
+     "L'attribut de justice – seulement s'il en est digne"
+    ],
+    "a": "L'attribut de justice – Hachem donnera seulement si Yaakov en est digne",
+    "x": "« Elokim » est l'attribut de justice : quand Yaakov et ses enfants se conduiront bien, ils recevront. Et aussi : la bénédiction d'Essav commence par « la graisse de la terre » (le matériel), celle de Yaakov par « la rosée du ciel ».",
+    "c": 2
+   },
+   {
+    "q": "Il a été dit à Essav : « tu serviras ton frère, mais quand tu le voudras, tu secoueras son joug ». Quand Essav « secoue-t-il » le joug de Yaakov ?",
+    "opts": [
+     "Quand Essav devient plus riche que Yaakov",
+     "Quand Israël délaisse la Torah",
+     "Quand Essav gagne une grande guerre"
+    ],
+    "a": "Quand Israël délaisse la Torah",
+    "x": "Quand Israël étudie la Torah et accomplit les mitsvot – Essav se soumet. Quand ils la délaissent – Essav monte et Yaakov descend. Tout dépend de nous ! 📖",
+    "c": 1
+   },
+   {
+    "q": "Essav voulait tuer Yaakov – mais il avait un plan rusé où quelqu'un d'autre ferait le travail. Lequel ? 🕵️",
+    "opts": [
+     "Que Lavan tue Yaakov à 'Haran",
+     "Yichmaël tue Yaakov, puis Essav tue Yichmaël et hérite de tout",
+     "Qu'Avimélekh chasse Yaakov du pays"
+    ],
+    "a": "Que Yichmaël tue Yaakov – puis qu'Essav tue Yichmaël",
+    "x": "Essav a épousé la fille de Yichmaël pour que Yichmaël tue Yaakov. Ensuite Essav le « vengerait » en tuant Yichmaël – et hériterait de tout : d'Avraham comme d'Its'hak !",
+    "c": 1
+   },
+   {
+    "q": "Rivka a dit : « pourquoi serais-je privée de vous deux le même jour ? ». Nos Sages disent que cela s'est réalisé. Comment ? ⚰️",
+    "opts": [
+     "Enterrés le même jour – 'Houchim fils de Dan a frappé Essav",
+     "Ils sont tombés malades le même jour et ont guéri",
+     "Ils ont quitté la maison le même matin"
+    ],
+    "a": "Yaakov et Essav ont été enterrés le même jour",
+    "x": "Aux funérailles de Yaakov, Essav a bloqué l'entrée de Mearat HaMakhpéla. 'Houchim fils de Dan, qui était sourd, ne comprenait pas pourquoi on attendait – il a pris un bâton et a frappé Essav. Sa tête a roulé dans la grotte (Sota 13).",
+    "c": 0
+   },
+   {
+    "q": "Essav a appelé sa femme « <he>יְהוּדִית</he> » <tr>(Yehoudit)</tr> – alors qu'elle servait les idoles. Pourquoi ?",
+    "opts": [
+     "Pour tromper son père – qu'il la croie opposée aux idoles",
+     "Parce qu'elle était née en Judée",
+     "Parce que Rivka lui avait choisi ce nom"
+    ],
+    "a": "Pour tromper son père",
+    "x": "Pour qu'Its'hak croie qu'elle rejetait l'idolâtrie (comme une « Yehoudit »). Et sa seconde femme, « <he>בָּשְׂמַת</he> » <tr>(Basmat)</tr>, s'appelait ainsi car elle brûlait des parfums aux idoles. Ces femmes étaient une « amertume d'esprit » pour Its'hak et Rivka.",
+    "c": 0
+   },
+   {
+    "q": "🧮 Énigme de calcul : Its'hak avait 60 ans à la naissance des jumeaux, et Yaakov a reçu les bénédictions à 63 ans. Quel âge avait Its'hak cette nuit de Pessa'h ? Bonus : Sarah, sa mère, est décédée à 127 ans – combien d'années manquaient à Its'hak pour atteindre son âge, et pourquoi cela l'inquiétait-il ?",
+    "opts": [
+     "Its'hak avait 63 ans · il manquait 64 ans",
+     "Its'hak avait 123 ans · il manquait 4 ans",
+     "Its'hak avait 123 ans · il manquait 5 ans"
+    ],
+    "a": "Its'hak avait 123 ans · il manquait 4 ans",
+    "x": "60 + 63 = 123, et 127 − 123 = 4. Nos Sages disent : celui qui approche (à 5 ans près) de l'âge où ses parents sont décédés doit s'inquiéter. C'est pourquoi Its'hak a dit : « <he>לֹא יָדַעְתִּי יוֹם מוֹתִי</he> » <tr>(je ne connais pas le jour de ma mort)</tr> – et voulait bénir tout de suite. ⏳",
+    "c": 1
+   },
+   {
+    "q": "💎 Question en or : « La voix est la voix de Yaakov, et les mains sont les mains d'Essav ». Attendez… Its'hak décrivait simplement ce qu'il touchait et ce qu'il entendait. Alors pourquoi cette phrase est-elle devenue l'une des plus célèbres de la Torah – comme une leçon pour toutes les générations ?",
+    "opts": [
+     "Its'hak voulait apprendre à reconnaître les gens dans le noir",
+     "Ce jour-là, Yaakov et Essav ont échangé leurs voix",
+     "La force de Yaakov est dans la voix – Torah et prière ; celle d'Essav dans les mains"
+    ],
+    "a": "C'est la « clé » du monde : la force de Yaakov est dans la voix, celle d'Essav dans les mains",
+    "x": "Remarquez ce qui était spécial dans la voix de Yaakov : il parlait avec douceur et mentionnait le nom d'Hachem. C'est l'arme de Yaakov – la voix de la Torah et de la prière. L'arme d'Essav – les mains, l'épée : « <he>וְעַל חַרְבְּךָ תִחְיֶה</he> » <tr>(tu vivras par ton épée)</tr>. Et reliez à la bénédiction d'Essav : « tu secoueras son joug » – Essav ne domine que lorsque la voix de Yaakov faiblit. Nos Sages disent donc : tant que la voix de Yaakov résonne dans les synagogues et les maisons d'étude, les mains d'Essav ne peuvent pas dominer. Chaque enfant qui étudie la Torah à voix haute, ici même à la table de Chabbat, protège tout le peuple d'Israël ! 🛡️",
+    "c": 2
+   }
+  ]
+ }
+}

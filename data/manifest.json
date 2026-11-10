@@ -1,6 +1,18 @@
 {
  "issues": [
   {
+   "series": 6,
+   "slug": "toldot",
+   "date": "2026-11-14",
+   "he": "תולדות",
+   "fr": "Toledot",
+   "file": "data/06-toldot.json",
+   "pdf": {
+    "he": "pdf/quiz-06-toldot-he.pdf?v=202611101200",
+    "fr": "pdf/quiz-06-toldot-fr.pdf?v=202611101200"
+   }
+  },
+  {
    "series": 5,
    "slug": "chayeisarah",
    "date": "2026-11-07",
