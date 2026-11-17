@@ -1,6 +1,22 @@
 {
  "issues": [
   {
+   "series": 7,
+   "slug": "vayetze",
+   "date": "2026-11-21",
+   "he": "ויצא",
+   "fr": "Vayétsé",
+   "file": "data/07-vayetze.json",
+   "pdf": {
+    "he": "pdf/quiz-07-vayetze-he.pdf?v=202611171300",
+    "fr": "pdf/quiz-07-vayetze-fr.pdf?v=202611171300"
+   },
+   "pdf_mc": {
+    "he": "pdf/quiz-07-vayetze-he-qcm.pdf?v=202611171300",
+    "fr": "pdf/quiz-07-vayetze-fr-qcm.pdf?v=202611171300"
+   }
+  },
+  {
    "series": 6,
    "slug": "toldot",
    "date": "2026-11-14",

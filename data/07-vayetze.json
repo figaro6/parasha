@@ -1,0 +1,1198 @@
+{
+ "series": 7,
+ "slug": "vayetze",
+ "date": "2026-11-21",
+ "print_mc": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  8,
+  10,
+  13,
+  15,
+  17,
+  26,
+  35,
+  46
+ ],
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "ויצא",
+  "kicker": "חידון לשולחן השבת",
+  "title": "יעקב יוצא <em>לדרך</em>!",
+  "emoji": "🌙 ⭐ 🏃‍♂️ 👨‍👩‍👧‍👦 🐑 🌾 ⛺ 🌄 🙏 ✨",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – וכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות של הגדולים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח ראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 · 5 נקודות לכל תשובה"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "מאיזו עיר יצא יעקב בתחילת הפרשה?",
+    "opts": [
+     "מחברון",
+     "מהקוטב הצפוני 🐧",
+     "מבאר שבע"
+    ],
+    "a": "מ<he>בְּאֵר שֶׁבַע</he>",
+    "x": "\"<he>וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ חָרָנָה</he>\" – לבית לבן, אחי אמו רבקה.",
+    "c": 2
+   },
+   {
+    "q": "כשיעקב התעורר מהחלום – מה הוא אמר?",
+    "opts": [
+     "\"מה נורא המקום הזה!\"",
+     "\"איזה חלום מצחיק!\" 😂",
+     "\"מי לקח לי את השמיכה?\" 🛏️"
+    ],
+    "a": "\"<he>מַה נּוֹרָא הַמָּקוֹם הַזֶּה</he>\"",
+    "x": "\"<he>אֵין זֶה כִּי אִם בֵּית אֱלֹהִים וְזֶה שַׁעַר הַשָּׁמָיִם</he>\" – יעקב הבין שזה מקום קדוש. 🙏",
+    "c": 0
+   },
+   {
+    "q": "בחלום של יעקב, המלאכים עלו וירדו. על מה?",
+    "opts": [
+     "על סולם",
+     "על מגלשה ענקית 🛝",
+     "על מדרגות נעות 🛗"
+    ],
+    "a": "על סולם 🪜",
+    "x": "\"<he>וְהִנֵּה סֻלָּם מֻצָּב אַרְצָה וְרֹאשׁוֹ מַגִּיעַ הַשָּׁמָיְמָה</he>\" – הרגליים שלו בבאר שבע, והראש מגיע לשמיים.",
+    "c": 0
+   },
+   {
+    "q": "כשיעקב סיפר לרחל שהוא קרוב משפחה – מה היא עשתה?",
+    "opts": [
+     "ברחה מפחד 😱",
+     "רצה מיד לספר לאבא שלה",
+     "הביאה לו עוגה 🍰"
+    ],
+    "a": "רצה מיד לספר לאבא שלה",
+    "x": "אמא שלה כבר לא הייתה בחיים – ולכן סיפרה לאביה, לבן.",
+    "c": 1
+   },
+   {
+    "q": "מה עשה יעקב עם האבן הכבדה שהייתה על פי הבאר? 🪨",
+    "opts": [
+     "חיכה שכל הרועים יבואו לעזור",
+     "ביקש מגמל לדחוף אותה 🐪",
+     "גלל אותה לבד, בקלות"
+    ],
+    "a": "גלל אותה לבד – בקלות!",
+    "x": "כל הרועים חיכו כדי להזיז אותה ביחד – ויעקב גלל אותה לבד, כמו שמוציאים פקק מבקבוק. 💪",
+    "c": 2
+   },
+   {
+    "q": "כמה שנים עבד יעקב אצל לבן בשביל רחל – בפעם הראשונה?",
+    "opts": [
+     "3",
+     "40",
+     "7"
+    ],
+    "a": "7 שנים",
+    "x": "\"<he>וַיִּהְיוּ בְעֵינָיו כְּיָמִים אֲחָדִים בְּאַהֲבָתוֹ אֹתָהּ</he>\" – מרוב אהבה הן נראו לו כמו כמה ימים.",
+    "c": 2
+   },
+   {
+    "q": "חידה – מי אני? 👰 אני הבת הגדולה של לבן. יעקב התחתן איתי – וגילה את זה רק בבוקר!",
+    "opts": [
+     "בלהה",
+     "לאה",
+     "זלפה"
+    ],
+    "a": "<he>לֵאָה</he>",
+    "x": "לבן הרמאי הביא את לאה במקום רחל, בחושך – ויעקב גילה רק כשהאיר היום.",
+    "c": 1
+   },
+   {
+    "q": "איך קראה לאה לבן הרביעי שלה, כשאמרה \"<he>הַפַּעַם אוֹדֶה אֶת ה'</he>\"?",
+    "opts": [
+     "ראובן",
+     "בנימין",
+     "יהודה"
+    ],
+    "a": "<he>יְהוּדָה</he>",
+    "x": "ממנו יצאו מלכים – כמו דוד המלך, שהלל ושיבח את ה' תמיד. 👑",
+    "c": 2
+   },
+   {
+    "q": "חידה – מי אני? 🦌 רצתי מהר כמו איילה, ויעקב שלח אותי לקרוא לרחל וללאה לבוא לשדה.",
+    "opts": [
+     "דן",
+     "נפתלי",
+     "אשר"
+    ],
+    "a": "<he>נַפְתָּלִי</he>",
+    "x": "\"<he>נַפְתָּלִי אַיָּלָה שְׁלֻחָה</he>\" – לכן יעקב בחר דווקא בו להיות השליח.",
+    "c": 1
+   },
+   {
+    "q": "איפה הסתירה רחל את התרפים של לבן? 🐪",
+    "opts": [
+     "בתוך סיר העדשים 🍲",
+     "בתוך הבאר",
+     "מתחת לכר הגמל, וישבה עליהם"
+    ],
+    "a": "מתחת לכר הגמל – וישבה עליהם",
+    "x": "היא התנצלה שאינה יכולה לקום לכבוד אביה – וכך לבן חיפש בכל האוהלים ולא מצא.",
+    "c": 2
+   },
+   {
+    "q": "עשו שלח את בנו <he>אֱלִיפַז</he> להרוג את יעקב. איך זה נגמר?",
+    "opts": [
+     "יעקב ברח בקפיצת הדרך",
+     "אליפז נבהל מאריה ששמר על יעקב 🦁",
+     "אליפז לקח לו את כל הרכוש ונתן לו ללכת"
+    ],
+    "a": "אליפז לקח ליעקב את כל הרכוש – והשאיר אותו חי",
+    "x": "יעקב אמר לו: \"<he>עָנִי חָשׁוּב כְּמֵת</he>\" – כך תקיים את ציווי אביך. ויעקב נשאר בלי כלום, אפילו בלי בגד.",
+    "c": 2
+   },
+   {
+    "q": "לפני שהמשיך בדרכו, כמה שנים למד יעקב בישיבת שם ועבר?",
+    "opts": [
+     "7 שנים",
+     "14 שנה",
+     "20 שנה"
+    ],
+    "a": "14 שנה",
+    "x": "יומם ולילה – הוא אפילו לא שכב לישון בלילה, רק נמנם קצת על הכיסא וחזר ללמוד. 📚",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַיָּלֶן שָׁם כִּי בָא הַשֶּׁמֶשׁ</he>\" – איזו תפילה תיקן יעקב?",
+    "opts": [
+     "ערבית",
+     "שחרית",
+     "מוסף"
+    ],
+    "a": "תפילת ערבית 🌙",
+    "x": "השמש שקעה, יעקב עמד והתפלל – ומכאן למדו חז\"ל שיעקב תיקן את תפילת ערבית.",
+    "c": 0
+   },
+   {
+    "q": "האבנים רבו ביניהן: \"עליי יניח הצדיק את ראשו!\" מה עשה ה'?",
+    "opts": [
+     "כל האבנים התאחדו לאבן אחת",
+     "ה' נתן לכל אבן תור של לילה",
+     "האבנים נהיו כרית רכה 🛏️"
+    ],
+    "a": "כל האבנים התאחדו – לאבן אחת",
+    "x": "בהתחלה כתוב \"<he>מֵאַבְנֵי הַמָּקוֹם</he>\" (הרבה אבנים), ואחר כך \"<he>אֶת הָאֶבֶן</he>\" – אבן אחת. 🪨",
+    "c": 0
+   },
+   {
+    "q": "יעקב קרא למקום \"<he>בֵּית אֵ-ל</he>\". מה היה השם הקודם שלו?",
+    "opts": [
+     "חרן",
+     "שכם",
+     "לוז"
+    ],
+    "a": "<he>לוּז</he>",
+    "x": "שם יעקב שם את האבן למצבה ויצק עליה שמן.",
+    "c": 2
+   },
+   {
+    "q": "יעקב פגש נערה ליד הבאר – ופרץ בבכי. למה?",
+    "opts": [
+     "כי היה עייף מאוד מהדרך",
+     "ראה שרחל לא תיקבר איתו במערת המכפלה",
+     "כי האבן על הבאר נפלה לו על הרגל 🦶"
+    ],
+    "a": "ראה ברוח הקודש שהיא לא תיקבר איתו במערת המכפלה",
+    "x": "וגם כי לא היו לו מתנות לתת לה – אליפז לקח לו הכול. 😢",
+    "c": 1
+   },
+   {
+    "q": "כשלבן חיבק ונישק את יעקב – מה הוא בעצם חיפש? 💰",
+    "opts": [
+     "זהב בבגדים ואבנים טובות בפה",
+     "לבדוק אם יעקב חולה 🤒",
+     "לראות אם יעקב התגלח 🪒"
+    ],
+    "a": "מטבעות זהב בבגדים – ואבנים טובות בפה!",
+    "x": "לבן אהב כסף מאוד. כשלא מצא כלום – הבין שאליפז לקח ליעקב את הכול.",
+    "c": 0
+   },
+   {
+    "q": "למה העיניים של לאה היו רכות?",
+    "opts": [
+     "ישבה יותר מדי מול השמש בשדה",
+     "בכתה והתפללה שלא תינשא לעשו",
+     "קראה בלילה בלי נר 🕯️"
+    ],
+    "a": "בכתה הרבה בתפילה שלא תינשא לעשו",
+    "x": "כולם אמרו: הגדולה (לאה) לגדול (עשו), והקטנה (רחל) לקטן (יעקב). ובזכות התפילה – הגזירה התבטלה! 🙏",
+    "c": 1
+   },
+   {
+    "q": "איך קראה רחל לבן הראשון שלה – ומה ביקשה בשם הזה?",
+    "opts": [
+     "יוסף – שה' יוסיף לה בן נוסף",
+     "בנימין – בן הימין שלה",
+     "ראובן – כי ה' ראה בעניה"
+    ],
+    "a": "<he>יוֹסֵף</he> – \"<he>יֹסֵף ה' לִי בֵּן אַחֵר</he>\"",
+    "x": "רחל ידעה בנבואה שליעקב יהיו 12 שבטים, והתפללה שגם הבן האחרון ייצא ממנה.",
+    "c": 0
+   },
+   {
+    "q": "ראובן מצא דודאים בשדה. מה עשה איתם – ומה זה מלמד עליו? 🌸",
+    "opts": [
+     "הביא אותם מיד לאמו, בלי להריח קודם",
+     "שתל אותם בגינה של לבן",
+     "הכין מהם תה ליעקב ☕"
+    ],
+    "a": "הביא אותם מיד לאמא שלו – אפילו לא הריח אותם קודם",
+    "x": "מכאן לומדים כמה ראובן כיבד את אמו. ושימו לב: הוא לא לקח משדות של אחרים – רק דודאים של הפקר.",
+    "c": 0
+   },
+   {
+    "q": "\"<he>וַיִּפְגַּע בַּמָּקוֹם</he>\" – יעקב חזר להתפלל בהר המוריה. איזה נס קרה לו באמצע הדרך?",
+    "opts": [
+     "מלאך נשא אותו בכנפיו להר המוריה",
+     "השמש עמדה במקומה עד שהגיע",
+     "הר המוריה קפץ עד אליו"
+    ],
+    "a": "הר המוריה נעקר ממקומו – וקפץ עד אליו!",
+    "x": "יעקב ראה את הר המוריה לפניו, עמד והתפלל שם תפילת מנחה. ⛰️",
+    "c": 2
+   },
+   {
+    "q": "אחרי התפילה יעקב רצה להמשיך בדרך. למה ה' השקיע את השמש לפני הזמן?",
+    "opts": [
+     "כדי שעשו לא יראה אותו בחושך",
+     "כדי שיישאר ללון בהר המוריה",
+     "כי יעקב היה עייף מאוד מהדרך"
+    ],
+    "a": "כדי שיעקב יישאר ללון במקום הקדוש – בהר המוריה",
+    "x": "ובמדרש: המלאכים אמרו \"<he>בָּא הַשֶּׁמֶשׁ</he>\" – יעקב הוא ה\"שמש\" שמאיר לעולם, והוא בא ללון כאן. ☀️",
+    "c": 1
+   },
+   {
+    "q": "\"<he>מַלְאֲכֵי אֱלֹהִים עֹלִים וְיֹרְדִים בּוֹ</he>\" – אילו מלאכים עלו, ואילו ירדו?",
+    "opts": [
+     "מלאכי חוץ לארץ עלו, ומלאכי ארץ ישראל ירדו",
+     "מלאכי השלום עלו, ומלאכי המלחמה ירדו",
+     "מלאכי ארץ ישראל עלו, ומלאכי חוץ לארץ ירדו"
+    ],
+    "a": "מלאכי ארץ ישראל עלו – ומלאכי חוץ לארץ ירדו",
+    "x": "מלאכי ארץ ישראל ליוו את יעקב עד עכשיו, ובמקומם ירדו מלאכים שילוו אותו בחוץ לארץ. 👼",
+    "c": 2
+   },
+   {
+    "q": "יעקב ורחל קבעו סימנים, שלא יחליפו לו את הכלה. מה היו הסימנים – ומה עשתה איתם רחל?",
+    "opts": [
+     "שלוש מילים בסוד – ורחל שכחה אותן",
+     "שלוש מצוות הנשים – ורחל מסרה אותן ללאה",
+     "שלושה שירים – ורחל לימדה אותם לזלפה"
+    ],
+    "a": "שלוש מצוות הנשים – ורחל מסרה אותן ללאה",
+    "x": "חלה, טהרה והדלקת הנר. רחל לא רצתה שאחותה תתבייש כשיעקב ישאל אותה – ולכן גילתה לה אותם. 💛",
+    "c": 1
+   },
+   {
+    "q": "בחתונה, אנשי חרן שרו ליעקב שיר מהיר: \"היא לאה... היא לאה...\". למה? 🎶",
+    "opts": [
+     "כי זה היה השיר המסורתי של חרן",
+     "כדי שלבן יוכל לטעון למחרת: \"אמרנו לך!\"",
+     "כדי לברך את לאה שתתחתן בקרוב"
+    ],
+    "a": "כדי שלמחרת לבן יגיד: \"הרי אמרנו לך!\"",
+    "x": "יעקב חשב שזה סתם לחן של השיר. וגם לא הדליקו נרות – \"מנהג המקום\", בשביל הצניעות כמובן... 🙄",
+    "c": 1
+   },
+   {
+    "q": "איזו שפחה נתן לבן ללאה – ולמה דווקא אותה?",
+    "opts": [
+     "זלפה הצעירה – שיעקב יחשוב שזו רחל",
+     "בלהה המבוגרת – כי לאה הגדולה",
+     "זלפה – כי היא הכי חזקה בעבודה"
+    ],
+    "a": "את זלפה הצעירה – כדי שיעקב יחשוב שזו רחל",
+    "x": "המנהג היה לתת את השפחה הצעירה לבת הצעירה. כך לבן המשיך להטעות את יעקב.",
+    "c": 0
+   },
+   {
+    "q": "למה שלח לבן דווקא את רחל לרעות את הצאן – ולא את הבנים שלו?",
+    "opts": [
+     "הבנים שלו היו עסוקים בעבודה זרה",
+     "רחל ביקשה לרעות כי אהבה כבשים",
+     "לא היו לו בנים עד שיעקב הגיע"
+    ],
+    "a": "כי עד שיעקב הגיע – לא היו ללבן בנים בכלל",
+    "x": "רק בזכות יעקב נולדו לו בנים. ולאה? העיניים שלה היו רכות, והרוח הקשתה עליה.",
+    "c": 2
+   },
+   {
+    "q": "יעקב אמר: \"<he>בְּרָחֵל בִּתְּךָ הַקְּטַנָּה</he>\" – למה הוסיף כל כך הרבה פרטים?",
+    "opts": [
+     "כי בחרן היו שלוש בנות בשם רחל",
+     "כי כך כותבים חוזה בשפה הארמית",
+     "כדי שלבן הרמאי לא ימצא שום פרצה"
+    ],
+    "a": "כדי לסגור ללבן הרמאי כל פרצה",
+    "x": "\"ברחל\" – לא נערה אחרת מהשוק בשם רחל; \"בתך\" – שלא תחליף את שם לאה לרחל; \"הקטנה\" – הבת הצעירה. 🔒",
+    "c": 2
+   },
+   {
+    "q": "בבוקר שאל יעקב את לאה: \"למה רימית אותי?\" מה היא ענתה?",
+    "opts": [
+     "\"למדתי ממך – כמו שהטעית את אביך במצוות אמך\"",
+     "\"לא ידעתי שזו רמאות\"",
+     "\"רחל ביקשה ממני לעשות את זה\""
+    ],
+    "a": "\"למדתי ממך!\"",
+    "x": "\"כמו שאתה הטעית את אביך – שחשב שאתה עשו – במצוות אמך, כך אני הטעיתי אותך במצוות אבי.\"",
+    "c": 0
+   },
+   {
+    "q": "מי קרא בשם ל<he>לֵוִי</he> – לפי המדרש שמביא רש\"י?",
+    "opts": [
+     "לאה, כמו שאר הבנים",
+     "רחל, כמתנה לאחותה",
+     "ה', דרך המלאך גבריאל"
+    ],
+    "a": "ה' – דרך המלאך גבריאל",
+    "x": "גבריאל הביא את התינוק לפני ה', וה' קרא לו לוי ונתן לו 24 מתנות כהונה – שה\"ליוו\" אותו. 🎁",
+    "c": 2
+   },
+   {
+    "q": "רחל ביקשה: \"התפלל עליי, כמו שאביך יצחק התפלל על רבקה\". יעקב ענה שהמקרה שונה. מה היה הטיעון שלו?",
+    "opts": [
+     "יצחק התפלל בהר המוריה, ואנחנו בחוץ לארץ",
+     "יצחק התפלל עשרים שנה, ועוד לא עבר מספיק זמן",
+     "לי כבר יש בנים – אז תפילתך, מעומק הלב, קרובה יותר להתקבל"
+    ],
+    "a": "ה' מנע ממך – לא ממני; ולכן התפילה שלך תצא מעומק הלב יותר",
+    "x": "ליצחק לא היו ילדים כלל, אז התפלל גם על עצמו. וכמו שאמרו חז\"ל: תפילת החולה על עצמו יפה מתפילת אחרים עליו – ומתקבלת ראשונה.",
+    "c": 2
+   },
+   {
+    "q": "לאה התפללה שהתינוק השביעי שלה יהיה בת – ובאמת הבן הפך לבת. מה היה החשבון שלה? 🧮",
+    "opts": [
+     "שליעקב יהיו בדיוק 6 בנים מכל אישה",
+     "שרחל לא תקבל פחות שבטים מהשפחות",
+     "שיהיה מי שיעזור לה לרעות את הצאן"
+    ],
+    "a": "שרחל לא תקבל פחות שבטים מהשפחות",
+    "x": "12 שבטים: ללאה כבר 6, ובלהה וזלפה ילדו 2 כל אחת – כבר 10. אם לאה תלד עוד בן, לרחל יישאר רק בן אחד – פחות אפילו מחלקן של השפחות. ולכן קראה לבת <he>דִּינָה</he> – על שם הדין שעשתה עם עצמה.",
+    "c": 1
+   },
+   {
+    "q": "בשם \"<he>יִשָּׂשכָר</he>\" כתובה האות ש' פעמיים (אבל קוראים רק אחת). למה, לפי הרשב\"ם?",
+    "opts": [
+     "כי יששכר ילמד תורה כפליים משאר השבטים",
+     "כנגד שני שכרים: על השפחה ועל הדודאים",
+     "כי נולד בשעה שתי שעות אחרי זבולון"
+    ],
+    "a": "כנגד שני סוגי שכר",
+    "x": "שכר על שנתנה לאה את שפחתה ליעקב, ושכר הדודאים. 🌸",
+    "c": 1
+   },
+   {
+    "q": "רחל נתנה ליעקב את בלהה שפחתה, כדי שגם היא תזכה לבנים. לפי הכלי יקר – איך זה היה אמור לעזור לה?",
+    "opts": [
+     "כדי שבלהה תתפלל עליה בכל יום",
+     "כי כשהשפחה יולדת – הגבירה נפקדת מיד",
+     "תשובה על הקנאה – עכשיו לא תקנא אפילו בשפחתה"
+    ],
+    "a": "תשובה על קנאה – והיא הלכה לקצה השני",
+    "x": "רחל בדקה את עצמה ולא מצאה שום עוון – חוץ מהקנאה באחותה. אז החליטה לתקן: מי שהתחילה בקנאה באחותה – עכשיו לא תקנא אפילו בשפחתה! 💜",
+    "c": 2
+   },
+   {
+    "q": "יעקב לקח מקלות משלושה סוגי עצים. לפי המדרש, המקל של עץ ה<he>עַרְמוֹן</he> רומז ל...",
+    "opts": [
+     "לאבן הלבנה שתחת ראשו",
+     "לערמומיות של לבן",
+     "לבאר שליד חרן"
+    ],
+    "a": "לערמומיות של לבן הארמי",
+    "x": "שהחליף את משכורתו. ו\"לבנה\" – על שם האבן הלבנה שתחת ראשו; \"לוז\" – על שם העיר לוז, שם נגלתה אליו השכינה.",
+    "c": 1
+   },
+   {
+    "q": "יעקב ביקש מלבן להוציא מיד מהעדר את העיזים הנקודות והטלואות ולתת אותן לבניו. מה עוד רצה שלבן יראה בעיניו?",
+    "opts": [
+     "שהוא לא מתכוון לקחת שום דבר מלבן",
+     "שהנקודות שייוולדו הן מברכת ה', לא מהטבע",
+     "שהבנים של לבן רועים טוב יותר ממנו"
+    ],
+    "a": "שהעיזים הנקודות שייוולדו – הן מברכת ה', לא מהטבע",
+    "x": "כשכל העיזים הגדולות אינן נקודות – ובכל זאת נולדות נקודות, זה בולט שזו ברכת ה'. וגם: כך יהיה קל להבחין מה שייך לו ומה ללבן.",
+    "c": 1
+   },
+   {
+    "q": "למה שם יעקב את המקלות רק בחודש ניסן – ולא בתשרי?",
+    "opts": [
+     "כדי שלבן לא יטען שכל הצאן נולד נקוד",
+     "כי בתשרי לא היו מים בשוקת",
+     "כי בתשרי יעקב היה עסוק בחגים"
+    ],
+    "a": "כדי שגם ללבן יישאר משהו – ולא תהיה לו טענה",
+    "x": "בניסן נולדים הזריזים והחזקים – אז שם את המקלות; בתשרי נולדים העצלים והחלשים – ואותם השאיר ללבן, לפי ההסכם. ⚖️",
+    "c": 0
+   },
+   {
+    "q": "לבן הוציא מהעדר גם את הצאן הבריא והחזק, והשאיר ליעקב רק חלשות וחולות. איזה תירוץ מצא? 🔍",
+    "opts": [
+     "מצא בהן כמה שערות לבנות – \"כל אשר לבן בו\"",
+     "טען שהבריאות צריכות מרעה טוב יותר אצל בניו",
+     "אמר שיעקב ביקש זאת בעצמו"
+    ],
+    "a": "חיפש בהן כמה שערות לבנות – וטען שהן בכלל \"<he>כֹּל אֲשֶׁר לָבָן בּוֹ</he>\"",
+    "x": "כך לבן \"עמד\" כביכול בתנאי – אבל בעצם הקטין כמעט לאפס את הסיכוי שליעקב ייוולדו נקודות (גור אריה). \"<he>וְיַעֲקֹב רֹעֶה אֶת צֹאן לָבָן הַנּוֹתָרֹת</he>\".",
+    "c": 0
+   },
+   {
+    "q": "לפי תרגום יונתן, איך גילו רועי חרן – עוד לפני שמישהו סיפר – שיעקב ברח?",
+    "opts": [
+     "הצאן של לבן התחיל לחלות",
+     "הגמלים של יעקב לא היו באורווה",
+     "המים בבאר נעלמו"
+    ],
+    "a": "המים בבאר נעלמו",
+    "x": "\"<he>וְהִנֵּה אֵין מַיִם בַּבְּאֵר</he>\" – הם נזכרו שכל השפע היה בזכות הצדיק, והבינו שיעקב יצא מחרן. 💧",
+    "c": 2
+   },
+   {
+    "q": "ה' נגלה ללבן הרשע: \"<he>הִשָּׁמֶר לְךָ פֶּן תְּדַבֵּר עִם יַעֲקֹב מִטּוֹב עַד רָע</he>\". למה דווקא בלילה – ולמה בכלל ה' נגלה לרשע?",
+    "opts": [
+     "ה' נגלה לרשעים רק בלילה – לכבודו של יעקב",
+     "כדי שלבן יחשוב שזה רק חלום",
+     "כי בלילה לבן לא היה עסוק בצאן"
+    ],
+    "a": "ה' נגלה לרשעים רק בלילה – וההתגלות הזאת הייתה לכבודו של יעקב",
+    "x": "ה' אינו מתגלה לרשעים – רק בשביל כבוד הצדיק. והאזהרה: לא לפגוע ביעקב, ולא לשכנע אותו לחזור – לא בהבטחות ולא באיומים.",
+    "c": 0
+   },
+   {
+    "q": "יעקב יצא מבית יצחק כבר לפני הרבה שנים. למה רק עכשיו שלח עשו את אליפז להרוג אותו?",
+    "opts": [
+     "לא רצה לצער את יצחק – חיכה שיעקב יתרחק",
+     "רק עכשיו שמע שיעקב היה בישיבת שם ועבר",
+     "חיכה שאליפז יגדל ויהיה לוחם"
+    ],
+    "a": "כי לא רצה לצער את יצחק – וחיכה שיעקב יתרחק",
+    "x": "כל עוד יעקב היה קרוב ליצחק, עשו לא רצה שאביו יצטער. כששמע שיעקב יוצא מהאזור ומתרחק – שלח מיד את אליפז.",
+    "c": 0
+   },
+   {
+    "q": "לפי ילקוט ראובני, למה אליפז לא הרג את יעקב?",
+    "opts": [
+     "מלאך עצר את ידו ברגע האחרון",
+     "עשו שלח שליח לבטל את הציווי",
+     "גזירת הגלות מברית בין הבתרים הייתה עוברת אליו"
+    ],
+    "a": "כי גזירת הגלות מברית בין הבתרים הייתה עוברת אליו ואל זרעו",
+    "x": "הגלות נגזרה על זרעו של אברהם – ואילו היה הורג את יעקב, היא הייתה נופלת על אליפז ועל צאצאיו. (ויש עוד טעם: אליפז גדל אצל יצחק ולמד מדרכיו.)",
+    "c": 2
+   },
+   {
+    "q": "לפי אחד הפירושים במדרש רבה, \"<he>הַבְּאֵר בַּשָּׂדֶה</he>\" היא בית הכנסת. אז מה היא \"<he>הָאֶבֶן הַגְּדֹלָה</he>\" שעל פי הבאר – ומתי גוללים אותה?",
+    "opts": [
+     "היצר הרע – נגלל כששומעים תורה",
+     "העוני – נגלל כשנותנים צדקה",
+     "לבן – נגלל כשיעקב ברח מחרן"
+    ],
+    "a": "היצר הרע – גוללים אותו כששומעים תורה",
+    "x": "\"<he>וְגָלְלוּ אֶת הָאֶבֶן</he>\" – כששומעים את קריאת התורה, היצר הרע זז הצידה. \"<he>וְהֵשִׁיבוּ אֶת הָאֶבֶן</he>\" – כשיוצאים, הוא חוזר למקומו... לכן כדאי לחזור לשמוע תורה שוב ושוב! 📖",
+    "c": 0
+   },
+   {
+    "q": "\"מיום שברא הקב\"ה את עולמו, לא היה אדם שהודה לקב\"ה – עד שבאה לאה\" (ברכות ז). אבל נח ואברהם ודאי הודו לה'! מה בכל זאת היה חדש אצל לאה?",
+    "opts": [
+     "הודתה על שקיבלה יותר מחלקה",
+     "הייתה הראשונה שהודתה בקול רם לפני כולם",
+     "הייתה האישה הראשונה שהתפללה"
+    ],
+    "a": "היא הודתה על שקיבלה יותר מחלקה",
+    "x": "לאה ידעה שלכל אחת מארבע הנשים מגיעים 3 שבטים. על הבן הרביעי – מעבר לחלקה – אמרה: \"<he>הַפַּעַם אוֹדֶה אֶת ה'</he>\". הודאה על מתנה שלא \"מגיעה\" לי. 🙏",
+    "c": 0
+   },
+   {
+    "q": "בדרך לחרן ה' עשה ליעקב קפיצת הדרך. למה בבריחה מלבן לא עשה לו נס כזה – ונתן ללבן להשיג אותו? (אור החיים)",
+    "opts": [
+     "כי קפיצת הדרך פועלת רק בארץ ישראל",
+     "נס גדול יותר: לבן משיג אותו ואינו יכול להזיק",
+     "כי יעקב לא התפלל עליה הפעם"
+    ],
+    "a": "כדי לעשות נס גדול יותר: לבן משיג אותו – ובכל זאת אינו יכול להזיק",
+    "x": "לבן הגיע עד אליו, עם קרוביו – ולא יכול היה לעשות לו כלום, בגלל ציווי ה'. 🛡️",
+    "c": 1
+   },
+   {
+    "q": "\"<he>וַתַּחֲלֵף אֶת מַשְׂכֻּרְתִּי עֲשֶׂרֶת מֹנִים</he>\" – כמה פעמים החליף לבן את המשכורת של יעקב?",
+    "opts": [
+     "10",
+     "100",
+     "7"
+    ],
+    "a": "100 פעמים!",
+    "x": "\"עשרת מונים\" – עשר פעמים עשרה. ולכן יעקב הניח בכל פעם מקלות לפי ההסכם החדש – פעם נקודים, פעם עקודים... 🔄",
+    "c": 1
+   },
+   {
+    "q": "בנדר אמר יעקב: \"<he>וְשַׁבְתִּי בְשָׁלוֹם אֶל בֵּית אָבִי</he>\". מה פירוש \"בשלום\" כאן?",
+    "opts": [
+     "בלי חטא – שלא ילמד מדרכי לבן",
+     "בלי שעשו יתקוף אותו בדרך",
+     "עם כל הרכוש שירוויח בחרן"
+    ],
+    "a": "בלי חטא – שלא ילמד מדרכי לבן",
+    "x": "השלום החשוב ביותר: לחזור אותו יעקב שיצא, גם אחרי 20 שנה ליד הרמאי הגדול. ✨",
+    "c": 0
+   },
+   {
+    "q": "יעקב קרא לרחל וללאה לשדה, וסיפר להן הכול בפירוט – גם על המקלות וגם על החלום. למה טרח כל כך? (שכל טוב)",
+    "opts": [
+     "שלא יחשדו בו – אדם צריך להיות נקי גם בעיני בני ביתו",
+     "כדי לשכנע אותן לגנוב את התרפים",
+     "כי בשדה היה קל יותר לספור את הצאן"
+    ],
+    "a": "כדי שלא יחשדו בו כגנב – אדם צריך להיות נקי גם בעיני בני ביתו",
+    "x": "גם כשאוהבים אותו – אסור שיהיה לו אפילו ספק של חשד. ולמה בשדה? כי במקום פתוח אף אחד לא יכול להסתתר ולשמוע. 🌾",
+    "c": 0
+   },
+   {
+    "q": "🧮 חידת חשבון: השליח מבית לבן הלך 3 ימים עד שהגיע ללבן. בינתיים יעקב התקדם עוד 3 ימים. אחר כך לבן יצא לרדוף, ויעקב הספיק ללכת עוד יום אחד – ולבן השיג אותו אחרי יום אחד בלבד! כמה ימי הליכה עבר לבן ביום אחד?",
+    "opts": [
+     "6",
+     "7",
+     "4"
+    ],
+    "a": "7 ימי הליכה – ביום אחד! 🏃‍♂️",
+    "x": "3 (מהצאן לבית) + 3 (מה שיעקב התקדם בינתיים) + 1 (מה שהתקדם בזמן המרדף) = 7. דרך של שבוע – ביום אחד!",
+    "c": 1
+   },
+   {
+    "q": "💎 שאלת הזהב: יעקב עוזב את הבית של אבא ואמא – לבד, בלילה, בורח מאחיו, בדרך לשנים ארוכות אצל דוד רמאי. ובדיוק בלילה הזה ה' שולח לו את החלום המפורסם. רגע... למה יעקב היה צריך לראות דווקא את החלום הזה – ודווקא עכשיו?",
+    "opts": [
+     "כדי שיידע מראש כמה שנים יישאר בחרן",
+     "כדי שיידע שה' שומר עליו בכל מקום שילך",
+     "כדי ללמד אותו את הדרך הקצרה לחרן"
+    ],
+    "a": "כדי שיידע שהוא אף פעם לא לבד – השומרים מתחלפים, אבל השמירה לא נפסקת",
+    "x": "בחלום, מלאכי ארץ ישראל שליוו אותו עולים – ובמקומם יורדים מלאכים שילוו אותו בחוץ לארץ. מה הכי מפחיד כשעוזבים את הבית? להרגיש שאין מי שישמור. אז ה' מראה לו: גם כשהמלאכים \"שלך\" עולים – אחרים כבר יורדים להחליף אותם, ואני עומד מעל הכול: \"<he>וְהִנֵּה אָנֹכִי עִמָּךְ וּשְׁמַרְתִּיךָ בְּכָל אֲשֶׁר תֵּלֵךְ</he>\". ועכשיו שימו לב לסוף הפרשה: \"<he>וְיַעֲקֹב הָלַךְ לְדַרְכּוֹ וַיִּפְגְּעוּ בוֹ מַלְאֲכֵי אֱלֹהִים</he>\" – מלאכי ארץ ישראל יוצאים לקראתו, ויעקב קורא למקום \"<he>מַחֲנָיִם</he>\" – שני מחנות! הפרשה מתחילה במלאכים ונגמרת במלאכים – מעגל שלם של שמירה. וגם אנחנו: בבית, בבית הספר, בטיול – יש מי ששומר עלינו כל הזמן. 💙",
+    "c": 1
+   }
+  ]
+ },
+ "fr": {
+  "parasha": "Vayétsé",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "Yaakov prend la <em>route</em> !",
+  "emoji": "🌙 ⭐ 🏃‍♂️ 👨‍👩‍👧‍👦 🐑 🌾 ⛺ 🌄 🙏 ✨",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans · 5 points par réponse"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "De quelle ville Yaakov est-il parti au début de la paracha ?",
+    "opts": [
+     "De 'Hévron",
+     "Du pôle Nord 🐧",
+     "De Béer Chéva"
+    ],
+    "a": "De Béer Chéva",
+    "x": "« <he>וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ חָרָנָה</he> » – vers la maison de Lavan, le frère de sa mère Rivka.",
+    "c": 2
+   },
+   {
+    "q": "Quand Yaakov s'est réveillé de son rêve – qu'a-t-il dit ?",
+    "opts": [
+     "« Que ce lieu est redoutable ! »",
+     "« Quel rêve rigolo ! » 😂",
+     "« Qui m'a pris ma couverture ? » 🛏️"
+    ],
+    "a": "« Que ce lieu est redoutable ! »",
+    "x": "« <he>מַה נּוֹרָא הַמָּקוֹם הַזֶּה, אֵין זֶה כִּי אִם בֵּית אֱלֹהִים</he> » – Yaakov a compris que c'était un endroit saint. 🙏",
+    "c": 0
+   },
+   {
+    "q": "Dans le rêve de Yaakov, les anges montaient et descendaient. Sur quoi ?",
+    "opts": [
+     "Sur une échelle",
+     "Sur un toboggan géant 🛝",
+     "Sur un escalator 🛗"
+    ],
+    "a": "Sur une échelle 🪜",
+    "x": "« <he>וְהִנֵּה סֻלָּם מֻצָּב אַרְצָה וְרֹאשׁוֹ מַגִּיעַ הַשָּׁמָיְמָה</he> » <tr>– « une échelle posée à terre, dont le sommet atteint le ciel »</tr>. Ses pieds étaient à Béer Chéva !",
+    "c": 0
+   },
+   {
+    "q": "Quand Yaakov a dit à Ra'hel qu'il était de sa famille – qu'a-t-elle fait ?",
+    "opts": [
+     "Elle s'est enfuie de peur 😱",
+     "Elle a couru le dire à son père",
+     "Elle lui a apporté un gâteau 🍰"
+    ],
+    "a": "Elle a couru tout de suite le dire à son père",
+    "x": "Sa mère n'était plus en vie – c'est pourquoi elle l'a dit à son père, Lavan.",
+    "c": 1
+   },
+   {
+    "q": "Qu'a fait Yaakov avec la lourde pierre qui fermait le puits ? 🪨",
+    "opts": [
+     "Il a attendu que tous les bergers l'aident",
+     "Il a demandé à un chameau de la pousser 🐪",
+     "Il l'a roulée seul, facilement"
+    ],
+    "a": "Il l'a roulée tout seul – facilement !",
+    "x": "Tous les bergers attendaient de pouvoir la déplacer ensemble – Yaakov l'a roulée seul, comme on retire un bouchon d'une bouteille. 💪",
+    "c": 2
+   },
+   {
+    "q": "Combien d'années Yaakov a-t-il travaillé chez Lavan pour Ra'hel – la première fois ?",
+    "opts": [
+     "3 ans",
+     "40 ans",
+     "7 ans"
+    ],
+    "a": "7 ans",
+    "x": "« <he>וַיִּהְיוּ בְעֵינָיו כְּיָמִים אֲחָדִים בְּאַהֲבָתוֹ אֹתָהּ</he> » <tr>– « elles furent à ses yeux comme quelques jours, tant il l'aimait »</tr>.",
+    "c": 2
+   },
+   {
+    "q": "Devinette – qui suis-je ? 👰 Je suis la fille aînée de Lavan. Yaakov m'a épousée – et ne l'a découvert que le matin !",
+    "opts": [
+     "Bilha",
+     "Léa",
+     "Zilpa"
+    ],
+    "a": "Léa (<he>לֵאָה</he>)",
+    "x": "Lavan le tricheur a amené Léa à la place de Ra'hel, dans le noir – et Yaakov ne l'a découvert qu'au lever du jour.",
+    "c": 1
+   },
+   {
+    "q": "Comment Léa a-t-elle appelé son 4ᵉ fils, en disant « cette fois, je remercie Hachem » ?",
+    "opts": [
+     "Réouven",
+     "Binyamin",
+     "Yehouda"
+    ],
+    "a": "Yehouda (<he>יְהוּדָה</he>)",
+    "x": "De lui viendront des rois – comme David, qui a loué Hachem toute sa vie. 👑",
+    "c": 2
+   },
+   {
+    "q": "Devinette – qui suis-je ? 🦌 Je courais vite comme une biche, et Yaakov m'a envoyé appeler Ra'hel et Léa aux champs.",
+    "opts": [
+     "Dan",
+     "Naftali",
+     "Acher"
+    ],
+    "a": "Naftali (<he>נַפְתָּלִי</he>)",
+    "x": "« <he>נַפְתָּלִי אַיָּלָה שְׁלֻחָה</he> » <tr>– « Naftali, biche agile »</tr> : c'est pour ça que Yaakov l'a choisi comme messager.",
+    "c": 1
+   },
+   {
+    "q": "Où Ra'hel a-t-elle caché les idoles (térafim) de Lavan ? 🐪",
+    "opts": [
+     "Dans la marmite de lentilles 🍲",
+     "Au fond du puits",
+     "Sous le bât du chameau, assise dessus"
+    ],
+    "a": "Sous le bât du chameau – assise dessus",
+    "x": "Elle s'est excusée de ne pas pouvoir se lever devant son père – et Lavan a fouillé toutes les tentes sans rien trouver.",
+    "c": 2
+   },
+   {
+    "q": "Essav a envoyé son fils Élifaz tuer Yaakov. Comment cela s'est-il terminé ?",
+    "opts": [
+     "Yaakov s'est enfui par un miracle du chemin raccourci",
+     "Élifaz a eu peur d'un lion qui gardait Yaakov 🦁",
+     "Élifaz lui a pris tous ses biens et l'a laissé partir"
+    ],
+    "a": "Élifaz lui a pris tous ses biens – et l'a laissé en vie",
+    "x": "Yaakov lui a dit : « <he>עָנִי חָשׁוּב כְּמֵת</he> » <tr>(un pauvre est considéré comme mort)</tr> – ainsi tu accomplis l'ordre de ton père. Yaakov s'est retrouvé sans rien, pas même un vêtement.",
+    "c": 2
+   },
+   {
+    "q": "Avant de poursuivre sa route, combien d'années Yaakov a-t-il étudié à la yéchiva de Chem et Ever ?",
+    "opts": [
+     "7 ans",
+     "14 ans",
+     "20 ans"
+    ],
+    "a": "14 ans",
+    "x": "Jour et nuit – il ne se couchait même pas pour dormir, il somnolait un peu sur sa chaise et reprenait l'étude. 📚",
+    "c": 1
+   },
+   {
+    "q": "« Il passa la nuit là, car le soleil s'était couché » – quelle prière Yaakov a-t-il instituée ?",
+    "opts": [
+     "Arvit",
+     "Cha'harit",
+     "Moussaf"
+    ],
+    "a": "La prière d'Arvit 🌙",
+    "x": "Le soleil s'est couché, Yaakov s'est levé et a prié – d'où nos Sages apprennent que Yaakov a institué la prière d'Arvit.",
+    "c": 0
+   },
+   {
+    "q": "Les pierres se disputaient : « c'est sur moi que le juste posera sa tête ! » Qu'a fait Hachem ?",
+    "opts": [
+     "Toutes se sont unies en une seule pierre",
+     "Chaque pierre a eu son tour, une nuit chacune",
+     "Les pierres sont devenues un oreiller moelleux 🛏️"
+    ],
+    "a": "Toutes les pierres se sont unies – en une seule",
+    "x": "Au début il est écrit « <he>מֵאַבְנֵי הַמָּקוֹם</he> » <tr>(des pierres)</tr>, puis « <he>אֶת הָאֶבֶן</he> » <tr>(la pierre)</tr> – une seule. 🪨",
+    "c": 0
+   },
+   {
+    "q": "Yaakov a appelé l'endroit « Beit-El ». Quel était son ancien nom ?",
+    "opts": [
+     "'Haran",
+     "Chekhem",
+     "Louz"
+    ],
+    "a": "Louz (<he>לוּז</he>)",
+    "x": "C'est là que Yaakov a dressé la pierre en stèle et versé de l'huile dessus.",
+    "c": 2
+   },
+   {
+    "q": "Yaakov a rencontré une jeune fille près du puits – et il a éclaté en sanglots. Pourquoi ?",
+    "opts": [
+     "Il était très fatigué du voyage",
+     "Elle ne serait pas enterrée avec lui à la Makhpéla",
+     "La pierre du puits lui était tombée sur le pied 🦶"
+    ],
+    "a": "Il a vu par l'esprit saint qu'elle ne serait pas enterrée avec lui à Mearat HaMakhpéla",
+    "x": "Et aussi parce qu'il n'avait aucun cadeau à lui offrir – Élifaz lui avait tout pris. 😢",
+    "c": 1
+   },
+   {
+    "q": "Quand Lavan a serré Yaakov dans ses bras et l'a embrassé – que cherchait-il en réalité ? 💰",
+    "opts": [
+     "De l'or dans ses habits et des pierres précieuses dans sa bouche",
+     "S'il avait de la fièvre 🤒",
+     "S'il s'était bien rasé 🪒"
+    ],
+    "a": "De l'or dans ses vêtements – et des pierres précieuses dans sa bouche !",
+    "x": "Lavan adorait l'argent. N'ayant rien trouvé, il a compris qu'Élifaz avait tout pris à Yaakov.",
+    "c": 0
+   },
+   {
+    "q": "Pourquoi les yeux de Léa étaient-ils fragiles ?",
+    "opts": [
+     "Elle restait trop au soleil dans les champs",
+     "Elle priait en pleurant pour ne pas épouser Essav",
+     "Elle lisait la nuit sans bougie 🕯️"
+    ],
+    "a": "Elle avait beaucoup pleuré en priant pour ne pas épouser Essav",
+    "x": "Tout le monde disait : l'aînée (Léa) pour l'aîné (Essav), la cadette (Ra'hel) pour le cadet (Yaakov). Grâce à sa prière, le décret a été annulé ! 🙏",
+    "c": 1
+   },
+   {
+    "q": "Comment Ra'hel a-t-elle appelé son premier fils – et que demandait-elle par ce nom ?",
+    "opts": [
+     "Yossef – qu'Hachem lui ajoute un autre fils",
+     "Binyamin – le fils de sa droite",
+     "Réouven – car Hachem a vu sa peine"
+    ],
+    "a": "Yossef – « qu'Hachem m'ajoute un autre fils »",
+    "x": "Ra'hel savait par prophétie que Yaakov aurait 12 tribus, et elle a prié pour que le dernier fils vienne aussi d'elle.",
+    "c": 0
+   },
+   {
+    "q": "Réouven a trouvé des doudaïm (mandragores) aux champs. Qu'en a-t-il fait – et qu'apprend-on sur lui ? 🌸",
+    "opts": [
+     "Il les a apportés tout de suite à sa mère, sans les sentir",
+     "Il les a plantés dans le jardin de Lavan",
+     "Il en a fait une tisane pour Yaakov ☕"
+    ],
+    "a": "Il les a apportés tout de suite à sa mère – sans même les sentir",
+    "x": "On apprend combien Réouven respectait sa mère. Et remarquez : il n'a rien pris dans les champs des autres – seulement des doudaïm sans propriétaire.",
+    "c": 0
+   },
+   {
+    "q": "« <he>וַיִּפְגַּע בַּמָּקוֹם</he> » – Yaakov revenait prier au mont Moria. Quel miracle s'est produit en chemin ?",
+    "opts": [
+     "Un ange l'a porté sur ses ailes jusqu'au mont Moria",
+     "Le soleil s'est arrêté jusqu'à son arrivée",
+     "Le mont Moria a « sauté » jusqu'à lui"
+    ],
+    "a": "Le mont Moria s'est arraché de sa place – et a « sauté » jusqu'à lui !",
+    "x": "Yaakov a vu le mont Moria devant lui, s'est arrêté et y a prié Min'ha. ⛰️",
+    "c": 2
+   },
+   {
+    "q": "Après sa prière, Yaakov voulait repartir. Pourquoi Hachem a-t-il fait coucher le soleil plus tôt ?",
+    "opts": [
+     "Pour qu'Essav ne le voie pas dans le noir",
+     "Pour qu'il passe la nuit au mont Moria",
+     "Parce que Yaakov était épuisé par la route"
+    ],
+    "a": "Pour que Yaakov passe la nuit à l'endroit saint – sur le mont Moria",
+    "x": "Selon le midrach, les anges disaient « <he>בָּא הַשֶּׁמֶשׁ</he> » <tr>(le soleil est arrivé)</tr> – Yaakov est le « soleil » qui éclaire le monde, et il vient dormir ici. ☀️",
+    "c": 1
+   },
+   {
+    "q": "« Des anges de Dieu montaient et descendaient » – quels anges montaient, et lesquels descendaient ?",
+    "opts": [
+     "Ceux de l'étranger montaient, ceux d'Erets Israël descendaient",
+     "Les anges de paix montaient, ceux de la guerre descendaient",
+     "Ceux d'Erets Israël montaient, ceux de l'étranger descendaient"
+    ],
+    "a": "Les anges d'Erets Israël montaient – ceux de l'étranger descendaient",
+    "x": "Les anges d'Erets Israël avaient escorté Yaakov jusque-là, et à leur place descendaient ceux qui l'accompagneraient hors d'Israël. 👼",
+    "c": 2
+   },
+   {
+    "q": "Yaakov et Ra'hel avaient convenu de signes, pour qu'on ne lui échange pas sa fiancée. Lesquels – et qu'en a fait Ra'hel ?",
+    "opts": [
+     "Trois mots secrets – que Ra'hel a oubliés",
+     "Les trois mitsvot des femmes – transmis à Léa",
+     "Trois chansons – que Ra'hel a apprises à Zilpa"
+    ],
+    "a": "Les trois mitsvot des femmes – et Ra'hel les a transmis à Léa",
+    "x": "La 'hala, la pureté et l'allumage de la bougie. Ra'hel ne voulait pas que sa sœur ait honte quand Yaakov l'interrogerait – alors elle les lui a révélés. 💛",
+    "c": 1
+   },
+   {
+    "q": "Au mariage, les gens de 'Haran chantaient à Yaakov un air rapide : « c'est Léa… c'est Léa… ». Pourquoi ? 🎶",
+    "opts": [
+     "C'était la chanson traditionnelle de 'Haran",
+     "Pour que Lavan puisse dire le lendemain : « on te l'avait dit ! »",
+     "Pour souhaiter à Léa de se marier bientôt"
+    ],
+    "a": "Pour que le lendemain Lavan dise : « on te l'avait dit ! »",
+    "x": "Yaakov croyait que c'était juste la mélodie. Et on n'avait allumé aucune bougie – « la coutume de l'endroit », par pudeur bien sûr… 🙄",
+    "c": 1
+   },
+   {
+    "q": "Quelle servante Lavan a-t-il donnée à Léa – et pourquoi justement elle ?",
+    "opts": [
+     "Zilpa, la plus jeune – pour faire croire que c'est Ra'hel",
+     "Bilha, l'aînée – parce que Léa est l'aînée",
+     "Zilpa – car elle travaillait le plus dur"
+    ],
+    "a": "Zilpa, la plus jeune – pour que Yaakov croie que c'est Ra'hel",
+    "x": "La coutume était de donner la jeune servante à la fille cadette. Ainsi Lavan continuait de tromper Yaakov.",
+    "c": 0
+   },
+   {
+    "q": "Pourquoi Lavan envoyait-il justement Ra'hel garder les moutons – et pas ses fils ?",
+    "opts": [
+     "Ses fils étaient occupés aux idoles",
+     "Ra'hel l'avait demandé car elle aimait les moutons",
+     "Il n'avait pas de fils avant l'arrivée de Yaakov"
+    ],
+    "a": "Jusqu'à l'arrivée de Yaakov, Lavan n'avait pas de fils du tout",
+    "x": "C'est grâce à Yaakov que des fils lui sont nés. Et Léa ? Ses yeux étaient fragiles, et le vent la gênait.",
+    "c": 2
+   },
+   {
+    "q": "Yaakov a dit : « pour Ra'hel, ta fille cadette » – pourquoi tant de précisions ?",
+    "opts": [
+     "Il y avait trois Ra'hel à 'Haran",
+     "C'est ainsi qu'on rédige un contrat en araméen",
+     "Pour ne laisser aucune faille au tricheur Lavan"
+    ],
+    "a": "Pour ne laisser aucune faille au tricheur Lavan",
+    "x": "« Ra'hel » – pas une autre fille du marché nommée Ra'hel ; « ta fille » – ne change pas le nom de Léa en Ra'hel ; « la cadette » – la plus jeune. 🔒",
+    "c": 2
+   },
+   {
+    "q": "Le matin, Yaakov a demandé à Léa : « pourquoi m'as-tu trompé ? » Qu'a-t-elle répondu ?",
+    "opts": [
+     "« Je l'ai appris de toi – tu as trompé ton père sur l'ordre de ta mère »",
+     "« Je ne savais pas que c'était une ruse »",
+     "« C'est Ra'hel qui me l'a demandé »"
+    ],
+    "a": "« Je l'ai appris de toi ! »",
+    "x": "« Comme tu as trompé ton père – qui te prenait pour Essav – sur l'ordre de ta mère, je t'ai trompé sur l'ordre de mon père. »",
+    "c": 0
+   },
+   {
+    "q": "Qui a donné son nom à Lévi – selon le midrach cité par Rachi ?",
+    "opts": [
+     "Léa, comme ses autres fils",
+     "Ra'hel, en cadeau à sa sœur",
+     "Hachem, par l'ange Gavriel"
+    ],
+    "a": "Hachem – par l'intermédiaire de l'ange Gavriel",
+    "x": "Gavriel a amené le bébé devant Hachem, qui l'a appelé Lévi et lui a donné 24 dons de la kehouna – qui l'« accompagnaient » (<he>לִוָּה</he>). 🎁",
+    "c": 2
+   },
+   {
+    "q": "Ra'hel a demandé : « prie pour moi, comme ton père Its'hak a prié pour Rivka ». Yaakov a répondu que ce n'était pas pareil. Quel était son argument ?",
+    "opts": [
+     "Its'hak priait au mont Moria, nous sommes hors d'Israël",
+     "Its'hak a prié vingt ans, il n'est pas encore temps",
+     "J'ai déjà des fils – ta prière, du fond du cœur, sera plus vite exaucée"
+    ],
+    "a": "Hachem t'a privée, toi, pas moi – ta prière viendra donc plus du fond du cœur",
+    "x": "Its'hak n'avait aucun enfant, il priait aussi pour lui-même. Comme disent nos Sages : la prière du malade pour lui-même est plus belle que celle des autres – et elle est exaucée en premier.",
+    "c": 2
+   },
+   {
+    "q": "Léa a prié pour que son 7ᵉ enfant soit une fille – et le garçon est devenu fille. Quel était son calcul ? 🧮",
+    "opts": [
+     "Que Yaakov ait exactement 6 fils de chaque femme",
+     "Que Ra'hel n'ait pas moins de tribus que les servantes",
+     "Avoir quelqu'un pour l'aider à garder les moutons"
+    ],
+    "a": "Que Ra'hel n'ait pas moins de tribus que les servantes",
+    "x": "12 tribus : Léa en avait déjà 6, Bilha et Zilpa 2 chacune – cela faisait 10. Si Léa avait encore un fils, il ne resterait à Ra'hel qu'un seul fils – moins encore que la part des servantes. Elle a appelé sa fille Dina (<he>דִּינָה</he>) – d'après le « jugement » (<he>דִּין</he>) qu'elle avait fait avec elle-même.",
+    "c": 1
+   },
+   {
+    "q": "Dans le nom « <he>יִשָּׂשכָר</he> » <tr>(Issakhar)</tr>, la lettre ש est écrite deux fois (on n'en prononce qu'une). Pourquoi, selon le Rachbam ?",
+    "opts": [
+     "Issakhar étudierait la Torah deux fois plus que les autres",
+     "Deux récompenses : la servante et les doudaïm",
+     "Il est né deux heures après Zevouloun"
+    ],
+    "a": "Pour deux sortes de récompense",
+    "x": "La récompense d'avoir donné sa servante à Yaakov, et celle des doudaïm. 🌸",
+    "c": 1
+   },
+   {
+    "q": "Ra'hel a donné sa servante Bilha à Yaakov, pour mériter elle aussi des enfants. Selon le Kli Yakar, en quoi cela devait-il l'aider ?",
+    "opts": [
+     "Pour que Bilha prie pour elle chaque jour",
+     "Quand la servante enfante, la maîtresse est aussitôt exaucée",
+     "Une techouva sur la jalousie – ne plus jalouser même sa servante"
+    ],
+    "a": "Une techouva sur la jalousie – en allant à l'extrême opposé",
+    "x": "Ra'hel s'est examinée et n'a trouvé aucune faute – sauf la jalousie envers sa sœur. Elle a décidé de réparer : celle qui avait commencé par jalouser sa sœur ne jalouserait même plus sa servante ! 💜",
+    "c": 2
+   },
+   {
+    "q": "Yaakov a pris des branches de trois sortes d'arbres. Selon le midrach, la branche d'« armon » (<he>עַרְמוֹן</he>) fait allusion…",
+    "opts": [
+     "À la pierre blanche sous sa tête",
+     "À la ruse de Lavan",
+     "Au puits près de 'Haran"
+    ],
+    "a": "À la ruse (<he>עַרְמוּמִיּוּת</he>) de Lavan l'Araméen",
+    "x": "Qui changeait son salaire. Le « livné » (<he>לִבְנֶה</he>) – d'après la pierre blanche (<he>לְבָנָה</he>) sous sa tête ; le « louz » (<he>לוּז</he>) – d'après la ville de Louz, où la Chékhina lui est apparue.",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a demandé à Lavan de retirer tout de suite du troupeau les chèvres tachetées et mouchetées, et de les confier à ses fils. Que voulait-il encore que Lavan voie de ses propres yeux ?",
+    "opts": [
+     "Qu'il ne comptait rien prendre à Lavan",
+     "Que les tachetées viendraient de la bénédiction d'Hachem, pas de la nature",
+     "Que les fils de Lavan gardaient mieux que lui"
+    ],
+    "a": "Que les chèvres tachetées qui naîtraient viendraient de la bénédiction d'Hachem, pas de la nature",
+    "x": "Quand aucune chèvre adulte n'est tachetée – et que naissent pourtant des tachetées, la bénédiction d'Hachem saute aux yeux. Et aussi : il serait facile de distinguer ce qui est à lui et ce qui est à Lavan.",
+    "c": 1
+   },
+   {
+    "q": "Pourquoi Yaakov ne posait-il les branches qu'en Nissan – et pas en Tichri ?",
+    "opts": [
+     "Pour que Lavan ne prétende pas que tout le troupeau naissait tacheté",
+     "Parce qu'en Tichri l'abreuvoir était à sec",
+     "Parce qu'en Tichri Yaakov était occupé par les fêtes"
+    ],
+    "a": "Pour qu'il reste aussi quelque chose à Lavan – et qu'il n'ait aucun reproche à faire",
+    "x": "En Nissan naissent les bêtes vives et fortes – il posait les branches ; en Tichri naissent les paresseuses et faibles – il les laissait à Lavan, selon l'accord. ⚖️",
+    "c": 0
+   },
+   {
+    "q": "Lavan a aussi retiré les bêtes saines et fortes, ne laissant à Yaakov que des faibles et des malades. Quel prétexte a-t-il trouvé ? 🔍",
+    "opts": [
+     "Quelques poils blancs – « tout ce qui a du blanc »",
+     "Les bêtes saines avaient besoin d'un meilleur pâturage chez ses fils",
+     "Il a dit que Yaakov l'avait demandé lui-même"
+    ],
+    "a": "Il leur a cherché quelques poils blancs – et a prétendu qu'elles faisaient partie de « tout ce qui a du blanc »",
+    "x": "Ainsi Lavan « respectait » l'accord en apparence – mais réduisait presque à zéro les chances que des tachetées naissent chez Yaakov (Gour Aryé). « Et Yaakov gardait le reste des troupeaux de Lavan ».",
+    "c": 0
+   },
+   {
+    "q": "Selon le Targoum Yonathan, comment les bergers de 'Haran ont-ils découvert – avant que quiconque ne le dise – que Yaakov s'était enfui ?",
+    "opts": [
+     "Les moutons de Lavan sont tombés malades",
+     "Les chameaux de Yaakov n'étaient plus à l'étable",
+     "L'eau du puits avait disparu"
+    ],
+    "a": "L'eau du puits avait disparu",
+    "x": "« Et voici, il n'y avait pas d'eau dans le puits » – ils se sont souvenus que toute l'abondance venait du mérite du juste, et ont compris que Yaakov avait quitté 'Haran. 💧",
+    "c": 2
+   },
+   {
+    "q": "Hachem est apparu au méchant Lavan : « garde-toi de parler à Yaakov, en bien ou en mal ». Pourquoi justement la nuit – et pourquoi même apparaître à un méchant ?",
+    "opts": [
+     "Il n'apparaît aux méchants que la nuit – pour l'honneur de Yaakov",
+     "Pour que Lavan croie que ce n'était qu'un rêve",
+     "Parce que la nuit Lavan n'était pas occupé au troupeau"
+    ],
+    "a": "Hachem n'apparaît aux méchants que la nuit – et cette apparition était pour l'honneur de Yaakov",
+    "x": "Hachem ne se révèle pas aux méchants – seulement pour l'honneur du juste. Et l'avertissement : ne pas nuire à Yaakov, ni le persuader de revenir – ni par promesses, ni par menaces.",
+    "c": 0
+   },
+   {
+    "q": "Yaakov avait quitté la maison d'Its'hak depuis de longues années. Pourquoi Essav n'a-t-il envoyé Élifaz le tuer que maintenant ?",
+    "opts": [
+     "Ne pas peiner Its'hak – il a attendu que Yaakov s'éloigne",
+     "Il venait d'apprendre que Yaakov était chez Chem et Ever",
+     "Il attendait qu'Élifaz grandisse et devienne guerrier"
+    ],
+    "a": "Il ne voulait pas peiner Its'hak – il a attendu que Yaakov s'éloigne",
+    "x": "Tant que Yaakov était près d'Its'hak, Essav ne voulait pas attrister son père. Quand il a appris que Yaakov quittait la région et s'éloignait – il a aussitôt envoyé Élifaz.",
+    "c": 0
+   },
+   {
+    "q": "Selon le Yalkout Réouvéni, pourquoi Élifaz n'a-t-il pas tué Yaakov ?",
+    "opts": [
+     "Un ange a retenu sa main au dernier moment",
+     "Essav avait envoyé un messager annuler l'ordre",
+     "Le décret de l'exil serait passé sur lui"
+    ],
+    "a": "Le décret de l'exil (alliance entre les morceaux) serait passé sur lui et sur sa descendance",
+    "x": "L'exil avait été décrété sur la descendance d'Avraham – s'il avait tué Yaakov, il serait tombé sur Élifaz et ses descendants. (Autre raison : Élifaz avait grandi chez Its'hak et appris ses voies.)",
+    "c": 2
+   },
+   {
+    "q": "Selon une explication du Midrach Rabba, « le puits dans le champ » est la synagogue. Alors que représente « la grande pierre » sur le puits – et quand la roule-t-on ?",
+    "opts": [
+     "Le mauvais penchant – roulé quand on écoute la Torah",
+     "La pauvreté – roulée quand on donne la tsédaka",
+     "Lavan – roulé quand Yaakov a fui 'Haran"
+    ],
+    "a": "Le mauvais penchant – on le « roule » en écoutant la Torah",
+    "x": "« Ils roulaient la pierre » – quand on écoute la lecture de la Torah, le mauvais penchant s'écarte. « Ils remettaient la pierre » – en sortant, il revient à sa place… D'où l'importance de revenir écouter la Torah encore et encore ! 📖",
+    "c": 0
+   },
+   {
+    "q": "« Depuis que Hachem a créé Son monde, personne ne L'avait remercié – jusqu'à Léa » (Berakhot 7). Mais Noa'h et Avraham ont sûrement remercié Hachem ! Qu'y avait-il donc de nouveau chez Léa ?",
+    "opts": [
+     "Elle a remercié d'avoir reçu plus que sa part",
+     "Elle a été la première à remercier à voix haute devant tous",
+     "Elle a été la première femme à prier"
+    ],
+    "a": "Elle a remercié d'avoir reçu plus que sa part",
+    "x": "Léa savait que chacune des quatre femmes devait avoir 3 tribus. Pour le 4ᵉ fils – au-delà de sa part – elle a dit : « <he>הַפַּעַם אוֹדֶה אֶת ה'</he> ». Remercier pour un cadeau qui ne nous « revient » pas. 🙏",
+    "c": 0
+   },
+   {
+    "q": "En route vers 'Haran, Hachem a fait pour Yaakov le miracle du chemin raccourci. Pourquoi pas lors de sa fuite – laissant Lavan le rattraper ? (Or Ha'Haïm)",
+    "opts": [
+     "Le chemin raccourci ne fonctionne qu'en Erets Israël",
+     "Un plus grand miracle : Lavan le rattrape mais ne peut lui nuire",
+     "Yaakov n'avait pas prié pour cela cette fois"
+    ],
+    "a": "Pour un miracle plus grand : Lavan le rattrape – et ne peut pourtant pas lui nuire",
+    "x": "Lavan l'a rejoint avec ses proches – et n'a rien pu lui faire, à cause de l'ordre d'Hachem. 🛡️",
+    "c": 1
+   },
+   {
+    "q": "« Tu as changé mon salaire dix fois (<he>עֲשֶׂרֶת מֹנִים</he>) » – combien de fois Lavan a-t-il changé le salaire de Yaakov ?",
+    "opts": [
+     "10",
+     "100",
+     "7"
+    ],
+    "a": "100 fois !",
+    "x": "« <he>עֲשֶׂרֶת מֹנִים</he> » – dix fois dix. C'est pourquoi Yaakov posait chaque fois les branches selon le nouvel accord – tantôt tachetées, tantôt rayées… 🔄",
+    "c": 1
+   },
+   {
+    "q": "Dans son vœu, Yaakov a dit : « si je reviens en paix (<he>בְשָׁלוֹם</he>) à la maison de mon père ». Que signifie ici « en paix » ?",
+    "opts": [
+     "Sans faute – sans apprendre des manières de Lavan",
+     "Sans qu'Essav l'attaque en chemin",
+     "Avec toute la fortune gagnée à 'Haran"
+    ],
+    "a": "Sans faute – sans apprendre des manières de Lavan",
+    "x": "La paix la plus importante : revenir le même Yaakov qui était parti, même après 20 ans à côté du grand tricheur. ✨",
+    "c": 0
+   },
+   {
+    "q": "Yaakov a appelé Ra'hel et Léa aux champs et leur a tout raconté en détail – les branches comme le rêve. Pourquoi s'est-il donné tant de peine ? (Sékhel Tov)",
+    "opts": [
+     "Ne pas être soupçonné – être irréprochable même aux yeux des siens",
+     "Pour les convaincre de voler les térafim",
+     "Aux champs, c'était plus facile de compter les moutons"
+    ],
+    "a": "Pour ne pas être soupçonné de vol – il faut être irréprochable même aux yeux de sa famille",
+    "x": "Même quand on l'aime, il ne doit pas rester le moindre doute. Et pourquoi aux champs ? Dans un lieu ouvert, personne ne peut se cacher pour écouter. 🌾",
+    "c": 0
+   },
+   {
+    "q": "🧮 Énigme de calcul : le messager parti de chez Lavan a marché 3 jours pour le rejoindre. Pendant ce temps, Yaakov a avancé de 3 jours de plus. Puis Lavan s'est lancé à sa poursuite, Yaakov a encore marché un jour – et Lavan l'a rattrapé en un seul jour ! Combien de jours de marche Lavan a-t-il parcourus en un jour ?",
+    "opts": [
+     "6",
+     "7",
+     "4"
+    ],
+    "a": "7 jours de marche – en un seul jour ! 🏃‍♂️",
+    "x": "3 (du troupeau à la maison) + 3 (l'avance de Yaakov entre-temps) + 1 (sa marche pendant la poursuite) = 7. Une semaine de route – en un jour !",
+    "c": 1
+   },
+   {
+    "q": "💎 Question en or : Yaakov quitte la maison de ses parents – seul, la nuit, en fuyant son frère, pour de longues années chez un oncle tricheur. Et justement cette nuit-là, Hachem lui envoie le fameux rêve. Attendez… pourquoi Yaakov avait-il besoin de voir précisément ce rêve – et précisément maintenant ?",
+    "opts": [
+     "Pour qu'il sache à l'avance combien d'années il resterait à 'Haran",
+     "Pour qu'il sache qu'Hachem le garde partout où il ira",
+     "Pour lui apprendre le chemin le plus court vers 'Haran"
+    ],
+    "a": "Pour qu'il sache qu'il n'est jamais seul – les gardiens changent, mais la protection ne s'arrête jamais",
+    "x": "Dans le rêve, les anges d'Erets Israël qui l'avaient accompagné remontent – et à leur place descendent ceux qui l'accompagneront hors d'Israël. Qu'est-ce qui fait le plus peur quand on quitte la maison ? Se sentir sans protection. Alors Hachem lui montre : même quand « tes » anges remontent, d'autres descendent déjà pour les remplacer, et Moi Je suis au-dessus de tout : « <he>וְהִנֵּה אָנֹכִי עִמָּךְ וּשְׁמַרְתִּיךָ בְּכָל אֲשֶׁר תֵּלֵךְ</he> » <tr>(Je suis avec toi, Je te garderai partout où tu iras)</tr>. Et regardez la fin de la paracha : « Yaakov continua son chemin, et des anges de Dieu vinrent à sa rencontre » – les anges d'Erets Israël sortent l'accueillir, et Yaakov appelle l'endroit « Ma'hanayim » – deux camps ! La paracha commence avec des anges et se termine avec des anges – un cercle complet de protection. Et nous aussi : à la maison, à l'école, en promenade – Quelqu'un veille sur nous tout le temps. 💙",
+    "c": 1
+   }
+  ]
+ }
+}
