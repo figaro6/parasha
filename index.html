@@ -69,7 +69,7 @@ h1 em{font-style:normal;color:var(--pink)}
 .oldnote button{border:0;background:var(--navy);color:var(--surface);border-radius:999px;padding:6px 14px;font-weight:700;cursor:pointer}
 
 /* download */
-.dl{display:none;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px 16px}
+.dl{display:none;flex-direction:column;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px 16px}
 body.can-dl .dl{display:flex}
 .dl h2{margin:0;font-size:17px;color:var(--navy)}
 .dl p{margin:0;font-size:14px;color:var(--muted)}
@@ -77,8 +77,9 @@ body.can-dl .dl{display:flex}
 .dlrow>*{flex:1;min-width:130px;border:0;border-radius:12px;padding:10px 12px;font-weight:800;font-size:15px;cursor:pointer;background:var(--navy);color:var(--surface);text-align:center;text-decoration:none}
 .dlrow>*+*{background:var(--pink)}
 .dlrow button:disabled{opacity:.6;cursor:progress}
-.dlmsg{font-size:14px;color:var(--muted);min-height:1.2em}
+.dlmsg{font-size:13px;color:var(--muted)}.dlmsg:empty{display:none}
 .dlv{font-size:14.5px;font-weight:700;color:var(--navy);margin-top:4px}
+.dl .dlrow>*{font-size:14px;padding:9px 6px;white-space:nowrap;min-width:0}
 
 /* WhatsApp community */
 .wa{display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:var(--surface);border:2px solid var(--wa);border-radius:18px;padding:12px 16px}
@@ -89,9 +90,12 @@ body.can-dl .dl{display:flex}
 :root{--wa:#128c4a}
 
 /* how to play */
-.how{background:var(--surface);border:2px solid var(--gold);border-radius:18px;padding:12px 16px}
-.how summary{font-weight:800;color:var(--pink);font-size:17px;cursor:pointer}
-.how ul{margin:8px 0 0;padding-inline-start:20px;display:flex;flex-direction:column;gap:4px;font-size:15.5px}
+.how{display:flex;gap:12px;align-items:stretch;background:var(--surface);border:2px solid var(--gold);border-radius:18px;padding:12px 12px 12px 14px}
+.howmain{flex:1;min-width:0}
+.how h2{margin:0;font-weight:800;color:var(--pink);font-size:17px}
+.how ul{margin:6px 0 0;padding-inline-start:18px;display:flex;flex-direction:column;gap:3px;font-size:14.5px;line-height:1.4}
+.watile{flex:none;align-self:center;width:96px;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;text-decoration:none;background:#e9f9ef;border:2px solid var(--wa);border-radius:14px;padding:10px 4px;color:var(--wa);font-weight:800;font-size:12px;line-height:1.2}
+.watile svg{width:44px;height:44px;background:#25d366;border-radius:50%;padding:6px;box-sizing:border-box}
 
 /* level nav + tools */
 .nav{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
@@ -219,11 +223,11 @@ const LV = [
   {c:"var(--l1)", i:"🌱"}, {c:"var(--l2)", i:"🔍"}, {c:"var(--l3)", i:"🕵️"}, {c:"var(--l4)", i:"🧠"}, {c:"var(--l5)", i:"🏆"}
 ];
 const UI = {
-  he:{dir:"rtl", series:"חידון מס׳", parasha:"פרשת", how:"🎲 איך משחקים?", lvl:"שלב", pts:n=>n+" נק׳",
+  he:{dir:"rtl", series:"חידון מס׳", parasha:"פרשת", how:"🎲 איך משחקים?", waT:"הצטרפו לקהילה", howS:["אבא או אמא קוראים, הילדים עונים לפי התור – מהקטן לגדול.","כל שלב קשה יותר – ושווה יותר נקודות!","הקטנים יכולים לנסות גם שאלות של הגדולים – עם רמז 😉","בסוף סופרים – והאלוף בוחר מי מקבל קינוח ראשון! 🍮"], lvl:"שלב", pts:n=>n+" נק׳",
       show:"הצגת התשובה", hide:"הסתרת התשובה", all:"הצגת כל התשובות", none:"הסתרת כל התשובות",
       letters:["א.","ב.","ג."], archive:"📚 ארכיון החידונים", latest:"השבוע", empty:"החידונים של השבועות הקודמים יופיעו כאן.",
       old:"זהו חידון מהארכיון.", back:"לחידון של השבוע", err:"לא הצלחנו לטעון את החידון. נסו לרענן את העמוד.", date:"he-IL",
-      dl:"📥 הורדת החידון ל־PDF", dlp:"מוכן להדפסה – בחרו שפה:", dlp2:"מוכן להדפסה – בחרו גרסה ושפה:", v1:"📄 גרסה רגילה – שאלות פתוחות לשולחן השבת", v2:"🔘 גרסת בחירה מרובה – כל השאלות עם 3 תשובות, כמו באתר", saving:"מכינים את הקובץ…", saved:"הקובץ נשמר ✓",
+      dl:"📥 להדפסה (PDF)", b1:"📄 שאלות פתוחות", b2:"🔘 בחירה מרובה", dlp:"מוכן להדפסה – בחרו שפה:", dlp2:"מוכן להדפסה – בחרו גרסה ושפה:", v1:"📄 גרסה רגילה – שאלות פתוחות לשולחן השבת", v2:"🔘 גרסת בחירה מרובה – כל השאלות עם 3 תשובות, כמו באתר", saving:"מכינים את הקובץ…", saved:"הקובץ נשמר ✓",
       declined:"ההורדה בוטלה.", dlfail:"ההורדה לא הצליחה. נסו שוב בעוד רגע.", dlext:"הכפתורים יפתחו את האתר הציבורי בלשונית חדשה – שם ההורדה מיידית:",
       wa:"💬 הצטרפו לקהילת הווטסאפ", wap:"כל שבוע – החידון החדש ישר לטלפון", wab:"הצטרפות לקהילה",
       play:"🎮 עונים וצוברים נקודות!", reset:"🔄 מההתחלה", resetq:"למחוק את הניקוד ולהתחיל מחדש?",
@@ -236,11 +240,11 @@ const UI = {
       comm:"🏆 לשתף את הניקוד בקהילה", copied:"📋 הטקסט הועתק – הדביקו בקבוצה ושלחו!",
       fab:"🏆 שיתוף", myScore:"🏆 הניקוד שלי", close:"סגירה",
       shareText:(s,m,p,a,t)=>a<t ? `🎲 כבר צברתי ${s} נקודות בחידון פרשת ${p} (${a}/${t} שאלות)! מי מנצח אותי? 😎👇` : `🎲 צברתי ${s}/${m} נקודות בחידון פרשת ${p}! מי מנצח אותי? 😎👇`},
-  fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
+  fr:{dir:"ltr", series:"Quiz n°", parasha:"Paracha", how:"🎲 Comment jouer ?", waT:"Rejoindre la<br>communauté", howS:["Papa ou maman lit, les enfants répondent à tour de rôle – du plus petit au plus grand.","Chaque niveau est plus dur – et rapporte plus de points !","Les petits peuvent tenter les questions des grands – avec un indice 😉","À la fin, on compte – et le champion choisit qui a le dessert en premier ! 🍮"], lvl:"Niveau", pts:n=>n==1?"1 pt":n+" pts",
       show:"Voir la réponse", hide:"Cacher la réponse", all:"Voir toutes les réponses", none:"Cacher toutes les réponses",
       letters:["a.","b.","c."], archive:"📚 Archives des quiz", latest:"Cette semaine", empty:"Les quiz des semaines précédentes apparaîtront ici.",
       old:"Ceci est un quiz des archives.", back:"Revenir au quiz de la semaine", err:"Le quiz n'a pas pu être chargé. Essayez de rafraîchir la page.", date:"fr-FR",
-      dl:"📥 Télécharger le quiz en PDF", dlp:"Prêt à imprimer – choisissez la langue :", dlp2:"Prêt à imprimer – choisissez la version et la langue :", v1:"📄 Version classique – questions ouvertes pour la table du Chabbat", v2:"🔘 Version QCM – toutes les questions à 3 choix, comme sur le site", saving:"Préparation du fichier…", saved:"Fichier enregistré ✓",
+      dl:"📥 À imprimer (PDF)", b1:"📄 Classique", b2:"🔘 QCM", dlp:"Prêt à imprimer – choisissez la langue :", dlp2:"Prêt à imprimer – choisissez la version et la langue :", v1:"📄 Version classique – questions ouvertes pour la table du Chabbat", v2:"🔘 Version QCM – toutes les questions à 3 choix, comme sur le site", saving:"Préparation du fichier…", saved:"Fichier enregistré ✓",
       declined:"Téléchargement annulé.", dlfail:"Le téléchargement n'a pas abouti. Réessayez dans un instant.", dlext:"Les boutons ouvrent le site public dans un nouvel onglet – le téléchargement s'y fait directement :",
       wa:"💬 Rejoignez la communauté WhatsApp", wap:"Chaque semaine, le nouveau quiz directement sur votre téléphone", wab:"Rejoindre la communauté",
       play:"🎮 On répond et on gagne des points !", reset:"🔄 Recommencer", resetq:"Effacer le score et recommencer ?",
@@ -314,11 +318,11 @@ async function render(){
      <div class="kicker">${t.kicker} · ${u.parasha} ${t.parasha} · ${lang==="he"?d.year_he:d.year}</div>
      <h1>${t.title}</h1><div class="emo" aria-hidden="true">${t.emoji}</div><div class="sub">${t.sub}</div>`));
 
-  app.append(waCard());
-  if(meta.pdf){ const dl = el("section",{class:"dl",id:"dl","aria-labelledby":"dl-title"}); app.append(dl); fillDl(meta); }
-
   if(d.dedication) app.append(el("section",{class:"ded",lang:"he",dir:"rtl","aria-label":d.dedication}, `<span>${d.dedication}</span>`));
-  app.append(el("details",{class:"how", open:""}, `<summary>${u.how}</summary><ul>${t.how.map(x=>`<li>${x}</li>`).join("")}</ul>`));
+  if(meta.pdf){ const dl = el("section",{class:"dl",id:"dl","aria-labelledby":"dl-title"}); app.append(dl); fillDl(meta); }
+  app.append(el("section",{class:"how"},
+    `<div class="howmain"><h2>${u.how}</h2><ul>${(u.howS||t.how).map(x=>`<li>${x}</li>`).join("")}</ul></div>
+     <a class="watile" href="${WA_URL}" target="_blank" rel="noopener">${WA_ICON}<span>${u.waT}</span></a>`));
 
   const nav = el("nav",{class:"nav","aria-label":u.lvl});
   t.levels.forEach((L,i)=>{
@@ -404,6 +408,7 @@ async function render(){
   arc.append(list); app.append(arc);
 }
 
+const WA_ICON = `<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3.2A12.8 12.8 0 0 0 5 22.5L3.3 28.7l6.4-1.7A12.8 12.8 0 1 0 16 3.2zm0 2.3a10.5 10.5 0 1 1-5.4 19.5l-.4-.2-3.8 1 1-3.7-.2-.4A10.5 10.5 0 0 1 16 5.5z"/><path fill="#fff" d="M11.7 9.6c.3-.6.6-.6.9-.6h.8c.3 0 .6.1.8.6l1.1 2.6c.1.3.1.5-.1.8l-.7.9c-.2.2-.2.5 0 .8.6 1.1 2.1 2.8 4.1 3.6.3.1.5.1.7-.1l1-1.2c.2-.3.5-.3.8-.2l2.6 1.2c.3.2.5.3.5.6 0 .8-.3 1.8-1.1 2.3-.8.6-2.2 1-4.6.1-2.9-1.2-5.4-3.9-6.3-5.8-.9-1.9-.8-3.2-.5-3.8z"/></svg>`;
 const WA_URL = "https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE";
 const SCORES_URL = "https://chat.whatsapp.com/BUeEiECsc5NAk09FRHBfrL";  // "our scores" group inside the community
 function waCard(){
@@ -509,23 +514,22 @@ function fillDl(meta){
   dlMeta = meta;
   const box = document.getElementById("dl"); if(!box) return;
   const u = UI[lang];
-  // two printable versions when the quiz has them: classic (open questions) and multiple choice (same as the site)
-  const sets = [["", meta.pdf, u.v1], ["-qcm", meta.pdf_mc, u.v2]].filter(x=>x[1]);
-  box.innerHTML = `<h2 id="dl-title">${u.dl}</h2><p>${dlMode==="ext" ? u.dlext : (sets.length > 1 ? u.dlp2 : u.dlp)}</p>`;
+  // only the language the site is shown in; one button per version (classic / multiple choice)
+  const l = lang;
+  const sets = [["", meta.pdf, u.b1], ["-qcm", meta.pdf_mc, u.b2]].filter(x=>x[1] && x[1][l]);
+  box.innerHTML = `<h2 id="dl-title">${u.dl}</h2>${dlMode==="ext" ? `<p>${u.dlext}</p>` : ""}`;
   const msg = el("div",{class:"dlmsg","aria-live":"polite"});
-  for(const [suf, files, title] of sets){
-    if(sets.length > 1) box.append(el("div",{class:"dlv"}, title));
-    const row = el("div",{class:"dlrow"});
-    for(const [l, label] of [["he","PDF עברית"],["fr","PDF Français"]]){
-      if(!files[l]) continue;
+  const row = el("div",{class:"dlrow"});
+  for(const [suf, files, label] of sets){
+    {
       let b; const id = `dl-${l}${suf}`;
       if(dlMode==="save"){ b = el("button",{type:"button",id,lang:l}, label); b.onclick = ()=>savePdf(files[l], b, msg); }
       else if(dlMode==="ext"){ b = el("a",{id,lang:l,href:`${PUBLIC_URL}#${meta.slug}-${l}`,target:"_blank",rel:"noopener"}, label); }
       else { b = el("a",{id,lang:l,href:files[l],download:files[l].split("?")[0].split("/").pop()}, label); b.onclick = ()=>countDl(meta.slug, l+suf); }
       row.append(b);
     }
-    box.append(row);
   }
+  box.append(row);
   box.append(msg);
   if(dlMode==="link") showDlCount(meta.slug, box);
 }
