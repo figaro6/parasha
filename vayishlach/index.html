@@ -54,6 +54,8 @@ h1 b{color:var(--gold);font-weight:400}
 .pdf{background:linear-gradient(90deg,#5b3fb5,#8a5cd6)}
 @keyframes pulse{50%{transform:scale(1.03)}}
 .foot{font-family:'Suez One',serif;font-size:min(4.2vw,2.3vh);color:#fff3c9}
+.wai{display:inline-flex;align-items:center;justify-content:center;width:min(7.4vw,4vh);height:min(7.4vw,4vh);min-width:28px;min-height:28px;border-radius:50%;background:#25d366;opacity:.9;box-shadow:0 2px 8px #0004;flex:none}
+.wai svg{width:56%;height:56%;fill:#fff}
 .foot small{font-family:Rubik;font-size:.7em;opacity:.8;direction:ltr;unicode-bidi:isolate;margin-inline-start:.5em}
 
 /* ---------- entrance screen (the tap that starts the music) ---------- */
@@ -89,7 +91,7 @@ h1 b{color:var(--gold);font-weight:400}
 <div id="app">
   <div class="top">
     <div class="langs"><button id="bh" class="act">עברית</button><button id="bf">Français</button></div>
-    <button id="mbtn"></button>
+    <a class="wai Lh" dir="rtl" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE" target="_blank" rel="noopener" aria-label="הצטרפות לקבוצת הוואטסאפ" title="הצטרפות לקבוצת הוואטסאפ"><svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg></a><a class="wai Lf" dir="ltr" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE" target="_blank" rel="noopener" aria-label="Rejoindre le groupe WhatsApp" title="Rejoindre le groupe WhatsApp"><svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg></a><button id="mbtn"></button>
   </div>
 
   <div>
@@ -127,8 +129,8 @@ h1 b{color:var(--gold);font-weight:400}
   </div>
 
   <div class="btns">
-    <a class="cta play Lh" dir="rtl" href="https://figaro6.github.io/parasha/" target="_blank" rel="noopener">▶️ משחקים עכשיו!</a>
-    <a class="cta play Lf" dir="ltr" href="https://figaro6.github.io/parasha/" target="_blank" rel="noopener">▶️ Jouer maintenant !</a>
+    <a class="cta play Lh" dir="rtl" href="https://figaro6.github.io/parasha/#he" target="_blank" rel="noopener">▶️ משחקים עכשיו!</a>
+    <a class="cta play Lf" dir="ltr" href="https://figaro6.github.io/parasha/#fr" target="_blank" rel="noopener">▶️ Jouer maintenant !</a>
     <a class="cta s pdf Lh" dir="rtl" href="https://figaro6.github.io/parasha/#dl-he" target="_blank" rel="noopener">📥 להורדת החידון (PDF)</a>
     <a class="cta s pdf Lf" dir="ltr" href="https://figaro6.github.io/parasha/#dl-fr" target="_blank" rel="noopener">📥 Télécharger le quiz (PDF)</a>
   </div>

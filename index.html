@@ -85,6 +85,14 @@ body.can-dl .dl{display:flex}
 .dlv{font-size:14.5px;font-weight:700;color:var(--navy);margin-top:4px}
 .dl .dlrow>*{font-size:14px;padding:9px 6px;white-space:nowrap;min-width:0}
 
+
+/* arriving from the welcome page (#dl): the classic version in the visitor's language is offered first and highlighted */
+.dl.focus{border:2px solid var(--pink);box-shadow:0 0 0 5px rgba(224,69,123,.16);animation:dlpulse 1.5s ease-in-out 3}
+.dl.focus .dlrow{flex-direction:column}
+.dl.focus .dlrow>*:first-child{font-size:17px;padding:14px 8px;background:var(--pink)}
+.dl.focus .dlrow>*+*{background:var(--navy);font-size:13px;padding:8px 6px;opacity:.9}
+@keyframes dlpulse{50%{box-shadow:0 0 0 10px rgba(224,69,123,.28)}}
+
 /* WhatsApp community */
 .wa{display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:var(--surface);border:2px solid var(--wa);border-radius:18px;padding:12px 16px}
 .wa .wt{flex:1;min-width:190px}
@@ -280,7 +288,7 @@ function readHash(){
 }
 readHash();
 window.addEventListener("hashchange", ()=>{ if(readHash() && manifest) render().then(()=>{ window.scrollTo({top:0}); jumpDl(); }); });
-function jumpDl(){ if(!wantDl) return; wantDl = false; setTimeout(()=>document.getElementById("dl")?.scrollIntoView({block:"start",behavior:"smooth"}), 200); }
+function jumpDl(){ if(!wantDl) return; wantDl = false; const box = document.getElementById("dl"); if(!box) return; box.classList.add("focus"); setTimeout(()=>box.scrollIntoView({block:"center",behavior:"smooth"}), 200); }
 
 function rich(s){
   return String(s)
