@@ -1,4 +1,8 @@
 {
+ "dedication": [
+  "לע\"נ הרה\"ג ר' חיים מאדאר זצ\"ל",
+  "לע\"נ מו\"ר ר' נועם סעדון זצ\"ל"
+ ],
  "series": 8,
  "slug": "vayishlach",
  "date": "2026-11-28",
@@ -74,7 +78,7 @@
      "70 איש"
     ],
     "a": "400 איש",
-    "x": "\"<he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he>\" – עשו עדיין שנא את יעקב, ובא עם צבא שלם.",
+    "x": "\"<he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he>\" – עשו עדיין שנא את יעקב, ובא עם צבא שלם. יעקב לא ידע אם עשו בא בשלום או למלחמה – ולכן התכונן לכל האפשרויות.",
     "c": 0
    },
    {
@@ -85,7 +89,7 @@
      "עד עלות השחר"
     ],
     "a": "עד עלות השחר 🌅",
-    "x": "\"<he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he>\" – המאבק נמשך כל הלילה, עד הבוקר.",
+    "x": "\"<he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he>\" – המאבק נמשך כל הלילה, עד הבוקר. חז\"ל אומרים שזה היה שרו (המלאך) של עשו – ויעקב לא נכנע לו עד שעלה האור.",
     "c": 2
    },
    {
@@ -96,7 +100,7 @@
      "יהודה"
     ],
     "a": "ישראל",
-    "x": "\"<he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he>\" – ומהשם הזה נקראים כל עם ישראל!",
+    "x": "\"<he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he>\" – השם ניתן לו אחרי המאבק: \"<he>כִּי שָׂרִיתָ עִם אֱלֹהִים וְעִם אֲנָשִׁים וַתּוּכָל</he>\". ומהשם הזה נקראים כל עם ישראל!",
     "c": 1
    },
    {
@@ -129,7 +133,7 @@
      "בנימין"
     ],
     "a": "את בנימין",
-    "x": "\"<he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he>\" – הבן השני של רחל, והאחרון מבין שנים עשר השבטים.",
+    "x": "\"<he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he>\" – הבן השני של רחל, והאחרון מבין שנים עשר השבטים. רש\"י מוסיף: הוא היחיד מכל השבטים שנולד בארץ ישראל.",
     "c": 2
    },
    {
@@ -151,7 +155,7 @@
      "אוהל"
     ],
     "a": "מצבה",
-    "x": "\"<he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he>\" – כדי שכולם ידעו איפה היא קבורה, עד היום!",
+    "x": "\"<he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he>\" – כדי שכולם ידעו שאשה גדולה וחשובה קבורה שם (אברבנאל), וכדי שלא יחפרו במקום הזה (ספורנו). עד היום אפשר להתפלל ליד \"קבר רחל\"!",
     "c": 0
    },
    {
@@ -195,7 +199,7 @@
      "כדי שהדרך תעבור מהר יותר"
     ],
     "a": "אם עשו יתקוף מחנה אחד – השני יינצל",
-    "x": "\"<he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he>\".",
+    "x": "\"<he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he>\". יעקב התכונן לפגישה בשלוש דרכים: מתנה, תפילה – וגם הכנה למלחמה. החלוקה למחנות היא ההכנה למקרה הגרוע ביותר.",
     "c": 0
    },
    {
@@ -217,7 +221,7 @@
      "שני בניו הגדולים"
     ],
     "a": "מלאכים ממש",
-    "x": "רש\"י: \"<he>מַלְאָכִים מַמָּשׁ</he>\" – יעקב שלח מלאכים אמיתיים, ולא בני אדם.",
+    "x": "רש\"י: \"<he>מַלְאָכִים מַמָּשׁ</he>\" – יעקב שלח מלאכים אמיתיים, ולא בני אדם – כי בני אדם היו מפחדים ללכת אל עשו. (ויש במדרש גם דעה שהיו אלה שליחים בני אדם.)",
     "c": 0
    },
    {
@@ -283,7 +287,7 @@
      "נגמר לו הכוח להמשיך"
     ],
     "a": "הגיע תורו לומר שירה לפני ה'",
-    "x": "\"<he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he>\" – חז\"ל מספרים שבאותו בוקר הגיע תורו של המלאך לומר שירה לפני ה', בפעם הראשונה מאז שנברא! 🎶",
+    "x": "\"<he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he>\" – חז\"ל מספרים שבאותו בוקר הגיע תורו של המלאך לומר שירה לפני ה', בפעם הראשונה מאז שנברא! 🎶 לכן לא רצה לפספס את ההזדמנות.",
     "c": 0
    },
    {
@@ -492,7 +496,7 @@
      "יעקב כיבד את עשו והקדים אותו לפניו"
     ],
     "a": "יעקב כיבד את עשו והקדים אותו לפניו",
-    "x": "אף על פי שיעקב קנה מעשו את הבכורה – בהלוויה של אביהם הוא כיבד את עשו והניח לו ללכת ראשון.",
+    "x": "אף על פי שיעקב קנה מעשו את הבכורה – בהלוויה של אביהם הוא כיבד את עשו והניח לו ללכת ראשון. כך מלמד אותנו יעקב: כבוד חשוב יותר מכל ויכוח – גם כלפי אח שלא תמיד נהג בנו יפה.",
     "c": 2
    },
    {
@@ -540,14 +544,14 @@
     "c": 0
    },
    {
-    "q": "רחל נקברה בדרך, ליד בית לחם – ולא במערת המכפלה. למה?",
+    "q": "כשיעקב חזר למקום שבו נדר נדר כשברח מעשו – מה עוד קיים מהנדר, מלבד בניית המזבח?",
     "opts": [
-     "כי היה קשה להגיע לחברון בחורף",
-     "כי לאה ביקשה להיקבר שם לבד",
-     "כדי שכשבניה יֵצאו לגלות – תתפלל עליהם"
+     "צם שלושה ימים במקום",
+     "קרא לכל בניו וברך אותם",
+     "הפריש מעשר מכל מה שה' נתן לו"
     ],
-    "a": "כדי שכשבניה יֵצאו לגלות – תתפלל עליהם",
-    "x": "יעקב ידע ברוח הקודש שבזמן החורבן עם ישראל יעבור בדרך הזו לגלות. רחל תבכה ותתפלל עליהם: \"<he>רָחֵל מְבַכָּה עַל בָּנֶיהָ</he>\" – וה' נענה לתפילתה. 💙",
+    "a": "הפריש מעשר מכל מה שה' נתן לו",
+    "x": "כשיעקב ברח מעשו, הוא נדר: \"<he>וְכֹל אֲשֶׁר תִּתֶּן לִי עַשֵּׂר אֲעַשְּׂרֶנּוּ לָךְ</he>\". אחרי עשרים שנה ה' שמר עליו, נתן לו משפחה גדולה ורכוש רב – ואבן עזרא כותב שעכשיו יעקב קיים גם את החלק הזה, ונתן לה' עשירית מכל מה שקיבל. כך מלמד אותנו יעקב: כשה' עוזר לנו – לא שוכחים להודות ולקיים את מה שהבטחנו.",
     "c": 2
    },
    {
@@ -584,25 +588,25 @@
     "c": 0
    },
    {
-    "q": "יעקב ציווה להסיר את \"אלוהי הנכר\" שבידי בני ביתו, והטמין אותם תחת האלה שליד שכם. מה מספר המדרש על הטמינה?",
+    "q": "חידה מפי הרב מרדכי מאדאר הי\"ו: איזה פסוק בפרשה – כל המילים שלו מסתיימות באותה אות? (ומה זה רומז?)",
     "opts": [
-     "עקר את העץ כולו, הטמין מתחתיו ושתל אותו מחדש – והגויים פחדו",
-     "קבר אותם בלילה, כדי שאף אחד לא ידע",
-     "שבר אותם לחתיכות ופיזר אותן בנחל"
+     "\"עזים מאתים ותישים עשרים, רחלים מאתים ואילים עשרים\"",
+     "\"פרות ארבעים ופרים עשרה\"",
+     "\"ארצה שעיר שדה אדום\""
     ],
-    "a": "עקר את העץ כולו, הטמין מתחתיו ושתל אותו מחדש – והגויים פחדו",
-    "x": "\"<he>וַיִּטְמֹן אֹתָם יַעֲקֹב תַּחַת הָאֵלָה אֲשֶׁר עִם שְׁכֶם</he>\". המדרש מספר שהגויים ראו את יעקב עוקר את העץ בשלמותו, מטמין את העבודה זרה – ונוטע את העץ מחדש. כשראו את כוחו, פחדו ממנו. ויש מסבירים שיעקב אמר להם לא ליהנות משום דבר ששימש לעבודה זרה – אפילו מכסף וזהב. ✨",
+    "a": "\"עזים מאתים ותישים עשרים, רחלים מאתים ואילים עשרים\" – כולן ב־ם, רמז ל\"מום\"",
+    "x": "\"<he>עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים</he>\" – כל שש המילים מסתיימות באות מ\"ם! בעל הטורים מסביר שזה רמז ל\"מום\": יעקב שלח לעשו רק בהמות שיש בהן מום (פגם), שאי אפשר להקריב אותן כקרבן. כך עשו לא יוכל לזכות בזכויות של הקרבת קרבנות מהמתנה של יעקב. יעקב נתן מתנה נדיבה – אבל בחכמה. 🧩",
     "c": 0
    },
    {
-    "q": "אחרי המעשה של ראובן עם מיטת אביו, התורה ממשיכה מיד: \"ויהיו בני יעקב שנים עשר\". מה היא מלמדת?",
+    "q": "רחל נקברה בדרך, כדי להתפלל על בניה כשייצאו לגלות. המדרש מספר שאברהם, יצחק ויעקב התפללו – ולא נענו, ורק תפילתה של רחל התקבלה. למה דווקא היא?",
     "opts": [
-     "שראובן הוצא מהמניין של השבטים",
-     "שמאז יעקב לא נולדו לו עוד בנים",
-     "שכולם צדיקים – ראובן לא חטא כפשוטו ונשאר בכור"
+     "כי היא הייתה הצעירה מכל האמהות",
+     "כי היא נקברה הכי קרוב לירושלים",
+     "כי ויתרה וסבלה – כדי שאחותה לא תתבייש, ולא קינאה"
     ],
-    "a": "שכולם צדיקים – ראובן לא חטא כפשוטו ונשאר בכור",
-    "x": "ראובן העביר את מיטת יעקב מאוהל בלהה לאוהל לאה אמו – כדי לכבד את אמו. התורה מונה מיד את כל השבטים יחד כדי ללמד: כולם שווים וצדיקים, וראובן לא נפל מהמעלה שלו. ולכן כתוב מיד \"<he>בְּכוֹר יַעֲקֹב רְאוּבֵן</he>\".",
+    "a": "כי ויתרה וסבלה – כדי שאחותה לא תתבייש, ולא קינאה",
+    "x": "כשעם ישראל חטא והכניס צלם להיכל, באו אברהם, יצחק ויעקב והתפללו – ותפילתם לא התקבלה. אז באה רחל ואמרה לפני ה': \"כשהכניסו את לאה אחותי אל בעלי – סבלתי ושתקתי, כדי שאחותי לא תתבייש. אני, בשר ודם, לא קינאתי – ואתה, ריבונו של עולם, תקפיד בגלל צלם שאין בו ממש?!\" מיד נתפייס הקב\"ה. 💙 הכוח של רחל הוא הוויתור הגדול שלה: היא העדיפה לכאוב בעצמה, ובלבד שאחותה לא תתבייש. לכן גם לאה, שהיו לה יותר ילדים, לא נקברה שם – כי תפילתה של רחל היא שפותחת את שערי השמים. והמסר בשבילנו: מי שמוותר בשביל אחרים ושומר על הכבוד שלהם – התפילה שלו חזקה במיוחד.",
     "c": 2
    }
   ]
@@ -662,7 +666,7 @@
      "70 hommes"
     ],
     "a": "400 hommes",
-    "x": "« <he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he> » – Essav détestait toujours Yaakov, et venait avec une véritable armée.",
+    "x": "« <he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he> » – Essav détestait toujours Yaakov, et venait avec une véritable armée. Yaakov ne savait pas s'il venait en paix ou pour la guerre – alors il s'est préparé à toutes les possibilités.",
     "c": 0
    },
    {
@@ -673,7 +677,7 @@
      "Jusqu'au lever de l'aube"
     ],
     "a": "Jusqu'au lever de l'aube 🌅",
-    "x": "« <he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he> » – la lutte a duré toute la nuit, jusqu'au matin.",
+    "x": "« <he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he> » – la lutte a duré toute la nuit, jusqu'au matin. Nos Sages disent que c'était l'ange protecteur d'Essav – et Yaakov ne lui a pas cédé jusqu'au lever du jour.",
     "c": 2
    },
    {
@@ -684,7 +688,7 @@
      "Yéhouda"
     ],
     "a": "Israël",
-    "x": "« <he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he> » – et c'est de ce nom que tout le peuple d'Israël tire le sien !",
+    "x": "« <he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he> » – ce nom lui est donné après la lutte : « <he>כִּי שָׂרִיתָ עִם אֱלֹהִים וְעִם אֲנָשִׁים וַתּוּכָל</he> » <tr>– « tu as lutté avec des anges et des hommes, et tu as vaincu »</tr>. Et c'est de ce nom que tout le peuple d'Israël tire le sien !",
     "c": 1
    },
    {
@@ -717,7 +721,7 @@
      "Binyamin"
     ],
     "a": "Binyamin",
-    "x": "« <he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he> » – le deuxième fils de Ra'hel, et le dernier des douze tribus.",
+    "x": "« <he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he> » – le deuxième fils de Ra'hel, et le dernier des douze tribus. Rachi ajoute : c'est le seul de toutes les tribus à être né en Erets Israël.",
     "c": 2
    },
    {
@@ -739,7 +743,7 @@
      "Une tente"
     ],
     "a": "Une stèle (matséva)",
-    "x": "« <he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he> » – pour que tout le monde sache où elle est enterrée, jusqu'à aujourd'hui !",
+    "x": "« <he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he> » – pour que tous sachent qu'une femme grande et importante repose là (Abarbanel), et pour qu'on ne creuse pas à cet endroit (Sforno). Jusqu'à aujourd'hui, on peut prier au « Kever Ra'hel » !",
     "c": 0
    },
    {
@@ -783,7 +787,7 @@
      "Pour avancer plus vite sur la route"
     ],
     "a": "Si Essav attaque un camp – l'autre sera sauvé",
-    "x": "« <he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he> » <tr>– « si Essav attaque un camp, l'autre pourra s'échapper »</tr>.",
+    "x": "« <he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he> » <tr>– « si Essav attaque un camp, l'autre pourra s'échapper »</tr>. Yaakov s'est préparé de trois façons : un cadeau, une prière – et aussi une préparation à la guerre. La division en deux camps, c'est la préparation au pire.",
     "c": 0
    },
    {
@@ -805,7 +809,7 @@
      "Ses deux fils aînés"
     ],
     "a": "De vrais anges",
-    "x": "Rachi : « <he>מַלְאָכִים מַמָּשׁ</he> » – Yaakov a envoyé de vrais anges, et non des hommes.",
+    "x": "Rachi : « <he>מַלְאָכִים מַמָּשׁ</he> » – Yaakov a envoyé de vrais anges, et non des hommes – car des hommes auraient eu peur d'aller vers Essav. (Le Midrach rapporte aussi un avis selon lequel c'étaient des messagers humains.)",
     "c": 0
    },
    {
@@ -871,7 +875,7 @@
      "Il n'avait plus de forces"
     ],
     "a": "C'était son tour de chanter devant Hachem",
-    "x": "« <he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he> » – nos Sages racontent que ce matin-là, c'était le tour de cet ange de chanter devant Hachem, pour la première fois depuis sa création ! 🎶",
+    "x": "« <he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he> » – nos Sages racontent que ce matin-là, c'était le tour de cet ange de chanter devant Hachem, pour la première fois depuis sa création ! 🎶 Il ne voulait donc pas manquer ce moment.",
     "c": 0
    },
    {
@@ -1080,7 +1084,7 @@
      "Yaakov a honoré Essav et l'a laissé passer devant"
     ],
     "a": "Yaakov a honoré Essav et l'a laissé passer devant",
-    "x": "Bien que Yaakov ait acheté à Essav le droit d'aînesse – aux funérailles de leur père, il a honoré Essav et l'a laissé passer en premier.",
+    "x": "Bien que Yaakov ait acheté à Essav le droit d'aînesse – aux funérailles de leur père, il a honoré Essav et l'a laissé passer en premier. Yaakov nous apprend : le respect passe avant toute dispute – même envers un frère qui ne s'est pas toujours bien conduit.",
     "c": 2
    },
    {
@@ -1128,14 +1132,14 @@
     "c": 0
    },
    {
-    "q": "Ra'hel a été enterrée sur la route, près de Beth-Lé'hem – et non dans le Caveau des Patriarches. Pourquoi ?",
+    "q": "Quand Yaakov est revenu à l'endroit où il avait fait un vœu en fuyant Essav – qu'a-t-il encore accompli de ce vœu, en plus de construire l'autel ?",
     "opts": [
-     "Parce que 'Hévron était trop dur à atteindre en hiver",
-     "Parce que Léa voulait y être enterrée seule",
-     "Pour prier pour ses enfants quand ils partiraient en exil"
+     "Il a jeûné trois jours sur place",
+     "Il a réuni ses fils pour les bénir",
+     "Il a prélevé la dîme de tout ce qu'il avait reçu"
     ],
-    "a": "Pour que, lorsque ses enfants partiraient en exil, elle prie pour eux",
-    "x": "Yaakov savait par inspiration divine qu'à la destruction du Temple, le peuple d'Israël passerait par cette route en partant en exil. Ra'hel pleurerait et prierait pour eux : « <he>רָחֵל מְבַכָּה עַל בָּנֶיהָ</he> » <tr>– « Ra'hel pleure ses enfants »</tr> – et Hachem a exaucé sa prière. 💙",
+    "a": "Il a prélevé la dîme de tout ce qu'Hachem lui avait donné",
+    "x": "En fuyant Essav, Yaakov avait fait un vœu : « <he>וְכֹל אֲשֶׁר תִּתֶּן לִי עַשֵּׂר אֲעַשְּׂרֶנּוּ לָךְ</he> » <tr>– « de tout ce que Tu me donneras, je Te donnerai la dîme »</tr>. Vingt ans plus tard, Hachem l'avait protégé, lui avait donné une grande famille et beaucoup de biens – et Ibn Ezra écrit qu'à ce moment Yaakov a accompli aussi cette partie, en donnant à Hachem un dixième de tout ce qu'il avait reçu. Yaakov nous apprend : quand Hachem nous aide, on n'oublie pas de remercier et de tenir ses promesses.",
     "c": 2
    },
    {
@@ -1172,25 +1176,25 @@
     "c": 0
    },
    {
-    "q": "Yaakov a ordonné d'écarter les « dieux étrangers » de sa maison, et les a cachés sous le térébinthe près de Chekhem. Que raconte le Midrach sur cette cachette ?",
+    "q": "Énigme de Rav Mordekhaï Madar : quel verset de la paracha a tous ses mots qui se terminent par la même lettre ? (Et quelle est l'allusion ?)",
     "opts": [
-     "Il a déraciné l'arbre, caché dessous et l'a replanté",
-     "Il les a enterrées la nuit, pour que personne ne sache",
-     "Il les a brisées et jetées dans la rivière"
+     "« Deux cents chèvres et vingt boucs, deux cents brebis et vingt béliers »",
+     "« Quarante vaches et dix taureaux »",
+     "« Vers le pays de Séïr, la campagne d'Edom »"
     ],
-    "a": "Il a déraciné tout l'arbre, caché dessous et l'a replanté – et les peuples ont eu peur",
-    "x": "« <he>וַיִּטְמֹן אֹתָם יַעֲקֹב תַּחַת הָאֵלָה אֲשֶׁר עִם שְׁכֶם</he> ». Le Midrach raconte que les peuples ont vu Yaakov déraciner l'arbre en entier, enterrer les idoles – et replanter l'arbre. En voyant sa force, ils ont eu peur de lui. Et certains expliquent que Yaakov leur a demandé de ne profiter de rien de ce qui avait servi à l'idolâtrie – même pas de l'or ou de l'argent. ✨",
+    "a": "« Izim matayim outeyachim esrim, re'helim matayim véélim esrim » – tous en ם, allusion au « moum »",
+    "x": "« <he>עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים</he> » <tr>– « deux cents chèvres et vingt boucs, deux cents brebis et vingt béliers »</tr> – les six mots se terminent par la lettre <he>ם</he> (mem) ! Le Baal Hatourim explique que c'est une allusion au « moum » (défaut) : Yaakov n'a envoyé à Essav que des bêtes ayant un défaut, qu'on ne peut pas offrir en sacrifice. Ainsi Essav ne pourrait pas acquérir le mérite d'offrir des korbanot grâce au cadeau de Yaakov. Un cadeau généreux – mais plein de sagesse. 🧩",
     "c": 0
    },
    {
-    "q": "Après l'épisode de Réouven avec le lit de son père, la Torah continue aussitôt : « Les fils de Yaakov étaient douze ». Qu'enseigne-t-elle ?",
+    "q": "Ra'hel a été enterrée sur la route, pour prier pour ses enfants quand ils partiraient en exil. Le Midrach raconte qu'Avraham, Yits'hak et Yaakov ont prié – sans être exaucés, et que seule la prière de Ra'hel a été acceptée. Pourquoi elle ?",
     "opts": [
-     "Que Réouven a été retiré du compte des tribus",
-     "Que Yaakov n'a plus eu d'enfants ensuite",
-     "Ils étaient tous justes – Réouven reste l'aîné"
+     "Parce qu'elle était la plus jeune des Matriarches",
+     "Parce qu'elle était enterrée le plus près de Jérusalem",
+     "Elle a renoncé et souffert pour que sa sœur ne soit pas humiliée"
     ],
-    "a": "Qu'ils étaient tous des tsadikim – Réouven n'a pas fauté au sens simple et reste l'aîné",
-    "x": "Réouven avait déplacé le lit de Yaakov de la tente de Bilha à celle de Léa, sa mère – pour honorer sa mère. La Torah compte aussitôt toutes les tribus ensemble pour enseigner : ils sont tous égaux et justes, et Réouven n'a pas perdu son rang. C'est pourquoi il est écrit juste après « <he>בְּכוֹר יַעֲקֹב רְאוּבֵן</he> » <tr>– « l'aîné de Yaakov, Réouven »</tr>.",
+    "a": "Parce qu'elle a renoncé et souffert – pour que sa sœur ne soit pas humiliée, sans jalousie",
+    "x": "Quand le peuple d'Israël a fauté en introduisant une idole dans le Temple, Avraham, Yits'hak et Yaakov sont venus prier – et leur prière n'a pas été acceptée. Alors Ra'hel est venue et a dit devant Hachem : « Quand on a amené Léa ma sœur auprès de mon mari – j'ai souffert et je me suis tue, pour que ma sœur ne soit pas humiliée. Moi, simple être humain, je n'ai pas été jalouse – et Toi, Maître du monde, Tu Te fâcherais à cause d'une idole qui n'est rien ?! » Aussitôt, Hachem s'est apaisé. 💙 La force de Ra'hel, c'est son immense renoncement : elle a préféré souffrir elle-même, pourvu que sa sœur ne soit pas humiliée. C'est pourquoi même Léa, qui avait plus d'enfants, n'a pas été enterrée là – car c'est la prière de Ra'hel qui ouvre les portes du Ciel. Et le message pour nous : celui qui renonce pour les autres et protège leur dignité – sa prière est particulièrement puissante.",
     "c": 2
    }
   ]
