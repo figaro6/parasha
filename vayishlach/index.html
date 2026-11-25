@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta property="og:type" content="website">
+<meta property="og:title" content="חידון הפרשה · פרשת וישלח 🎲 Le Quiz de la Paracha">
+<meta property="og:description" content="עשו בא עם 400 איש… לילה של מאבק מסתורי ושם חדש 🌙 · Ésav, 400 hommes, une nuit de combat… Jouez avec toute la famille !">
+<meta property="og:image" content="https://figaro6.github.io/parasha/logo.png">
+<meta property="og:url" content="https://figaro6.github.io/parasha/vayishlach/">
+<meta name="theme-color" content="#221c6b">
+<title>חידון הפרשה · Le Quiz de la Paracha – Vayishlach</title>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&family=Suez+One&family=Secular+One&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#1b1f5e;--purple:#5b3fb5;--pink:#e0457b;--gold:#f6c545;--cream:#fff8e6}
+*{box-sizing:border-box;margin:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;overflow:hidden;overscroll-behavior:none}
+body{font-family:'Rubik',sans-serif;color:var(--navy);background:linear-gradient(180deg,#221c6b 0,#4a33a0 42%,#e0457b 82%,#ffb35c 100%)}
+.fx{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.fx i{position:absolute;top:0;font-style:normal;animation:fall linear infinite;opacity:.55}
+@keyframes fall{from{transform:translateY(-12vh) rotate(-12deg)}50%{transform:translateY(55vh) rotate(12deg)}to{transform:translateY(112vh) rotate(-12deg)}}
+
+/* ---------- one-screen layout ---------- */
+#app{position:relative;z-index:1;height:100vh;height:100dvh;max-width:520px;margin:0 auto;display:flex;flex-direction:column;align-items:stretch;justify-content:space-between;
+ padding:calc(env(safe-area-inset-top) + 1.4vh) 16px calc(env(safe-area-inset-bottom) + 1.6vh);text-align:center;color:#fff}
+body[data-l="he"] .Lf,body[data-l="fr"] .Lh{display:none!important}
+.top{display:flex;align-items:center;justify-content:space-between;gap:8px;direction:ltr}
+.langs{display:flex;gap:6px}
+.langs button,#mbtn{font-family:'Rubik';font-weight:700;font-size:min(3.4vw,1.9vh);border:2px solid #ffffff66;background:#ffffff1c;color:#fff;border-radius:999px;padding:.55em 1.1em;cursor:pointer}
+.langs button.act{background:#fff;color:var(--navy);border-color:#fff}
+#mbtn{background:#fff;color:var(--navy);border-color:#fff;box-shadow:0 4px 12px #0004}
+#mbtn.on{background:var(--gold);border-color:var(--gold)}
+.logo{display:inline-flex;align-items:center;gap:8px;background:#fff;border-radius:14px;padding:5px 12px 5px 6px;box-shadow:0 5px 16px #0004;direction:ltr;unicode-bidi:isolate;align-self:center}
+.logo svg{width:min(9vw,5vh);height:min(9vw,5vh);flex:none}
+.logo .nm{font-family:'Suez One',serif;font-size:min(6.4vw,3.6vh);line-height:1;color:var(--navy)}
+.logo .nm em{font-style:normal;color:var(--pink)}
+.logo .tg{font-family:'Secular One',sans-serif;font-size:min(2.6vw,1.45vh);letter-spacing:.5px;background:var(--gold);color:var(--navy);border-radius:999px;padding:.35em .8em}
+.emo{font-size:min(9vw,5vh);letter-spacing:.3em;line-height:1}
+h1{font-family:'Suez One',serif;font-size:min(9vw,5.4vh);line-height:1.05;font-weight:400}
+h1 b{color:var(--gold);font-weight:400}
+.pill{display:inline-block;font-family:'Suez One';font-size:min(7vw,4vh);background:linear-gradient(90deg,var(--gold),#ffdf8a);color:var(--navy);padding:.05em .7em .18em;border-radius:14px;box-shadow:0 5px 14px #0004}
+.sub{font-size:min(4.2vw,2.3vh)}
+.card{background:var(--cream);color:var(--navy);border-radius:20px;padding:min(3.4vw,1.8vh) min(4.4vw,2.2vh);box-shadow:0 8px 22px #0003;text-align:start}
+.card h2{font-family:'Suez One',serif;font-weight:400;font-size:min(6vw,3.3vh);margin-bottom:.15em}
+.card h2 span{color:var(--pink)}
+.card li{list-style:none;padding:.32em 0;border-bottom:1px dashed #d8c9a0;font-size:min(4vw,2.2vh);line-height:1.3;font-weight:500}
+.card li:last-of-type{border:0}
+.card ul{padding:0}
+.card .q{font-family:'Suez One',serif;color:var(--purple);font-size:min(4.4vw,2.4vh);margin-top:.25em}
+.btns{display:flex;flex-direction:column;gap:min(2.4vw,1.2vh)}
+.cta{display:block;text-align:center;text-decoration:none;font-family:'Suez One',serif;font-size:min(6vw,3.2vh);padding:.55em;border-radius:16px;color:#fff;box-shadow:0 6px 16px #0004}
+.cta.s{font-size:min(4.8vw,2.6vh);padding:.5em}
+.play{background:linear-gradient(90deg,var(--pink),#ff7a59);animation:pulse 1.8s infinite}
+.wa{background:linear-gradient(90deg,#1faa59,#25d366)}
+@keyframes pulse{50%{transform:scale(1.03)}}
+.foot{font-family:'Suez One',serif;font-size:min(4.2vw,2.3vh);color:#fff3c9}
+.foot small{font-family:Rubik;font-size:.7em;opacity:.8;direction:ltr;unicode-bidi:isolate;margin-inline-start:.5em}
+
+/* ---------- entrance screen (the tap that starts the music) ---------- */
+#gate{position:fixed;inset:0;z-index:10;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:min(2.6vh,18px);
+ background:linear-gradient(180deg,#221c6b 0,#4a33a0 55%,#e0457b 100%);color:#fff;text-align:center;padding:20px;cursor:pointer;transition:opacity .6s}
+#gate.out{opacity:0;pointer-events:none}
+#gate .bsd{opacity:.8;font-size:15px}
+#gate h1{font-size:min(10vw,6vh)}
+#gate .candle{position:relative;width:min(34vw,18vh);height:min(34vw,18vh);border-radius:50%;background:radial-gradient(circle,#ffe08f 0,#f6c545 45%,#e0a92b 100%);display:flex;align-items:center;justify-content:center;font-size:min(17vw,9vh);box-shadow:0 0 40px #f6c545aa;animation:glow 1.6s ease-in-out infinite}
+#gate .candle:after{content:"";position:absolute;inset:-14px;border-radius:50%;border:3px solid #f6c54599;animation:ring 1.6s ease-out infinite}
+@keyframes glow{50%{transform:scale(1.07);box-shadow:0 0 70px #f6c545}}
+@keyframes ring{from{transform:scale(.9);opacity:1}to{transform:scale(1.35);opacity:0}}
+#gate .tap{font-family:'Suez One',serif;font-size:min(6vw,3.3vh);line-height:1.35}
+#gate .tap small{display:block;font-family:Rubik;font-weight:500;font-size:.62em;opacity:.9;margin-top:.2em}
+</style>
+</head>
+<body data-l="he">
+<div class="fx" id="fx"></div>
+
+<!-- entrance -->
+<div id="gate">
+  <div class="bsd">בס״ד</div>
+  <div class="logo">
+    <svg viewBox="0 0 48 48"><defs><linearGradient id="lg0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1f5e"/><stop offset="1" stop-color="#5b3fb5"/></linearGradient></defs><rect width="48" height="48" rx="12" fill="url(#lg0)"/><rect x="14" y="12" width="20" height="24" rx="2" fill="#f6c545"/><rect x="10" y="10" width="7" height="28" rx="3.5" fill="#e0a92b"/><rect x="31" y="10" width="7" height="28" rx="3.5" fill="#e0a92b"/><path d="M24 17l1.8 3.7 4 .6-2.9 2.8.7 4L24 26.2l-3.6 1.9.7-4-2.9-2.8 4-.6z" fill="#1b1f5e"/></svg>
+    <span class="nm">Ouri<em>Mad</em></span><span class="tg">WEEKLY_PARASHA</span>
+  </div>
+  <h1 dir="rtl">חידון <b>הפרשה</b></h1>
+  <div class="pill" dir="rtl">פרשת וישלח</div>
+  <div class="candle">🕯️</div>
+  <div class="tap"><span dir="rtl">לחצו להדלקת נר ולשמוע ניגון 🎶</span><small>Touchez pour allumer la bougie et lancer le niggoun</small></div>
+</div>
+
+<div id="app">
+  <div class="top">
+    <div class="langs"><button id="bh" class="act">עברית</button><button id="bf">Français</button></div>
+    <button id="mbtn"></button>
+  </div>
+
+  <div>
+    <div class="logo">
+      <svg viewBox="0 0 48 48"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1f5e"/><stop offset="1" stop-color="#5b3fb5"/></linearGradient></defs><rect width="48" height="48" rx="12" fill="url(#lg)"/><rect x="14" y="12" width="20" height="24" rx="2" fill="#f6c545"/><rect x="10" y="10" width="7" height="28" rx="3.5" fill="#e0a92b"/><rect x="31" y="10" width="7" height="28" rx="3.5" fill="#e0a92b"/><path d="M24 17l1.8 3.7 4 .6-2.9 2.8.7 4L24 26.2l-3.6 1.9.7-4-2.9-2.8 4-.6z" fill="#1b1f5e"/></svg>
+      <span class="nm">Ouri<em>Mad</em></span><span class="tg">WEEKLY_PARASHA</span>
+    </div>
+  </div>
+
+  <div class="hero">
+    <div class="emo">🐪🌙🤼</div>
+    <div class="Lh" dir="rtl"><h1>חידון <b>הפרשה</b></h1><div class="pill">פרשת וישלח</div><p class="sub">חידון חדש וטרי לשולחן השבת! 🥳</p></div>
+    <div class="Lf" dir="ltr"><h1>Le Quiz de la <b>Paracha</b></h1><div class="pill">Parashat Vayishlach</div><p class="sub">Un nouveau quiz pour votre table de Chabbat&nbsp;! 🥳</p></div>
+  </div>
+
+  <div class="card Lh" dir="rtl">
+    <h2>השבוע: <span>וישלח</span> ✨</h2>
+    <ul>
+      <li>😰 <b>עשו בא</b> עם 400 איש!</li>
+      <li>🌙 לילה מסתורי של מאבק… ושם חדש</li>
+      <li>🤗 פגישה שאף אחד לא ציפה לה</li>
+      <li>🏡 דינה, בית אל… אבל ולידה</li>
+    </ul>
+    <div class="q">ומה אתם באמת יודעים? 😉</div>
+  </div>
+  <div class="card Lf" dir="ltr">
+    <h2>Cette semaine : <span>Vayishlach</span> ✨</h2>
+    <ul>
+      <li>😰 <b>Ésav arrive</b> avec 400 hommes&nbsp;!</li>
+      <li>🌙 Une nuit de combat… et un nouveau nom</li>
+      <li>🤗 Des retrouvailles inattendues</li>
+      <li>🏡 Dina, Bet-El… un deuil, une naissance</li>
+    </ul>
+    <div class="q">Et vous, que savez-vous vraiment ? 😉</div>
+  </div>
+
+  <div class="btns">
+    <a class="cta play Lh" dir="rtl" href="https://figaro6.github.io/parasha/" target="_blank" rel="noopener">▶️ משחקים עכשיו!</a>
+    <a class="cta play Lf" dir="ltr" href="https://figaro6.github.io/parasha/" target="_blank" rel="noopener">▶️ Jouer maintenant !</a>
+    <a class="cta s wa Lh" dir="rtl" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE" target="_blank" rel="noopener">💬 מצטרפים לקהילת הוואטסאפ</a>
+    <a class="cta s wa Lf" dir="ltr" href="https://chat.whatsapp.com/JjmPtZj7JYe0aMiUDLhqjE" target="_blank" rel="noopener">💬 Rejoindre la communauté WhatsApp</a>
+  </div>
+
+  <div class="foot"><span class="Lh" dir="rtl">שבת שלום ומבורך! 🕯️🕯️</span><span class="Lf" dir="ltr">Chabbat Chalom Oumevorakh ! 🕯️🕯️</span><small>OuriMad_weekly_parasha</small></div>
+</div>
+
+<script>
+var L='he',mb=document.getElementById('mbtn'),playing=false,userPaused=false;
+function lab(){
+  if(L==='he')return playing?'⏸️ ידיד נפש':'🎵 ידיד נפש';
+  return playing?'⏸️ Yedid Nefesh':'🎵 Yedid Nefesh';
+}
+function setL(l){L=l;document.body.dataset.l=l;document.documentElement.lang=l;
+ document.getElementById('bh').className=l==='he'?'act':'';document.getElementById('bf').className=l==='fr'?'act':'';mb.textContent=lab()}
+document.getElementById('bh').onclick=function(){setL('he')};
+document.getElementById('bf').onclick=function(){setL('fr')};
+// language: French phones open in French, everyone else in Hebrew
+try{if((navigator.language||'').toLowerCase().indexOf('fr')===0)setL('fr');else setL('he')}catch(e){setL('he')}
+
+// falling shapes taken from the parasha
+(function(){var s=document.getElementById('fx'),e=['🐪','🐑','🐐','🐄','🌙','⭐','🎁','🌊','🪨','🤼','🤗','⛺','🌳','🌅','🏺','🐫','🕯️','🐑'];
+for(var i=0;i<20;i++){var n=document.createElement('i');n.textContent=e[i%e.length];
+n.style.left=Math.random()*100+'%';n.style.fontSize=(20+Math.random()*18)+'px';
+n.style.animationDuration=(12+Math.random()*10)+'s';n.style.animationDelay=(-Math.random()*20)+'s';s.appendChild(n);}})();
+
+// ---- music: Nigun Yedid Nefesh (rights confirmed by the page owner) ----
+var au=new Audio('music.mp3');au.loop=true;au.preload='auto';au.volume=0.9;
+function mark(on){playing=on;mb.className=on?'on':'';mb.textContent=lab()}
+function startMusic(){var p;try{p=au.play()}catch(x){return Promise.reject(x)}
+  return p&&p.then?p.then(function(){mark(true)}):Promise.resolve()}
+function stopMusic(){au.pause();mark(false)}
+mb.onclick=function(){if(playing){userPaused=true;stopMusic()}else{userPaused=false;startMusic().catch(function(){})}};
+mb.textContent=lab();
+
+// 1) try to start by itself (works where the browser allows it)
+var gate=document.getElementById('gate');
+function openGate(){gate.className='out';setTimeout(function(){gate.style.display='none'},700)}
+startMusic().then(openGate,function(){/* blocked -> the entrance screen stays and its tap starts the music */});
+// 2) the entrance tap = user gesture: music starts at the same instant the page opens
+gate.addEventListener('click',function(){startMusic().catch(function(){});openGate()});
+</script>
+</body>
+</html>
