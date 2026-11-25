@@ -586,7 +586,7 @@ async function savePdf(url, btn, msg){
 function go(s){ slug = s; render().then(()=>window.scrollTo({top:0})); }
 for(const b of document.querySelectorAll(".lang button")) b.onclick = ()=>{ lang=b.dataset.l; store.set("lang",lang); render(); };
 
-fetch("data/manifest.json").then(r=>r.json()).then(m=>{ manifest=m; render().then(jumpDl); })
+fetch("data/manifest.json",{cache:"no-cache"}).then(r=>r.json()).then(m=>{ manifest=m; render().then(jumpDl); })
   .catch(()=>{ app.innerHTML = `<div class="empty">${UI[lang].err}</div>`; });
 </script>
 <script data-goatcounter="https://ourimad-parasha.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
