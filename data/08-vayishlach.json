@@ -1,0 +1,1202 @@
+{
+ "dedication": [
+  "לע\"נ הרה\"ג ר' חיים מאדאר זצ\"ל",
+  "לע\"נ מו\"ר ר' נועם סעדון זצ\"ל"
+ ],
+ "series": 8,
+ "slug": "vayishlach",
+ "date": "2026-11-28",
+ "print_mc": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  8,
+  10,
+  13,
+  15,
+  17,
+  26,
+  35,
+  46
+ ],
+ "year_he": "ה'תשפ\"ז",
+ "year": "5787",
+ "he": {
+  "parasha": "וישלח",
+  "kicker": "חידון לשולחן השבת",
+  "title": "יעקב חוזר <em>הביתה</em>!",
+  "emoji": "👼 🐐 🌊 🤼 🌅 🫙 ⛺ 🔥 🪨 👑",
+  "sub": "50 שאלות · 5 שלבים · לגילאי 5 עד 10 – וכל המשפחה",
+  "how": [
+   "אבא או אמא מקריאים את השאלה, והילדים עונים לפי התור – מהקטן לגדול.",
+   "בכל שלב השאלות קצת יותר קשות. כל שלב שווה יותר נקודות!",
+   "הקטנים יכולים לנסות גם שאלות של הגדולים – ואפשר לתת להם רמז 😉",
+   "בסוף סופרים נקודות – והאלוף בוחר מי מקבל את הקינוח ראשון! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "ניצנים",
+    "age": "לקטנטנים (גילאי 5–6) · נקודה אחת לכל תשובה"
+   },
+   {
+    "name": "חוקרים צעירים",
+    "age": "גילאי 6–7 · 2 נקודות לכל תשובה"
+   },
+   {
+    "name": "בלשי הפרשה",
+    "age": "גילאי 7–8 · 3 נקודות לכל תשובה"
+   },
+   {
+    "name": "חכמי השולחן",
+    "age": "גילאי 8–9 · 4 נקודות לכל תשובה"
+   },
+   {
+    "name": "אלופי הפרשה",
+    "age": "גילאי 9–10 · 5 נקודות לכל תשובה"
+   }
+  ],
+  "bye": "שבת שלום ומבורך! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "כמה שנים גר יעקב אצל לבן, לפני שחזר לארץ כנען?",
+    "opts": [
+     "14 שנה",
+     "20 שנה",
+     "7 שנים"
+    ],
+    "a": "20 שנה",
+    "x": "יעקב חוזר הביתה אחרי עשרים שנה בבית לבן. שם הקים את משפחתו, ושם נולדו לו אחד עשר בנים ובת אחת.",
+    "c": 1
+   },
+   {
+    "q": "השליחים חזרו ואמרו: עשו הולך לקראתך. כמה אנשים היו איתו?",
+    "opts": [
+     "400 איש",
+     "200 איש",
+     "70 איש"
+    ],
+    "a": "400 איש",
+    "x": "\"<he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he>\" – עשו עדיין שנא את יעקב, ובא עם צבא שלם. יעקב לא ידע אם עשו בא בשלום או למלחמה – ולכן התכונן לכל האפשרויות.",
+    "c": 0
+   },
+   {
+    "q": "בלילה נאבק מלאך עם יעקב. עד מתי?",
+    "opts": [
+     "עד חצות הלילה",
+     "עד הצהריים",
+     "עד עלות השחר"
+    ],
+    "a": "עד עלות השחר 🌅",
+    "x": "\"<he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he>\" – המאבק נמשך כל הלילה, עד הבוקר. חז\"ל אומרים שזה היה שרו (המלאך) של עשו – ויעקב לא נכנע לו עד שעלה האור.",
+    "c": 2
+   },
+   {
+    "q": "איזה שם חדש קיבל יעקב?",
+    "opts": [
+     "ישורון",
+     "ישראל",
+     "יהודה"
+    ],
+    "a": "ישראל",
+    "x": "\"<he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he>\" – השם ניתן לו אחרי המאבק: \"<he>כִּי שָׂרִיתָ עִם אֱלֹהִים וְעִם אֲנָשִׁים וַתּוּכָל</he>\". ומהשם הזה נקראים כל עם ישראל!",
+    "c": 1
+   },
+   {
+    "q": "במאבק, המלאך נגע ביעקב. איפה?",
+    "opts": [
+     "בכתף",
+     "ביד ימין",
+     "בכף הירך"
+    ],
+    "a": "בכף הירך",
+    "x": "\"<he>וַיִּגַּע בְּכַף יְרֵכוֹ</he>\" – העצם יצאה ממקומה, ויעקב צלע (הלך בקושי) אחרי המאבק.",
+    "c": 2
+   },
+   {
+    "q": "כשעשו ראה את יעקב – מה הוא עשה?",
+    "opts": [
+     "שלף חרב וקרא לאנשיו",
+     "רץ לקראתו, חיבק ונישק אותו",
+     "הסתובב והלך בלי לדבר"
+    ],
+    "a": "רץ לקראתו, חיבק ונישק אותו",
+    "x": "\"<he>וַיָּרָץ עֵשָׂו לִקְרָאתוֹ וַיְחַבְּקֵהוּ... וַיִּשָּׁקֵהוּ וַיִּבְכּוּ</he>\". על המילה וישקהו יש נקודות בתורה: יש אומרים שבאותו רגע עשו נישק בכל ליבו, ויש אומרים שרצה לנשוך – וה' הקשה את צווארו של יעקב כמו שיש!",
+    "c": 1
+   },
+   {
+    "q": "איזה בן ילדה רחל בפרשה שלנו?",
+    "opts": [
+     "יוסף",
+     "נפתלי",
+     "בנימין"
+    ],
+    "a": "את בנימין",
+    "x": "\"<he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he>\" – הבן השני של רחל, והאחרון מבין שנים עשר השבטים. רש\"י מוסיף: הוא היחיד מכל השבטים שנולד בארץ ישראל.",
+    "c": 2
+   },
+   {
+    "q": "יעקב בנה בית לעצמו, ומחסות לבהמות שלו. איך קרא למקום?",
+    "opts": [
+     "מחניים",
+     "סוכות",
+     "באר שבע"
+    ],
+    "a": "סוכות ⛺",
+    "x": "\"<he>וַיִּבֶן לוֹ בָּיִת וּלְמִקְנֵהוּ עָשָׂה סֻכֹּת עַל כֵּן קָרָא שֵׁם הַמָּקוֹם סֻכּוֹת</he>\".",
+    "c": 1
+   },
+   {
+    "q": "מה הקים יעקב על הקבר של רחל?",
+    "opts": [
+     "מצבה",
+     "מזבח",
+     "אוהל"
+    ],
+    "a": "מצבה",
+    "x": "\"<he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he>\" – כדי שכולם ידעו שאשה גדולה וחשובה קבורה שם (אברבנאל), וכדי שלא יחפרו במקום הזה (ספורנו). עד היום אפשר להתפלל ליד \"קבר רחל\"!",
+    "c": 0
+   },
+   {
+    "q": "בן כמה היה יצחק כשנפטר?",
+    "opts": [
+     "175",
+     "120",
+     "180"
+    ],
+    "a": "בן 180",
+    "x": "\"<he>וַיִּהְיוּ יְמֵי יִצְחָק מְאַת שָׁנָה וּשְׁמֹנִים שָׁנָה</he>\" – \"<he>זָקֵן וּשְׂבַע יָמִים</he>\", אחרי שזכה לראות את יעקב ואת נכדיו.",
+    "c": 2
+   },
+   {
+    "q": "עשו שאל על הילדים: \"מי אלה לך?\" – מה ענה יעקב?",
+    "opts": [
+     "\"אלה הם הנכדים של אבא שלנו\"",
+     "\"הילדים אשר חנן אלוקים את עבדך\"",
+     "\"אלה ילדיי, וכולם רועי צאן\""
+    ],
+    "a": "\"הילדים אשר חנן אלוקים את עבדך\"",
+    "x": "\"<he>הַיְלָדִים אֲשֶׁר חָנַן אֱלֹהִים אֶת עַבְדֶּךָ</he>\" – יעקב מזכיר שהכול מתנה מה'. 💙",
+    "c": 1
+   },
+   {
+    "q": "כמה פעמים השתחווה יעקב כשהתקרב לעשו?",
+    "opts": [
+     "3 פעמים",
+     "7 פעמים",
+     "12 פעמים"
+    ],
+    "a": "7 פעמים",
+    "x": "\"<he>וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים עַד גִּשְׁתּוֹ עַד אָחִיו</he>\". ויש אומרים שבליבו השתחווה לה', וביקש ממנו רחמים.",
+    "c": 1
+   },
+   {
+    "q": "יעקב חילק את כל האנשים והרכוש לשני מחנות. למה?",
+    "opts": [
+     "אם עשו יתקוף מחנה אחד – השני יינצל",
+     "כדי שיהיה מקום לכולם לישון",
+     "כדי שהדרך תעבור מהר יותר"
+    ],
+    "a": "אם עשו יתקוף מחנה אחד – השני יינצל",
+    "x": "\"<he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he>\". יעקב התכונן לפגישה בשלוש דרכים: מתנה, תפילה – וגם הכנה למלחמה. החלוקה למחנות היא ההכנה למקרה הגרוע ביותר.",
+    "c": 0
+   },
+   {
+    "q": "בלילה העביר יעקב את משפחתו בנחל. איך קוראים לנחל?",
+    "opts": [
+     "ירדן",
+     "יבוק",
+     "פרת"
+    ],
+    "a": "נחל יבוק",
+    "x": "\"<he>וַיַּעֲבֹר אֵת מַעֲבַר יַבֹּק</he>\" – באמצע הלילה, עם נשיו ואחד עשר ילדיו.",
+    "c": 1
+   },
+   {
+    "q": "לפי רש\"י, מי היו השליחים (\"מלאכים\") שיעקב שלח לעשו?",
+    "opts": [
+     "מלאכים ממש",
+     "רועי הצאן שלו",
+     "שני בניו הגדולים"
+    ],
+    "a": "מלאכים ממש",
+    "x": "רש\"י: \"<he>מַלְאָכִים מַמָּשׁ</he>\" – יעקב שלח מלאכים אמיתיים, ולא בני אדם – כי בני אדם היו מפחדים ללכת אל עשו. (ויש במדרש גם דעה שהיו אלה שליחים בני אדם.)",
+    "c": 0
+   },
+   {
+    "q": "בגלל המאבק עם המלאך, מה אסור לנו לאכול עד היום?",
+    "opts": [
+     "חֵלֶב (שומן אסור)",
+     "דם",
+     "גיד הנשה"
+    ],
+    "a": "גיד הנשה",
+    "x": "\"<he>עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל אֶת גִּיד הַנָּשֶׁה</he>\" – הגיד שזז ממקומו (\"נָשָׁה\") כשהמלאך פגע ביעקב.",
+    "c": 2
+   },
+   {
+    "q": "מה דרשו בני יעקב מאנשי שכם, כתנאי להתחתן איתם?",
+    "opts": [
+     "שכל הזכרים יעשו ברית מילה",
+     "שיתנו להם את כל השדות",
+     "שיעזבו את העיר"
+    ],
+    "a": "שכל הזכרים יעשו ברית מילה",
+    "x": "\"<he>אִם תִּהְיוּ כָמֹנוּ לְהִמֹּל לָכֶם כָּל זָכָר</he>\" – הם אמרו שבלי זה, \"<he>חֶרְפָּה הִוא לָנוּ</he>\".",
+    "c": 0
+   },
+   {
+    "q": "אילו שני אחים לקחו חרבות ונכנסו לעיר שכם?",
+    "opts": [
+     "ראובן ויהודה",
+     "דן ונפתלי",
+     "שמעון ולוי"
+    ],
+    "a": "שמעון ולוי",
+    "x": "\"<he>וַיִּקְחוּ שְׁנֵי בְנֵי יַעֲקֹב שִׁמְעוֹן וְלֵוִי אֲחֵי דִינָה אִישׁ חַרְבּוֹ</he>\" – ביום השלישי, כשאנשי העיר היו חלשים.",
+    "c": 2
+   },
+   {
+    "q": "לאן אמר ה' ליעקב לעלות ולבנות מזבח?",
+    "opts": [
+     "לירושלים",
+     "לבית אל",
+     "לחברון"
+    ],
+    "a": "לבית אל",
+    "x": "\"<he>קוּם עֲלֵה בֵית אֵל וְשֶׁב שָׁם וַעֲשֵׂה שָׁם מִזְבֵּחַ</he>\" – למקום שבו נדר נדר כשברח מעשו, לפני עשרים שנה.",
+    "c": 1
+   },
+   {
+    "q": "דבורה נפטרה בדרך, ויעקב בכה עליה. מי היא הייתה?",
+    "opts": [
+     "המינקת של רבקה",
+     "השפחה של לאה",
+     "אחותו של לבן"
+    ],
+    "a": "המינקת של רבקה",
+    "x": "\"<he>וַתָּמָת דְּבֹרָה מֵינֶקֶת רִבְקָה</he>\" – רבקה שלחה אותה לקרוא ליעקב לחזור הביתה. המקום נקרא \"אלון בכות\", ורש\"י מסביר שבאותו זמן הגיעה גם הידיעה שרבקה נפטרה.",
+    "c": 0
+   },
+   {
+    "q": "המלאך ביקש מיעקב לשחרר אותו. מה הייתה הסיבה?",
+    "opts": [
+     "הגיע תורו לומר שירה לפני ה'",
+     "הוא פחד שעשו יגיע",
+     "נגמר לו הכוח להמשיך"
+    ],
+    "a": "הגיע תורו לומר שירה לפני ה'",
+    "x": "\"<he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he>\" – חז\"ל מספרים שבאותו בוקר הגיע תורו של המלאך לומר שירה לפני ה', בפעם הראשונה מאז שנברא! 🎶 לכן לא רצה לפספס את ההזדמנות.",
+    "c": 0
+   },
+   {
+    "q": "מה דרש יעקב מהמלאך לפני שישחרר אותו?",
+    "opts": [
+     "שיבטיח שעשו לא יפגע בו",
+     "שיעזור לו להעביר את המשפחה",
+     "שיברך אותו"
+    ],
+    "a": "שיברך אותו",
+    "x": "\"<he>לֹא אֲשַׁלֵּחֲךָ כִּי אִם בֵּרַכְתָּנִי</he>\" – יעקב רצה שהמלאך של עשו יודה שהברכות של יצחק שייכות לו באמת. ובסוף: \"<he>וַיְבָרֶךְ אֹתוֹ שָׁם</he>\".",
+    "c": 2
+   },
+   {
+    "q": "לפני הפגישה עם עשו, יעקב שם את רחל בסוף. למה?",
+    "opts": [
+     "כי היא הלכה הכי לאט",
+     "\"אחרון אחרון חביב\" – וכדי שעשו לא יראה אותה",
+     "כי היא רצתה להיות ליד הצאן"
+    ],
+    "a": "\"אחרון אחרון חביב\" – וכדי שעשו לא יראה אותה",
+    "x": "יעקב סידר: קודם השפחות וילדיהן, אחר כך לאה וילדיה, ובסוף רחל – הכי יקרה לו. וגם: רחל הייתה יפה מאוד, ויעקב לא רצה שעשו הרשע יתלה בה עיניים.",
+    "c": 1
+   },
+   {
+    "q": "\"ויבוא יעקב שלם עיר שכם\" – במה היה יעקב \"שלם\"?",
+    "opts": [
+     "בשלום שעשה עם עשו בלבד",
+     "שלא נשאר חייב כסף ללבן",
+     "בגופו, בממונו ובתורתו"
+    ],
+    "a": "בגופו, בממונו ובתורתו",
+    "x": "שלם בגופו – נרפא מהצליעה. שלם בממונו – ה' השלים לו את מה שנתן במתנות לעשו. שלם בתורתו – בכל השנים אצל לבן לא שכח את מה שלמד.",
+    "c": 2
+   },
+   {
+    "q": "אחרי שנפרד מעשו – כמה זמן התעכב יעקב בדרך, לפני שהגיע לעיר שכם?",
+    "opts": [
+     "3 חודשים",
+     "18 חודשים",
+     "7 שנים"
+    ],
+    "a": "18 חודשים",
+    "x": "חז\"ל לומדים מהפסוק (שכתוב בו \"בית\" וגם \"סוכות\") שיעקב נשאר בסוכות 18 חודשים: קיץ, חורף וקיץ.",
+    "c": 1
+   },
+   {
+    "q": "כשיעקב העביר את המשפחה מצד לצד של הנחל – למה הוא דמה?",
+    "opts": [
+     "לסירה",
+     "לרועה שהולך לפני הצאן",
+     "לגשר"
+    ],
+    "a": "לגשר",
+    "x": "רש\"י: יעקב עשה את עצמו כמו גשר – לוקח מכאן ומניח שם. ויש מסבירים שבדק קודם את עומק המים, הרים את הקטנים על כתפיו והוביל את הגדולים ביד.",
+    "c": 2
+   },
+   {
+    "q": "לפני הפגישה עם עשו – איפה הסתיר יעקב את דינה?",
+    "opts": [
+     "בתיבה",
+     "באוהל של לאה",
+     "בין עדרי הצאן"
+    ],
+    "a": "בתיבה",
+    "x": "יעקב שם את דינה בתיבה, כדי שעשו לא יראה אותה וירצה להתחתן איתה. רש\"י אומר שיעקב נענש על כך: אולי היא הייתה מחזירה את עשו בתשובה!",
+    "c": 0
+   },
+   {
+    "q": "עשו אמר \"יש לי רב\", ויעקב אמר \"יש לי כל\". מה ההבדל?",
+    "opts": [
+     "לעשו יש יותר ממה שצריך; ליעקב יש כל מה שהוא צריך",
+     "לעשו היה כסף, וליעקב היו בהמות",
+     "אין הבדל – שניהם התכוונו לאותו דבר"
+    ],
+    "a": "לעשו יש יותר ממה שצריך; ליעקב יש כל מה שהוא צריך",
+    "x": "עשו אמר בגאווה: יש לי הרבה – יותר ממה שאני צריך (ותמיד רוצה עוד). יעקב אמר: יש לי הכול – כל מה שאני צריך, ואני שמח. \"<he>אֵיזֶהוּ עָשִׁיר? הַשָּׂמֵחַ בְּחֶלְקוֹ</he>\". 😊",
+    "c": 0
+   },
+   {
+    "q": "רחל קראה לבן שנולד לה \"בן אוני\". מה פירוש השם?",
+    "opts": [
+     "בן השמחה שלי",
+     "בן הזקונים שלי",
+     "בן הצער שלי"
+    ],
+    "a": "בן הצער שלי",
+    "x": "\"אוני\" מלשון צער: הלידה הייתה קשה מאוד, ורחל נפטרה מיד אחריה. יעקב לא רצה שהילד ייקרא בשם עצוב, וקרא לו שם אחר.",
+    "c": 2
+   },
+   {
+    "q": "יעקב קנה חלקת שדה ליד שכם. בכמה?",
+    "opts": [
+     "בחמישים שקל כסף",
+     "בעשרה כבשים",
+     "במאה קשיטה"
+    ],
+    "a": "במאה קשיטה",
+    "x": "\"<he>וַיִּקֶן אֶת חֶלְקַת הַשָּׂדֶה... בְּמֵאָה קְשִׂיטָה</he>\" – קשיטה היא סוג של מטבע שהיה נהוג אז. שם בנה מזבח והודה לה' על כל הניסים.",
+    "c": 2
+   },
+   {
+    "q": "\"ויירא יעקב מאד ויצר לו\" – מה ההבדל בין הפחד לבין הצער?",
+    "opts": [
+     "פחד שייהרג, וצר לו שמא יהרוג אחרים",
+     "פחד מעשו, וצר לו על לבן",
+     "פחד על הילדים, וצר לו על הרכוש"
+    ],
+    "a": "פחד שייהרג, וצר לו שמא יהרוג אחרים",
+    "x": "רש\"י: \"ויירא\" – שמא ייהרג. \"ויצר לו\" – שמא יהרוג אחרים. גם להרוג אויב היה ליעקב קשה וכואב.",
+    "c": 0
+   },
+   {
+    "q": "יעקב אמר לעשו: \"עם לבן גרתי\". מה רמז במילה \"גרתי\" לפי הגימטריה (המספר)?",
+    "opts": [
+     "רמ\"ח – 248 מצוות עשה",
+     "תרי\"ג – שמר את 613 המצוות",
+     "12 – מספר השבטים"
+    ],
+    "a": "תרי\"ג – שמר את 613 המצוות",
+    "x": "גרתי = ג(3)+ר(200)+ת(400)+י(10) = 613. כלומר: גרתי אצל לבן הרשע – ושמרתי את כל תרי\"ג המצוות.",
+    "c": 1
+   },
+   {
+    "q": "יעקב ציווה את עבדיו: \"ורווח תשימו בין עדר ובין עדר\". למה?",
+    "opts": [
+     "כדי שעשו יראה מתנה אחרי מתנה – וכעסו יירגע",
+     "כדי שהבהמות לא יריבו ביניהן",
+     "כדי שיהיה קל יותר לספור אותן"
+    ],
+    "a": "כדי שעשו יראה מתנה אחרי מתנה – וכעסו יירגע",
+    "x": "כך עשו מקבל עוד ועוד מתנות, אחת אחרי השנייה, ומרגיש שהמתנה ענקית. ובמדרש: יעקב ביקש מה' – כשיבואו צרות על עם ישראל, שיהיה \"רווח\" ביניהן.",
+    "c": 0
+   },
+   {
+    "q": "\"ויזרח לו השמש\" – למה השמש זרחה במיוחד בשביל יעקב?",
+    "opts": [
+     "כדי לרפא אותו – ולהשלים שעות שחסרו כשיצא",
+     "כדי שעשו יראה אותו מרחוק",
+     "כדי לייבש את הבגדים אחרי הנחל"
+    ],
+    "a": "כדי לרפא אותו – ולהשלים את השעות שהשקיעה הקדימה כשיצא",
+    "x": "השמש ריפאה את הצליעה של יעקב. ובגמרא: כשיעקב יצא מארץ ישראל, השמש שקעה מוקדם כדי שיישן בבית אל – ועכשיו, כשחזר, היא זרחה מוקדם והחזירה את השעות שחסרו.",
+    "c": 0
+   },
+   {
+    "q": "אחרי המעשה בשכם, יעקב אמר לבניו: \"עכרתם אותי להבאישני ביושב הארץ\". למה המדרש משל את זה?",
+    "opts": [
+     "לבאר מים שמישהו סתם",
+     "לחבית יין צלול שמישהו טלטל ועכר",
+     "לשדה שמישהו שרף לפני הקציר"
+    ],
+    "a": "לחבית יין צלול שמישהו טלטל ועכר",
+    "x": "המדרש: כמו חבית של יין צלול, שהשמרים שקטים בתחתית – ומישהו מטלטל אותה והיין נעשה עכור. כך גם: עד עכשיו היה שקט ושם טוב, ועכשיו העמים עלולים להתאחד ולהילחם במשפחה.",
+    "c": 1
+   },
+   {
+    "q": "המלאך אמר: \"לא יעקב יאמר עוד שמך\". למה השם \"יעקב\" כבר לא מתאים?",
+    "opts": [
+     "כי הברכות לא הגיעו בעקבה ובמרמה – אלא בגלוי",
+     "כי יעקב כבר לא גר בחרן",
+     "כי יעקב הוא כבר אבא לילדים רבים"
+    ],
+    "a": "כי הברכות לא הגיעו בעקבה ובמרמה – אלא בגלוי",
+    "x": "השם יעקב מזכיר את מה שעשו אמר: \"<he>וַיַּעְקְבֵנִי זֶה פַעֲמַיִם</he>\" – כאילו לקח את הברכות בעורמה. השם החדש, מלשון \"שר\" ו\"ישר\", אומר: הברכות שלך ביושר ובכבוד.",
+    "c": 0
+   },
+   {
+    "q": "כשחמור ושכם שכנעו את אנשי העיר להסכים לתנאי – מה הבטיחו להם?",
+    "opts": [
+     "שיעקב ישלם לכל אחד מהם כסף",
+     "שהמקנה והרכוש של משפחת יעקב יהיו שלהם",
+     "שבני יעקב יעבדו בשדות העיר"
+    ],
+    "a": "שהמקנה והרכוש של משפחת יעקב יהיו שלהם",
+    "x": "\"<he>מִקְנֵהֶם וְקִנְיָנָם וְכָל בְּהֶמְתָּם הֲלוֹא לָנוּ הֵם</he>\". והם גם הפכו את הדברים: ליעקב אמרו \"תיקחו מבנותינו\", ולאנשי העיר אמרו – אנחנו ניקח מבנותיהם כמה שנרצה.",
+    "c": 1
+   },
+   {
+    "q": "כשיעקב שמע מה קרה לבתו – \"והחרש יעקב עד בואם\". למה שתק?",
+    "opts": [
+     "כי לא האמין שזה באמת קרה",
+     "כי פחד מחמור יותר מכולם",
+     "חיכה לבניו, כדי לא לפעול בבהלה ולהתייעץ איתם"
+    ],
+    "a": "חיכה לבניו, כדי לא לפעול בבהלה ולהתייעץ איתם",
+    "x": "חז\"ל אומרים שיעקב שתק כדי שלא יפעל מתוך בהלה. המעשה כבר נעשה, ולכן חיכה שבניו יחזרו מהשדה כדי להתייעץ איתם מה לעשות.",
+    "c": 2
+   },
+   {
+    "q": "למה נפטרה רחל צעירה, בגיל 37 בלבד?",
+    "opts": [
+     "כי הדרך מחרן הייתה ארוכה וקשה",
+     "בגלל מה שאמר יעקב ללבן על מי שלקח את התרפים",
+     "כי חלתה בזמן שהותם בשכם"
+    ],
+    "a": "בגלל מה שאמר יעקב ללבן: \"עם אשר תמצא את אלוהיך – לא יחיה\"",
+    "x": "כשלבן חיפש את התרפים, יעקב לא ידע שרחל לקחה אותם, ואמר: \"<he>עִם אֲשֶׁר תִּמְצָא אֶת אֱלֹהֶיךָ לֹא יִחְיֶה</he>\". יעקב לא ידע – ובכל זאת, הדיבור של צדיק התקיים.",
+    "c": 1
+   },
+   {
+    "q": "\"ויקברו אותו עשו ויעקב בניו\" – למה עשו כתוב לפני יעקב?",
+    "opts": [
+     "כי עשו גר קרוב יותר לחברון",
+     "כי עשו הוא שקנה את מקום הקבורה",
+     "יעקב כיבד את עשו והקדים אותו לפניו"
+    ],
+    "a": "יעקב כיבד את עשו והקדים אותו לפניו",
+    "x": "אף על פי שיעקב קנה מעשו את הבכורה – בהלוויה של אביהם הוא כיבד את עשו והניח לו ללכת ראשון. כך מלמד אותנו יעקב: כבוד חשוב יותר מכל ויכוח – גם כלפי אח שלא תמיד נהג בנו יפה.",
+    "c": 2
+   },
+   {
+    "q": "יעקב התפלל: \"הצילני נא מיד אחי, מיד עשו\". למה כפל – גם \"אחי\" וגם \"עשו\"?",
+    "opts": [
+     "כדי שה' יבין בדיוק לאיזה אח הוא מתכוון",
+     "פחד משתי סכנות: שעשו יילחם בו – או שיתנהג כאח ויתקרב",
+     "כי לעשו היו שני צבאות"
+    ],
+    "a": "פחד משתי סכנות: שעשו יילחם בו – או שיתנהג כאח ויתקרב",
+    "x": "יעקב פחד משני דברים. אם עשו יבוא כ\"עשו\" – הרשע שרוצה להרוג – זו סכנה לגוף. אבל אם יבוא כ\"אחי\" – אוהב, ידידותי, רוצה לגור יחד – זו סכנה אחרת: הילדים עלולים ללמוד ממעשיו. לכן ביקש להינצל משתיהן! (ובאמת, אחר כך עשו הציע \"נסעה ונלכה\" – ויעקב סירב בנימוס).",
+    "c": 1
+   },
+   {
+    "q": "\"קטנתי מכל החסדים\" – ממה חשש יעקב, למרות שה' הבטיח לשמור עליו?",
+    "opts": [
+     "שהחסדים הרבים הקטינו את זכויותיו – ואולי חטא",
+     "שה' שכח את ההבטחה שנתן לו",
+     "שעשו התפלל חזק יותר ממנו"
+    ],
+    "a": "שהחסדים הרבים הקטינו את זכויותיו – ואולי חטא",
+    "x": "יעקב אמר: ה' עשה איתי כל כך הרבה חסדים – כשעברתי את הירדן היה לי רק מקל, ועכשיו יש לי שני מחנות. אולי בגלל כל החסדים האלה \"קטנו\" הזכויות שלי? ואולי חטאתי, וההבטחה כבר לא תעמוד לי? צדיק לא בטוח בעצמו – הוא תמיד חושש שלא עשה מספיק. 🙏",
+    "c": 0
+   },
+   {
+    "q": "יעקב חזר לבד, בלילה, לעבר השני של הנחל – בשביל פכים קטנים שנשכחו. למה זה היה חשוב לו?",
+    "opts": [
+     "כי בפכים היה כל הזהב שלו",
+     "לצדיקים ממונם חביב – כי הרוויחו אותו ביושר",
+     "כי רצה לבדוק שעשו לא מתקרב"
+    ],
+    "a": "לצדיקים ממונם חביב – כי הרוויחו אותו ביושר, בלי שום גזל",
+    "x": "חז\"ל: \"<he>צַדִּיקִים מָמוֹנָם חָבִיב עֲלֵיהֶם... לְפִי שֶׁאֵין פּוֹשְׁטִים יְדֵיהֶם בְּגָזֵל</he>\". הם לא מבזבזים, כי כל פרוטה הגיעה ביושר ובעבודה קשה. ויש מוסיפים: אחד הפכים היה פך השמן שה' זימן ליעקב בבית אל – ואותו פך התמלא שוב ושוב… 🫙",
+    "c": 1
+   },
+   {
+    "q": "יעקב אמר לעשו: \"ראיתי פניך כראות פני אלוקים\". למה הזכיר דווקא את הפנים של המלאך?",
+    "opts": [
+     "כדי שעשו יפחד – יעקב ניצח את המלאך שלו",
+     "כדי להחמיא לעשו על יופיו",
+     "כי עשו באמת נראה כמו מלאך"
+    ],
+    "a": "כדי שעשו יפחד – יעקב ניצח את המלאך שלו",
+    "x": "בלילה יעקב נאבק עם שרו של עשו – וניצח. כשהוא אומר לעשו \"הפנים שלך מזכירות לי את המלאך\", הוא רומז: ראיתי את המלאך שלך, ונצחתי אותו. כך עשו יפחד ממנו – ויסכים לקחת את המתנה.",
+    "c": 0
+   },
+   {
+    "q": "כשיעקב חזר למקום שבו נדר נדר כשברח מעשו – מה עוד קיים מהנדר, מלבד בניית המזבח?",
+    "opts": [
+     "צם שלושה ימים במקום",
+     "קרא לכל בניו וברך אותם",
+     "הפריש מעשר מכל מה שה' נתן לו"
+    ],
+    "a": "הפריש מעשר מכל מה שה' נתן לו",
+    "x": "כשיעקב ברח מעשו, הוא נדר: \"<he>וְכֹל אֲשֶׁר תִּתֶּן לִי עַשֵּׂר אֲעַשְּׂרֶנּוּ לָךְ</he>\". אחרי עשרים שנה ה' שמר עליו, נתן לו משפחה גדולה ורכוש רב – ואבן עזרא כותב שעכשיו יעקב קיים גם את החלק הזה, ונתן לה' עשירית מכל מה שקיבל. כך מלמד אותנו יעקב: כשה' עוזר לנו – לא שוכחים להודות ולקיים את מה שהבטחנו.",
+    "c": 2
+   },
+   {
+    "q": "עשו עזב את ארץ כנען \"מפני יעקב אחיו\". מה היו הסיבות?",
+    "opts": [
+     "יעקב גירש אותו בכוח מהארץ",
+     "התבייש שמכר את הבכורה, ולא רצה לשאת בגזרת \"גר יהיה זרעך\"",
+     "הוא רצה לגור ליד לבן"
+    ],
+    "a": "התבייש שמכר את הבכורה, ולא רצה לשאת בגזרת \"גר יהיה זרעך\"",
+    "x": "רש\"י מביא שני טעמים: א. עשו התבייש – הוא מכר את הבכורה, ולכן הארץ שייכת ליעקב. ב. ה' אמר לאברהם \"<he>גֵּר יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא לָהֶם</he>\" – לפני שיירשו את הארץ, צאצאיו יהיו גרים וישתעבדו. עשו אמר: אני לא רוצה לא את המתנה ולא את החוב – והלך לשעיר.",
+    "c": 1
+   },
+   {
+    "q": "התורה מונה שמונה מלכים שמלכו בארץ אדום. למה דווקא שמונה?",
+    "opts": [
+     "כי אדום חולקה לשמונה ערים",
+     "כי כל מלך שלט עשר שנים, עד מתן תורה",
+     "כנגד שמונה המלכים הראשונים בעם שלנו – ואז בטלה מלכות אדום"
+    ],
+    "a": "כנגד שמונה המלכים הראשונים בעם שלנו – ואז בטלה מלכות אדום",
+    "x": "\"<he>וּלְאֹם מִלְאֹם יֶאֱמָץ</he>\" – כשאחד עולה, השני יורד. אחרי שמונה מלכי אדום מלכו שמונה מלכים בישראל: שאול, איש בושת, דוד, שלמה, רחבעם, אביה, אסא ויהושפט – ובימי יהושפט בטלה מלכות אדום. (ובמדרש: המלך הראשון, בלע בן בעור – הוא בלעם!) 👑",
+    "c": 2
+   },
+   {
+    "q": "אשתו של עשו, אהליבמה, נקראה גם \"יהודית\". למה?",
+    "opts": [
+     "עשו הטעה את אביו – כאילו היא כפרה בעבודה זרה",
+     "כי כך קראו לה במשפחתה מילדותה",
+     "כי היא נולדה ביום חג"
+    ],
+    "a": "עשו הטעה את אביו – כאילו היא כפרה בעבודה זרה",
+    "x": "עשו קרא לה \"יהודית\" כדי להטעות את יצחק, כאילו היא עזבה את העבודה זרה – כי כל מי שכופר בעבודה זרה נקרא \"יהודי\". אבל באמת היא לא השתנתה.",
+    "c": 0
+   },
+   {
+    "q": "חידה מפי הרב מרדכי מאדאר הי\"ו: איזה פסוק בפרשה – כל המילים שלו מסתיימות באותה אות? (ומה זה רומז?)",
+    "opts": [
+     "\"עזים מאתים ותישים עשרים, רחלים מאתים ואילים עשרים\"",
+     "\"פרות ארבעים ופרים עשרה\"",
+     "\"ארצה שעיר שדה אדום\""
+    ],
+    "a": "\"עזים מאתים ותישים עשרים, רחלים מאתים ואילים עשרים\" – כולן ב־ם, רמז ל\"מום\"",
+    "x": "\"<he>עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים</he>\" – כל שש המילים מסתיימות באות מ\"ם! בעל הטורים מסביר שזה רמז ל\"מום\": יעקב שלח לעשו רק בהמות שיש בהן מום (פגם), שאי אפשר להקריב אותן כקרבן. כך עשו לא יוכל לזכות בזכויות של הקרבת קרבנות מהמתנה של יעקב. יעקב נתן מתנה נדיבה – אבל בחכמה. 🧩",
+    "c": 0
+   },
+   {
+    "q": "רחל נקברה בדרך, כדי להתפלל על בניה כשייצאו לגלות. המדרש מספר שאברהם, יצחק ויעקב התפללו – ולא נענו, ורק תפילתה של רחל התקבלה. למה דווקא היא?",
+    "opts": [
+     "כי היא הייתה הצעירה מכל האמהות",
+     "כי היא נקברה הכי קרוב לירושלים",
+     "כי ויתרה וסבלה – כדי שאחותה לא תתבייש, ולא קינאה"
+    ],
+    "a": "כי ויתרה וסבלה – כדי שאחותה לא תתבייש, ולא קינאה",
+    "x": "כשעם ישראל חטא והכניס צלם להיכל, באו אברהם, יצחק ויעקב והתפללו – ותפילתם לא התקבלה. אז באה רחל ואמרה לפני ה': \"כשהכניסו את לאה אחותי אל בעלי – סבלתי ושתקתי, כדי שאחותי לא תתבייש. אני, בשר ודם, לא קינאתי – ואתה, ריבונו של עולם, תקפיד בגלל צלם שאין בו ממש?!\" מיד נתפייס הקב\"ה. 💙 הכוח של רחל הוא הוויתור הגדול שלה: היא העדיפה לכאוב בעצמה, ובלבד שאחותה לא תתבייש. לכן גם לאה, שהיו לה יותר ילדים, לא נקברה שם – כי תפילתה של רחל היא שפותחת את שערי השמים. והמסר בשבילנו: מי שמוותר בשביל אחרים ושומר על הכבוד שלהם – התפילה שלו חזקה במיוחד.",
+    "c": 2
+   }
+  ]
+ },
+ "fr": {
+  "parasha": "Vayichla'h",
+  "kicker": "Quiz pour la table du Chabbat",
+  "title": "Yaakov rentre à la <em>maison</em> !",
+  "emoji": "👼 🐐 🌊 🤼 🌅 🫙 ⛺ 🔥 🪨 👑",
+  "sub": "50 questions · 5 niveaux · de 5 à 10 ans – et toute la famille",
+  "how": [
+   "Papa ou maman lit la question, et les enfants répondent chacun à leur tour – du plus petit au plus grand.",
+   "À chaque niveau, les questions sont un peu plus difficiles. Chaque niveau rapporte plus de points !",
+   "Les petits peuvent aussi essayer les questions des grands – et on peut leur donner un indice 😉",
+   "À la fin, on compte les points – et le champion choisit qui reçoit le dessert en premier ! 🍮"
+  ],
+  "levels": [
+   {
+    "name": "Bourgeons",
+    "age": "Les tout-petits (5–6 ans) · 1 point par réponse"
+   },
+   {
+    "name": "Jeunes chercheurs",
+    "age": "6–7 ans · 2 points par réponse"
+   },
+   {
+    "name": "Détectives de la paracha",
+    "age": "7–8 ans · 3 points par réponse"
+   },
+   {
+    "name": "Les sages de la table",
+    "age": "8–9 ans · 4 points par réponse"
+   },
+   {
+    "name": "Champions de la paracha",
+    "age": "9–10 ans · 5 points par réponse"
+   }
+  ],
+  "bye": "Chabbat Chalom OuMévorakh ! 🕯️🕯️",
+  "questions": [
+   {
+    "q": "Combien d'années Yaakov a-t-il vécu chez Lavan, avant de rentrer au pays de Canaan ?",
+    "opts": [
+     "14 ans",
+     "20 ans",
+     "7 ans"
+    ],
+    "a": "20 ans",
+    "x": "Yaakov rentre à la maison après vingt ans chez Lavan. C'est là qu'il a fondé sa famille, et qu'il a eu onze fils et une fille.",
+    "c": 1
+   },
+   {
+    "q": "Les messagers sont revenus : Essav vient à ta rencontre. Combien d'hommes avait-il avec lui ?",
+    "opts": [
+     "400 hommes",
+     "200 hommes",
+     "70 hommes"
+    ],
+    "a": "400 hommes",
+    "x": "« <he>וְגַם הֹלֵךְ לִקְרָאתְךָ וְאַרְבַּע מֵאוֹת אִישׁ עִמּוֹ</he> » – Essav détestait toujours Yaakov, et venait avec une véritable armée. Yaakov ne savait pas s'il venait en paix ou pour la guerre – alors il s'est préparé à toutes les possibilités.",
+    "c": 0
+   },
+   {
+    "q": "La nuit, un ange a lutté avec Yaakov. Jusqu'à quand ?",
+    "opts": [
+     "Jusqu'à minuit",
+     "Jusqu'à midi",
+     "Jusqu'au lever de l'aube"
+    ],
+    "a": "Jusqu'au lever de l'aube 🌅",
+    "x": "« <he>וַיֵּאָבֵק אִישׁ עִמּוֹ עַד עֲלוֹת הַשָּׁחַר</he> » – la lutte a duré toute la nuit, jusqu'au matin. Nos Sages disent que c'était l'ange protecteur d'Essav – et Yaakov ne lui a pas cédé jusqu'au lever du jour.",
+    "c": 2
+   },
+   {
+    "q": "Quel nouveau nom Yaakov a-t-il reçu ?",
+    "opts": [
+     "Yechouroun",
+     "Israël",
+     "Yéhouda"
+    ],
+    "a": "Israël",
+    "x": "« <he>לֹא יַעֲקֹב יֵאָמֵר עוֹד שִׁמְךָ כִּי אִם יִשְׂרָאֵל</he> » – ce nom lui est donné après la lutte : « <he>כִּי שָׂרִיתָ עִם אֱלֹהִים וְעִם אֲנָשִׁים וַתּוּכָל</he> » <tr>– « tu as lutté avec des anges et des hommes, et tu as vaincu »</tr>. Et c'est de ce nom que tout le peuple d'Israël tire le sien !",
+    "c": 1
+   },
+   {
+    "q": "Pendant la lutte, l'ange a touché Yaakov. Où ?",
+    "opts": [
+     "À l'épaule",
+     "À la main droite",
+     "À la hanche"
+    ],
+    "a": "À la hanche",
+    "x": "« <he>וַיִּגַּע בְּכַף יְרֵכוֹ</he> » – l'os s'est déboîté, et Yaakov boitait après la lutte.",
+    "c": 2
+   },
+   {
+    "q": "Quand Essav a vu Yaakov – qu'a-t-il fait ?",
+    "opts": [
+     "Il a sorti son épée et appelé ses hommes",
+     "Il a couru vers lui et l'a embrassé",
+     "Il s'est détourné sans dire un mot"
+    ],
+    "a": "Il a couru vers lui, l'a serré dans ses bras et l'a embrassé",
+    "x": "« <he>וַיָּרָץ עֵשָׂו לִקְרָאתוֹ וַיְחַבְּקֵהוּ... וַיִּשָּׁקֵהוּ וַיִּבְכּוּ</he> ». Sur le mot « il l'embrassa », il y a des points dans la Torah : certains disent qu'à ce moment Essav l'a embrassé de tout son cœur, d'autres qu'il voulait le mordre – et Hachem a rendu le cou de Yaakov dur comme du marbre !",
+    "c": 1
+   },
+   {
+    "q": "Quel fils Ra'hel a-t-elle mis au monde dans notre paracha ?",
+    "opts": [
+     "Yossef",
+     "Naftali",
+     "Binyamin"
+    ],
+    "a": "Binyamin",
+    "x": "« <he>וַיִּקְרָא שְׁמוֹ בִּנְיָמִין</he> » – le deuxième fils de Ra'hel, et le dernier des douze tribus. Rachi ajoute : c'est le seul de toutes les tribus à être né en Erets Israël.",
+    "c": 2
+   },
+   {
+    "q": "Yaakov s'est construit une maison, et des abris pour son bétail. Comment a-t-il appelé l'endroit ?",
+    "opts": [
+     "Ma'hanayim",
+     "Soukkot",
+     "Béer Chéva"
+    ],
+    "a": "Soukkot ⛺",
+    "x": "« <he>וַיִּבֶן לוֹ בָּיִת וּלְמִקְנֵהוּ עָשָׂה סֻכֹּת עַל כֵּן קָרָא שֵׁם הַמָּקוֹם סֻכּוֹת</he> » <tr>– « Soukkot » veut dire « cabanes »</tr>.",
+    "c": 1
+   },
+   {
+    "q": "Qu'a dressé Yaakov sur la tombe de Ra'hel ?",
+    "opts": [
+     "Une stèle (matséva)",
+     "Un autel (mizbéa'h)",
+     "Une tente"
+    ],
+    "a": "Une stèle (matséva)",
+    "x": "« <he>וַיַּצֵּב יַעֲקֹב מַצֵּבָה עַל קְבֻרָתָהּ</he> » – pour que tous sachent qu'une femme grande et importante repose là (Abarbanel), et pour qu'on ne creuse pas à cet endroit (Sforno). Jusqu'à aujourd'hui, on peut prier au « Kever Ra'hel » !",
+    "c": 0
+   },
+   {
+    "q": "Quel âge avait Yits'hak quand il est mort ?",
+    "opts": [
+     "175 ans",
+     "120 ans",
+     "180 ans"
+    ],
+    "a": "180 ans",
+    "x": "« <he>וַיִּהְיוּ יְמֵי יִצְחָק מְאַת שָׁנָה וּשְׁמֹנִים שָׁנָה</he> » – « <he>זָקֵן וּשְׂבַע יָמִים</he> » <tr>– « âgé et rassasié de jours »</tr>, après avoir eu le mérite de revoir Yaakov et ses petits-enfants.",
+    "c": 2
+   },
+   {
+    "q": "Essav a demandé à propos des enfants : « Qui sont ceux-là ? » – qu'a répondu Yaakov ?",
+    "opts": [
+     "« Ce sont les petits-enfants de notre père »",
+     "« Les enfants qu'Hachem m'a accordés »",
+     "« Mes enfants, tous bergers »"
+    ],
+    "a": "« Les enfants qu'Hachem a accordés à ton serviteur »",
+    "x": "« <he>הַיְלָדִים אֲשֶׁר חָנַן אֱלֹהִים אֶת עַבְדֶּךָ</he> » – Yaakov rappelle que tout est un cadeau d'Hachem. 💙",
+    "c": 1
+   },
+   {
+    "q": "Combien de fois Yaakov s'est-il prosterné en s'approchant d'Essav ?",
+    "opts": [
+     "3 fois",
+     "7 fois",
+     "12 fois"
+    ],
+    "a": "7 fois",
+    "x": "« <he>וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים עַד גִּשְׁתּוֹ עַד אָחִיו</he> ». Et certains disent que dans son cœur, il se prosternait devant Hachem et Lui demandait Sa miséricorde.",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a partagé tout son monde et ses biens en deux camps. Pourquoi ?",
+    "opts": [
+     "Si Essav attaque un camp, l'autre sera sauvé",
+     "Pour que chacun ait de la place pour dormir",
+     "Pour avancer plus vite sur la route"
+    ],
+    "a": "Si Essav attaque un camp – l'autre sera sauvé",
+    "x": "« <he>אִם יָבוֹא עֵשָׂו אֶל הַמַּחֲנֶה הָאַחַת וְהִכָּהוּ וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה</he> » <tr>– « si Essav attaque un camp, l'autre pourra s'échapper »</tr>. Yaakov s'est préparé de trois façons : un cadeau, une prière – et aussi une préparation à la guerre. La division en deux camps, c'est la préparation au pire.",
+    "c": 0
+   },
+   {
+    "q": "La nuit, Yaakov a fait traverser une rivière à sa famille. Comment s'appelle-t-elle ?",
+    "opts": [
+     "Le Jourdain",
+     "Le Yabok",
+     "L'Euphrate"
+    ],
+    "a": "Le Yabok",
+    "x": "« <he>וַיַּעֲבֹר אֵת מַעֲבַר יַבֹּק</he> » – au milieu de la nuit, avec ses femmes et ses onze enfants.",
+    "c": 1
+   },
+   {
+    "q": "Selon Rachi, qui étaient les messagers (« malakhim ») que Yaakov a envoyés à Essav ?",
+    "opts": [
+     "De vrais anges",
+     "Ses bergers",
+     "Ses deux fils aînés"
+    ],
+    "a": "De vrais anges",
+    "x": "Rachi : « <he>מַלְאָכִים מַמָּשׁ</he> » – Yaakov a envoyé de vrais anges, et non des hommes – car des hommes auraient eu peur d'aller vers Essav. (Le Midrach rapporte aussi un avis selon lequel c'étaient des messagers humains.)",
+    "c": 0
+   },
+   {
+    "q": "À cause de la lutte avec l'ange, que nous est-il interdit de manger jusqu'à aujourd'hui ?",
+    "opts": [
+     "Le 'hélev (graisse interdite)",
+     "Le sang",
+     "Le guid hanaché"
+    ],
+    "a": "Le guid hanaché (nerf sciatique)",
+    "x": "« <he>עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל אֶת גִּיד הַנָּשֶׁה</he> » – le nerf qui s'est déplacé (« nacha ») quand l'ange a frappé Yaakov.",
+    "c": 2
+   },
+   {
+    "q": "Qu'ont exigé les fils de Yaakov des habitants de Chekhem, comme condition pour s'allier à eux ?",
+    "opts": [
+     "Que tous les hommes fassent la brit mila",
+     "Qu'ils leur donnent tous leurs champs",
+     "Qu'ils quittent la ville"
+    ],
+    "a": "Que tous les hommes fassent la brit mila",
+    "x": "« <he>אִם תִּהְיוּ כָמֹנוּ לְהִמֹּל לָכֶם כָּל זָכָר</he> » – sans cela, disaient-ils, « ce serait une honte pour nous ».",
+    "c": 0
+   },
+   {
+    "q": "Quels deux frères ont pris leur épée et sont entrés dans la ville de Chekhem ?",
+    "opts": [
+     "Réouven et Yéhouda",
+     "Dan et Naftali",
+     "Chimon et Lévi"
+    ],
+    "a": "Chimon et Lévi",
+    "x": "« <he>וַיִּקְחוּ שְׁנֵי בְנֵי יַעֲקֹב שִׁמְעוֹן וְלֵוִי אֲחֵי דִינָה אִישׁ חַרְבּוֹ</he> » – le troisième jour, quand les habitants étaient affaiblis.",
+    "c": 2
+   },
+   {
+    "q": "Où Hachem a-t-Il dit à Yaakov de monter et de construire un autel ?",
+    "opts": [
+     "À Jérusalem",
+     "À Beth-El",
+     "À 'Hévron"
+    ],
+    "a": "À Beth-El",
+    "x": "« <he>קוּם עֲלֵה בֵית אֵל וְשֶׁב שָׁם וַעֲשֵׂה שָׁם מִזְבֵּחַ</he> » – là où il avait fait un vœu en fuyant Essav, vingt ans plus tôt.",
+    "c": 1
+   },
+   {
+    "q": "Déborah est morte en chemin, et Yaakov l'a pleurée. Qui était-elle ?",
+    "opts": [
+     "La nourrice de Rivka",
+     "La servante de Léa",
+     "La sœur de Lavan"
+    ],
+    "a": "La nourrice de Rivka",
+    "x": "« <he>וַתָּמָת דְּבֹרָה מֵינֶקֶת רִבְקָה</he> » – Rivka l'avait envoyée appeler Yaakov à rentrer. L'endroit s'appelle « Alon Bakhout » (le chêne des pleurs), et Rachi explique qu'au même moment est arrivée la nouvelle du décès de Rivka.",
+    "c": 0
+   },
+   {
+    "q": "L'ange a demandé à Yaakov de le laisser partir. Pour quelle raison ?",
+    "opts": [
+     "C'était son tour de chanter devant Hachem",
+     "Il avait peur qu'Essav arrive",
+     "Il n'avait plus de forces"
+    ],
+    "a": "C'était son tour de chanter devant Hachem",
+    "x": "« <he>שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר</he> » – nos Sages racontent que ce matin-là, c'était le tour de cet ange de chanter devant Hachem, pour la première fois depuis sa création ! 🎶 Il ne voulait donc pas manquer ce moment.",
+    "c": 0
+   },
+   {
+    "q": "Qu'a exigé Yaakov de l'ange avant de le laisser partir ?",
+    "opts": [
+     "Qu'il promette qu'Essav ne lui ferait pas de mal",
+     "Qu'il l'aide à faire traverser sa famille",
+     "Qu'il le bénisse"
+    ],
+    "a": "Qu'il le bénisse",
+    "x": "« <he>לֹא אֲשַׁלֵּחֲךָ כִּי אִם בֵּרַכְתָּנִי</he> » – Yaakov voulait que l'ange d'Essav reconnaisse que les bénédictions de Yits'hak lui appartiennent vraiment. Et à la fin : « <he>וַיְבָרֶךְ אֹתוֹ שָׁם</he> ».",
+    "c": 2
+   },
+   {
+    "q": "Avant la rencontre avec Essav, Yaakov a placé Ra'hel à la fin. Pourquoi ?",
+    "opts": [
+     "Parce qu'elle marchait le plus lentement",
+     "« Le dernier est le plus cher » – et pour qu'Essav ne la voie pas",
+     "Parce qu'elle voulait rester près du troupeau"
+    ],
+    "a": "« Le dernier est le plus cher » – et pour qu'Essav ne la voie pas",
+    "x": "Yaakov a placé d'abord les servantes et leurs enfants, puis Léa et ses enfants, et à la fin Ra'hel – la plus chère à ses yeux. Et aussi : Ra'hel était très belle, et Yaakov ne voulait pas que le méchant Essav pose les yeux sur elle.",
+    "c": 1
+   },
+   {
+    "q": "« Yaakov arriva <i>chalem</i> (entier) à la ville de Chekhem » – en quoi était-il « entier » ?",
+    "opts": [
+     "Seulement grâce à la paix avec Essav",
+     "Il ne devait plus d'argent à Lavan",
+     "Dans son corps, ses biens et sa Torah"
+    ],
+    "a": "Dans son corps, ses biens et sa Torah",
+    "x": "Entier dans son corps – guéri de sa boiterie. Entier dans ses biens – Hachem lui a rendu ce qu'il avait offert à Essav. Entier dans sa Torah – pendant toutes ces années chez Lavan, il n'avait rien oublié de ce qu'il avait appris.",
+    "c": 2
+   },
+   {
+    "q": "Après s'être séparé d'Essav – combien de temps Yaakov s'est-il arrêté en route, avant d'arriver à la ville de Chekhem ?",
+    "opts": [
+     "3 mois",
+     "18 mois",
+     "7 ans"
+    ],
+    "a": "18 mois",
+    "x": "Nos Sages apprennent du verset (où il est écrit « maison » et aussi « cabanes ») que Yaakov est resté à Soukkot 18 mois : un été, un hiver et un été.",
+    "c": 1
+   },
+   {
+    "q": "Quand Yaakov a fait passer sa famille d'une rive à l'autre de la rivière – à quoi ressemblait-il ?",
+    "opts": [
+     "À une barque",
+     "À un berger devant son troupeau",
+     "À un pont"
+    ],
+    "a": "À un pont",
+    "x": "Rachi : Yaakov s'est fait comme un pont – il prenait d'ici et déposait là-bas. Et certains expliquent qu'il a d'abord vérifié la profondeur de l'eau, porté les petits sur ses épaules et guidé les grands par la main.",
+    "c": 2
+   },
+   {
+    "q": "Avant la rencontre avec Essav – où Yaakov a-t-il caché Dina ?",
+    "opts": [
+     "Dans un coffre",
+     "Dans la tente de Léa",
+     "Au milieu du troupeau"
+    ],
+    "a": "Dans un coffre",
+    "x": "Yaakov a mis Dina dans un coffre, pour qu'Essav ne la voie pas et ne veuille pas l'épouser. Rachi dit que Yaakov a été puni pour cela : peut-être aurait-elle ramené Essav vers le bien !",
+    "c": 0
+   },
+   {
+    "q": "Essav a dit « J'ai beaucoup », et Yaakov « J'ai tout ». Quelle différence ?",
+    "opts": [
+     "Essav a plus que nécessaire ; Yaakov a tout ce qu'il lui faut",
+     "Essav avait de l'argent, Yaakov des troupeaux",
+     "Aucune – ils voulaient dire la même chose"
+    ],
+    "a": "Essav a plus que nécessaire ; Yaakov a tout ce dont il a besoin",
+    "x": "Essav dit avec orgueil : j'ai beaucoup – plus que ce dont j'ai besoin (et il en veut toujours plus). Yaakov dit : j'ai tout – tout ce dont j'ai besoin, et je suis heureux. « <he>אֵיזֶהוּ עָשִׁיר? הַשָּׂמֵחַ בְּחֶלְקוֹ</he> » <tr>– « Qui est riche ? Celui qui se réjouit de sa part »</tr>. 😊",
+    "c": 0
+   },
+   {
+    "q": "Ra'hel a appelé son nouveau-né « Ben Oni ». Que signifie ce nom ?",
+    "opts": [
+     "Le fils de ma joie",
+     "Le fils de ma vieillesse",
+     "Le fils de ma douleur"
+    ],
+    "a": "Le fils de ma douleur",
+    "x": "« Oni » veut dire douleur : l'accouchement a été très difficile, et Ra'hel est morte juste après. Yaakov ne voulait pas que l'enfant porte un nom triste, et lui a donné un autre nom.",
+    "c": 2
+   },
+   {
+    "q": "Yaakov a acheté un champ près de Chekhem. Pour combien ?",
+    "opts": [
+     "Cinquante pièces d'argent",
+     "Dix moutons",
+     "Cent késsita"
+    ],
+    "a": "Cent késsita",
+    "x": "« <he>וַיִּקֶן אֶת חֶלְקַת הַשָּׂדֶה... בְּמֵאָה קְשִׂיטָה</he> » – la késsita était une pièce de monnaie utilisée à l'époque. Il y a construit un autel pour remercier Hachem de tous les miracles.",
+    "c": 2
+   },
+   {
+    "q": "« Yaakov eut très peur et fut angoissé » – quelle différence entre la peur et l'angoisse ?",
+    "opts": [
+     "Peur d'être tué, angoisse de devoir tuer",
+     "Peur d'Essav, angoisse à cause de Lavan",
+     "Peur pour les enfants, angoisse pour ses biens"
+    ],
+    "a": "Peur d'être tué, angoisse de devoir tuer",
+    "x": "Rachi : « il eut peur » – d'être tué. « Il fut angoissé » – de devoir tuer d'autres hommes. Même tuer un ennemi était dur et douloureux pour Yaakov.",
+    "c": 0
+   },
+   {
+    "q": "Yaakov a dit à Essav : « J'ai séjourné chez Lavan » (<i>garti</i>). Quelle allusion dans « garti » selon la guématria (la valeur des lettres) ?",
+    "opts": [
+     "248 – les mitsvot positives",
+     "613 – il a gardé les 613 mitsvot",
+     "12 – le nombre des tribus"
+    ],
+    "a": "613 – il a gardé les 613 mitsvot",
+    "x": "<he>גרתי</he> = 3 + 200 + 400 + 10 = 613. C'est-à-dire : j'ai vécu chez le méchant Lavan – et j'ai gardé les 613 mitsvot.",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a ordonné à ses serviteurs : « Laissez un espace entre chaque troupeau ». Pourquoi ?",
+    "opts": [
+     "Pour qu'Essav voie cadeau après cadeau – et se calme",
+     "Pour que les bêtes ne se disputent pas",
+     "Pour qu'elles soient plus faciles à compter"
+    ],
+    "a": "Pour qu'Essav voie cadeau après cadeau – et que sa colère s'apaise",
+    "x": "Ainsi Essav reçoit des cadeaux encore et encore, l'un après l'autre, et sent que le cadeau est énorme. Et selon le Midrach : Yaakov a demandé à Hachem que lorsque des épreuves viendraient sur Israël, il y ait de « l'espace » entre elles.",
+    "c": 0
+   },
+   {
+    "q": "« Le soleil brilla pour lui » – pourquoi le soleil s'est-il levé spécialement pour Yaakov ?",
+    "opts": [
+     "Pour le guérir – et rendre les heures manquantes",
+     "Pour qu'Essav le voie de loin",
+     "Pour sécher ses habits après la rivière"
+    ],
+    "a": "Pour le guérir – et rendre les heures où il s'était couché plus tôt à son départ",
+    "x": "Le soleil a guéri la boiterie de Yaakov. Et selon la Guémara : quand Yaakov a quitté Erets Israël, le soleil s'est couché plus tôt pour qu'il dorme à Beth-El – et maintenant, à son retour, il s'est levé plus tôt pour rendre les heures manquantes.",
+    "c": 0
+   },
+   {
+    "q": "Après l'épisode de Chekhem, Yaakov a dit à ses fils : « Vous m'avez troublé, vous m'avez rendu odieux aux habitants du pays ». À quoi le Midrach le compare-t-il ?",
+    "opts": [
+     "À un puits qu'on a bouché",
+     "À un tonneau de vin clair qu'on a secoué",
+     "À un champ qu'on a brûlé avant la moisson"
+    ],
+    "a": "À un tonneau de vin clair qu'on a secoué et troublé",
+    "x": "Le Midrach : comme un tonneau de vin clair dont le dépôt repose tranquillement au fond – quelqu'un le secoue et le vin devient trouble. Ainsi : jusqu'ici il y avait le calme et une bonne réputation, et maintenant les peuples risquent de s'unir pour attaquer la famille.",
+    "c": 1
+   },
+   {
+    "q": "L'ange a dit : « On ne t'appellera plus Yaakov ». Pourquoi le nom « Yaakov » ne convient-il plus ?",
+    "opts": [
+     "Les bénédictions ne sont pas venues par la ruse, mais ouvertement",
+     "Parce que Yaakov n'habitait plus à 'Haran",
+     "Parce que Yaakov était déjà père de nombreux enfants"
+    ],
+    "a": "Parce que les bénédictions ne sont pas venues par la ruse – mais ouvertement",
+    "x": "Le nom Yaakov rappelle ce qu'a dit Essav : « <he>וַיַּעְקְבֵנִי זֶה פַעֲמַיִם</he> » <tr>– « il m'a supplanté deux fois »</tr> – comme s'il avait pris les bénédictions par ruse. Le nouveau nom, de la racine « sar » (prince) et « yachar » (droit), dit : tes bénédictions sont à toi en toute droiture et avec honneur.",
+    "c": 0
+   },
+   {
+    "q": "Quand 'Hamor et Chekhem ont convaincu les habitants d'accepter la condition – que leur ont-ils promis ?",
+    "opts": [
+     "Que Yaakov paierait chacun d'eux",
+     "Que les biens de la famille de Yaakov seraient à eux",
+     "Que les fils de Yaakov travailleraient leurs champs"
+    ],
+    "a": "Que les troupeaux et les biens de la famille de Yaakov seraient à eux",
+    "x": "« <he>מִקְנֵהֶם וְקִנְיָנָם וְכָל בְּהֶמְתָּם הֲלוֹא לָנוּ הֵם</he> » <tr>– « leurs troupeaux, leurs biens et tout leur bétail ne seront-ils pas à nous ? »</tr>. Et ils ont aussi inversé les choses : à Yaakov ils disaient « prenez nos filles », et aux habitants – c'est nous qui prendrons leurs filles comme nous voudrons.",
+    "c": 1
+   },
+   {
+    "q": "Quand Yaakov a appris ce qui était arrivé à sa fille – « Yaakov se tut jusqu'à leur arrivée ». Pourquoi s'est-il tu ?",
+    "opts": [
+     "Parce qu'il ne croyait pas que c'était vrai",
+     "Parce qu'il avait plus peur de 'Hamor que de tous",
+     "Pour ne pas agir dans la précipitation et consulter ses fils"
+    ],
+    "a": "Il a attendu ses fils, pour ne pas agir dans la précipitation et les consulter",
+    "x": "Nos Sages disent que Yaakov s'est tu pour ne pas agir dans la panique. Le mal était déjà fait, et il a donc attendu que ses fils reviennent des champs pour décider avec eux quoi faire.",
+    "c": 2
+   },
+   {
+    "q": "Pourquoi Ra'hel est-elle morte jeune, à 37 ans seulement ?",
+    "opts": [
+     "Parce que la route depuis 'Haran était longue et dure",
+     "À cause de ce que Yaakov a dit à Lavan au sujet des idoles",
+     "Parce qu'elle était tombée malade à Chekhem"
+    ],
+    "a": "À cause de ce que Yaakov a dit à Lavan : « Celui chez qui tu trouveras tes dieux ne vivra pas »",
+    "x": "Quand Lavan cherchait ses idoles (térafim), Yaakov ne savait pas que Ra'hel les avait prises, et a dit : « <he>עִם אֲשֶׁר תִּמְצָא אֶת אֱלֹהֶיךָ לֹא יִחְיֶה</he> ». Yaakov ne savait pas – et pourtant, la parole du tsadik s'est réalisée.",
+    "c": 1
+   },
+   {
+    "q": "« Essav et Yaakov, ses fils, l'enterrèrent » – pourquoi Essav est-il cité avant Yaakov ?",
+    "opts": [
+     "Parce qu'Essav habitait plus près de 'Hévron",
+     "Parce qu'Essav avait acheté le lieu de sépulture",
+     "Yaakov a honoré Essav et l'a laissé passer devant"
+    ],
+    "a": "Yaakov a honoré Essav et l'a laissé passer devant",
+    "x": "Bien que Yaakov ait acheté à Essav le droit d'aînesse – aux funérailles de leur père, il a honoré Essav et l'a laissé passer en premier. Yaakov nous apprend : le respect passe avant toute dispute – même envers un frère qui ne s'est pas toujours bien conduit.",
+    "c": 2
+   },
+   {
+    "q": "Yaakov a prié : « Sauve-moi de la main de mon frère, de la main d'Essav ». Pourquoi ce double nom – « mon frère » et « Essav » ?",
+    "opts": [
+     "Pour qu'Hachem comprenne de quel frère il parle",
+     "Deux dangers : qu'Essav le combatte – ou qu'il se rapproche en frère",
+     "Parce qu'Essav avait deux armées"
+    ],
+    "a": "Il craignait deux dangers : qu'Essav le combatte – ou qu'il se comporte en frère et se rapproche",
+    "x": "Yaakov avait peur de deux choses. Si Essav venait en « Essav » – le méchant qui veut tuer – c'est un danger pour le corps. Mais s'il venait en « frère » – aimable, amical, voulant habiter ensemble – c'est un autre danger : les enfants risquent d'apprendre de ses actes. Il a donc demandé à être sauvé des deux ! (Et justement, Essav a ensuite proposé « voyageons ensemble » – et Yaakov a poliment refusé.)",
+    "c": 1
+   },
+   {
+    "q": "« Je suis trop petit pour toutes les bontés » – que craignait Yaakov, alors qu'Hachem avait promis de le garder ?",
+    "opts": [
+     "Que tant de bontés aient diminué ses mérites – et qu'il ait fauté",
+     "Qu'Hachem ait oublié Sa promesse",
+     "Qu'Essav ait prié plus fort que lui"
+    ],
+    "a": "Que tant de bontés aient diminué ses mérites – et qu'il ait peut-être fauté",
+    "x": "Yaakov dit : Hachem m'a fait tant de bontés – quand j'ai traversé le Jourdain je n'avais qu'un bâton, et maintenant j'ai deux camps. Peut-être qu'à cause de toutes ces bontés, mes mérites ont « diminué » ? Et peut-être ai-je fauté, et la promesse ne tiendra plus ? Un tsadik n'est jamais sûr de lui – il craint toujours de ne pas en avoir fait assez. 🙏",
+    "c": 0
+   },
+   {
+    "q": "Yaakov est revenu seul, la nuit, de l'autre côté de la rivière – pour de petites jarres oubliées. Pourquoi était-ce important pour lui ?",
+    "opts": [
+     "Parce que tout son or était dans les jarres",
+     "Les tsadikim tiennent à des biens gagnés honnêtement",
+     "Pour vérifier qu'Essav n'approchait pas"
+    ],
+    "a": "Les tsadikim tiennent à leurs biens – car ils les ont gagnés honnêtement, sans aucun vol",
+    "x": "Nos Sages : « <he>צַדִּיקִים מָמוֹנָם חָבִיב עֲלֵיהֶם... לְפִי שֶׁאֵין פּוֹשְׁטִים יְדֵיהֶם בְּגָזֵל</he> » <tr>– « les justes tiennent à leurs biens… car ils ne tendent jamais la main vers le vol »</tr>. Ils ne gaspillent rien, car chaque pièce a été gagnée honnêtement. Et certains ajoutent : l'une des jarres était la fiole d'huile qu'Hachem avait préparée pour Yaakov à Beth-El – et qui se remplissait encore et encore… 🫙",
+    "c": 1
+   },
+   {
+    "q": "Yaakov a dit à Essav : « J'ai vu ton visage comme on voit le visage d'un ange ». Pourquoi mentionner justement le visage de l'ange ?",
+    "opts": [
+     "Pour qu'Essav ait peur – il avait vaincu son ange",
+     "Pour complimenter Essav sur sa beauté",
+     "Parce qu'Essav ressemblait vraiment à un ange"
+    ],
+    "a": "Pour qu'Essav ait peur – Yaakov avait vaincu son ange",
+    "x": "La nuit, Yaakov avait lutté avec l'ange protecteur d'Essav – et l'avait vaincu. En disant à Essav « ton visage me rappelle l'ange », il lui fait comprendre : j'ai vu ton ange, et je l'ai vaincu. Ainsi Essav le craint – et accepte de prendre le cadeau.",
+    "c": 0
+   },
+   {
+    "q": "Quand Yaakov est revenu à l'endroit où il avait fait un vœu en fuyant Essav – qu'a-t-il encore accompli de ce vœu, en plus de construire l'autel ?",
+    "opts": [
+     "Il a jeûné trois jours sur place",
+     "Il a réuni ses fils pour les bénir",
+     "Il a prélevé la dîme de tout ce qu'il avait reçu"
+    ],
+    "a": "Il a prélevé la dîme de tout ce qu'Hachem lui avait donné",
+    "x": "En fuyant Essav, Yaakov avait fait un vœu : « <he>וְכֹל אֲשֶׁר תִּתֶּן לִי עַשֵּׂר אֲעַשְּׂרֶנּוּ לָךְ</he> » <tr>– « de tout ce que Tu me donneras, je Te donnerai la dîme »</tr>. Vingt ans plus tard, Hachem l'avait protégé, lui avait donné une grande famille et beaucoup de biens – et Ibn Ezra écrit qu'à ce moment Yaakov a accompli aussi cette partie, en donnant à Hachem un dixième de tout ce qu'il avait reçu. Yaakov nous apprend : quand Hachem nous aide, on n'oublie pas de remercier et de tenir ses promesses.",
+    "c": 2
+   },
+   {
+    "q": "Essav a quitté le pays de Canaan « à cause de Yaakov son frère ». Pour quelles raisons ?",
+    "opts": [
+     "Yaakov l'a chassé du pays par la force",
+     "La honte de l'aînesse vendue, et refuser le décret d'exil",
+     "Il voulait habiter près de Lavan"
+    ],
+    "a": "Honteux d'avoir vendu l'aînesse, il ne voulait pas porter le décret « ta descendance sera étrangère »",
+    "x": "Rachi donne deux raisons : 1. Essav avait honte – il avait vendu le droit d'aînesse, donc la terre revenait à Yaakov. 2. Hachem avait dit à Avraham « <he>גֵּר יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא לָהֶם</he> » <tr>– « ta descendance sera étrangère dans un pays qui n'est pas le sien »</tr> – avant d'hériter la terre, ses descendants seraient étrangers et asservis. Essav a dit : je ne veux ni le cadeau ni la dette – et il est parti à Séïr.",
+    "c": 1
+   },
+   {
+    "q": "La Torah énumère huit rois qui ont régné au pays d'Edom. Pourquoi justement huit ?",
+    "opts": [
+     "Parce qu'Edom était divisé en huit villes",
+     "Chaque roi a régné dix ans, jusqu'au don de la Torah",
+     "Face aux huit premiers rois de notre peuple – puis Edom a cessé"
+    ],
+    "a": "Face aux huit premiers rois de notre peuple – après quoi la royauté d'Edom a cessé",
+    "x": "« <he>וּלְאֹם מִלְאֹם יֶאֱמָץ</he> » <tr>– « un peuple l'emportera sur l'autre »</tr> – quand l'un monte, l'autre descend. Après les huit rois d'Edom, huit rois ont régné en Israël : Chaoul, Ich-Bochet, David, Chlomo, Ré'havam, Aviya, Assa et Yéhochafat – et à l'époque de Yéhochafat, la royauté d'Edom a cessé. (Et selon le Midrach : le premier roi, Béla fils de Béor – c'est Bilam !) 👑",
+    "c": 2
+   },
+   {
+    "q": "La femme d'Essav, Ahalivama, était aussi appelée « Yéhoudit ». Pourquoi ?",
+    "opts": [
+     "Essav trompait son père : comme si elle avait renié l'idolâtrie",
+     "C'était son nom d'enfance dans sa famille",
+     "Parce qu'elle était née un jour de fête"
+    ],
+    "a": "Essav trompait son père – comme si elle avait renié l'idolâtrie",
+    "x": "Essav l'appelait « Yéhoudit » pour tromper Yits'hak, comme si elle avait abandonné l'idolâtrie – car quiconque renie l'idolâtrie est appelé « Yéhoudi ». Mais en vérité, elle n'avait pas changé.",
+    "c": 0
+   },
+   {
+    "q": "Énigme de Rav Mordekhaï Madar : quel verset de la paracha a tous ses mots qui se terminent par la même lettre ? (Et quelle est l'allusion ?)",
+    "opts": [
+     "« Deux cents chèvres et vingt boucs, deux cents brebis et vingt béliers »",
+     "« Quarante vaches et dix taureaux »",
+     "« Vers le pays de Séïr, la campagne d'Edom »"
+    ],
+    "a": "« Izim matayim outeyachim esrim, re'helim matayim véélim esrim » – tous en ם, allusion au « moum »",
+    "x": "« <he>עִזִּים מָאתַיִם וּתְיָשִׁים עֶשְׂרִים רְחֵלִים מָאתַיִם וְאֵילִים עֶשְׂרִים</he> » <tr>– « deux cents chèvres et vingt boucs, deux cents brebis et vingt béliers »</tr> – les six mots se terminent par la lettre <he>ם</he> (mem) ! Le Baal Hatourim explique que c'est une allusion au « moum » (défaut) : Yaakov n'a envoyé à Essav que des bêtes ayant un défaut, qu'on ne peut pas offrir en sacrifice. Ainsi Essav ne pourrait pas acquérir le mérite d'offrir des korbanot grâce au cadeau de Yaakov. Un cadeau généreux – mais plein de sagesse. 🧩",
+    "c": 0
+   },
+   {
+    "q": "Ra'hel a été enterrée sur la route, pour prier pour ses enfants quand ils partiraient en exil. Le Midrach raconte qu'Avraham, Yits'hak et Yaakov ont prié – sans être exaucés, et que seule la prière de Ra'hel a été acceptée. Pourquoi elle ?",
+    "opts": [
+     "Parce qu'elle était la plus jeune des Matriarches",
+     "Parce qu'elle était enterrée le plus près de Jérusalem",
+     "Elle a renoncé et souffert pour que sa sœur ne soit pas humiliée"
+    ],
+    "a": "Parce qu'elle a renoncé et souffert – pour que sa sœur ne soit pas humiliée, sans jalousie",
+    "x": "Quand le peuple d'Israël a fauté en introduisant une idole dans le Temple, Avraham, Yits'hak et Yaakov sont venus prier – et leur prière n'a pas été acceptée. Alors Ra'hel est venue et a dit devant Hachem : « Quand on a amené Léa ma sœur auprès de mon mari – j'ai souffert et je me suis tue, pour que ma sœur ne soit pas humiliée. Moi, simple être humain, je n'ai pas été jalouse – et Toi, Maître du monde, Tu Te fâcherais à cause d'une idole qui n'est rien ?! » Aussitôt, Hachem s'est apaisé. 💙 La force de Ra'hel, c'est son immense renoncement : elle a préféré souffrir elle-même, pourvu que sa sœur ne soit pas humiliée. C'est pourquoi même Léa, qui avait plus d'enfants, n'a pas été enterrée là – car c'est la prière de Ra'hel qui ouvre les portes du Ciel. Et le message pour nous : celui qui renonce pour les autres et protège leur dignité – sa prière est particulièrement puissante.",
+    "c": 2
+   }
+  ]
+ }
+}
